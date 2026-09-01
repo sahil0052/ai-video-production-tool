@@ -1,0 +1,1430 @@
+{
+  "text": " You deposit 1 lakh in a bank. You give a little interest in the bank. So, a simple question. Where is the money earned by the bank? Because the bank doesn't keep your money in the locker. It uses the deposits and the other financial activities to generate income. You believe that the bank is giving you 4% interest on deposit. And it is going to the 9% rate in the money. The difference is that the bank's earning can be a source. But the entire bank doesn't have a profit of 5% and it doesn't. It can be a source of the deposit and the deposit. It can be an important source of the money. It means that the bank is not just a place to keep money. It is a part of the financial system. It is a money and financial concept. It is a simple language. So, follow.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.32,
+      "text": " You deposit 1 lakh in a bank.",
+      "tokens": [
+        50364,
+        509,
+        19107,
+        502,
+        33314,
+        294,
+        257,
+        3765,
+        13,
+        50469
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6095255227913534,
+      "compression_ratio": 1.787313432835821,
+      "no_speech_prob": 0.005299214739352465,
+      "words": [
+        {
+          "word": " You",
+          "start": 0.0,
+          "end": 0.12,
+          "probability": 0.4160836338996887
+        },
+        {
+          "word": " deposit",
+          "start": 0.12,
+          "end": 0.48,
+          "probability": 0.8878324627876282
+        },
+        {
+          "word": " 1",
+          "start": 0.48,
+          "end": 0.84,
+          "probability": 0.3264494836330414
+        },
+        {
+          "word": " lakh",
+          "start": 0.84,
+          "end": 1.06,
+          "probability": 0.7567301392555237
+        },
+        {
+          "word": " in",
+          "start": 1.06,
+          "end": 1.32,
+          "probability": 0.7462278008460999
+        },
+        {
+          "word": " a",
+          "start": 1.32,
+          "end": 1.32,
+          "probability": 0.3415953516960144
+        },
+        {
+          "word": " bank.",
+          "start": 1.32,
+          "end": 1.32,
+          "probability": 0.9883900880813599
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.0,
+      "end": 3.86,
+      "text": " You give a little interest in the bank.",
+      "tokens": [
+        50469,
+        509,
+        976,
+        257,
+        707,
+        1179,
+        294,
+        264,
+        3765,
+        13,
+        50563
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6095255227913534,
+      "compression_ratio": 1.787313432835821,
+      "no_speech_prob": 0.005299214739352465,
+      "words": [
+        {
+          "word": " You",
+          "start": 2.0,
+          "end": 2.42,
+          "probability": 0.19254887104034424
+        },
+        {
+          "word": " give",
+          "start": 2.42,
+          "end": 2.42,
+          "probability": 0.7775769233703613
+        },
+        {
+          "word": " a",
+          "start": 2.42,
+          "end": 2.66,
+          "probability": 0.5141490697860718
+        },
+        {
+          "word": " little",
+          "start": 2.66,
+          "end": 2.94,
+          "probability": 0.7267512679100037
+        },
+        {
+          "word": " interest",
+          "start": 2.94,
+          "end": 3.44,
+          "probability": 0.9418389201164246
+        },
+        {
+          "word": " in",
+          "start": 3.44,
+          "end": 3.86,
+          "probability": 0.3202122449874878
+        },
+        {
+          "word": " the",
+          "start": 3.86,
+          "end": 3.86,
+          "probability": 0.47910377383232117
+        },
+        {
+          "word": " bank.",
+          "start": 3.86,
+          "end": 3.86,
+          "probability": 0.9919312596321106
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 3.92,
+      "end": 4.84,
+      "text": " So, a simple question.",
+      "tokens": [
+        50563,
+        407,
+        11,
+        257,
+        2199,
+        1168,
+        13,
+        50623
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6095255227913534,
+      "compression_ratio": 1.787313432835821,
+      "no_speech_prob": 0.005299214739352465,
+      "words": [
+        {
+          "word": " So,",
+          "start": 3.92,
+          "end": 4.1,
+          "probability": 0.5650381445884705
+        },
+        {
+          "word": " a",
+          "start": 4.16,
+          "end": 4.2,
+          "probability": 0.4970487356185913
+        },
+        {
+          "word": " simple",
+          "start": 4.2,
+          "end": 4.58,
+          "probability": 0.9498623609542847
+        },
+        {
+          "word": " question.",
+          "start": 4.58,
+          "end": 4.84,
+          "probability": 0.9519342184066772
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 5.2,
+      "end": 6.64,
+      "text": " Where is the money earned by the bank?",
+      "tokens": [
+        50623,
+        2305,
+        307,
+        264,
+        1460,
+        12283,
+        538,
+        264,
+        3765,
+        30,
+        50719
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6095255227913534,
+      "compression_ratio": 1.787313432835821,
+      "no_speech_prob": 0.005299214739352465,
+      "words": [
+        {
+          "word": " Where",
+          "start": 5.2,
+          "end": 5.38,
+          "probability": 0.8060914874076843
+        },
+        {
+          "word": " is",
+          "start": 5.38,
+          "end": 5.38,
+          "probability": 0.3767459988594055
+        },
+        {
+          "word": " the",
+          "start": 5.38,
+          "end": 5.92,
+          "probability": 0.7991591095924377
+        },
+        {
+          "word": " money",
+          "start": 5.92,
+          "end": 5.96,
+          "probability": 0.3394051790237427
+        },
+        {
+          "word": " earned",
+          "start": 5.96,
+          "end": 6.62,
+          "probability": 0.2539631724357605
+        },
+        {
+          "word": " by",
+          "start": 6.62,
+          "end": 6.64,
+          "probability": 0.4180789887905121
+        },
+        {
+          "word": " the",
+          "start": 6.64,
+          "end": 6.64,
+          "probability": 0.49537593126296997
+        },
+        {
+          "word": " bank?",
+          "start": 6.64,
+          "end": 6.64,
+          "probability": 0.9850795865058899
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 7.08,
+      "end": 8.88,
+      "text": " Because the bank doesn't keep your money in the locker.",
+      "tokens": [
+        50719,
+        1436,
+        264,
+        3765,
+        1177,
+        380,
+        1066,
+        428,
+        1460,
+        294,
+        264,
+        25707,
+        13,
+        50857
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6095255227913534,
+      "compression_ratio": 1.787313432835821,
+      "no_speech_prob": 0.005299214739352465,
+      "words": [
+        {
+          "word": " Because",
+          "start": 7.08,
+          "end": 7.32,
+          "probability": 0.906663179397583
+        },
+        {
+          "word": " the",
+          "start": 7.32,
+          "end": 7.44,
+          "probability": 0.36016011238098145
+        },
+        {
+          "word": " bank",
+          "start": 7.44,
+          "end": 7.7,
+          "probability": 0.8050887584686279
+        },
+        {
+          "word": " doesn't",
+          "start": 7.7,
+          "end": 7.94,
+          "probability": 0.5636449903249741
+        },
+        {
+          "word": " keep",
+          "start": 7.94,
+          "end": 7.94,
+          "probability": 0.30177953839302063
+        },
+        {
+          "word": " your",
+          "start": 7.94,
+          "end": 7.94,
+          "probability": 0.4412728250026703
+        },
+        {
+          "word": " money",
+          "start": 7.94,
+          "end": 8.26,
+          "probability": 0.9790366291999817
+        },
+        {
+          "word": " in",
+          "start": 8.26,
+          "end": 8.52,
+          "probability": 0.79374760389328
+        },
+        {
+          "word": " the",
+          "start": 8.52,
+          "end": 8.66,
+          "probability": 0.6181377172470093
+        },
+        {
+          "word": " locker.",
+          "start": 8.66,
+          "end": 8.88,
+          "probability": 0.886296272277832
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 9.88,
+      "end": 12.56,
+      "text": " It uses the deposits and the other financial activities",
+      "tokens": [
+        50857,
+        467,
+        4960,
+        264,
+        30958,
+        293,
+        264,
+        661,
+        4669,
+        5354,
+        51033
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6095255227913534,
+      "compression_ratio": 1.787313432835821,
+      "no_speech_prob": 0.005299214739352465,
+      "words": [
+        {
+          "word": " It",
+          "start": 9.88,
+          "end": 9.98,
+          "probability": 0.3560772240161896
+        },
+        {
+          "word": " uses",
+          "start": 9.98,
+          "end": 9.98,
+          "probability": 0.17911477386951447
+        },
+        {
+          "word": " the",
+          "start": 9.98,
+          "end": 9.98,
+          "probability": 0.6137305498123169
+        },
+        {
+          "word": " deposits",
+          "start": 9.98,
+          "end": 10.38,
+          "probability": 0.32642605900764465
+        },
+        {
+          "word": " and",
+          "start": 10.38,
+          "end": 11.14,
+          "probability": 0.4160554111003876
+        },
+        {
+          "word": " the",
+          "start": 11.14,
+          "end": 11.3,
+          "probability": 0.3125838041305542
+        },
+        {
+          "word": " other",
+          "start": 11.3,
+          "end": 11.4,
+          "probability": 0.20146040618419647
+        },
+        {
+          "word": " financial",
+          "start": 11.4,
+          "end": 11.8,
+          "probability": 0.978425920009613
+        },
+        {
+          "word": " activities",
+          "start": 11.8,
+          "end": 12.56,
+          "probability": 0.9524366855621338
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 12.56,
+      "end": 13.56,
+      "text": " to generate income.",
+      "tokens": [
+        51033,
+        281,
+        8460,
+        5742,
+        13,
+        51091
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6095255227913534,
+      "compression_ratio": 1.787313432835821,
+      "no_speech_prob": 0.005299214739352465,
+      "words": [
+        {
+          "word": " to",
+          "start": 12.56,
+          "end": 12.72,
+          "probability": 0.3370329737663269
+        },
+        {
+          "word": " generate",
+          "start": 12.72,
+          "end": 13.14,
+          "probability": 0.9494449496269226
+        },
+        {
+          "word": " income.",
+          "start": 13.14,
+          "end": 13.56,
+          "probability": 0.9491927027702332
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 14.46,
+      "end": 16.98,
+      "text": " You believe that the bank is giving you 4% interest on deposit.",
+      "tokens": [
+        51091,
+        509,
+        1697,
+        300,
+        264,
+        3765,
+        307,
+        2902,
+        291,
+        1017,
+        4,
+        1179,
+        322,
+        19107,
+        13,
+        51223
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6095255227913534,
+      "compression_ratio": 1.787313432835821,
+      "no_speech_prob": 0.005299214739352465,
+      "words": [
+        {
+          "word": " You",
+          "start": 14.46,
+          "end": 14.78,
+          "probability": 0.14696213603019714
+        },
+        {
+          "word": " believe",
+          "start": 14.78,
+          "end": 14.78,
+          "probability": 0.11865220218896866
+        },
+        {
+          "word": " that",
+          "start": 14.78,
+          "end": 14.96,
+          "probability": 0.6478063464164734
+        },
+        {
+          "word": " the",
+          "start": 14.96,
+          "end": 15.2,
+          "probability": 0.5695984959602356
+        },
+        {
+          "word": " bank",
+          "start": 15.2,
+          "end": 15.2,
+          "probability": 0.9170649647712708
+        },
+        {
+          "word": " is",
+          "start": 15.2,
+          "end": 15.36,
+          "probability": 0.6470733880996704
+        },
+        {
+          "word": " giving",
+          "start": 15.36,
+          "end": 15.36,
+          "probability": 0.6598908305168152
+        },
+        {
+          "word": " you",
+          "start": 15.36,
+          "end": 15.36,
+          "probability": 0.3364449739456177
+        },
+        {
+          "word": " 4",
+          "start": 15.36,
+          "end": 16.14,
+          "probability": 0.6447800397872925
+        },
+        {
+          "word": "%",
+          "start": 16.14,
+          "end": 16.46,
+          "probability": 0.8707815408706665
+        },
+        {
+          "word": " interest",
+          "start": 16.46,
+          "end": 16.98,
+          "probability": 0.7834452986717224
+        },
+        {
+          "word": " on",
+          "start": 16.98,
+          "end": 16.98,
+          "probability": 0.403382807970047
+        },
+        {
+          "word": " deposit.",
+          "start": 16.98,
+          "end": 16.98,
+          "probability": 0.6082637310028076
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 17.14,
+      "end": 19.58,
+      "text": " And it is going to the 9% rate in the money.",
+      "tokens": [
+        51223,
+        400,
+        309,
+        307,
+        516,
+        281,
+        264,
+        1722,
+        4,
+        3314,
+        294,
+        264,
+        1460,
+        13,
+        51349
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6095255227913534,
+      "compression_ratio": 1.787313432835821,
+      "no_speech_prob": 0.005299214739352465,
+      "words": [
+        {
+          "word": " And",
+          "start": 17.14,
+          "end": 17.3,
+          "probability": 0.8053916096687317
+        },
+        {
+          "word": " it",
+          "start": 17.3,
+          "end": 17.56,
+          "probability": 0.2922147512435913
+        },
+        {
+          "word": " is",
+          "start": 17.56,
+          "end": 17.6,
+          "probability": 0.45714056491851807
+        },
+        {
+          "word": " going",
+          "start": 17.6,
+          "end": 17.6,
+          "probability": 0.4607560336589813
+        },
+        {
+          "word": " to",
+          "start": 17.6,
+          "end": 17.6,
+          "probability": 0.2447928637266159
+        },
+        {
+          "word": " the",
+          "start": 17.6,
+          "end": 17.6,
+          "probability": 0.5565415024757385
+        },
+        {
+          "word": " 9",
+          "start": 17.6,
+          "end": 18.56,
+          "probability": 0.12662604451179504
+        },
+        {
+          "word": "%",
+          "start": 18.56,
+          "end": 18.92,
+          "probability": 0.9817367792129517
+        },
+        {
+          "word": " rate",
+          "start": 18.92,
+          "end": 19.58,
+          "probability": 0.8530828952789307
+        },
+        {
+          "word": " in",
+          "start": 19.58,
+          "end": 19.58,
+          "probability": 0.21139177680015564
+        },
+        {
+          "word": " the",
+          "start": 19.58,
+          "end": 19.58,
+          "probability": 0.7246491312980652
+        },
+        {
+          "word": " money.",
+          "start": 19.58,
+          "end": 19.58,
+          "probability": 0.6211858987808228
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 19.58,
+      "end": 22.0,
+      "text": " The difference is that the bank's earning can be a source.",
+      "tokens": [
+        51349,
+        440,
+        2649,
+        307,
+        300,
+        264,
+        3765,
+        311,
+        12353,
+        393,
+        312,
+        257,
+        4009,
+        13,
+        51493
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6095255227913534,
+      "compression_ratio": 1.787313432835821,
+      "no_speech_prob": 0.005299214739352465,
+      "words": [
+        {
+          "word": " The",
+          "start": 19.58,
+          "end": 19.84,
+          "probability": 0.5110908150672913
+        },
+        {
+          "word": " difference",
+          "start": 19.84,
+          "end": 20.3,
+          "probability": 0.9738137722015381
+        },
+        {
+          "word": " is",
+          "start": 20.3,
+          "end": 20.6,
+          "probability": 0.6757103800773621
+        },
+        {
+          "word": " that",
+          "start": 20.6,
+          "end": 20.68,
+          "probability": 0.484010249376297
+        },
+        {
+          "word": " the",
+          "start": 20.68,
+          "end": 21.1,
+          "probability": 0.6499200463294983
+        },
+        {
+          "word": " bank's",
+          "start": 21.1,
+          "end": 21.22,
+          "probability": 0.4994911253452301
+        },
+        {
+          "word": " earning",
+          "start": 21.22,
+          "end": 21.44,
+          "probability": 0.5878876447677612
+        },
+        {
+          "word": " can",
+          "start": 21.44,
+          "end": 21.66,
+          "probability": 0.5122488141059875
+        },
+        {
+          "word": " be",
+          "start": 21.66,
+          "end": 21.66,
+          "probability": 0.8448019623756409
+        },
+        {
+          "word": " a",
+          "start": 21.66,
+          "end": 21.66,
+          "probability": 0.49685138463974
+        },
+        {
+          "word": " source.",
+          "start": 21.66,
+          "end": 22.0,
+          "probability": 0.9970189332962036
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 0,
+      "start": 22.5,
+      "end": 24.54,
+      "text": " But the entire bank doesn't have a profit of 5%",
+      "tokens": [
+        51493,
+        583,
+        264,
+        2302,
+        3765,
+        1177,
+        380,
+        362,
+        257,
+        7475,
+        295,
+        1025,
+        4,
+        51618
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6095255227913534,
+      "compression_ratio": 1.787313432835821,
+      "no_speech_prob": 0.005299214739352465,
+      "words": [
+        {
+          "word": " But",
+          "start": 22.5,
+          "end": 22.78,
+          "probability": 0.9451630115509033
+        },
+        {
+          "word": " the",
+          "start": 22.78,
+          "end": 22.96,
+          "probability": 0.6522051095962524
+        },
+        {
+          "word": " entire",
+          "start": 22.96,
+          "end": 23.16,
+          "probability": 0.517987847328186
+        },
+        {
+          "word": " bank",
+          "start": 23.16,
+          "end": 23.16,
+          "probability": 0.8459944128990173
+        },
+        {
+          "word": " doesn't",
+          "start": 23.16,
+          "end": 23.46,
+          "probability": 0.5957353264093399
+        },
+        {
+          "word": " have",
+          "start": 23.46,
+          "end": 23.46,
+          "probability": 0.3729172945022583
+        },
+        {
+          "word": " a",
+          "start": 23.46,
+          "end": 23.46,
+          "probability": 0.7053961157798767
+        },
+        {
+          "word": " profit",
+          "start": 23.46,
+          "end": 23.46,
+          "probability": 0.770176351070404
+        },
+        {
+          "word": " of",
+          "start": 23.46,
+          "end": 23.54,
+          "probability": 0.5979706048965454
+        },
+        {
+          "word": " 5",
+          "start": 23.54,
+          "end": 23.74,
+          "probability": 0.9243163466453552
+        },
+        {
+          "word": "%",
+          "start": 23.74,
+          "end": 24.54,
+          "probability": 0.6749936938285828
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2454,
+      "start": 24.54,
+      "end": 24.62,
+      "text": " and it doesn't.",
+      "tokens": [
+        50364,
+        293,
+        309,
+        1177,
+        380,
+        13,
+        50414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7414810180664062,
+      "compression_ratio": 1.78343949044586,
+      "no_speech_prob": 0.15062235295772552,
+      "words": [
+        {
+          "word": " and",
+          "start": 24.54,
+          "end": 24.54,
+          "probability": 0.01850380375981331
+        },
+        {
+          "word": " it",
+          "start": 24.54,
+          "end": 24.54,
+          "probability": 0.10488972067832947
+        },
+        {
+          "word": " doesn't.",
+          "start": 24.54,
+          "end": 24.62,
+          "probability": 0.610059380531311
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 2454,
+      "start": 27.099999999999998,
+      "end": 31.52,
+      "text": " It can be a source of the deposit and the deposit.",
+      "tokens": [
+        50414,
+        467,
+        393,
+        312,
+        257,
+        4009,
+        295,
+        264,
+        19107,
+        293,
+        264,
+        19107,
+        13,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7414810180664062,
+      "compression_ratio": 1.78343949044586,
+      "no_speech_prob": 0.15062235295772552,
+      "words": [
+        {
+          "word": " It",
+          "start": 27.099999999999998,
+          "end": 27.56,
+          "probability": 0.287350058555603
+        },
+        {
+          "word": " can",
+          "start": 27.56,
+          "end": 28.02,
+          "probability": 0.19772212207317352
+        },
+        {
+          "word": " be",
+          "start": 28.02,
+          "end": 28.02,
+          "probability": 0.41248419880867004
+        },
+        {
+          "word": " a",
+          "start": 28.02,
+          "end": 28.02,
+          "probability": 0.20056034624576569
+        },
+        {
+          "word": " source",
+          "start": 28.02,
+          "end": 28.02,
+          "probability": 0.08816774934530258
+        },
+        {
+          "word": " of",
+          "start": 28.02,
+          "end": 28.02,
+          "probability": 0.9225653409957886
+        },
+        {
+          "word": " the",
+          "start": 28.02,
+          "end": 28.02,
+          "probability": 0.11808241903781891
+        },
+        {
+          "word": " deposit",
+          "start": 28.02,
+          "end": 28.02,
+          "probability": 0.00520407035946846
+        },
+        {
+          "word": " and",
+          "start": 28.02,
+          "end": 30.88,
+          "probability": 0.6803739666938782
+        },
+        {
+          "word": " the",
+          "start": 30.88,
+          "end": 31.26,
+          "probability": 0.01593228057026863
+        },
+        {
+          "word": " deposit.",
+          "start": 31.26,
+          "end": 31.52,
+          "probability": 0.018068470060825348
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 2454,
+      "start": 31.76,
+      "end": 34.32,
+      "text": " It can be an important source of the money.",
+      "tokens": [
+        50514,
+        467,
+        393,
+        312,
+        364,
+        1021,
+        4009,
+        295,
+        264,
+        1460,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7414810180664062,
+      "compression_ratio": 1.78343949044586,
+      "no_speech_prob": 0.15062235295772552,
+      "words": [
+        {
+          "word": " It",
+          "start": 31.76,
+          "end": 31.76,
+          "probability": 0.3525775074958801
+        },
+        {
+          "word": " can",
+          "start": 31.76,
+          "end": 32.44,
+          "probability": 0.16192595660686493
+        },
+        {
+          "word": " be",
+          "start": 32.44,
+          "end": 32.44,
+          "probability": 0.710956871509552
+        },
+        {
+          "word": " an",
+          "start": 32.44,
+          "end": 32.44,
+          "probability": 0.6366459727287292
+        },
+        {
+          "word": " important",
+          "start": 32.44,
+          "end": 33.36,
+          "probability": 0.9462340474128723
+        },
+        {
+          "word": " source",
+          "start": 33.36,
+          "end": 33.88,
+          "probability": 0.997565507888794
+        },
+        {
+          "word": " of",
+          "start": 33.88,
+          "end": 34.32,
+          "probability": 0.6915047764778137
+        },
+        {
+          "word": " the",
+          "start": 34.32,
+          "end": 34.32,
+          "probability": 0.21953168511390686
+        },
+        {
+          "word": " money.",
+          "start": 34.32,
+          "end": 34.32,
+          "probability": 0.03241874650120735
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 2454,
+      "start": 34.32,
+      "end": 36.14,
+      "text": " It means that the bank is not just a place to keep money.",
+      "tokens": [
+        50614,
+        467,
+        1355,
+        300,
+        264,
+        3765,
+        307,
+        406,
+        445,
+        257,
+        1081,
+        281,
+        1066,
+        1460,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7414810180664062,
+      "compression_ratio": 1.78343949044586,
+      "no_speech_prob": 0.15062235295772552,
+      "words": [
+        {
+          "word": " It",
+          "start": 34.32,
+          "end": 34.52,
+          "probability": 0.3346068263053894
+        },
+        {
+          "word": " means",
+          "start": 34.52,
+          "end": 34.52,
+          "probability": 0.4942231774330139
+        },
+        {
+          "word": " that",
+          "start": 34.52,
+          "end": 34.64,
+          "probability": 0.3506345748901367
+        },
+        {
+          "word": " the",
+          "start": 34.64,
+          "end": 34.94,
+          "probability": 0.2183586210012436
+        },
+        {
+          "word": " bank",
+          "start": 34.94,
+          "end": 34.94,
+          "probability": 0.14797183871269226
+        },
+        {
+          "word": " is",
+          "start": 34.94,
+          "end": 35.02,
+          "probability": 0.4624289274215698
+        },
+        {
+          "word": " not",
+          "start": 35.02,
+          "end": 35.1,
+          "probability": 0.8518338203430176
+        },
+        {
+          "word": " just",
+          "start": 35.1,
+          "end": 35.1,
+          "probability": 0.39258772134780884
+        },
+        {
+          "word": " a",
+          "start": 35.1,
+          "end": 35.2,
+          "probability": 0.31969720125198364
+        },
+        {
+          "word": " place",
+          "start": 35.2,
+          "end": 35.28,
+          "probability": 0.5024281740188599
+        },
+        {
+          "word": " to",
+          "start": 35.28,
+          "end": 36.14,
+          "probability": 0.6186086535453796
+        },
+        {
+          "word": " keep",
+          "start": 36.14,
+          "end": 36.14,
+          "probability": 0.45154300332069397
+        },
+        {
+          "word": " money.",
+          "start": 36.14,
+          "end": 36.14,
+          "probability": 0.9012608528137207
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 2454,
+      "start": 36.42,
+      "end": 38.96,
+      "text": " It is a part of the financial system.",
+      "tokens": [
+        50714,
+        467,
+        307,
+        257,
+        644,
+        295,
+        264,
+        4669,
+        1185,
+        13,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7414810180664062,
+      "compression_ratio": 1.78343949044586,
+      "no_speech_prob": 0.15062235295772552,
+      "words": [
+        {
+          "word": " It",
+          "start": 36.42,
+          "end": 36.88,
+          "probability": 0.22208493947982788
+        },
+        {
+          "word": " is",
+          "start": 36.88,
+          "end": 37.04,
+          "probability": 0.10419932752847672
+        },
+        {
+          "word": " a",
+          "start": 37.04,
+          "end": 37.26,
+          "probability": 0.5068607330322266
+        },
+        {
+          "word": " part",
+          "start": 37.26,
+          "end": 37.34,
+          "probability": 0.7253294587135315
+        },
+        {
+          "word": " of",
+          "start": 37.34,
+          "end": 37.34,
+          "probability": 0.9889657497406006
+        },
+        {
+          "word": " the",
+          "start": 37.34,
+          "end": 37.34,
+          "probability": 0.7051593661308289
+        },
+        {
+          "word": " financial",
+          "start": 37.34,
+          "end": 37.78,
+          "probability": 0.9444399476051331
+        },
+        {
+          "word": " system.",
+          "start": 37.78,
+          "end": 38.96,
+          "probability": 0.9790265560150146
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 2454,
+      "start": 39.04,
+      "end": 40.46,
+      "text": " It is a money and financial concept.",
+      "tokens": [
+        50814,
+        467,
+        307,
+        257,
+        1460,
+        293,
+        4669,
+        3410,
+        13,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7414810180664062,
+      "compression_ratio": 1.78343949044586,
+      "no_speech_prob": 0.15062235295772552,
+      "words": [
+        {
+          "word": " It",
+          "start": 39.04,
+          "end": 39.26,
+          "probability": 0.1367257982492447
+        },
+        {
+          "word": " is",
+          "start": 39.26,
+          "end": 39.26,
+          "probability": 0.5750412344932556
+        },
+        {
+          "word": " a",
+          "start": 39.26,
+          "end": 39.32,
+          "probability": 0.5346279740333557
+        },
+        {
+          "word": " money",
+          "start": 39.32,
+          "end": 39.54,
+          "probability": 0.8182618021965027
+        },
+        {
+          "word": " and",
+          "start": 39.54,
+          "end": 39.76,
+          "probability": 0.7164283394813538
+        },
+        {
+          "word": " financial",
+          "start": 39.76,
+          "end": 40.0,
+          "probability": 0.28151699900627136
+        },
+        {
+          "word": " concept.",
+          "start": 40.0,
+          "end": 40.46,
+          "probability": 0.9571529626846313
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 2454,
+      "start": 40.62,
+      "end": 41.12,
+      "text": " It is a simple language.",
+      "tokens": [
+        50914,
+        467,
+        307,
+        257,
+        2199,
+        2856,
+        13,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7414810180664062,
+      "compression_ratio": 1.78343949044586,
+      "no_speech_prob": 0.15062235295772552,
+      "words": [
+        {
+          "word": " It",
+          "start": 40.62,
+          "end": 40.74,
+          "probability": 0.316823810338974
+        },
+        {
+          "word": " is",
+          "start": 40.74,
+          "end": 40.74,
+          "probability": 0.7868702411651611
+        },
+        {
+          "word": " a",
+          "start": 40.74,
+          "end": 40.74,
+          "probability": 0.6282731890678406
+        },
+        {
+          "word": " simple",
+          "start": 40.74,
+          "end": 40.82,
+          "probability": 0.9711088538169861
+        },
+        {
+          "word": " language.",
+          "start": 40.82,
+          "end": 41.12,
+          "probability": 0.9206212759017944
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 2454,
+      "start": 41.58,
+      "end": 42.26,
+      "text": " So, follow.",
+      "tokens": [
+        50964,
+        407,
+        11,
+        1524,
+        13,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7414810180664062,
+      "compression_ratio": 1.78343949044586,
+      "no_speech_prob": 0.15062235295772552,
+      "words": [
+        {
+          "word": " So,",
+          "start": 41.58,
+          "end": 42.04,
+          "probability": 0.4770510494709015
+        },
+        {
+          "word": " follow.",
+          "start": 42.04,
+          "end": 42.26,
+          "probability": 0.861903965473175
+        }
+      ]
+    }
+  ],
+  "language": "hi"
+}

@@ -1,0 +1,165 @@
+{
+  "job_id": "voxpipe_0828_certified_full_master",
+  "source_video": "D:\\Downloads\\0828.mp4",
+  "duration": 57.61,
+  "fps": 30.0,
+  "style": "vox",
+  "beats": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 8.5,
+      "duration": 8.5,
+      "layout": "SPLIT_50_50",
+      "topic": "Government 1 Crore Bank Announcement",
+      "concept_summary": "Government 1 Crore Bank Announcement",
+      "prompt_shot": "Background: a sepia financial chart engraving with etched grid lines and depth falloff. FG: authentic paper collage cutouts representing Government 1 Crore Bank Announcement snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera dives low between physical paper cutout layers with shallow depth of field. Settle on Government 1 Crore Bank Announcement in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a sepia financial chart engraving with etched grid lines and depth falloff. FG: authentic paper collage cutouts representing Government 1 Crore Bank Announcement snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera dives low between physical paper cutout layers with shallow depth of field. Settle on Government 1 Crore Bank Announcement in sharp focus.\n\nAUDIO: submerge whoosh, deep pressure thud, paper thwip — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 2,
+      "start": 8.5,
+      "end": 16.5,
+      "duration": 8.0,
+      "layout": "SPLIT_50_50",
+      "topic": "Banknote Printing Press in Overdrive",
+      "concept_summary": "Banknote Printing Press in Overdrive",
+      "prompt_shot": "Background: a faded world map tilted in perspective, far out of focus. FG: authentic paper collage cutouts representing Banknote Printing Press in Overdrive snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera pushes in steadily through a torn paper opening onto the central figure. Settle on Banknote Printing Press in Overdrive in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a faded world map tilted in perspective, far out of focus. FG: authentic paper collage cutouts representing Banknote Printing Press in Overdrive snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera pushes in steadily through a torn paper opening onto the central figure. Settle on Banknote Printing Press in Overdrive in sharp focus.\n\nAUDIO: paper tear, friction slide, low hum — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 3,
+      "start": 16.5,
+      "end": 25.0,
+      "duration": 8.5,
+      "layout": "SPLIT_50_50",
+      "topic": "Economic Inflation Pressure Dial Red Zone",
+      "concept_summary": "Economic Inflation Pressure Dial Red Zone",
+      "prompt_shot": "Background: a faded world map tilted in perspective, far out of focus. FG: authentic paper collage cutouts representing Economic Inflation Pressure Dial Red Zone snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera performs a fast lateral track then hard stops with elastic overshoot. Settle on Economic Inflation Pressure Dial Red Zone in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a faded world map tilted in perspective, far out of focus. FG: authentic paper collage cutouts representing Economic Inflation Pressure Dial Red Zone snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera performs a fast lateral track then hard stops with elastic overshoot. Settle on Economic Inflation Pressure Dial Red Zone in sharp focus.\n\nAUDIO: track rumble, stall click, paper pop — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 4,
+      "start": 25.0,
+      "end": 33.5,
+      "duration": 8.5,
+      "layout": "SPLIT_50_50",
+      "topic": "Retail Price Tag Surge 300 to 3000",
+      "concept_summary": "Retail Price Tag Surge 300 to 3000",
+      "prompt_shot": "Background: an aged blueprint grid with architectural schematics and circuit traces. FG: authentic paper collage cutouts representing Retail Price Tag Surge 300 to 3000 snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera cranes up slowly over the layered stack while racking focus. Settle on Retail Price Tag Surge 300 to 3000 in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: an aged blueprint grid with architectural schematics and circuit traces. FG: authentic paper collage cutouts representing Retail Price Tag Surge 300 to 3000 snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera cranes up slowly over the layered stack while racking focus. Settle on Retail Price Tag Surge 300 to 3000 in sharp focus.\n\nAUDIO: riser whoosh, stamp thud, low newsroom hum — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 5,
+      "start": 33.5,
+      "end": 41.0,
+      "duration": 7.5,
+      "layout": "SPLIT_50_50",
+      "topic": "Currency Exchange Chart Plunge into Chasm",
+      "concept_summary": "Currency Exchange Chart Plunge into Chasm",
+      "prompt_shot": "Background: a sepia financial chart engraving with etched grid lines and depth falloff. FG: authentic paper collage cutouts representing Currency Exchange Chart Plunge into Chasm snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera orbits a quarter turn, focus racking front to back. Settle on Currency Exchange Chart Plunge into Chasm in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a sepia financial chart engraving with etched grid lines and depth falloff. FG: authentic paper collage cutouts representing Currency Exchange Chart Plunge into Chasm snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera orbits a quarter turn, focus racking front to back. Settle on Currency Exchange Chart Plunge into Chasm in sharp focus.\n\nAUDIO: paper pops, whip whoosh, low newsroom hum — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 6,
+      "start": 41.0,
+      "end": 47.0,
+      "duration": 6.0,
+      "layout": "SPLIT_50_50",
+      "topic": "Purchasing Power Burning to Ashes",
+      "concept_summary": "Purchasing Power Burning to Ashes",
+      "prompt_shot": "Background: a sepia financial chart engraving with etched grid lines and depth falloff. FG: authentic paper collage cutouts representing Purchasing Power Burning to Ashes snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera dives low between physical paper cutout layers with shallow depth of field. Settle on Purchasing Power Burning to Ashes in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a sepia financial chart engraving with etched grid lines and depth falloff. FG: authentic paper collage cutouts representing Purchasing Power Burning to Ashes snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera dives low between physical paper cutout layers with shallow depth of field. Settle on Purchasing Power Burning to Ashes in sharp focus.\n\nAUDIO: submerge whoosh, deep pressure thud, paper thwip — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 7,
+      "start": 47.0,
+      "end": 53.0,
+      "duration": 6.0,
+      "layout": "SPLIT_50_50",
+      "topic": "Real Goods Factories Industrial Productivity",
+      "concept_summary": "Real Goods Factories Industrial Productivity",
+      "prompt_shot": "Background: an aged blueprint grid with architectural schematics and circuit traces. FG: authentic paper collage cutouts representing Real Goods Factories Industrial Productivity snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera pushes in steadily through a torn paper opening onto the central figure. Settle on Real Goods Factories Industrial Productivity in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: an aged blueprint grid with architectural schematics and circuit traces. FG: authentic paper collage cutouts representing Real Goods Factories Industrial Productivity snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera pushes in steadily through a torn paper opening onto the central figure. Settle on Real Goods Factories Industrial Productivity in sharp focus.\n\nAUDIO: paper tear, friction slide, low hum — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 8,
+      "start": 53.0,
+      "end": 57.61,
+      "duration": 4.61,
+      "layout": "SPLIT_50_50",
+      "topic": "Subscribe Follow for Finance CTA",
+      "concept_summary": "Subscribe Follow for Finance CTA",
+      "prompt_shot": "Background: a sepia financial chart engraving with etched grid lines and depth falloff. FG: authentic paper collage cutouts representing Subscribe Follow for Finance CTA snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera performs a fast lateral track then hard stops with elastic overshoot. Settle on Subscribe Follow for Finance CTA in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a sepia financial chart engraving with etched grid lines and depth falloff. FG: authentic paper collage cutouts representing Subscribe Follow for Finance CTA snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera performs a fast lateral track then hard stops with elastic overshoot. Settle on Subscribe Follow for Finance CTA in sharp focus.\n\nAUDIO: track rumble, stall click, paper pop — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    }
+  ],
+  "captions": [],
+  "sfx_tracks": [
+    {
+      "timestamp": 0.05,
+      "name": "card-slide-1.mp3",
+      "category": "paper_and_cards",
+      "volume": 0.85
+    },
+    {
+      "timestamp": 8.55,
+      "name": "switch-001.mp3",
+      "category": "switches_and_toggles",
+      "volume": 0.8
+    },
+    {
+      "timestamp": 16.55,
+      "name": "click-soft.mp3",
+      "category": "clicks",
+      "volume": 0.8
+    },
+    {
+      "timestamp": 25.05,
+      "name": "book-flip-1.mp3",
+      "category": "paper_and_cards",
+      "volume": 0.85
+    },
+    {
+      "timestamp": 33.55,
+      "name": "card-shove-1.mp3",
+      "category": "paper_and_cards",
+      "volume": 0.85
+    },
+    {
+      "timestamp": 41.05,
+      "name": "whoosh.wav",
+      "category": "whoosh",
+      "volume": 0.8
+    },
+    {
+      "timestamp": 47.05,
+      "name": "handle-coins.mp3",
+      "category": "bells_and_chimes",
+      "volume": 0.85
+    },
+    {
+      "timestamp": 53.05,
+      "name": "camera-shutter.mp3",
+      "category": "cameras",
+      "volume": 0.85
+    }
+  ],
+  "created_at": null
+}

@@ -1,0 +1,1459 @@
+{
+  "text": " ہر méhine rend dé dé dé dé Thug gao تو ایک بار سوچی ہے وہی پیسا اپنے کھت کے گھر کے لئے کیوں نہیں تتوالہ East میں ہے مناست hides جو تتوالہ East Railway Station سے nur 10 minutes walking distance پر ہے اور یہ ان لوگوں کے لیے ہے جو اپنا پہلا گھر لینا چاہتے ہیں یہاں آپ کو ملتا ہے Thotfully Plant 1 BHK Home جس میں Vitrified Flooring Granite Kitchen Platform or stainless steel sink ملتا ہے Saathie full-tiled kitchen elegant bathroom with premium fittings high-speed elevators with power back up CCTV security and fire fighting system بھی ہے اور سب سے اپوٹن بار 1 BHK only 24 lakh all inclusive ghar کے بارے میں جانکاری کے لئے نیچھے دیگے contact details پر call or WhatsApp کریں",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.72,
+      "text": " ہر méhine rend dé dé dé dé Thug gao",
+      "tokens": [
+        50364,
+        12138,
+        2288,
+        13191,
+        71,
+        533,
+        6125,
+        2795,
+        2795,
+        2795,
+        2795,
+        334,
+        697,
+        5959,
+        78,
+        50452
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.603010504095404,
+      "compression_ratio": 1.5211581291759466,
+      "no_speech_prob": 0.013252499513328075,
+      "words": [
+        {
+          "word": " ہر",
+          "start": 0.0,
+          "end": 0.18,
+          "probability": 0.43549491837620735
+        },
+        {
+          "word": " méhine",
+          "start": 0.18,
+          "end": 0.48,
+          "probability": 0.314252736667792
+        },
+        {
+          "word": " rend",
+          "start": 0.48,
+          "end": 0.66,
+          "probability": 0.4518398940563202
+        },
+        {
+          "word": " dé",
+          "start": 0.66,
+          "end": 0.92,
+          "probability": 0.11485499143600464
+        },
+        {
+          "word": " dé",
+          "start": 0.92,
+          "end": 1.06,
+          "probability": 0.5186218023300171
+        },
+        {
+          "word": " dé",
+          "start": 1.06,
+          "end": 1.2,
+          "probability": 0.6526416540145874
+        },
+        {
+          "word": " dé",
+          "start": 1.2,
+          "end": 1.26,
+          "probability": 0.11465372145175934
+        },
+        {
+          "word": " Thug",
+          "start": 1.26,
+          "end": 1.54,
+          "probability": 0.30459437519311905
+        },
+        {
+          "word": " gao",
+          "start": 1.54,
+          "end": 1.72,
+          "probability": 0.18576692789793015
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 1.72,
+      "end": 2.7,
+      "text": " تو ایک بار سوچی ہے",
+      "tokens": [
+        50452,
+        33427,
+        1975,
+        29325,
+        4724,
+        9640,
+        8608,
+        2407,
+        24061,
+        4135,
+        23905,
+        50497
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.603010504095404,
+      "compression_ratio": 1.5211581291759466,
+      "no_speech_prob": 0.013252499513328075,
+      "words": [
+        {
+          "word": " تو",
+          "start": 1.72,
+          "end": 1.9,
+          "probability": 0.003244247753173113
+        },
+        {
+          "word": " ایک",
+          "start": 1.9,
+          "end": 2.1,
+          "probability": 0.4300084188580513
+        },
+        {
+          "word": " بار",
+          "start": 2.1,
+          "end": 2.24,
+          "probability": 0.3443015590310097
+        },
+        {
+          "word": " سوچی",
+          "start": 2.24,
+          "end": 2.6,
+          "probability": 0.6608860939741135
+        },
+        {
+          "word": " ہے",
+          "start": 2.6,
+          "end": 2.7,
+          "probability": 0.8661134243011475
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 2.7,
+      "end": 5.02,
+      "text": " وہی پیسا اپنے کھت کے گھر کے لئے کیوں نہیں",
+      "tokens": [
+        50497,
+        44291,
+        4135,
+        21453,
+        4135,
+        3794,
+        995,
+        1975,
+        27779,
+        1863,
+        7369,
+        7565,
+        14268,
+        2655,
+        24049,
+        28697,
+        14268,
+        2288,
+        24049,
+        5296,
+        19986,
+        7369,
+        23180,
+        31320,
+        50194,
+        50616
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.603010504095404,
+      "compression_ratio": 1.5211581291759466,
+      "no_speech_prob": 0.013252499513328075,
+      "words": [
+        {
+          "word": " وہی",
+          "start": 2.7,
+          "end": 3.02,
+          "probability": 0.5617271959781647
+        },
+        {
+          "word": " پیسا",
+          "start": 3.02,
+          "end": 3.42,
+          "probability": 0.485331192612648
+        },
+        {
+          "word": " اپنے",
+          "start": 3.42,
+          "end": 3.9,
+          "probability": 0.6614898890256882
+        },
+        {
+          "word": " کھت",
+          "start": 3.9,
+          "end": 4.12,
+          "probability": 0.5705073873202006
+        },
+        {
+          "word": " کے",
+          "start": 4.12,
+          "end": 4.24,
+          "probability": 0.8233188986778259
+        },
+        {
+          "word": " گھر",
+          "start": 4.24,
+          "end": 4.4,
+          "probability": 0.9385417699813843
+        },
+        {
+          "word": " کے",
+          "start": 4.4,
+          "end": 4.54,
+          "probability": 0.8262974619865417
+        },
+        {
+          "word": " لئے",
+          "start": 4.54,
+          "end": 4.68,
+          "probability": 0.7781815131505331
+        },
+        {
+          "word": " کیوں",
+          "start": 4.68,
+          "end": 4.92,
+          "probability": 0.7955892980098724
+        },
+        {
+          "word": " نہیں",
+          "start": 4.92,
+          "end": 5.02,
+          "probability": 0.5024740099906921
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 5.02,
+      "end": 6.82,
+      "text": " تتوالہ East میں ہے مناست hides",
+      "tokens": [
+        50616,
+        6055,
+        2655,
+        2407,
+        6027,
+        6354,
+        6747,
+        27875,
+        23905,
+        9154,
+        995,
+        14851,
+        276,
+        1875,
+        50704
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.603010504095404,
+      "compression_ratio": 1.5211581291759466,
+      "no_speech_prob": 0.013252499513328075,
+      "words": [
+        {
+          "word": " تتوالہ",
+          "start": 5.02,
+          "end": 5.58,
+          "probability": 0.39027532935142517
+        },
+        {
+          "word": " East",
+          "start": 5.58,
+          "end": 5.8,
+          "probability": 0.5266790390014648
+        },
+        {
+          "word": " میں",
+          "start": 5.8,
+          "end": 5.96,
+          "probability": 0.31155961751937866
+        },
+        {
+          "word": " ہے",
+          "start": 5.96,
+          "end": 6.1,
+          "probability": 0.5283288359642029
+        },
+        {
+          "word": " مناست",
+          "start": 6.1,
+          "end": 6.52,
+          "probability": 0.3240850468476613
+        },
+        {
+          "word": " hides",
+          "start": 6.52,
+          "end": 6.82,
+          "probability": 0.2951756566762924
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 6.82,
+      "end": 8.44,
+      "text": " جو تتوالہ East Railway Station سے",
+      "tokens": [
+        50704,
+        10874,
+        2407,
+        6055,
+        2655,
+        2407,
+        6027,
+        6354,
+        6747,
+        23494,
+        676,
+        14467,
+        34190,
+        50781
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.603010504095404,
+      "compression_ratio": 1.5211581291759466,
+      "no_speech_prob": 0.013252499513328075,
+      "words": [
+        {
+          "word": " جو",
+          "start": 6.82,
+          "end": 7.04,
+          "probability": 0.6436451822519302
+        },
+        {
+          "word": " تتوالہ",
+          "start": 7.04,
+          "end": 7.46,
+          "probability": 0.9256032228469848
+        },
+        {
+          "word": " East",
+          "start": 7.46,
+          "end": 7.64,
+          "probability": 0.9820958375930786
+        },
+        {
+          "word": " Railway",
+          "start": 7.64,
+          "end": 7.94,
+          "probability": 0.6649864166975021
+        },
+        {
+          "word": " Station",
+          "start": 7.94,
+          "end": 8.24,
+          "probability": 0.7582732439041138
+        },
+        {
+          "word": " سے",
+          "start": 8.24,
+          "end": 8.44,
+          "probability": 0.8954421877861023
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 8.44,
+      "end": 9.66,
+      "text": " nur 10 minutes walking distance",
+      "tokens": [
+        50781,
+        4343,
+        1266,
+        2077,
+        4494,
+        4560,
+        50854
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.603010504095404,
+      "compression_ratio": 1.5211581291759466,
+      "no_speech_prob": 0.013252499513328075,
+      "words": [
+        {
+          "word": " nur",
+          "start": 8.44,
+          "end": 8.6,
+          "probability": 0.028421152383089066
+        },
+        {
+          "word": " 10",
+          "start": 8.6,
+          "end": 8.84,
+          "probability": 0.819212019443512
+        },
+        {
+          "word": " minutes",
+          "start": 8.84,
+          "end": 9.04,
+          "probability": 0.6534451246261597
+        },
+        {
+          "word": " walking",
+          "start": 9.04,
+          "end": 9.32,
+          "probability": 0.9497901201248169
+        },
+        {
+          "word": " distance",
+          "start": 9.32,
+          "end": 9.66,
+          "probability": 0.952559232711792
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 9.66,
+      "end": 11.26,
+      "text": " پر ہے اور یہ ان لوگوں کے لیے ہے",
+      "tokens": [
+        50854,
+        21453,
+        2288,
+        23905,
+        32930,
+        35324,
+        16472,
+        45164,
+        16761,
+        31320,
+        24049,
+        5296,
+        4135,
+        7369,
+        23905,
+        50927
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.603010504095404,
+      "compression_ratio": 1.5211581291759466,
+      "no_speech_prob": 0.013252499513328075,
+      "words": [
+        {
+          "word": " پر",
+          "start": 9.66,
+          "end": 9.96,
+          "probability": 0.36432044859975576
+        },
+        {
+          "word": " ہے",
+          "start": 9.96,
+          "end": 10.06,
+          "probability": 0.7747698426246643
+        },
+        {
+          "word": " اور",
+          "start": 10.06,
+          "end": 10.22,
+          "probability": 0.885998010635376
+        },
+        {
+          "word": " یہ",
+          "start": 10.22,
+          "end": 10.32,
+          "probability": 0.9842514991760254
+        },
+        {
+          "word": " ان",
+          "start": 10.32,
+          "end": 10.52,
+          "probability": 0.8450548052787781
+        },
+        {
+          "word": " لوگوں",
+          "start": 10.52,
+          "end": 10.76,
+          "probability": 0.7947793205579122
+        },
+        {
+          "word": " کے",
+          "start": 10.76,
+          "end": 10.9,
+          "probability": 0.9140146374702454
+        },
+        {
+          "word": " لیے",
+          "start": 10.9,
+          "end": 11.12,
+          "probability": 0.6509270419677099
+        },
+        {
+          "word": " ہے",
+          "start": 11.12,
+          "end": 11.26,
+          "probability": 0.4641281068325043
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 11.26,
+      "end": 12.86,
+      "text": " جو اپنا پہلا گھر لینا چاہتے ہیں",
+      "tokens": [
+        50927,
+        10874,
+        2407,
+        1975,
+        27779,
+        8315,
+        21453,
+        6354,
+        15040,
+        28697,
+        14268,
+        2288,
+        5296,
+        32151,
+        995,
+        34766,
+        995,
+        6354,
+        2655,
+        7369,
+        38904,
+        51003
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.603010504095404,
+      "compression_ratio": 1.5211581291759466,
+      "no_speech_prob": 0.013252499513328075,
+      "words": [
+        {
+          "word": " جو",
+          "start": 11.26,
+          "end": 11.48,
+          "probability": 0.9622138738632202
+        },
+        {
+          "word": " اپنا",
+          "start": 11.48,
+          "end": 11.7,
+          "probability": 0.8135143121083578
+        },
+        {
+          "word": " پہلا",
+          "start": 11.7,
+          "end": 12.0,
+          "probability": 0.8615730802218119
+        },
+        {
+          "word": " گھر",
+          "start": 12.0,
+          "end": 12.24,
+          "probability": 0.7810218532880148
+        },
+        {
+          "word": " لینا",
+          "start": 12.24,
+          "end": 12.46,
+          "probability": 0.5462068120638529
+        },
+        {
+          "word": " چاہتے",
+          "start": 12.46,
+          "end": 12.78,
+          "probability": 0.8225014090538025
+        },
+        {
+          "word": " ہیں",
+          "start": 12.78,
+          "end": 12.86,
+          "probability": 0.9837827086448669
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 12.86,
+      "end": 13.96,
+      "text": " یہاں آپ کو ملتا ہے",
+      "tokens": [
+        51003,
+        35324,
+        995,
+        11616,
+        46201,
+        31561,
+        3714,
+        1211,
+        2655,
+        995,
+        23905,
+        51063
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.603010504095404,
+      "compression_ratio": 1.5211581291759466,
+      "no_speech_prob": 0.013252499513328075,
+      "words": [
+        {
+          "word": " یہاں",
+          "start": 12.86,
+          "end": 13.16,
+          "probability": 0.9455498258272806
+        },
+        {
+          "word": " آپ",
+          "start": 13.16,
+          "end": 13.36,
+          "probability": 0.9022806882858276
+        },
+        {
+          "word": " کو",
+          "start": 13.36,
+          "end": 13.46,
+          "probability": 0.9040353298187256
+        },
+        {
+          "word": " ملتا",
+          "start": 13.46,
+          "end": 13.8,
+          "probability": 0.7531072199344635
+        },
+        {
+          "word": " ہے",
+          "start": 13.8,
+          "end": 13.96,
+          "probability": 0.9872949719429016
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 13.96,
+      "end": 15.84,
+      "text": " Thotfully Plant 1 BHK Home",
+      "tokens": [
+        51063,
+        334,
+        310,
+        2277,
+        28995,
+        502,
+        40342,
+        42,
+        8719,
+        51158
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.603010504095404,
+      "compression_ratio": 1.5211581291759466,
+      "no_speech_prob": 0.013252499513328075,
+      "words": [
+        {
+          "word": " Thotfully",
+          "start": 13.96,
+          "end": 14.52,
+          "probability": 0.38666366289059323
+        },
+        {
+          "word": " Plant",
+          "start": 14.52,
+          "end": 14.78,
+          "probability": 0.23477783799171448
+        },
+        {
+          "word": " 1",
+          "start": 14.78,
+          "end": 15.1,
+          "probability": 0.6843910217285156
+        },
+        {
+          "word": " BHK",
+          "start": 15.1,
+          "end": 15.58,
+          "probability": 0.41505002975463867
+        },
+        {
+          "word": " Home",
+          "start": 15.58,
+          "end": 15.84,
+          "probability": 0.5894917845726013
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 0,
+      "start": 15.84,
+      "end": 17.24,
+      "text": " جس میں Vitrified Flooring",
+      "tokens": [
+        51158,
+        10874,
+        3794,
+        27875,
+        22463,
+        81,
+        2587,
+        15153,
+        3662,
+        51225
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.603010504095404,
+      "compression_ratio": 1.5211581291759466,
+      "no_speech_prob": 0.013252499513328075,
+      "words": [
+        {
+          "word": " جس",
+          "start": 15.84,
+          "end": 16.12,
+          "probability": 0.678269624710083
+        },
+        {
+          "word": " میں",
+          "start": 16.12,
+          "end": 16.24,
+          "probability": 0.9892026782035828
+        },
+        {
+          "word": " Vitrified",
+          "start": 16.24,
+          "end": 16.68,
+          "probability": 0.7642559111118317
+        },
+        {
+          "word": " Flooring",
+          "start": 16.68,
+          "end": 17.24,
+          "probability": 0.7217065691947937
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 0,
+      "start": 17.24,
+      "end": 18.48,
+      "text": " Granite Kitchen Platform",
+      "tokens": [
+        51225,
+        23554,
+        642,
+        23135,
+        28707,
+        51293
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.603010504095404,
+      "compression_ratio": 1.5211581291759466,
+      "no_speech_prob": 0.013252499513328075,
+      "words": [
+        {
+          "word": " Granite",
+          "start": 17.24,
+          "end": 17.74,
+          "probability": 0.48274318873882294
+        },
+        {
+          "word": " Kitchen",
+          "start": 17.74,
+          "end": 17.96,
+          "probability": 0.935907781124115
+        },
+        {
+          "word": " Platform",
+          "start": 17.96,
+          "end": 18.48,
+          "probability": 0.7416454553604126
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 0,
+      "start": 18.48,
+      "end": 19.58,
+      "text": " or stainless steel sink",
+      "tokens": [
+        51293,
+        420,
+        24048,
+        8269,
+        9500,
+        51344
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.603010504095404,
+      "compression_ratio": 1.5211581291759466,
+      "no_speech_prob": 0.013252499513328075,
+      "words": [
+        {
+          "word": " or",
+          "start": 18.48,
+          "end": 18.72,
+          "probability": 0.3358166217803955
+        },
+        {
+          "word": " stainless",
+          "start": 18.72,
+          "end": 19.04,
+          "probability": 0.37842077016830444
+        },
+        {
+          "word": " steel",
+          "start": 19.04,
+          "end": 19.32,
+          "probability": 0.9609856605529785
+        },
+        {
+          "word": " sink",
+          "start": 19.32,
+          "end": 19.58,
+          "probability": 0.8696911931037903
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 0,
+      "start": 19.58,
+      "end": 20.12,
+      "text": " ملتا ہے",
+      "tokens": [
+        51344,
+        3714,
+        1211,
+        2655,
+        995,
+        23905,
+        51369
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.603010504095404,
+      "compression_ratio": 1.5211581291759466,
+      "no_speech_prob": 0.013252499513328075,
+      "words": [
+        {
+          "word": " ملتا",
+          "start": 19.58,
+          "end": 19.94,
+          "probability": 0.8002955093979836
+        },
+        {
+          "word": " ہے",
+          "start": 19.94,
+          "end": 20.12,
+          "probability": 0.9891586899757385
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 0,
+      "start": 20.12,
+      "end": 20.54,
+      "text": " Saathie",
+      "tokens": [
+        51369,
+        6299,
+        998,
+        414,
+        51392
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.603010504095404,
+      "compression_ratio": 1.5211581291759466,
+      "no_speech_prob": 0.013252499513328075,
+      "words": [
+        {
+          "word": " Saathie",
+          "start": 20.12,
+          "end": 20.54,
+          "probability": 0.5140320360660553
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 0,
+      "start": 20.54,
+      "end": 21.38,
+      "text": " full-tiled kitchen",
+      "tokens": [
+        51392,
+        1577,
+        12,
+        83,
+        7292,
+        6525,
+        51437
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.603010504095404,
+      "compression_ratio": 1.5211581291759466,
+      "no_speech_prob": 0.013252499513328075,
+      "words": [
+        {
+          "word": " full",
+          "start": 20.54,
+          "end": 20.74,
+          "probability": 0.4824240207672119
+        },
+        {
+          "word": "-tiled",
+          "start": 20.74,
+          "end": 21.04,
+          "probability": 0.77859499057134
+        },
+        {
+          "word": " kitchen",
+          "start": 21.04,
+          "end": 21.38,
+          "probability": 0.9240979552268982
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 0,
+      "start": 21.38,
+      "end": 23.22,
+      "text": " elegant bathroom with premium fittings",
+      "tokens": [
+        51437,
+        21117,
+        8687,
+        365,
+        12049,
+        48876,
+        1109,
+        51524
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.603010504095404,
+      "compression_ratio": 1.5211581291759466,
+      "no_speech_prob": 0.013252499513328075,
+      "words": [
+        {
+          "word": " elegant",
+          "start": 21.38,
+          "end": 21.76,
+          "probability": 0.7144186496734619
+        },
+        {
+          "word": " bathroom",
+          "start": 21.76,
+          "end": 22.22,
+          "probability": 0.9548124670982361
+        },
+        {
+          "word": " with",
+          "start": 22.22,
+          "end": 22.44,
+          "probability": 0.9641109704971313
+        },
+        {
+          "word": " premium",
+          "start": 22.44,
+          "end": 22.72,
+          "probability": 0.9790207147598267
+        },
+        {
+          "word": " fittings",
+          "start": 22.72,
+          "end": 23.22,
+          "probability": 0.9829217791557312
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 0,
+      "start": 23.22,
+      "end": 24.96,
+      "text": " high-speed elevators with power back up",
+      "tokens": [
+        51524,
+        1090,
+        12,
+        22746,
+        7701,
+        3391,
+        365,
+        1347,
+        646,
+        493,
+        51614
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.603010504095404,
+      "compression_ratio": 1.5211581291759466,
+      "no_speech_prob": 0.013252499513328075,
+      "words": [
+        {
+          "word": " high",
+          "start": 23.22,
+          "end": 23.44,
+          "probability": 0.757150411605835
+        },
+        {
+          "word": "-speed",
+          "start": 23.44,
+          "end": 23.62,
+          "probability": 0.651400163769722
+        },
+        {
+          "word": " elevators",
+          "start": 23.62,
+          "end": 24.1,
+          "probability": 0.9078890979290009
+        },
+        {
+          "word": " with",
+          "start": 24.1,
+          "end": 24.32,
+          "probability": 0.9869344234466553
+        },
+        {
+          "word": " power",
+          "start": 24.32,
+          "end": 24.54,
+          "probability": 0.9570825099945068
+        },
+        {
+          "word": " back",
+          "start": 24.54,
+          "end": 24.74,
+          "probability": 0.4372330904006958
+        },
+        {
+          "word": " up",
+          "start": 24.74,
+          "end": 24.96,
+          "probability": 0.6695848703384399
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 0,
+      "start": 24.96,
+      "end": 26.0,
+      "text": " CCTV security",
+      "tokens": [
+        51614,
+        44838,
+        3825,
+        51669
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.603010504095404,
+      "compression_ratio": 1.5211581291759466,
+      "no_speech_prob": 0.013252499513328075,
+      "words": [
+        {
+          "word": " CCTV",
+          "start": 24.96,
+          "end": 25.34,
+          "probability": 0.24944883584976196
+        },
+        {
+          "word": " security",
+          "start": 25.34,
+          "end": 26.0,
+          "probability": 0.9005841612815857
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 0,
+      "start": 26.0,
+      "end": 27.14,
+      "text": " and fire fighting system",
+      "tokens": [
+        51669,
+        293,
+        2610,
+        5237,
+        1185,
+        51726
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.603010504095404,
+      "compression_ratio": 1.5211581291759466,
+      "no_speech_prob": 0.013252499513328075,
+      "words": [
+        {
+          "word": " and",
+          "start": 26.0,
+          "end": 26.28,
+          "probability": 0.6555426716804504
+        },
+        {
+          "word": " fire",
+          "start": 26.28,
+          "end": 26.5,
+          "probability": 0.8024119734764099
+        },
+        {
+          "word": " fighting",
+          "start": 26.5,
+          "end": 26.8,
+          "probability": 0.8424051403999329
+        },
+        {
+          "word": " system",
+          "start": 26.8,
+          "end": 27.14,
+          "probability": 0.9447744488716125
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 2714,
+      "start": 27.14,
+      "end": 28.58,
+      "text": " بھی ہے اور سب سے اپوٹن بار",
+      "tokens": [
+        50364,
+        4724,
+        36078,
+        23905,
+        32930,
+        8608,
+        3555,
+        34190,
+        1975,
+        27779,
+        2407,
+        37130,
+        1863,
+        4724,
+        9640,
+        50437
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6449280923871852,
+      "compression_ratio": 1.1502890173410405,
+      "no_speech_prob": 0.6417113542556763,
+      "words": [
+        {
+          "word": " بھی",
+          "start": 27.14,
+          "end": 27.34,
+          "probability": 0.49014057620661333
+        },
+        {
+          "word": " ہے",
+          "start": 27.34,
+          "end": 27.48,
+          "probability": 0.5811735391616821
+        },
+        {
+          "word": " اور",
+          "start": 27.48,
+          "end": 27.68,
+          "probability": 0.2181464433670044
+        },
+        {
+          "word": " سب",
+          "start": 27.68,
+          "end": 27.9,
+          "probability": 0.14637763053178787
+        },
+        {
+          "word": " سے",
+          "start": 27.9,
+          "end": 28.02,
+          "probability": 0.8401343822479248
+        },
+        {
+          "word": " اپوٹن",
+          "start": 28.02,
+          "end": 28.36,
+          "probability": 0.2600678913295269
+        },
+        {
+          "word": " بار",
+          "start": 28.36,
+          "end": 28.58,
+          "probability": 0.2625349313020706
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 2714,
+      "start": 28.58,
+      "end": 31.04,
+      "text": " 1 BHK only 24 lakh all inclusive",
+      "tokens": [
+        50437,
+        502,
+        40342,
+        42,
+        787,
+        4022,
+        33314,
+        439,
+        13429,
+        50561
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6449280923871852,
+      "compression_ratio": 1.1502890173410405,
+      "no_speech_prob": 0.6417113542556763,
+      "words": [
+        {
+          "word": " 1",
+          "start": 28.58,
+          "end": 28.88,
+          "probability": 0.6102767586708069
+        },
+        {
+          "word": " BHK",
+          "start": 28.88,
+          "end": 29.28,
+          "probability": 0.6088031232357025
+        },
+        {
+          "word": " only",
+          "start": 29.28,
+          "end": 29.42,
+          "probability": 0.0124718202278018
+        },
+        {
+          "word": " 24",
+          "start": 29.42,
+          "end": 29.98,
+          "probability": 0.726567804813385
+        },
+        {
+          "word": " lakh",
+          "start": 29.98,
+          "end": 30.18,
+          "probability": 0.257681667804718
+        },
+        {
+          "word": " all",
+          "start": 30.18,
+          "end": 30.56,
+          "probability": 0.920952558517456
+        },
+        {
+          "word": " inclusive",
+          "start": 30.56,
+          "end": 31.04,
+          "probability": 0.7283391356468201
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 2714,
+      "start": 31.04,
+      "end": 32.58,
+      "text": " ghar کے بارے میں جانکاری کے لئے",
+      "tokens": [
+        50561,
+        290,
+        5854,
+        24049,
+        4724,
+        9640,
+        7369,
+        27875,
+        10874,
+        7649,
+        6007,
+        9640,
+        4135,
+        24049,
+        5296,
+        19986,
+        7369,
+        50633
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6449280923871852,
+      "compression_ratio": 1.1502890173410405,
+      "no_speech_prob": 0.6417113542556763,
+      "words": [
+        {
+          "word": " ghar",
+          "start": 31.04,
+          "end": 31.3,
+          "probability": 0.3734313566237688
+        },
+        {
+          "word": " کے",
+          "start": 31.3,
+          "end": 31.42,
+          "probability": 0.06336724758148193
+        },
+        {
+          "word": " بارے",
+          "start": 31.42,
+          "end": 31.66,
+          "probability": 0.7407266795635223
+        },
+        {
+          "word": " میں",
+          "start": 31.66,
+          "end": 31.72,
+          "probability": 0.9740803837776184
+        },
+        {
+          "word": " جانکاری",
+          "start": 31.72,
+          "end": 32.18,
+          "probability": 0.6923842132091522
+        },
+        {
+          "word": " کے",
+          "start": 32.18,
+          "end": 32.28,
+          "probability": 0.5822555422782898
+        },
+        {
+          "word": " لئے",
+          "start": 32.28,
+          "end": 32.58,
+          "probability": 0.8455259998639425
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 2714,
+      "start": 32.58,
+      "end": 33.9,
+      "text": " نیچھے دیگے contact details",
+      "tokens": [
+        50633,
+        8717,
+        4135,
+        24061,
+        14268,
+        7369,
+        11778,
+        4135,
+        16761,
+        7369,
+        3385,
+        4365,
+        50705
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6449280923871852,
+      "compression_ratio": 1.1502890173410405,
+      "no_speech_prob": 0.6417113542556763,
+      "words": [
+        {
+          "word": " نیچھے",
+          "start": 32.58,
+          "end": 32.98,
+          "probability": 0.7045291841030121
+        },
+        {
+          "word": " دیگے",
+          "start": 32.98,
+          "end": 33.18,
+          "probability": 0.7205818220973015
+        },
+        {
+          "word": " contact",
+          "start": 33.18,
+          "end": 33.44,
+          "probability": 0.018220553174614906
+        },
+        {
+          "word": " details",
+          "start": 33.44,
+          "end": 33.9,
+          "probability": 0.9207482933998108
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 2714,
+      "start": 33.9,
+      "end": 35.22,
+      "text": " پر call or WhatsApp کریں",
+      "tokens": [
+        50705,
+        21453,
+        2288,
+        818,
+        420,
+        30513,
+        29688,
+        14768,
+        50771
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6449280923871852,
+      "compression_ratio": 1.1502890173410405,
+      "no_speech_prob": 0.6417113542556763,
+      "words": [
+        {
+          "word": " پر",
+          "start": 33.9,
+          "end": 34.16,
+          "probability": 0.46937674283981323
+        },
+        {
+          "word": " call",
+          "start": 34.16,
+          "end": 34.36,
+          "probability": 0.8296266198158264
+        },
+        {
+          "word": " or",
+          "start": 34.36,
+          "end": 34.58,
+          "probability": 0.687130331993103
+        },
+        {
+          "word": " WhatsApp",
+          "start": 34.58,
+          "end": 34.88,
+          "probability": 0.44130977988243103
+        },
+        {
+          "word": " کریں",
+          "start": 34.88,
+          "end": 35.22,
+          "probability": 0.7536605298519135
+        }
+      ]
+    }
+  ],
+  "language": "hi"
+}

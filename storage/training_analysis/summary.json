@@ -1,0 +1,100 @@
+[
+  {
+    "video_index": 1,
+    "filename": "Chinese labs are finally back. Someone even made a CS-GO x Portal using Kimi K3 for $3.24 in API.mp4",
+    "duration": 70.12,
+    "sample_frames_count": 15,
+    "frames_dir": "storage\\training_analysis\\vid_01"
+  },
+  {
+    "video_index": 2,
+    "filename": "Everyones arguing about whether voice or glasses replace the chatbot. But the bottleneck was ne.mp4",
+    "duration": 110.78,
+    "sample_frames_count": 15,
+    "frames_dir": "storage\\training_analysis\\vid_02"
+  },
+  {
+    "video_index": 3,
+    "filename": "Fable 5 just solved a maths problem that was basically impossible to solve for 87 years!.mp4",
+    "duration": 104.77000000000001,
+    "sample_frames_count": 15,
+    "frames_dir": "storage\\training_analysis\\vid_03"
+  },
+  {
+    "video_index": 4,
+    "filename": "Heres How This Engineer Saved Half of the Internet from the Worst Cyber Attack.It started with .mp4",
+    "duration": 92.5,
+    "sample_frames_count": 15,
+    "frames_dir": "storage\\training_analysis\\vid_04"
+  },
+  {
+    "video_index": 5,
+    "filename": "I Found a Hiring Hack Using Codex That Sources, Vets & Emails Talent From YouTube. #AD.mp4",
+    "duration": 143.19,
+    "sample_frames_count": 15,
+    "frames_dir": "storage\\training_analysis\\vid_05"
+  },
+  {
+    "video_index": 6,
+    "filename": "OpenAI just released their first ever hardware. Its a compact control deck for agentic coding c.mp4",
+    "duration": 45.25,
+    "sample_frames_count": 23,
+    "frames_dir": "storage\\training_analysis\\vid_06"
+  },
+  {
+    "video_index": 7,
+    "filename": "So we spend upwards of 5k USD on AI-generated b-rolls almost every month, and I keep telling peo.mp4",
+    "duration": 60.48,
+    "sample_frames_count": 15,
+    "frames_dir": "storage\\training_analysis\\vid_07"
+  },
+  {
+    "video_index": 8,
+    "filename": "Someone just built Tom Riddles diary from Harry Potter using AI. You write with a stylus, your .mp4",
+    "duration": 50.15,
+    "sample_frames_count": 25,
+    "frames_dir": "storage\\training_analysis\\vid_08"
+  },
+  {
+    "video_index": 9,
+    "filename": "The hardware ceiling on humanoid robots might actually be gone. 1X just built a hand that holds .mp4",
+    "duration": 62.42,
+    "sample_frames_count": 15,
+    "frames_dir": "storage\\training_analysis\\vid_09"
+  },
+  {
+    "video_index": 10,
+    "filename": "This engineer just discovered a hack that gives us 12% faster CPUs by just adding the number 3 t.mp4",
+    "duration": 72.68,
+    "sample_frames_count": 15,
+    "frames_dir": "storage\\training_analysis\\vid_10"
+  },
+  {
+    "video_index": 11,
+    "filename": "This might be one of the most interesting features on the Nothing phone 4(b).Its called Essenti.mp4",
+    "duration": 56.08,
+    "sample_frames_count": 15,
+    "frames_dir": "storage\\training_analysis\\vid_11"
+  },
+  {
+    "video_index": 12,
+    "filename": "We just built this app using Emergent that automatically finds every subsidy, grant, tax benefit.mp4",
+    "duration": 62.78,
+    "sample_frames_count": 15,
+    "frames_dir": "storage\\training_analysis\\vid_12"
+  },
+  {
+    "video_index": 13,
+    "filename": "Xbox Cloud Gaming is testing a free tier. Watch one ad, then play. No Game Pass subscription nee.mp4",
+    "duration": 50.09,
+    "sample_frames_count": 25,
+    "frames_dir": "storage\\training_analysis\\vid_13"
+  },
+  {
+    "video_index": 14,
+    "filename": "You can now control your cursor using your tongue!.mp4",
+    "duration": 58.84,
+    "sample_frames_count": 15,
+    "frames_dir": "storage\\training_analysis\\vid_14"
+  }
+]

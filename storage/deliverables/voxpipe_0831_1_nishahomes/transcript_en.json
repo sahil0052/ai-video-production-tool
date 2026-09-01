@@ -1,0 +1,1382 @@
+{
+  "text": " What is the biggest mistake of buying a property? Just look at the price. Because the house is not necessary to be a real deal. How is the location? How is the project? When will we get the possession? Ready to move? And if you sell it from tomorrow, who will be the buyer? There is a listing and a smart investment in the investment. We don't only see options in Nisha homes with this approach. We look for right options from your budget and requirement. Gurgau, Noida, Ghasiaabad or South Delhi. Take affordable, economy and premium. Ready to move options are available. And if you are selling your ready to move property, then you are not enough to pay for sale. Saheep Rising, Saheep Presentation and the most important, Saheep buyer. Nisha Homes. Come to the property and focus on the right deal.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.38,
+      "text": " What is the biggest mistake of buying a property?",
+      "tokens": [
+        50364,
+        708,
+        307,
+        264,
+        3880,
+        6146,
+        295,
+        6382,
+        257,
+        4707,
+        30,
+        50488
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5219977996634237,
+      "compression_ratio": 1.6973293768545994,
+      "no_speech_prob": 0.019869238138198853,
+      "words": [
+        {
+          "word": " What",
+          "start": 0.0,
+          "end": 0.52,
+          "probability": 0.13239678740501404
+        },
+        {
+          "word": " is",
+          "start": 0.52,
+          "end": 0.92,
+          "probability": 0.676804780960083
+        },
+        {
+          "word": " the",
+          "start": 0.92,
+          "end": 1.1,
+          "probability": 0.9120450019836426
+        },
+        {
+          "word": " biggest",
+          "start": 1.1,
+          "end": 1.46,
+          "probability": 0.8797443509101868
+        },
+        {
+          "word": " mistake",
+          "start": 1.46,
+          "end": 1.96,
+          "probability": 0.7800477743148804
+        },
+        {
+          "word": " of",
+          "start": 1.96,
+          "end": 2.38,
+          "probability": 0.2728160619735718
+        },
+        {
+          "word": " buying",
+          "start": 2.38,
+          "end": 2.38,
+          "probability": 0.5221351981163025
+        },
+        {
+          "word": " a",
+          "start": 2.38,
+          "end": 2.38,
+          "probability": 0.39723050594329834
+        },
+        {
+          "word": " property?",
+          "start": 2.38,
+          "end": 2.38,
+          "probability": 0.9682890772819519
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.38,
+      "end": 3.3,
+      "text": " Just look at the price.",
+      "tokens": [
+        50488,
+        1449,
+        574,
+        412,
+        264,
+        3218,
+        13,
+        50540
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5219977996634237,
+      "compression_ratio": 1.6973293768545994,
+      "no_speech_prob": 0.019869238138198853,
+      "words": [
+        {
+          "word": " Just",
+          "start": 2.38,
+          "end": 2.66,
+          "probability": 0.5843762755393982
+        },
+        {
+          "word": " look",
+          "start": 2.66,
+          "end": 2.66,
+          "probability": 0.2920243740081787
+        },
+        {
+          "word": " at",
+          "start": 2.66,
+          "end": 2.66,
+          "probability": 0.8996906876564026
+        },
+        {
+          "word": " the",
+          "start": 2.66,
+          "end": 2.66,
+          "probability": 0.9229739904403687
+        },
+        {
+          "word": " price.",
+          "start": 2.66,
+          "end": 3.3,
+          "probability": 0.9512500166893005
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 3.58,
+      "end": 5.78,
+      "text": " Because the house is not necessary to be a real deal.",
+      "tokens": [
+        50540,
+        1436,
+        264,
+        1782,
+        307,
+        406,
+        4818,
+        281,
+        312,
+        257,
+        957,
+        2028,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5219977996634237,
+      "compression_ratio": 1.6973293768545994,
+      "no_speech_prob": 0.019869238138198853,
+      "words": [
+        {
+          "word": " Because",
+          "start": 3.58,
+          "end": 3.7,
+          "probability": 0.7428854703903198
+        },
+        {
+          "word": " the",
+          "start": 3.7,
+          "end": 3.86,
+          "probability": 0.2695704400539398
+        },
+        {
+          "word": " house",
+          "start": 3.86,
+          "end": 4.26,
+          "probability": 0.1968671977519989
+        },
+        {
+          "word": " is",
+          "start": 4.26,
+          "end": 4.46,
+          "probability": 0.6324098706245422
+        },
+        {
+          "word": " not",
+          "start": 4.46,
+          "end": 4.46,
+          "probability": 0.7903639674186707
+        },
+        {
+          "word": " necessary",
+          "start": 4.46,
+          "end": 4.86,
+          "probability": 0.2897477447986603
+        },
+        {
+          "word": " to",
+          "start": 4.86,
+          "end": 5.28,
+          "probability": 0.23914359509944916
+        },
+        {
+          "word": " be",
+          "start": 5.28,
+          "end": 5.36,
+          "probability": 0.19009439647197723
+        },
+        {
+          "word": " a",
+          "start": 5.36,
+          "end": 5.36,
+          "probability": 0.07825236767530441
+        },
+        {
+          "word": " real",
+          "start": 5.36,
+          "end": 5.54,
+          "probability": 0.19035474956035614
+        },
+        {
+          "word": " deal.",
+          "start": 5.54,
+          "end": 5.78,
+          "probability": 0.9846879839897156
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 6.06,
+      "end": 6.44,
+      "text": " How is the location?",
+      "tokens": [
+        50664,
+        1012,
+        307,
+        264,
+        4914,
+        30,
+        50720
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5219977996634237,
+      "compression_ratio": 1.6973293768545994,
+      "no_speech_prob": 0.019869238138198853,
+      "words": [
+        {
+          "word": " How",
+          "start": 6.06,
+          "end": 6.08,
+          "probability": 0.677868127822876
+        },
+        {
+          "word": " is",
+          "start": 6.08,
+          "end": 6.08,
+          "probability": 0.7282508015632629
+        },
+        {
+          "word": " the",
+          "start": 6.08,
+          "end": 6.08,
+          "probability": 0.8293365240097046
+        },
+        {
+          "word": " location?",
+          "start": 6.08,
+          "end": 6.44,
+          "probability": 0.9832752346992493
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 7.04,
+      "end": 7.46,
+      "text": " How is the project?",
+      "tokens": [
+        50720,
+        1012,
+        307,
+        264,
+        1716,
+        30,
+        50770
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5219977996634237,
+      "compression_ratio": 1.6973293768545994,
+      "no_speech_prob": 0.019869238138198853,
+      "words": [
+        {
+          "word": " How",
+          "start": 7.04,
+          "end": 7.26,
+          "probability": 0.8079952001571655
+        },
+        {
+          "word": " is",
+          "start": 7.26,
+          "end": 7.28,
+          "probability": 0.7775912880897522
+        },
+        {
+          "word": " the",
+          "start": 7.28,
+          "end": 7.46,
+          "probability": 0.9253026843070984
+        },
+        {
+          "word": " project?",
+          "start": 7.46,
+          "end": 7.46,
+          "probability": 0.9787204265594482
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 8.02,
+      "end": 8.64,
+      "text": " When will we get the possession?",
+      "tokens": [
+        50770,
+        1133,
+        486,
+        321,
+        483,
+        264,
+        20935,
+        30,
+        50828
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5219977996634237,
+      "compression_ratio": 1.6973293768545994,
+      "no_speech_prob": 0.019869238138198853,
+      "words": [
+        {
+          "word": " When",
+          "start": 8.02,
+          "end": 8.22,
+          "probability": 0.602662980556488
+        },
+        {
+          "word": " will",
+          "start": 8.22,
+          "end": 8.22,
+          "probability": 0.7907558083534241
+        },
+        {
+          "word": " we",
+          "start": 8.22,
+          "end": 8.22,
+          "probability": 0.4048059284687042
+        },
+        {
+          "word": " get",
+          "start": 8.22,
+          "end": 8.22,
+          "probability": 0.8538443446159363
+        },
+        {
+          "word": " the",
+          "start": 8.22,
+          "end": 8.22,
+          "probability": 0.5773295164108276
+        },
+        {
+          "word": " possession?",
+          "start": 8.22,
+          "end": 8.64,
+          "probability": 0.6580317616462708
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 9.24,
+      "end": 9.82,
+      "text": " Ready to move?",
+      "tokens": [
+        50828,
+        9944,
+        281,
+        1286,
+        30,
+        50870
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5219977996634237,
+      "compression_ratio": 1.6973293768545994,
+      "no_speech_prob": 0.019869238138198853,
+      "words": [
+        {
+          "word": " Ready",
+          "start": 9.24,
+          "end": 9.46,
+          "probability": 0.38553792238235474
+        },
+        {
+          "word": " to",
+          "start": 9.46,
+          "end": 9.64,
+          "probability": 0.9610761404037476
+        },
+        {
+          "word": " move?",
+          "start": 9.64,
+          "end": 9.82,
+          "probability": 0.9767031073570251
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 10.12,
+      "end": 11.7,
+      "text": " And if you sell it from tomorrow, who will be the buyer?",
+      "tokens": [
+        50870,
+        400,
+        498,
+        291,
+        3607,
+        309,
+        490,
+        4153,
+        11,
+        567,
+        486,
+        312,
+        264,
+        24645,
+        30,
+        50978
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5219977996634237,
+      "compression_ratio": 1.6973293768545994,
+      "no_speech_prob": 0.019869238138198853,
+      "words": [
+        {
+          "word": " And",
+          "start": 10.12,
+          "end": 10.24,
+          "probability": 0.47306451201438904
+        },
+        {
+          "word": " if",
+          "start": 10.24,
+          "end": 10.36,
+          "probability": 0.5366463661193848
+        },
+        {
+          "word": " you",
+          "start": 10.36,
+          "end": 10.72,
+          "probability": 0.5977665781974792
+        },
+        {
+          "word": " sell",
+          "start": 10.72,
+          "end": 10.84,
+          "probability": 0.7120499610900879
+        },
+        {
+          "word": " it",
+          "start": 10.84,
+          "end": 10.96,
+          "probability": 0.8658237457275391
+        },
+        {
+          "word": " from",
+          "start": 10.96,
+          "end": 10.96,
+          "probability": 0.4290888011455536
+        },
+        {
+          "word": " tomorrow,",
+          "start": 10.96,
+          "end": 10.96,
+          "probability": 0.9372571706771851
+        },
+        {
+          "word": " who",
+          "start": 11.24,
+          "end": 11.46,
+          "probability": 0.38185247778892517
+        },
+        {
+          "word": " will",
+          "start": 11.46,
+          "end": 11.46,
+          "probability": 0.7554364204406738
+        },
+        {
+          "word": " be",
+          "start": 11.46,
+          "end": 11.46,
+          "probability": 0.5043985843658447
+        },
+        {
+          "word": " the",
+          "start": 11.46,
+          "end": 11.7,
+          "probability": 0.3300735354423523
+        },
+        {
+          "word": " buyer?",
+          "start": 11.7,
+          "end": 11.7,
+          "probability": 0.9912958145141602
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 12.26,
+      "end": 14.92,
+      "text": " There is a listing and a smart investment in the investment.",
+      "tokens": [
+        50978,
+        821,
+        307,
+        257,
+        22161,
+        293,
+        257,
+        4069,
+        6078,
+        294,
+        264,
+        6078,
+        13,
+        51122
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5219977996634237,
+      "compression_ratio": 1.6973293768545994,
+      "no_speech_prob": 0.019869238138198853,
+      "words": [
+        {
+          "word": " There",
+          "start": 12.26,
+          "end": 12.68,
+          "probability": 0.32445159554481506
+        },
+        {
+          "word": " is",
+          "start": 12.68,
+          "end": 12.68,
+          "probability": 0.8148055672645569
+        },
+        {
+          "word": " a",
+          "start": 12.68,
+          "end": 12.72,
+          "probability": 0.9104241728782654
+        },
+        {
+          "word": " listing",
+          "start": 12.72,
+          "end": 13.12,
+          "probability": 0.9259994029998779
+        },
+        {
+          "word": " and",
+          "start": 13.12,
+          "end": 13.36,
+          "probability": 0.8466048836708069
+        },
+        {
+          "word": " a",
+          "start": 13.36,
+          "end": 13.44,
+          "probability": 0.8573212623596191
+        },
+        {
+          "word": " smart",
+          "start": 13.44,
+          "end": 13.76,
+          "probability": 0.9636380672454834
+        },
+        {
+          "word": " investment",
+          "start": 13.76,
+          "end": 14.34,
+          "probability": 0.9904482960700989
+        },
+        {
+          "word": " in",
+          "start": 14.34,
+          "end": 14.42,
+          "probability": 0.29493460059165955
+        },
+        {
+          "word": " the",
+          "start": 14.42,
+          "end": 14.92,
+          "probability": 0.40242961049079895
+        },
+        {
+          "word": " investment.",
+          "start": 14.92,
+          "end": 14.92,
+          "probability": 0.2270277440547943
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 15.16,
+      "end": 17.28,
+      "text": " We don't only see options in Nisha homes with this approach.",
+      "tokens": [
+        51122,
+        492,
+        500,
+        380,
+        787,
+        536,
+        3956,
+        294,
+        426,
+        16546,
+        7388,
+        365,
+        341,
+        3109,
+        13,
+        51288
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5219977996634237,
+      "compression_ratio": 1.6973293768545994,
+      "no_speech_prob": 0.019869238138198853,
+      "words": [
+        {
+          "word": " We",
+          "start": 15.16,
+          "end": 15.36,
+          "probability": 0.18044313788414001
+        },
+        {
+          "word": " don't",
+          "start": 15.36,
+          "end": 15.36,
+          "probability": 0.6461974829435349
+        },
+        {
+          "word": " only",
+          "start": 15.36,
+          "end": 15.36,
+          "probability": 0.5093610882759094
+        },
+        {
+          "word": " see",
+          "start": 15.36,
+          "end": 15.36,
+          "probability": 0.3695858120918274
+        },
+        {
+          "word": " options",
+          "start": 15.36,
+          "end": 15.36,
+          "probability": 0.9419346451759338
+        },
+        {
+          "word": " in",
+          "start": 15.36,
+          "end": 16.24,
+          "probability": 0.46703895926475525
+        },
+        {
+          "word": " Nisha",
+          "start": 16.24,
+          "end": 16.44,
+          "probability": 0.5071233361959457
+        },
+        {
+          "word": " homes",
+          "start": 16.44,
+          "end": 16.8,
+          "probability": 0.355121374130249
+        },
+        {
+          "word": " with",
+          "start": 16.8,
+          "end": 17.28,
+          "probability": 0.8057618737220764
+        },
+        {
+          "word": " this",
+          "start": 17.28,
+          "end": 17.28,
+          "probability": 0.5000371336936951
+        },
+        {
+          "word": " approach.",
+          "start": 17.28,
+          "end": 17.28,
+          "probability": 0.9862006306648254
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 0,
+      "start": 18.46,
+      "end": 20.5,
+      "text": " We look for right options from your budget and requirement.",
+      "tokens": [
+        51288,
+        492,
+        574,
+        337,
+        558,
+        3956,
+        490,
+        428,
+        4706,
+        293,
+        11695,
+        13,
+        51462
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5219977996634237,
+      "compression_ratio": 1.6973293768545994,
+      "no_speech_prob": 0.019869238138198853,
+      "words": [
+        {
+          "word": " We",
+          "start": 18.46,
+          "end": 18.6,
+          "probability": 0.9080175757408142
+        },
+        {
+          "word": " look",
+          "start": 18.6,
+          "end": 18.6,
+          "probability": 0.31552183628082275
+        },
+        {
+          "word": " for",
+          "start": 18.6,
+          "end": 18.6,
+          "probability": 0.9584769010543823
+        },
+        {
+          "word": " right",
+          "start": 18.6,
+          "end": 18.6,
+          "probability": 0.4945814609527588
+        },
+        {
+          "word": " options",
+          "start": 18.6,
+          "end": 18.6,
+          "probability": 0.9320248961448669
+        },
+        {
+          "word": " from",
+          "start": 18.6,
+          "end": 18.6,
+          "probability": 0.36787503957748413
+        },
+        {
+          "word": " your",
+          "start": 18.6,
+          "end": 18.82,
+          "probability": 0.39558884501457214
+        },
+        {
+          "word": " budget",
+          "start": 18.82,
+          "end": 19.2,
+          "probability": 0.9908952713012695
+        },
+        {
+          "word": " and",
+          "start": 19.2,
+          "end": 19.44,
+          "probability": 0.9136617183685303
+        },
+        {
+          "word": " requirement.",
+          "start": 19.44,
+          "end": 20.5,
+          "probability": 0.6942252516746521
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 0,
+      "start": 21.84,
+      "end": 24.46,
+      "text": " Gurgau, Noida, Ghasiaabad or South Delhi.",
+      "tokens": [
+        51462,
+        460,
+        5476,
+        1459,
+        11,
+        883,
+        2887,
+        11,
+        460,
+        12438,
+        654,
+        32776,
+        420,
+        4242,
+        26680,
+        13,
+        51594
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5219977996634237,
+      "compression_ratio": 1.6973293768545994,
+      "no_speech_prob": 0.019869238138198853,
+      "words": [
+        {
+          "word": " Gurgau,",
+          "start": 21.84,
+          "end": 22.4,
+          "probability": 0.47870032986005145
+        },
+        {
+          "word": " Noida,",
+          "start": 22.58,
+          "end": 22.84,
+          "probability": 0.7145288586616516
+        },
+        {
+          "word": " Ghasiaabad",
+          "start": 23.06,
+          "end": 23.5,
+          "probability": 0.5085864216089249
+        },
+        {
+          "word": " or",
+          "start": 23.5,
+          "end": 23.88,
+          "probability": 0.6582677960395813
+        },
+        {
+          "word": " South",
+          "start": 23.88,
+          "end": 24.22,
+          "probability": 0.9573243260383606
+        },
+        {
+          "word": " Delhi.",
+          "start": 24.22,
+          "end": 24.46,
+          "probability": 0.9895561337471008
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 0,
+      "start": 24.64,
+      "end": 26.88,
+      "text": " Take affordable, economy and premium.",
+      "tokens": [
+        51594,
+        3664,
+        12028,
+        11,
+        5010,
+        293,
+        12049,
+        13,
+        51724
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5219977996634237,
+      "compression_ratio": 1.6973293768545994,
+      "no_speech_prob": 0.019869238138198853,
+      "words": [
+        {
+          "word": " Take",
+          "start": 24.64,
+          "end": 24.66,
+          "probability": 0.06244751065969467
+        },
+        {
+          "word": " affordable,",
+          "start": 24.66,
+          "end": 25.1,
+          "probability": 0.5806689858436584
+        },
+        {
+          "word": " economy",
+          "start": 25.42,
+          "end": 26.04,
+          "probability": 0.7870086431503296
+        },
+        {
+          "word": " and",
+          "start": 26.04,
+          "end": 26.48,
+          "probability": 0.842578649520874
+        },
+        {
+          "word": " premium.",
+          "start": 26.48,
+          "end": 26.88,
+          "probability": 0.9801769256591797
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 0,
+      "start": 27.14,
+      "end": 28.48,
+      "text": " Ready to move options are available.",
+      "tokens": [
+        51724,
+        9944,
+        281,
+        1286,
+        3956,
+        366,
+        2435,
+        13,
+        51800
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5219977996634237,
+      "compression_ratio": 1.6973293768545994,
+      "no_speech_prob": 0.019869238138198853,
+      "words": [
+        {
+          "word": " Ready",
+          "start": 27.14,
+          "end": 27.34,
+          "probability": 0.8976442813873291
+        },
+        {
+          "word": " to",
+          "start": 27.34,
+          "end": 27.54,
+          "probability": 0.9459902048110962
+        },
+        {
+          "word": " move",
+          "start": 27.54,
+          "end": 27.66,
+          "probability": 0.9935814142227173
+        },
+        {
+          "word": " options",
+          "start": 27.66,
+          "end": 28.02,
+          "probability": 0.9563310742378235
+        },
+        {
+          "word": " are",
+          "start": 28.02,
+          "end": 28.2,
+          "probability": 0.591657280921936
+        },
+        {
+          "word": " available.",
+          "start": 28.2,
+          "end": 28.48,
+          "probability": 0.9924464821815491
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 2848,
+      "start": 28.48,
+      "end": 30.56,
+      "text": " And if you are selling your ready to move property,",
+      "tokens": [
+        50364,
+        400,
+        498,
+        291,
+        366,
+        6511,
+        428,
+        1919,
+        281,
+        1286,
+        4707,
+        11,
+        50510
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6639898595675616,
+      "compression_ratio": 1.4805194805194806,
+      "no_speech_prob": 0.08663859963417053,
+      "words": [
+        {
+          "word": " And",
+          "start": 28.48,
+          "end": 28.82,
+          "probability": 0.39085981249809265
+        },
+        {
+          "word": " if",
+          "start": 28.82,
+          "end": 29.08,
+          "probability": 0.9415807723999023
+        },
+        {
+          "word": " you",
+          "start": 29.08,
+          "end": 29.3,
+          "probability": 0.9865955114364624
+        },
+        {
+          "word": " are",
+          "start": 29.3,
+          "end": 29.48,
+          "probability": 0.7630003094673157
+        },
+        {
+          "word": " selling",
+          "start": 29.48,
+          "end": 29.48,
+          "probability": 0.10082484036684036
+        },
+        {
+          "word": " your",
+          "start": 29.48,
+          "end": 29.48,
+          "probability": 0.9027233123779297
+        },
+        {
+          "word": " ready",
+          "start": 29.48,
+          "end": 29.7,
+          "probability": 0.9343852400779724
+        },
+        {
+          "word": " to",
+          "start": 29.7,
+          "end": 29.92,
+          "probability": 0.7673088908195496
+        },
+        {
+          "word": " move",
+          "start": 29.92,
+          "end": 30.1,
+          "probability": 0.9951617121696472
+        },
+        {
+          "word": " property,",
+          "start": 30.1,
+          "end": 30.56,
+          "probability": 0.9794410467147827
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 2848,
+      "start": 31.44,
+      "end": 33.52,
+      "text": " then you are not enough to pay for sale.",
+      "tokens": [
+        50510,
+        550,
+        291,
+        366,
+        406,
+        1547,
+        281,
+        1689,
+        337,
+        8680,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6639898595675616,
+      "compression_ratio": 1.4805194805194806,
+      "no_speech_prob": 0.08663859963417053,
+      "words": [
+        {
+          "word": " then",
+          "start": 31.44,
+          "end": 31.62,
+          "probability": 0.357561320066452
+        },
+        {
+          "word": " you",
+          "start": 31.62,
+          "end": 32.34,
+          "probability": 0.2821197509765625
+        },
+        {
+          "word": " are",
+          "start": 32.34,
+          "end": 32.4,
+          "probability": 0.17693167924880981
+        },
+        {
+          "word": " not",
+          "start": 32.4,
+          "end": 32.4,
+          "probability": 0.6073617339134216
+        },
+        {
+          "word": " enough",
+          "start": 32.4,
+          "end": 33.52,
+          "probability": 0.3533995747566223
+        },
+        {
+          "word": " to",
+          "start": 33.52,
+          "end": 33.52,
+          "probability": 0.6923998594284058
+        },
+        {
+          "word": " pay",
+          "start": 33.52,
+          "end": 33.52,
+          "probability": 0.05324920639395714
+        },
+        {
+          "word": " for",
+          "start": 33.52,
+          "end": 33.52,
+          "probability": 0.5423905849456787
+        },
+        {
+          "word": " sale.",
+          "start": 33.52,
+          "end": 33.52,
+          "probability": 0.704962968826294
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 2848,
+      "start": 33.52,
+      "end": 37.06,
+      "text": " Saheep Rising, Saheep Presentation and the most important, Saheep buyer.",
+      "tokens": [
+        50614,
+        318,
+        545,
+        68,
+        595,
+        45957,
+        11,
+        318,
+        545,
+        68,
+        595,
+        33253,
+        399,
+        293,
+        264,
+        881,
+        1021,
+        11,
+        318,
+        545,
+        68,
+        595,
+        24645,
+        13,
+        50798
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6639898595675616,
+      "compression_ratio": 1.4805194805194806,
+      "no_speech_prob": 0.08663859963417053,
+      "words": [
+        {
+          "word": " Saheep",
+          "start": 33.52,
+          "end": 33.98,
+          "probability": 0.2385627832263708
+        },
+        {
+          "word": " Rising,",
+          "start": 33.98,
+          "end": 34.12,
+          "probability": 0.6928379535675049
+        },
+        {
+          "word": " Saheep",
+          "start": 34.48,
+          "end": 34.76,
+          "probability": 0.7055516391992569
+        },
+        {
+          "word": " Presentation",
+          "start": 34.76,
+          "end": 35.28,
+          "probability": 0.8224951326847076
+        },
+        {
+          "word": " and",
+          "start": 35.28,
+          "end": 35.52,
+          "probability": 0.48313403129577637
+        },
+        {
+          "word": " the",
+          "start": 35.52,
+          "end": 35.68,
+          "probability": 0.34853652119636536
+        },
+        {
+          "word": " most",
+          "start": 35.68,
+          "end": 35.86,
+          "probability": 0.874622642993927
+        },
+        {
+          "word": " important,",
+          "start": 35.86,
+          "end": 36.2,
+          "probability": 0.9192554950714111
+        },
+        {
+          "word": " Saheep",
+          "start": 36.54,
+          "end": 36.9,
+          "probability": 0.6143280093092471
+        },
+        {
+          "word": " buyer.",
+          "start": 36.9,
+          "end": 37.06,
+          "probability": 0.05983034148812294
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 2848,
+      "start": 37.28,
+      "end": 37.78,
+      "text": " Nisha Homes.",
+      "tokens": [
+        50798,
+        426,
+        16546,
+        389,
+        18168,
+        13,
+        50836
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6639898595675616,
+      "compression_ratio": 1.4805194805194806,
+      "no_speech_prob": 0.08663859963417053,
+      "words": [
+        {
+          "word": " Nisha",
+          "start": 37.28,
+          "end": 37.5,
+          "probability": 0.904527336359024
+        },
+        {
+          "word": " Homes.",
+          "start": 37.5,
+          "end": 37.78,
+          "probability": 0.48017067462205887
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 2848,
+      "start": 38.02,
+      "end": 39.44,
+      "text": " Come to the property and focus on the right deal.",
+      "tokens": [
+        50836,
+        2492,
+        281,
+        264,
+        4707,
+        293,
+        1879,
+        322,
+        264,
+        558,
+        2028,
+        13,
+        50942
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6639898595675616,
+      "compression_ratio": 1.4805194805194806,
+      "no_speech_prob": 0.08663859963417053,
+      "words": [
+        {
+          "word": " Come",
+          "start": 38.02,
+          "end": 38.1,
+          "probability": 0.12568902969360352
+        },
+        {
+          "word": " to",
+          "start": 38.1,
+          "end": 38.74,
+          "probability": 0.2798285484313965
+        },
+        {
+          "word": " the",
+          "start": 38.74,
+          "end": 38.74,
+          "probability": 0.28735560178756714
+        },
+        {
+          "word": " property",
+          "start": 38.74,
+          "end": 38.74,
+          "probability": 0.5305615067481995
+        },
+        {
+          "word": " and",
+          "start": 38.74,
+          "end": 38.98,
+          "probability": 0.4985623061656952
+        },
+        {
+          "word": " focus",
+          "start": 38.98,
+          "end": 39.0,
+          "probability": 0.9863816499710083
+        },
+        {
+          "word": " on",
+          "start": 39.0,
+          "end": 39.0,
+          "probability": 0.8513117432594299
+        },
+        {
+          "word": " the",
+          "start": 39.0,
+          "end": 39.08,
+          "probability": 0.40218475461006165
+        },
+        {
+          "word": " right",
+          "start": 39.08,
+          "end": 39.2,
+          "probability": 0.2682332694530487
+        },
+        {
+          "word": " deal.",
+          "start": 39.2,
+          "end": 39.44,
+          "probability": 0.8799666166305542
+        }
+      ]
+    }
+  ],
+  "language": "hi"
+}

@@ -1,0 +1,1521 @@
+{
+  "job_id": "voxpipe_0825_macro_master",
+  "source_video": "D:\\Downloads\\0825.mp4",
+  "duration": 51.8501875,
+  "fps": 30.0,
+  "style": "vox",
+  "beats": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 11.6,
+      "duration": 11.6,
+      "layout": "SPLIT_50_50",
+      "topic": "आपने noteis kiya hai, gold ka prize lite",
+      "concept_summary": "आपने noteis kiya hai, gold ka prize literally seconds mein change ho jaata hai. लेकिन question ye hai, price change karta koun hai. सिंपल अनसर है, buyer's or seller's. जब buyer's zyada price deneko ready hote hain,",
+      "prompt_shot": "Background: an aged blueprint grid with architectural schematics and circuit traces. FG: authentic paper collage cutouts representing आपने noteis kiya hai, gold ka prize literally seconds mein change ho jaata hai. लेकिन question ye hai, price change karta koun hai. सिंपल अनसर है, buyer's or seller's. जब buyer's zyada price deneko ready hote hain, snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera orbits a quarter turn, focus racking front to back. Settle on आपने noteis kiya hai, gold ka prize in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: an aged blueprint grid with architectural schematics and circuit traces. FG: authentic paper collage cutouts representing आपने noteis kiya hai, gold ka prize literally seconds mein change ho jaata hai. लेकिन question ye hai, price change karta koun hai. सिंपल अनसर है, buyer's or seller's. जब buyer's zyada price deneko ready hote hain, snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera orbits a quarter turn, focus racking front to back. Settle on आपने noteis kiya hai, gold ka prize in sharp focus.\n\nAUDIO: paper pops, whip whoosh, low newsroom hum — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 2,
+      "start": 11.6,
+      "end": 23.9,
+      "duration": 12.3,
+      "layout": "SPLIT_50_50",
+      "topic": "और seller's apni price change krta hain,",
+      "concept_summary": "और seller's apni price change krta hain, तो market price bhi move hote hai. इमाजगन ek gold shop. अगर ek buyer 7000 offer kar rahe hai, प्रैज वही हो सकता है. लेकिन अगर buyer's 7000 50 bhi dene lagin, seller bhi apni asking price badha ashta hai.",
+      "prompt_shot": "Background: a faded world map tilted in perspective, far out of focus. FG: authentic paper collage cutouts representing और seller's apni price change krta hain, तो market price bhi move hote hai. इमाजगन ek gold shop. अगर ek buyer 7000 offer kar rahe hai, प्रैज वही हो सकता है. लेकिन अगर buyer's 7000 50 bhi dene lagin, seller bhi apni asking price badha ashta hai. snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera dives low between physical paper cutout layers with shallow depth of field. Settle on और seller's apni price change krta  in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a faded world map tilted in perspective, far out of focus. FG: authentic paper collage cutouts representing और seller's apni price change krta hain, तो market price bhi move hote hai. इमाजगन ek gold shop. अगर ek buyer 7000 offer kar rahe hai, प्रैज वही हो सकता है. लेकिन अगर buyer's 7000 50 bhi dene lagin, seller bhi apni asking price badha ashta hai. snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera dives low between physical paper cutout layers with shallow depth of field. Settle on और seller's apni price change krta  in sharp focus.\n\nAUDIO: submerge whoosh, deep pressure thud, paper thwip — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 3,
+      "start": 23.9,
+      "end": 38.22,
+      "duration": 14.32,
+      "layout": "SPLIT_50_50",
+      "topic": "अब इमजन करो ये प्रोसेस एक शोप में नहीं प",
+      "concept_summary": "अब इमजन करो ये प्रोसेस एक शोप में नहीं पूरी दून्या में सामलतेनियसली हो रहा है बांक्स, इंस्टिटूचन, ट्रेटर्स और इंवेस्टर्स कंटिन्यूस्ली भाई और सेल कर रहें है और जब इंपार्टन्ट एकनोमिक नूज आती है, बायर्ज और सेलर्स का बालन्स सेकिन्ज में चेंज हो सकता है",
+      "prompt_shot": "Background: stacked newspaper headline pages receding in deep perspective. FG: authentic paper collage cutouts representing अब इमजन करो ये प्रोसेस एक शोप में नहीं पूरी दून्या में सामलतेनियसली हो रहा है बांक्स, इंस्टिटूचन, ट्रेटर्स और इंवेस्टर्स कंटिन्यूस्ली भाई और सेल कर रहें है और जब इंपार्टन्ट एकनोमिक नूज आती है, बायर्ज और सेलर्स का बालन्स सेकिन्ज में चेंज हो सकता है snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera pushes in steadily through a torn paper opening onto the central figure. Settle on अब इमजन करो ये प्रोसेस एक शोप में न in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: stacked newspaper headline pages receding in deep perspective. FG: authentic paper collage cutouts representing अब इमजन करो ये प्रोसेस एक शोप में नहीं पूरी दून्या में सामलतेनियसली हो रहा है बांक्स, इंस्टिटूचन, ट्रेटर्स और इंवेस्टर्स कंटिन्यूस्ली भाई और सेल कर रहें है और जब इंपार्टन्ट एकनोमिक नूज आती है, बायर्ज और सेलर्स का बालन्स सेकिन्ज में चेंज हो सकता है snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera pushes in steadily through a torn paper opening onto the central figure. Settle on अब इमजन करो ये प्रोसेस एक शोप में न in sharp focus.\n\nAUDIO: paper tear, friction slide, low hum — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 4,
+      "start": 38.22,
+      "end": 51.85,
+      "duration": 13.63,
+      "layout": "SPLIT_50_50",
+      "topic": "इसी लिये गोल्ड का प्राइस सचनली मुव कर सक",
+      "concept_summary": "इसी लिये गोल्ड का प्राइस सचनली मुव कर सकता है इसी फास्ट मूविंग माक्किट में एकनोमिक नूज के अक्डिशन्स मुनिटर कर के अतमाटिकली आक्षन ले सकता है असे फोरेख्स, गोल्ड और एकन्सेप समपल लंगवेज में समझने है, तो फोलो कर लो",
+      "prompt_shot": "Background: a torn 1920s banking ledger page with columns of inked accounts at depth. FG: authentic paper collage cutouts representing इसी लिये गोल्ड का प्राइस सचनली मुव कर सकता है इसी फास्ट मूविंग माक्किट में एकनोमिक नूज के अक्डिशन्स मुनिटर कर के अतमाटिकली आक्षन ले सकता है असे फोरेख्स, गोल्ड और एकन्सेप समपल लंगवेज में समझने है, तो फोलो कर लो snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera performs a fast lateral track then hard stops with elastic overshoot. Settle on इसी लिये गोल्ड का प्राइस सचनली मुव  in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a torn 1920s banking ledger page with columns of inked accounts at depth. FG: authentic paper collage cutouts representing इसी लिये गोल्ड का प्राइस सचनली मुव कर सकता है इसी फास्ट मूविंग माक्किट में एकनोमिक नूज के अक्डिशन्स मुनिटर कर के अतमाटिकली आक्षन ले सकता है असे फोरेख्स, गोल्ड और एकन्सेप समपल लंगवेज में समझने है, तो फोलो कर लो snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera performs a fast lateral track then hard stops with elastic overshoot. Settle on इसी लिये गोल्ड का प्राइस सचनली मुव  in sharp focus.\n\nAUDIO: track rumble, stall click, paper pop — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    }
+  ],
+  "captions": [
+    {
+      "start": 0.0,
+      "end": 0.9,
+      "words": [
+        {
+          "word": "आपने",
+          "start": 0.0,
+          "end": 0.3,
+          "is_accent": false
+        },
+        {
+          "word": "noteis",
+          "start": 0.3,
+          "end": 0.66,
+          "is_accent": false
+        },
+        {
+          "word": "kiya",
+          "start": 0.66,
+          "end": 0.9,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "kiya"
+    },
+    {
+      "start": 0.9,
+      "end": 1.68,
+      "words": [
+        {
+          "word": "hai,",
+          "start": 0.9,
+          "end": 1.06,
+          "is_accent": false
+        },
+        {
+          "word": "gold",
+          "start": 1.22,
+          "end": 1.46,
+          "is_accent": false
+        },
+        {
+          "word": "ka",
+          "start": 1.46,
+          "end": 1.68,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "ka"
+    },
+    {
+      "start": 1.68,
+      "end": 3.06,
+      "words": [
+        {
+          "word": "prize",
+          "start": 1.68,
+          "end": 1.98,
+          "is_accent": false
+        },
+        {
+          "word": "literally",
+          "start": 1.98,
+          "end": 2.42,
+          "is_accent": false
+        },
+        {
+          "word": "seconds",
+          "start": 2.42,
+          "end": 3.06,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "seconds"
+    },
+    {
+      "start": 3.06,
+      "end": 3.68,
+      "words": [
+        {
+          "word": "mein",
+          "start": 3.06,
+          "end": 3.3,
+          "is_accent": false
+        },
+        {
+          "word": "change",
+          "start": 3.3,
+          "end": 3.52,
+          "is_accent": false
+        },
+        {
+          "word": "ho",
+          "start": 3.52,
+          "end": 3.68,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "ho"
+    },
+    {
+      "start": 3.68,
+      "end": 4.44,
+      "words": [
+        {
+          "word": "jaata",
+          "start": 3.68,
+          "end": 3.96,
+          "is_accent": false
+        },
+        {
+          "word": "hai.",
+          "start": 3.96,
+          "end": 4.06,
+          "is_accent": false
+        },
+        {
+          "word": "लेकिन",
+          "start": 4.16,
+          "end": 4.44,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "लेकिन"
+    },
+    {
+      "start": 4.44,
+      "end": 5.3,
+      "words": [
+        {
+          "word": "question",
+          "start": 4.44,
+          "end": 4.74,
+          "is_accent": false
+        },
+        {
+          "word": "ye",
+          "start": 4.74,
+          "end": 5.06,
+          "is_accent": false
+        },
+        {
+          "word": "hai,",
+          "start": 5.06,
+          "end": 5.3,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "hai,"
+    },
+    {
+      "start": 5.44,
+      "end": 6.36,
+      "words": [
+        {
+          "word": "price",
+          "start": 5.44,
+          "end": 5.66,
+          "is_accent": false
+        },
+        {
+          "word": "change",
+          "start": 5.66,
+          "end": 5.98,
+          "is_accent": false
+        },
+        {
+          "word": "karta",
+          "start": 5.98,
+          "end": 6.36,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "karta"
+    },
+    {
+      "start": 6.36,
+      "end": 7.36,
+      "words": [
+        {
+          "word": "koun",
+          "start": 6.36,
+          "end": 6.7,
+          "is_accent": false
+        },
+        {
+          "word": "hai.",
+          "start": 6.7,
+          "end": 6.86,
+          "is_accent": false
+        },
+        {
+          "word": "सिंपल",
+          "start": 6.98,
+          "end": 7.36,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "सिंपल"
+    },
+    {
+      "start": 7.36,
+      "end": 8.56,
+      "words": [
+        {
+          "word": "अनसर",
+          "start": 7.36,
+          "end": 7.72,
+          "is_accent": false
+        },
+        {
+          "word": "है,",
+          "start": 7.72,
+          "end": 7.88,
+          "is_accent": false
+        },
+        {
+          "word": "buyer's",
+          "start": 8.08,
+          "end": 8.56,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "buyer's"
+    },
+    {
+      "start": 8.56,
+      "end": 9.46,
+      "words": [
+        {
+          "word": "or",
+          "start": 8.56,
+          "end": 8.7,
+          "is_accent": false
+        },
+        {
+          "word": "seller's.",
+          "start": 8.7,
+          "end": 9.3,
+          "is_accent": false
+        },
+        {
+          "word": "जब",
+          "start": 9.38,
+          "end": 9.46,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "जब"
+    },
+    {
+      "start": 9.46,
+      "end": 10.42,
+      "words": [
+        {
+          "word": "buyer's",
+          "start": 9.46,
+          "end": 9.96,
+          "is_accent": false
+        },
+        {
+          "word": "zyada",
+          "start": 9.96,
+          "end": 10.14,
+          "is_accent": false
+        },
+        {
+          "word": "price",
+          "start": 10.14,
+          "end": 10.42,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "price"
+    },
+    {
+      "start": 10.42,
+      "end": 11.34,
+      "words": [
+        {
+          "word": "deneko",
+          "start": 10.42,
+          "end": 10.86,
+          "is_accent": false
+        },
+        {
+          "word": "ready",
+          "start": 10.86,
+          "end": 11.06,
+          "is_accent": false
+        },
+        {
+          "word": "hote",
+          "start": 11.06,
+          "end": 11.34,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "hote"
+    },
+    {
+      "start": 11.34,
+      "end": 12.2,
+      "words": [
+        {
+          "word": "hain,",
+          "start": 11.34,
+          "end": 11.6,
+          "is_accent": false
+        },
+        {
+          "word": "और",
+          "start": 11.7,
+          "end": 11.78,
+          "is_accent": false
+        },
+        {
+          "word": "seller's",
+          "start": 11.78,
+          "end": 12.2,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "seller's"
+    },
+    {
+      "start": 12.2,
+      "end": 12.96,
+      "words": [
+        {
+          "word": "apni",
+          "start": 12.2,
+          "end": 12.38,
+          "is_accent": false
+        },
+        {
+          "word": "price",
+          "start": 12.38,
+          "end": 12.66,
+          "is_accent": false
+        },
+        {
+          "word": "change",
+          "start": 12.66,
+          "end": 12.96,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "change"
+    },
+    {
+      "start": 12.96,
+      "end": 13.68,
+      "words": [
+        {
+          "word": "krta",
+          "start": 12.96,
+          "end": 13.34,
+          "is_accent": false
+        },
+        {
+          "word": "hain,",
+          "start": 13.34,
+          "end": 13.54,
+          "is_accent": false
+        },
+        {
+          "word": "तो",
+          "start": 13.6,
+          "end": 13.68,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "तो"
+    },
+    {
+      "start": 13.68,
+      "end": 14.4,
+      "words": [
+        {
+          "word": "market",
+          "start": 13.68,
+          "end": 13.92,
+          "is_accent": false
+        },
+        {
+          "word": "price",
+          "start": 13.92,
+          "end": 14.22,
+          "is_accent": false
+        },
+        {
+          "word": "bhi",
+          "start": 14.22,
+          "end": 14.4,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "bhi"
+    },
+    {
+      "start": 14.4,
+      "end": 14.96,
+      "words": [
+        {
+          "word": "move",
+          "start": 14.4,
+          "end": 14.6,
+          "is_accent": false
+        },
+        {
+          "word": "hote",
+          "start": 14.6,
+          "end": 14.8,
+          "is_accent": false
+        },
+        {
+          "word": "hai.",
+          "start": 14.8,
+          "end": 14.96,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "hai."
+    },
+    {
+      "start": 15.04,
+      "end": 15.82,
+      "words": [
+        {
+          "word": "इमाजगन",
+          "start": 15.04,
+          "end": 15.46,
+          "is_accent": false
+        },
+        {
+          "word": "ek",
+          "start": 15.46,
+          "end": 15.56,
+          "is_accent": false
+        },
+        {
+          "word": "gold",
+          "start": 15.56,
+          "end": 15.82,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "gold"
+    },
+    {
+      "start": 15.82,
+      "end": 16.46,
+      "words": [
+        {
+          "word": "shop.",
+          "start": 15.82,
+          "end": 16.06,
+          "is_accent": false
+        },
+        {
+          "word": "अगर",
+          "start": 16.18,
+          "end": 16.34,
+          "is_accent": false
+        },
+        {
+          "word": "ek",
+          "start": 16.34,
+          "end": 16.46,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "ek"
+    },
+    {
+      "start": 16.46,
+      "end": 17.7,
+      "words": [
+        {
+          "word": "buyer",
+          "start": 16.46,
+          "end": 16.7,
+          "is_accent": false
+        },
+        {
+          "word": "7000",
+          "start": 16.7,
+          "end": 17.38,
+          "is_accent": false
+        },
+        {
+          "word": "offer",
+          "start": 17.38,
+          "end": 17.7,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "offer"
+    },
+    {
+      "start": 17.7,
+      "end": 18.18,
+      "words": [
+        {
+          "word": "kar",
+          "start": 17.7,
+          "end": 17.94,
+          "is_accent": false
+        },
+        {
+          "word": "rahe",
+          "start": 17.94,
+          "end": 18.08,
+          "is_accent": false
+        },
+        {
+          "word": "hai,",
+          "start": 18.08,
+          "end": 18.18,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "hai,"
+    },
+    {
+      "start": 18.36,
+      "end": 18.98,
+      "words": [
+        {
+          "word": "प्रैज",
+          "start": 18.36,
+          "end": 18.56,
+          "is_accent": false
+        },
+        {
+          "word": "वही",
+          "start": 18.56,
+          "end": 18.82,
+          "is_accent": false
+        },
+        {
+          "word": "हो",
+          "start": 18.82,
+          "end": 18.98,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "हो"
+    },
+    {
+      "start": 18.98,
+      "end": 19.68,
+      "words": [
+        {
+          "word": "सकता",
+          "start": 18.98,
+          "end": 19.28,
+          "is_accent": false
+        },
+        {
+          "word": "है.",
+          "start": 19.28,
+          "end": 19.36,
+          "is_accent": false
+        },
+        {
+          "word": "लेकिन",
+          "start": 19.44,
+          "end": 19.68,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "लेकिन"
+    },
+    {
+      "start": 19.68,
+      "end": 20.68,
+      "words": [
+        {
+          "word": "अगर",
+          "start": 19.68,
+          "end": 19.86,
+          "is_accent": false
+        },
+        {
+          "word": "buyer's",
+          "start": 19.86,
+          "end": 20.28,
+          "is_accent": false
+        },
+        {
+          "word": "7000",
+          "start": 20.28,
+          "end": 20.68,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "7000"
+    },
+    {
+      "start": 20.68,
+      "end": 21.44,
+      "words": [
+        {
+          "word": "50",
+          "start": 20.68,
+          "end": 20.94,
+          "is_accent": false
+        },
+        {
+          "word": "bhi",
+          "start": 20.94,
+          "end": 21.28,
+          "is_accent": false
+        },
+        {
+          "word": "dene",
+          "start": 21.28,
+          "end": 21.44,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "dene"
+    },
+    {
+      "start": 21.44,
+      "end": 22.46,
+      "words": [
+        {
+          "word": "lagin,",
+          "start": 21.44,
+          "end": 21.76,
+          "is_accent": false
+        },
+        {
+          "word": "seller",
+          "start": 22.02,
+          "end": 22.24,
+          "is_accent": false
+        },
+        {
+          "word": "bhi",
+          "start": 22.24,
+          "end": 22.46,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "bhi"
+    },
+    {
+      "start": 22.46,
+      "end": 23.22,
+      "words": [
+        {
+          "word": "apni",
+          "start": 22.46,
+          "end": 22.64,
+          "is_accent": false
+        },
+        {
+          "word": "asking",
+          "start": 22.64,
+          "end": 22.9,
+          "is_accent": false
+        },
+        {
+          "word": "price",
+          "start": 22.9,
+          "end": 23.22,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "price"
+    },
+    {
+      "start": 23.22,
+      "end": 23.9,
+      "words": [
+        {
+          "word": "badha",
+          "start": 23.22,
+          "end": 23.52,
+          "is_accent": false
+        },
+        {
+          "word": "ashta",
+          "start": 23.52,
+          "end": 23.76,
+          "is_accent": false
+        },
+        {
+          "word": "hai.",
+          "start": 23.76,
+          "end": 23.9,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "hai."
+    },
+    {
+      "start": 23.9,
+      "end": 24.78,
+      "words": [
+        {
+          "word": "अब",
+          "start": 23.9,
+          "end": 24.12,
+          "is_accent": false
+        },
+        {
+          "word": "इमजन",
+          "start": 24.12,
+          "end": 24.5,
+          "is_accent": false
+        },
+        {
+          "word": "करो",
+          "start": 24.5,
+          "end": 24.78,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "करो"
+    },
+    {
+      "start": 24.78,
+      "end": 25.62,
+      "words": [
+        {
+          "word": "ये",
+          "start": 24.78,
+          "end": 24.94,
+          "is_accent": false
+        },
+        {
+          "word": "प्रोसेस",
+          "start": 24.94,
+          "end": 25.42,
+          "is_accent": false
+        },
+        {
+          "word": "एक",
+          "start": 25.42,
+          "end": 25.62,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "एक"
+    },
+    {
+      "start": 25.62,
+      "end": 26.34,
+      "words": [
+        {
+          "word": "शोप",
+          "start": 25.62,
+          "end": 25.9,
+          "is_accent": false
+        },
+        {
+          "word": "में",
+          "start": 25.9,
+          "end": 26.1,
+          "is_accent": false
+        },
+        {
+          "word": "नहीं",
+          "start": 26.1,
+          "end": 26.34,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "नहीं"
+    },
+    {
+      "start": 26.34,
+      "end": 27.14,
+      "words": [
+        {
+          "word": "पूरी",
+          "start": 26.34,
+          "end": 26.6,
+          "is_accent": false
+        },
+        {
+          "word": "दून्या",
+          "start": 26.6,
+          "end": 26.96,
+          "is_accent": false
+        },
+        {
+          "word": "में",
+          "start": 26.96,
+          "end": 27.14,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "में"
+    },
+    {
+      "start": 27.14,
+      "end": 28.18,
+      "words": [
+        {
+          "word": "सामलतेनियसली",
+          "start": 27.14,
+          "end": 27.88,
+          "is_accent": false
+        },
+        {
+          "word": "हो",
+          "start": 27.88,
+          "end": 28.02,
+          "is_accent": false
+        },
+        {
+          "word": "रहा",
+          "start": 28.02,
+          "end": 28.18,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "रहा"
+    },
+    {
+      "start": 28.18,
+      "end": 29.48,
+      "words": [
+        {
+          "word": "है",
+          "start": 28.18,
+          "end": 28.22,
+          "is_accent": false
+        },
+        {
+          "word": "बांक्स,",
+          "start": 28.22,
+          "end": 28.78,
+          "is_accent": false
+        },
+        {
+          "word": "इंस्टिटूचन,",
+          "start": 28.86,
+          "end": 29.48,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "इंस्टिटूचन,"
+    },
+    {
+      "start": 29.6,
+      "end": 30.88,
+      "words": [
+        {
+          "word": "ट्रेटर्स",
+          "start": 29.6,
+          "end": 30.14,
+          "is_accent": false
+        },
+        {
+          "word": "और",
+          "start": 30.14,
+          "end": 30.32,
+          "is_accent": false
+        },
+        {
+          "word": "इंवेस्टर्स",
+          "start": 30.32,
+          "end": 30.88,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "इंवेस्टर्स"
+    },
+    {
+      "start": 30.88,
+      "end": 32.02,
+      "words": [
+        {
+          "word": "कंटिन्यूस्ली",
+          "start": 30.88,
+          "end": 31.56,
+          "is_accent": false
+        },
+        {
+          "word": "भाई",
+          "start": 31.56,
+          "end": 31.84,
+          "is_accent": false
+        },
+        {
+          "word": "और",
+          "start": 31.84,
+          "end": 32.02,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "और"
+    },
+    {
+      "start": 32.02,
+      "end": 32.68,
+      "words": [
+        {
+          "word": "सेल",
+          "start": 32.02,
+          "end": 32.24,
+          "is_accent": false
+        },
+        {
+          "word": "कर",
+          "start": 32.24,
+          "end": 32.44,
+          "is_accent": false
+        },
+        {
+          "word": "रहें",
+          "start": 32.44,
+          "end": 32.68,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "रहें"
+    },
+    {
+      "start": 32.68,
+      "end": 33.26,
+      "words": [
+        {
+          "word": "है",
+          "start": 32.68,
+          "end": 32.92,
+          "is_accent": false
+        },
+        {
+          "word": "और",
+          "start": 32.92,
+          "end": 33.1,
+          "is_accent": false
+        },
+        {
+          "word": "जब",
+          "start": 33.1,
+          "end": 33.26,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "जब"
+    },
+    {
+      "start": 33.26,
+      "end": 34.56,
+      "words": [
+        {
+          "word": "इंपार्टन्ट",
+          "start": 33.26,
+          "end": 33.8,
+          "is_accent": false
+        },
+        {
+          "word": "एकनोमिक",
+          "start": 33.8,
+          "end": 34.3,
+          "is_accent": false
+        },
+        {
+          "word": "नूज",
+          "start": 34.3,
+          "end": 34.56,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "नूज"
+    },
+    {
+      "start": 34.56,
+      "end": 35.6,
+      "words": [
+        {
+          "word": "आती",
+          "start": 34.56,
+          "end": 34.84,
+          "is_accent": false
+        },
+        {
+          "word": "है,",
+          "start": 34.84,
+          "end": 35.0,
+          "is_accent": false
+        },
+        {
+          "word": "बायर्ज",
+          "start": 35.12,
+          "end": 35.6,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "बायर्ज"
+    },
+    {
+      "start": 35.6,
+      "end": 36.3,
+      "words": [
+        {
+          "word": "और",
+          "start": 35.6,
+          "end": 35.74,
+          "is_accent": false
+        },
+        {
+          "word": "सेलर्स",
+          "start": 35.74,
+          "end": 36.12,
+          "is_accent": false
+        },
+        {
+          "word": "का",
+          "start": 36.12,
+          "end": 36.3,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "का"
+    },
+    {
+      "start": 36.3,
+      "end": 37.42,
+      "words": [
+        {
+          "word": "बालन्स",
+          "start": 36.3,
+          "end": 36.78,
+          "is_accent": false
+        },
+        {
+          "word": "सेकिन्ज",
+          "start": 36.78,
+          "end": 37.26,
+          "is_accent": false
+        },
+        {
+          "word": "में",
+          "start": 37.26,
+          "end": 37.42,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "में"
+    },
+    {
+      "start": 37.42,
+      "end": 38.12,
+      "words": [
+        {
+          "word": "चेंज",
+          "start": 37.42,
+          "end": 37.7,
+          "is_accent": false
+        },
+        {
+          "word": "हो",
+          "start": 37.7,
+          "end": 37.82,
+          "is_accent": false
+        },
+        {
+          "word": "सकता",
+          "start": 37.82,
+          "end": 38.12,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "सकता"
+    },
+    {
+      "start": 38.12,
+      "end": 38.76,
+      "words": [
+        {
+          "word": "है",
+          "start": 38.12,
+          "end": 38.22,
+          "is_accent": false
+        },
+        {
+          "word": "इसी",
+          "start": 38.22,
+          "end": 38.52,
+          "is_accent": false
+        },
+        {
+          "word": "लिये",
+          "start": 38.52,
+          "end": 38.76,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "लिये"
+    },
+    {
+      "start": 38.76,
+      "end": 39.48,
+      "words": [
+        {
+          "word": "गोल्ड",
+          "start": 38.76,
+          "end": 39.04,
+          "is_accent": false
+        },
+        {
+          "word": "का",
+          "start": 39.04,
+          "end": 39.2,
+          "is_accent": false
+        },
+        {
+          "word": "प्राइस",
+          "start": 39.2,
+          "end": 39.48,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "प्राइस"
+    },
+    {
+      "start": 39.48,
+      "end": 40.3,
+      "words": [
+        {
+          "word": "सचनली",
+          "start": 39.48,
+          "end": 39.94,
+          "is_accent": false
+        },
+        {
+          "word": "मुव",
+          "start": 39.94,
+          "end": 40.16,
+          "is_accent": false
+        },
+        {
+          "word": "कर",
+          "start": 40.16,
+          "end": 40.3,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "कर"
+    },
+    {
+      "start": 40.3,
+      "end": 41.1,
+      "words": [
+        {
+          "word": "सकता",
+          "start": 40.3,
+          "end": 40.68,
+          "is_accent": false
+        },
+        {
+          "word": "है",
+          "start": 40.68,
+          "end": 40.96,
+          "is_accent": false
+        },
+        {
+          "word": "इसी",
+          "start": 40.96,
+          "end": 41.1,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "इसी"
+    },
+    {
+      "start": 41.1,
+      "end": 42.18,
+      "words": [
+        {
+          "word": "फास्ट",
+          "start": 41.1,
+          "end": 41.48,
+          "is_accent": false
+        },
+        {
+          "word": "मूविंग",
+          "start": 41.48,
+          "end": 41.78,
+          "is_accent": false
+        },
+        {
+          "word": "माक्किट",
+          "start": 41.78,
+          "end": 42.18,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "माक्किट"
+    },
+    {
+      "start": 42.18,
+      "end": 43.52,
+      "words": [
+        {
+          "word": "में",
+          "start": 42.18,
+          "end": 42.46,
+          "is_accent": false
+        },
+        {
+          "word": "एकनोमिक",
+          "start": 42.46,
+          "end": 43.08,
+          "is_accent": false
+        },
+        {
+          "word": "नूज",
+          "start": 43.08,
+          "end": 43.52,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "नूज"
+    },
+    {
+      "start": 43.52,
+      "end": 45.02,
+      "words": [
+        {
+          "word": "के",
+          "start": 43.52,
+          "end": 43.66,
+          "is_accent": false
+        },
+        {
+          "word": "अक्डिशन्स",
+          "start": 43.66,
+          "end": 44.6,
+          "is_accent": false
+        },
+        {
+          "word": "मुनिटर",
+          "start": 44.6,
+          "end": 45.02,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "मुनिटर"
+    },
+    {
+      "start": 45.02,
+      "end": 46.14,
+      "words": [
+        {
+          "word": "कर",
+          "start": 45.02,
+          "end": 45.22,
+          "is_accent": false
+        },
+        {
+          "word": "के",
+          "start": 45.22,
+          "end": 45.4,
+          "is_accent": false
+        },
+        {
+          "word": "अतमाटिकली",
+          "start": 45.4,
+          "end": 46.14,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "अतमाटिकली"
+    },
+    {
+      "start": 46.14,
+      "end": 47.0,
+      "words": [
+        {
+          "word": "आक्षन",
+          "start": 46.14,
+          "end": 46.46,
+          "is_accent": false
+        },
+        {
+          "word": "ले",
+          "start": 46.46,
+          "end": 46.62,
+          "is_accent": false
+        },
+        {
+          "word": "सकता",
+          "start": 46.62,
+          "end": 47.0,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "सकता"
+    },
+    {
+      "start": 47.0,
+      "end": 47.98,
+      "words": [
+        {
+          "word": "है",
+          "start": 47.0,
+          "end": 47.14,
+          "is_accent": false
+        },
+        {
+          "word": "असे",
+          "start": 47.14,
+          "end": 47.46,
+          "is_accent": false
+        },
+        {
+          "word": "फोरेख्स,",
+          "start": 47.46,
+          "end": 47.98,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "फोरेख्स,"
+    },
+    {
+      "start": 48.0,
+      "end": 49.12,
+      "words": [
+        {
+          "word": "गोल्ड",
+          "start": 48.0,
+          "end": 48.3,
+          "is_accent": false
+        },
+        {
+          "word": "और",
+          "start": 48.3,
+          "end": 48.46,
+          "is_accent": false
+        },
+        {
+          "word": "एकन्सेप",
+          "start": 48.46,
+          "end": 49.12,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "एकन्सेप"
+    },
+    {
+      "start": 49.12,
+      "end": 50.06,
+      "words": [
+        {
+          "word": "समपल",
+          "start": 49.12,
+          "end": 49.56,
+          "is_accent": false
+        },
+        {
+          "word": "लंगवेज",
+          "start": 49.56,
+          "end": 49.92,
+          "is_accent": false
+        },
+        {
+          "word": "में",
+          "start": 49.92,
+          "end": 50.06,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "में"
+    },
+    {
+      "start": 50.06,
+      "end": 50.98,
+      "words": [
+        {
+          "word": "समझने",
+          "start": 50.06,
+          "end": 50.5,
+          "is_accent": false
+        },
+        {
+          "word": "है,",
+          "start": 50.5,
+          "end": 50.68,
+          "is_accent": false
+        },
+        {
+          "word": "तो",
+          "start": 50.9,
+          "end": 50.98,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "तो"
+    },
+    {
+      "start": 50.98,
+      "end": 51.66,
+      "words": [
+        {
+          "word": "फोलो",
+          "start": 50.98,
+          "end": 51.3,
+          "is_accent": false
+        },
+        {
+          "word": "कर",
+          "start": 51.3,
+          "end": 51.5,
+          "is_accent": false
+        },
+        {
+          "word": "लो",
+          "start": 51.5,
+          "end": 51.66,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "लो"
+    }
+  ],
+  "sfx_tracks": [
+    {
+      "timestamp": 0.0,
+      "name": "card-slide-1.mp3",
+      "category": "paper_and_cards",
+      "volume": 0.85
+    },
+    {
+      "timestamp": 11.6,
+      "name": "switch-001.mp3",
+      "category": "switches_and_toggles",
+      "volume": 0.8
+    },
+    {
+      "timestamp": 23.9,
+      "name": "click-soft.mp3",
+      "category": "clicks",
+      "volume": 0.8
+    },
+    {
+      "timestamp": 38.22,
+      "name": "book-flip-1.mp3",
+      "category": "paper_and_cards",
+      "volume": 0.85
+    },
+    {
+      "timestamp": 48.8501875,
+      "name": "success-chime.mp3",
+      "category": "bells_and_chimes",
+      "volume": 0.9
+    }
+  ],
+  "created_at": null
+}

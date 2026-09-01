@@ -1,0 +1,127 @@
+{
+  "job_id": "voxpipe_0830_2_1_gold_master",
+  "source_video": "D:\\Downloads\\0830 (2)(1).mp4",
+  "duration": 35.433,
+  "fps": 30.0,
+  "style": "vox",
+  "beats": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.0,
+      "duration": 5.0,
+      "layout": "SPLIT_50_50",
+      "topic": "Rent vs Own Dream Home Dilemma",
+      "concept_summary": "Rent vs Own Dream Home Dilemma",
+      "prompt_shot": "Background: a torn 1920s banking ledger page with columns of inked accounts at depth. FG: authentic paper collage cutouts representing Rent vs Own Dream Home Dilemma snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera dives low between physical paper cutout layers with shallow depth of field. Settle on Rent vs Own Dream Home Dilemma in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a torn 1920s banking ledger page with columns of inked accounts at depth. FG: authentic paper collage cutouts representing Rent vs Own Dream Home Dilemma snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera dives low between physical paper cutout layers with shallow depth of field. Settle on Rent vs Own Dream Home Dilemma in sharp focus.\n\nAUDIO: submerge whoosh, deep pressure thud, paper thwip — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 2,
+      "start": 5.0,
+      "end": 12.8,
+      "duration": 7.8,
+      "layout": "SPLIT_50_50",
+      "topic": "Manas Heights Titwala East 10 Mins from Station",
+      "concept_summary": "Manas Heights Titwala East 10 Mins from Station",
+      "prompt_shot": "Background: a sepia financial chart engraving with etched grid lines and depth falloff. FG: authentic paper collage cutouts representing Manas Heights Titwala East 10 Mins from Station snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera pushes in steadily through a torn paper opening onto the central figure. Settle on Manas Heights Titwala East 10 Mins from Station in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a sepia financial chart engraving with etched grid lines and depth falloff. FG: authentic paper collage cutouts representing Manas Heights Titwala East 10 Mins from Station snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera pushes in steadily through a torn paper opening onto the central figure. Settle on Manas Heights Titwala East 10 Mins from Station in sharp focus.\n\nAUDIO: paper tear, friction slide, low hum — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 3,
+      "start": 12.8,
+      "end": 20.1,
+      "duration": 7.3,
+      "layout": "SPLIT_50_50",
+      "topic": "Thoughtfully Planned 1 BHK Living Room & Granite Kitchen",
+      "concept_summary": "Thoughtfully Planned 1 BHK Living Room & Granite Kitchen",
+      "prompt_shot": "Background: an aged blueprint grid with architectural schematics and circuit traces. FG: authentic paper collage cutouts representing Thoughtfully Planned 1 BHK Living Room & Granite Kitchen snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera performs a fast lateral track then hard stops with elastic overshoot. Settle on Thoughtfully Planned 1 BHK Living Room & Granite Kitchen in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: an aged blueprint grid with architectural schematics and circuit traces. FG: authentic paper collage cutouts representing Thoughtfully Planned 1 BHK Living Room & Granite Kitchen snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera performs a fast lateral track then hard stops with elastic overshoot. Settle on Thoughtfully Planned 1 BHK Living Room & Granite Kitchen in sharp focus.\n\nAUDIO: track rumble, stall click, paper pop — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 4,
+      "start": 20.1,
+      "end": 27.5,
+      "duration": 7.4,
+      "layout": "SPLIT_50_50",
+      "topic": "Full Tiled Kitchen Bathroom Lifts CCTV Security",
+      "concept_summary": "Full Tiled Kitchen Bathroom Lifts CCTV Security",
+      "prompt_shot": "Background: a faded world map tilted in perspective, far out of focus. FG: authentic paper collage cutouts representing Full Tiled Kitchen Bathroom Lifts CCTV Security snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera cranes up slowly over the layered stack while racking focus. Settle on Full Tiled Kitchen Bathroom Lifts CCTV Security in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a faded world map tilted in perspective, far out of focus. FG: authentic paper collage cutouts representing Full Tiled Kitchen Bathroom Lifts CCTV Security snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera cranes up slowly over the layered stack while racking focus. Settle on Full Tiled Kitchen Bathroom Lifts CCTV Security in sharp focus.\n\nAUDIO: riser whoosh, stamp thud, low newsroom hum — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 5,
+      "start": 27.5,
+      "end": 31.0,
+      "duration": 3.5,
+      "layout": "SPLIT_50_50",
+      "topic": "1 BHK Only 24 Lakh All Inclusive Offer",
+      "concept_summary": "1 BHK Only 24 Lakh All Inclusive Offer",
+      "prompt_shot": "Background: stacked newspaper headline pages receding in deep perspective. FG: authentic paper collage cutouts representing 1 BHK Only 24 Lakh All Inclusive Offer snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera orbits a quarter turn, focus racking front to back. Settle on 1 BHK Only 24 Lakh All Inclusive Offer in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: stacked newspaper headline pages receding in deep perspective. FG: authentic paper collage cutouts representing 1 BHK Only 24 Lakh All Inclusive Offer snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera orbits a quarter turn, focus racking front to back. Settle on 1 BHK Only 24 Lakh All Inclusive Offer in sharp focus.\n\nAUDIO: paper pops, whip whoosh, low newsroom hum — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 6,
+      "start": 31.0,
+      "end": 35.433,
+      "duration": 4.43,
+      "layout": "SPLIT_50_50",
+      "topic": "Book Site Visit Call WhatsApp CTA",
+      "concept_summary": "Book Site Visit Call WhatsApp CTA",
+      "prompt_shot": "Background: a sepia financial chart engraving with etched grid lines and depth falloff. FG: authentic paper collage cutouts representing Book Site Visit Call WhatsApp CTA snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera dives low between physical paper cutout layers with shallow depth of field. Settle on Book Site Visit Call WhatsApp CTA in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a sepia financial chart engraving with etched grid lines and depth falloff. FG: authentic paper collage cutouts representing Book Site Visit Call WhatsApp CTA snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera dives low between physical paper cutout layers with shallow depth of field. Settle on Book Site Visit Call WhatsApp CTA in sharp focus.\n\nAUDIO: submerge whoosh, deep pressure thud, paper thwip — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    }
+  ],
+  "captions": [],
+  "sfx_tracks": [
+    {
+      "timestamp": 0.05,
+      "name": "card-slide-1.mp3",
+      "category": "paper_and_cards",
+      "volume": 0.85
+    },
+    {
+      "timestamp": 5.05,
+      "name": "switch-001.mp3",
+      "category": "switches_and_toggles",
+      "volume": 0.8
+    },
+    {
+      "timestamp": 12.850000000000001,
+      "name": "click-soft.mp3",
+      "category": "clicks",
+      "volume": 0.8
+    },
+    {
+      "timestamp": 20.150000000000002,
+      "name": "book-flip-1.mp3",
+      "category": "paper_and_cards",
+      "volume": 0.85
+    },
+    {
+      "timestamp": 27.55,
+      "name": "card-shove-1.mp3",
+      "category": "paper_and_cards",
+      "volume": 0.85
+    },
+    {
+      "timestamp": 31.05,
+      "name": "whoosh.wav",
+      "category": "whoosh",
+      "volume": 0.8
+    }
+  ],
+  "created_at": null
+}

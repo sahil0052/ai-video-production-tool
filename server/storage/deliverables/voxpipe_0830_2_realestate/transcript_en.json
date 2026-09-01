@@ -1,0 +1,1083 @@
+{
+  "text": " Every month they give rent and they are tired. So, once you think, why don't you take your own home? There are people in the East, in the Manus Heights. For those who want to take their first home, comfort and quality. Here you get a thoughtfully planned one BHK home, which has vitrified flooring, granite kitchen platform and stainless steel sink. Along with that, full-tiled kitchen, elegant bathroom with premium fittings, high-speed elevators with power back up, CCTV security and fire fighting system. And most importantly, one BHK only, 24 lakh all-inclusive. For more information about the home, contact details are given on the reach. Call or WhatsApp.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.54,
+      "text": " Every month they give rent and they are tired.",
+      "tokens": [
+        50364,
+        2048,
+        1618,
+        436,
+        976,
+        6214,
+        293,
+        436,
+        366,
+        5868,
+        13,
+        50455
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.553111096362134,
+      "compression_ratio": 1.6128048780487805,
+      "no_speech_prob": 0.016097702085971832,
+      "words": [
+        {
+          "word": " Every",
+          "start": 0.0,
+          "end": 0.16,
+          "probability": 0.209945946931839
+        },
+        {
+          "word": " month",
+          "start": 0.16,
+          "end": 0.36,
+          "probability": 0.9768983125686646
+        },
+        {
+          "word": " they",
+          "start": 0.36,
+          "end": 0.52,
+          "probability": 0.2410704344511032
+        },
+        {
+          "word": " give",
+          "start": 0.52,
+          "end": 0.52,
+          "probability": 0.19082406163215637
+        },
+        {
+          "word": " rent",
+          "start": 0.52,
+          "end": 0.78,
+          "probability": 0.3709132969379425
+        },
+        {
+          "word": " and",
+          "start": 0.78,
+          "end": 1.18,
+          "probability": 0.4357618987560272
+        },
+        {
+          "word": " they",
+          "start": 1.18,
+          "end": 1.26,
+          "probability": 0.15470509231090546
+        },
+        {
+          "word": " are",
+          "start": 1.26,
+          "end": 1.44,
+          "probability": 0.2818874418735504
+        },
+        {
+          "word": " tired.",
+          "start": 1.44,
+          "end": 1.54,
+          "probability": 0.7911182641983032
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 1.84,
+      "end": 4.6,
+      "text": " So, once you think, why don't you take your own home?",
+      "tokens": [
+        50455,
+        407,
+        11,
+        1564,
+        291,
+        519,
+        11,
+        983,
+        500,
+        380,
+        291,
+        747,
+        428,
+        1065,
+        1280,
+        30,
+        50615
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.553111096362134,
+      "compression_ratio": 1.6128048780487805,
+      "no_speech_prob": 0.016097702085971832,
+      "words": [
+        {
+          "word": " So,",
+          "start": 1.84,
+          "end": 1.9,
+          "probability": 0.5656203627586365
+        },
+        {
+          "word": " once",
+          "start": 1.96,
+          "end": 2.14,
+          "probability": 0.3751891553401947
+        },
+        {
+          "word": " you",
+          "start": 2.14,
+          "end": 2.42,
+          "probability": 0.438835084438324
+        },
+        {
+          "word": " think,",
+          "start": 2.42,
+          "end": 2.46,
+          "probability": 0.7000362277030945
+        },
+        {
+          "word": " why",
+          "start": 2.82,
+          "end": 3.34,
+          "probability": 0.39665687084198
+        },
+        {
+          "word": " don't",
+          "start": 3.34,
+          "end": 3.34,
+          "probability": 0.6331132501363754
+        },
+        {
+          "word": " you",
+          "start": 3.34,
+          "end": 3.5,
+          "probability": 0.8946359753608704
+        },
+        {
+          "word": " take",
+          "start": 3.5,
+          "end": 3.58,
+          "probability": 0.1248302087187767
+        },
+        {
+          "word": " your",
+          "start": 3.58,
+          "end": 3.72,
+          "probability": 0.393161803483963
+        },
+        {
+          "word": " own",
+          "start": 3.72,
+          "end": 3.98,
+          "probability": 0.8574459552764893
+        },
+        {
+          "word": " home?",
+          "start": 3.98,
+          "end": 4.6,
+          "probability": 0.5537155270576477
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 4.98,
+      "end": 6.72,
+      "text": " There are people in the East, in the Manus Heights.",
+      "tokens": [
+        50615,
+        821,
+        366,
+        561,
+        294,
+        264,
+        6747,
+        11,
+        294,
+        264,
+        2458,
+        301,
+        44039,
+        13,
+        50710
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.553111096362134,
+      "compression_ratio": 1.6128048780487805,
+      "no_speech_prob": 0.016097702085971832,
+      "words": [
+        {
+          "word": " There",
+          "start": 4.98,
+          "end": 5.1,
+          "probability": 0.2815887928009033
+        },
+        {
+          "word": " are",
+          "start": 5.1,
+          "end": 5.52,
+          "probability": 0.4838261604309082
+        },
+        {
+          "word": " people",
+          "start": 5.52,
+          "end": 5.52,
+          "probability": 0.018247954547405243
+        },
+        {
+          "word": " in",
+          "start": 5.52,
+          "end": 5.52,
+          "probability": 0.773501455783844
+        },
+        {
+          "word": " the",
+          "start": 5.52,
+          "end": 5.52,
+          "probability": 0.7392346262931824
+        },
+        {
+          "word": " East,",
+          "start": 5.52,
+          "end": 5.74,
+          "probability": 0.5889615416526794
+        },
+        {
+          "word": " in",
+          "start": 6.06,
+          "end": 6.2,
+          "probability": 0.13122041523456573
+        },
+        {
+          "word": " the",
+          "start": 6.2,
+          "end": 6.26,
+          "probability": 0.3872111439704895
+        },
+        {
+          "word": " Manus",
+          "start": 6.26,
+          "end": 6.5,
+          "probability": 0.443476602435112
+        },
+        {
+          "word": " Heights.",
+          "start": 6.5,
+          "end": 6.72,
+          "probability": 0.9690526127815247
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 6.94,
+      "end": 8.82,
+      "text": " For those who want to take their first home,",
+      "tokens": [
+        50710,
+        1171,
+        729,
+        567,
+        528,
+        281,
+        747,
+        641,
+        700,
+        1280,
+        11,
+        50838
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.553111096362134,
+      "compression_ratio": 1.6128048780487805,
+      "no_speech_prob": 0.016097702085971832,
+      "words": [
+        {
+          "word": " For",
+          "start": 6.94,
+          "end": 6.96,
+          "probability": 0.5305688977241516
+        },
+        {
+          "word": " those",
+          "start": 6.96,
+          "end": 7.04,
+          "probability": 0.8351426720619202
+        },
+        {
+          "word": " who",
+          "start": 7.04,
+          "end": 7.86,
+          "probability": 0.40793710947036743
+        },
+        {
+          "word": " want",
+          "start": 7.86,
+          "end": 7.96,
+          "probability": 0.9138327240943909
+        },
+        {
+          "word": " to",
+          "start": 7.96,
+          "end": 7.98,
+          "probability": 0.975684642791748
+        },
+        {
+          "word": " take",
+          "start": 7.98,
+          "end": 7.98,
+          "probability": 0.4472563564777374
+        },
+        {
+          "word": " their",
+          "start": 7.98,
+          "end": 8.04,
+          "probability": 0.7138102650642395
+        },
+        {
+          "word": " first",
+          "start": 8.04,
+          "end": 8.36,
+          "probability": 0.8396077752113342
+        },
+        {
+          "word": " home,",
+          "start": 8.36,
+          "end": 8.82,
+          "probability": 0.9851963520050049
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 9.5,
+      "end": 10.58,
+      "text": " comfort and quality.",
+      "tokens": [
+        50838,
+        3400,
+        293,
+        3125,
+        13,
+        50915
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.553111096362134,
+      "compression_ratio": 1.6128048780487805,
+      "no_speech_prob": 0.016097702085971832,
+      "words": [
+        {
+          "word": " comfort",
+          "start": 9.5,
+          "end": 9.82,
+          "probability": 0.31772708892822266
+        },
+        {
+          "word": " and",
+          "start": 9.82,
+          "end": 10.18,
+          "probability": 0.8854723572731018
+        },
+        {
+          "word": " quality.",
+          "start": 10.18,
+          "end": 10.58,
+          "probability": 0.9735308885574341
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 11.06,
+      "end": 13.92,
+      "text": " Here you get a thoughtfully planned one BHK home,",
+      "tokens": [
+        50915,
+        1692,
+        291,
+        483,
+        257,
+        1194,
+        2277,
+        8589,
+        472,
+        40342,
+        42,
+        1280,
+        11,
+        51068
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.553111096362134,
+      "compression_ratio": 1.6128048780487805,
+      "no_speech_prob": 0.016097702085971832,
+      "words": [
+        {
+          "word": " Here",
+          "start": 11.06,
+          "end": 11.22,
+          "probability": 0.5652205944061279
+        },
+        {
+          "word": " you",
+          "start": 11.22,
+          "end": 11.54,
+          "probability": 0.7508755326271057
+        },
+        {
+          "word": " get",
+          "start": 11.54,
+          "end": 11.82,
+          "probability": 0.5019584894180298
+        },
+        {
+          "word": " a",
+          "start": 11.82,
+          "end": 12.26,
+          "probability": 0.4193762540817261
+        },
+        {
+          "word": " thoughtfully",
+          "start": 12.26,
+          "end": 12.66,
+          "probability": 0.7620704174041748
+        },
+        {
+          "word": " planned",
+          "start": 12.66,
+          "end": 12.96,
+          "probability": 0.9747775197029114
+        },
+        {
+          "word": " one",
+          "start": 12.96,
+          "end": 13.22,
+          "probability": 0.3987821042537689
+        },
+        {
+          "word": " BHK",
+          "start": 13.22,
+          "end": 13.72,
+          "probability": 0.5773141384124756
+        },
+        {
+          "word": " home,",
+          "start": 13.72,
+          "end": 13.92,
+          "probability": 0.8915988802909851
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 14.1,
+      "end": 17.7,
+      "text": " which has vitrified flooring, granite kitchen platform and stainless steel sink.",
+      "tokens": [
+        51068,
+        597,
+        575,
+        9467,
+        81,
+        2587,
+        2591,
+        3662,
+        11,
+        9370,
+        642,
+        6525,
+        3663,
+        293,
+        24048,
+        8269,
+        9500,
+        13,
+        51279
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.553111096362134,
+      "compression_ratio": 1.6128048780487805,
+      "no_speech_prob": 0.016097702085971832,
+      "words": [
+        {
+          "word": " which",
+          "start": 14.1,
+          "end": 14.2,
+          "probability": 0.5075738430023193
+        },
+        {
+          "word": " has",
+          "start": 14.2,
+          "end": 14.36,
+          "probability": 0.5711818337440491
+        },
+        {
+          "word": " vitrified",
+          "start": 14.36,
+          "end": 14.82,
+          "probability": 0.858613391717275
+        },
+        {
+          "word": " flooring,",
+          "start": 14.82,
+          "end": 15.34,
+          "probability": 0.9205389618873596
+        },
+        {
+          "word": " granite",
+          "start": 15.52,
+          "end": 15.86,
+          "probability": 0.9850427508354187
+        },
+        {
+          "word": " kitchen",
+          "start": 15.86,
+          "end": 16.02,
+          "probability": 0.9509865641593933
+        },
+        {
+          "word": " platform",
+          "start": 16.02,
+          "end": 16.56,
+          "probability": 0.9224881529808044
+        },
+        {
+          "word": " and",
+          "start": 16.56,
+          "end": 16.84,
+          "probability": 0.7279683351516724
+        },
+        {
+          "word": " stainless",
+          "start": 16.84,
+          "end": 17.18,
+          "probability": 0.9685167074203491
+        },
+        {
+          "word": " steel",
+          "start": 17.18,
+          "end": 17.44,
+          "probability": 0.9860227108001709
+        },
+        {
+          "word": " sink.",
+          "start": 17.44,
+          "end": 17.7,
+          "probability": 0.960267961025238
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 18.22,
+      "end": 21.32,
+      "text": " Along with that, full-tiled kitchen, elegant bathroom with premium fittings,",
+      "tokens": [
+        51279,
+        17457,
+        365,
+        300,
+        11,
+        1577,
+        12,
+        83,
+        7292,
+        6525,
+        11,
+        21117,
+        8687,
+        365,
+        12049,
+        48876,
+        1109,
+        11,
+        51435
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.553111096362134,
+      "compression_ratio": 1.6128048780487805,
+      "no_speech_prob": 0.016097702085971832,
+      "words": [
+        {
+          "word": " Along",
+          "start": 18.22,
+          "end": 18.46,
+          "probability": 0.43515345454216003
+        },
+        {
+          "word": " with",
+          "start": 18.46,
+          "end": 18.56,
+          "probability": 0.9257717728614807
+        },
+        {
+          "word": " that,",
+          "start": 18.56,
+          "end": 18.62,
+          "probability": 0.4290582537651062
+        },
+        {
+          "word": " full",
+          "start": 18.72,
+          "end": 18.9,
+          "probability": 0.761163592338562
+        },
+        {
+          "word": "-tiled",
+          "start": 18.9,
+          "end": 19.16,
+          "probability": 0.7037857472896576
+        },
+        {
+          "word": " kitchen,",
+          "start": 19.16,
+          "end": 19.48,
+          "probability": 0.9856117963790894
+        },
+        {
+          "word": " elegant",
+          "start": 19.7,
+          "end": 19.9,
+          "probability": 0.9520634412765503
+        },
+        {
+          "word": " bathroom",
+          "start": 19.9,
+          "end": 20.32,
+          "probability": 0.9767000079154968
+        },
+        {
+          "word": " with",
+          "start": 20.32,
+          "end": 20.58,
+          "probability": 0.9736097455024719
+        },
+        {
+          "word": " premium",
+          "start": 20.58,
+          "end": 20.84,
+          "probability": 0.9952899217605591
+        },
+        {
+          "word": " fittings,",
+          "start": 20.84,
+          "end": 21.32,
+          "probability": 0.9907577931880951
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 21.46,
+      "end": 23.06,
+      "text": " high-speed elevators with power back up,",
+      "tokens": [
+        51435,
+        1090,
+        12,
+        22746,
+        7701,
+        3391,
+        365,
+        1347,
+        646,
+        493,
+        11,
+        51523
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.553111096362134,
+      "compression_ratio": 1.6128048780487805,
+      "no_speech_prob": 0.016097702085971832,
+      "words": [
+        {
+          "word": " high",
+          "start": 21.46,
+          "end": 21.54,
+          "probability": 0.9868946075439453
+        },
+        {
+          "word": "-speed",
+          "start": 21.54,
+          "end": 21.74,
+          "probability": 0.7725368440151215
+        },
+        {
+          "word": " elevators",
+          "start": 21.74,
+          "end": 22.22,
+          "probability": 0.9821380078792572
+        },
+        {
+          "word": " with",
+          "start": 22.22,
+          "end": 22.46,
+          "probability": 0.9831656217575073
+        },
+        {
+          "word": " power",
+          "start": 22.46,
+          "end": 22.68,
+          "probability": 0.9734703302383423
+        },
+        {
+          "word": " back",
+          "start": 22.68,
+          "end": 22.88,
+          "probability": 0.5946394801139832
+        },
+        {
+          "word": " up,",
+          "start": 22.88,
+          "end": 23.06,
+          "probability": 0.4618387818336487
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 23.24,
+      "end": 25.28,
+      "text": " CCTV security and fire fighting system.",
+      "tokens": [
+        51523,
+        44838,
+        3825,
+        293,
+        2610,
+        5237,
+        1185,
+        13,
+        51649
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.553111096362134,
+      "compression_ratio": 1.6128048780487805,
+      "no_speech_prob": 0.016097702085971832,
+      "words": [
+        {
+          "word": " CCTV",
+          "start": 23.24,
+          "end": 23.48,
+          "probability": 0.7084807753562927
+        },
+        {
+          "word": " security",
+          "start": 23.48,
+          "end": 24.12,
+          "probability": 0.9760950803756714
+        },
+        {
+          "word": " and",
+          "start": 24.12,
+          "end": 24.42,
+          "probability": 0.846734344959259
+        },
+        {
+          "word": " fire",
+          "start": 24.42,
+          "end": 24.66,
+          "probability": 0.7950783967971802
+        },
+        {
+          "word": " fighting",
+          "start": 24.66,
+          "end": 24.94,
+          "probability": 0.7329468131065369
+        },
+        {
+          "word": " system.",
+          "start": 24.94,
+          "end": 25.28,
+          "probability": 0.616135835647583
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 0,
+      "start": 25.64,
+      "end": 26.5,
+      "text": " And most importantly,",
+      "tokens": [
+        51649,
+        400,
+        881,
+        8906,
+        11,
+        51705
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.553111096362134,
+      "compression_ratio": 1.6128048780487805,
+      "no_speech_prob": 0.016097702085971832,
+      "words": [
+        {
+          "word": " And",
+          "start": 25.64,
+          "end": 25.8,
+          "probability": 0.7879042029380798
+        },
+        {
+          "word": " most",
+          "start": 25.8,
+          "end": 25.96,
+          "probability": 0.42332959175109863
+        },
+        {
+          "word": " importantly,",
+          "start": 25.96,
+          "end": 26.5,
+          "probability": 0.9805299043655396
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2650,
+      "start": 26.5,
+      "end": 29.16,
+      "text": " one BHK only, 24 lakh all-inclusive.",
+      "tokens": [
+        50364,
+        472,
+        40342,
+        42,
+        787,
+        11,
+        4022,
+        33314,
+        439,
+        12,
+        4647,
+        7233,
+        13,
+        50500
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8730025291442871,
+      "compression_ratio": 1.1491228070175439,
+      "no_speech_prob": 0.004823725204914808,
+      "words": [
+        {
+          "word": " one",
+          "start": 26.5,
+          "end": 26.98,
+          "probability": 0.025761602446436882
+        },
+        {
+          "word": " BHK",
+          "start": 26.98,
+          "end": 27.42,
+          "probability": 0.6360134929418564
+        },
+        {
+          "word": " only,",
+          "start": 27.42,
+          "end": 27.56,
+          "probability": 0.11097560822963715
+        },
+        {
+          "word": " 24",
+          "start": 27.62,
+          "end": 28.08,
+          "probability": 0.8566246032714844
+        },
+        {
+          "word": " lakh",
+          "start": 28.08,
+          "end": 28.3,
+          "probability": 0.3829326033592224
+        },
+        {
+          "word": " all",
+          "start": 28.3,
+          "end": 28.7,
+          "probability": 0.4637168347835541
+        },
+        {
+          "word": "-inclusive.",
+          "start": 28.7,
+          "end": 29.16,
+          "probability": 0.6952237337827682
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 2650,
+      "start": 29.32,
+      "end": 30.6,
+      "text": " For more information about the home,",
+      "tokens": [
+        50500,
+        1171,
+        544,
+        1589,
+        466,
+        264,
+        1280,
+        11,
+        50574
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8730025291442871,
+      "compression_ratio": 1.1491228070175439,
+      "no_speech_prob": 0.004823725204914808,
+      "words": [
+        {
+          "word": " For",
+          "start": 29.32,
+          "end": 29.4,
+          "probability": 0.25941941142082214
+        },
+        {
+          "word": " more",
+          "start": 29.4,
+          "end": 29.7,
+          "probability": 0.2582813799381256
+        },
+        {
+          "word": " information",
+          "start": 29.7,
+          "end": 29.98,
+          "probability": 0.7310115694999695
+        },
+        {
+          "word": " about",
+          "start": 29.98,
+          "end": 30.6,
+          "probability": 0.48559826612472534
+        },
+        {
+          "word": " the",
+          "start": 30.6,
+          "end": 30.6,
+          "probability": 0.23715035617351532
+        },
+        {
+          "word": " home,",
+          "start": 30.6,
+          "end": 30.6,
+          "probability": 0.20711322128772736
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 2650,
+      "start": 30.6,
+      "end": 31.98,
+      "text": " contact details are given on the reach.",
+      "tokens": [
+        50574,
+        3385,
+        4365,
+        366,
+        2212,
+        322,
+        264,
+        2524,
+        13,
+        50655
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8730025291442871,
+      "compression_ratio": 1.1491228070175439,
+      "no_speech_prob": 0.004823725204914808,
+      "words": [
+        {
+          "word": " contact",
+          "start": 30.6,
+          "end": 31.18,
+          "probability": 0.24572421610355377
+        },
+        {
+          "word": " details",
+          "start": 31.18,
+          "end": 31.98,
+          "probability": 0.8244039416313171
+        },
+        {
+          "word": " are",
+          "start": 31.98,
+          "end": 31.98,
+          "probability": 0.20863653719425201
+        },
+        {
+          "word": " given",
+          "start": 31.98,
+          "end": 31.98,
+          "probability": 0.6167546510696411
+        },
+        {
+          "word": " on",
+          "start": 31.98,
+          "end": 31.98,
+          "probability": 0.29553040862083435
+        },
+        {
+          "word": " the",
+          "start": 31.98,
+          "end": 31.98,
+          "probability": 0.4789528250694275
+        },
+        {
+          "word": " reach.",
+          "start": 31.98,
+          "end": 31.98,
+          "probability": 0.022477705031633377
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 2650,
+      "start": 32.06,
+      "end": 33.02,
+      "text": " Call or WhatsApp.",
+      "tokens": [
+        50655,
+        7807,
+        420,
+        30513,
+        13,
+        50715
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8730025291442871,
+      "compression_ratio": 1.1491228070175439,
+      "no_speech_prob": 0.004823725204914808,
+      "words": [
+        {
+          "word": " Call",
+          "start": 32.06,
+          "end": 32.5,
+          "probability": 0.5974178314208984
+        },
+        {
+          "word": " or",
+          "start": 32.5,
+          "end": 32.72,
+          "probability": 0.775307297706604
+        },
+        {
+          "word": " WhatsApp.",
+          "start": 32.72,
+          "end": 33.02,
+          "probability": 0.9127064943313599
+        }
+      ]
+    }
+  ],
+  "language": "hi"
+}

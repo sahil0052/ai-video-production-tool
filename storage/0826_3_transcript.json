@@ -1,0 +1,1490 @@
+{
+  "duration": 55.1,
+  "language": "hi",
+  "language_probability": 1.0,
+  "full_transcript": "آپ کے Bank Account میں 10 Lakh Rupees ہیں لیکن اگر کل سب لوگ اپنا پیسا نکال نے آگے تو کیا Bank آپ کو پورے 10 Lakh دے پائے گا یہاں پیسٹ ہے Bank آپ کے پیسے کو بس لوگر میں رکھنی بیٹھا آپ کا Deposit System کی اندر سوکلےٹ ہوتا ہے اور اسی وجہ سے اگر سب لوگ ایک ساتھ کاش مغنے آجائیں پروبلم شروع ہو سکتی ہے Imagine کرو ایک Bank میں Sollogue ہیں اور ہر کسی کی Account میں 1 Lakh ہے Screen Petotal 1 Karour دکھ رہے اب سوچھو اگر یہ Sollogue ایک دن بول دیں بھائی میرا پورا پیسا ابھی چاہئے اب Imagine کرو Sollogue ایک ساتھ بھانکے بہار کھڑے ہیں اور سب بول رہے مجھے میرا پیسا ابھی چاہئے Bank کو suddenly Cash Arrange کرنا پڑے گا اور یہاں سے اصلی پروبلم شروع ہوتی ہے اور اسی Situation کو Bank RUN کہتے ہیں سپس اسکاری پاٹ fanics spread ہو جا ہے تو Problems If Cash کی نہیں تھی لوگ اور لوگ اپنا پیسا نکالنے لکھتے ہیں اور Situation Or Serious ہو سکتی ہے مطلب Problems If Pesso کی نہیں ہوتی Problem Trust کی ہوتی ہے Banking System Trust اور Liquidity دونوں پے چلتے ہیں ایسے Money Concept Simple Language میں سمجھنے ہیں تو Follow ڈا",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.18,
+      "text": "آپ کے Bank Account میں 10 Lakh Rupees ہیں",
+      "words": [
+        {
+          "word": "آپ",
+          "start": 0.0,
+          "end": 0.16,
+          "probability": 0.67
+        },
+        {
+          "word": "کے",
+          "start": 0.16,
+          "end": 0.3,
+          "probability": 0.48
+        },
+        {
+          "word": "Bank",
+          "start": 0.3,
+          "end": 0.48,
+          "probability": 0.12
+        },
+        {
+          "word": "Account",
+          "start": 0.48,
+          "end": 0.9,
+          "probability": 0.56
+        },
+        {
+          "word": "میں",
+          "start": 0.9,
+          "end": 1.06,
+          "probability": 0.93
+        },
+        {
+          "word": "10",
+          "start": 1.06,
+          "end": 1.28,
+          "probability": 0.97
+        },
+        {
+          "word": "Lakh",
+          "start": 1.28,
+          "end": 1.6,
+          "probability": 0.57
+        },
+        {
+          "word": "Rupees",
+          "start": 1.6,
+          "end": 1.88,
+          "probability": 0.61
+        },
+        {
+          "word": "ہیں",
+          "start": 1.88,
+          "end": 2.18,
+          "probability": 0.48
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.18,
+      "end": 4.7,
+      "text": "لیکن اگر کل سب لوگ اپنا پیسا نکال نے آگے",
+      "words": [
+        {
+          "word": "لیکن",
+          "start": 2.18,
+          "end": 2.52,
+          "probability": 0.74
+        },
+        {
+          "word": "اگر",
+          "start": 2.52,
+          "end": 2.74,
+          "probability": 0.88
+        },
+        {
+          "word": "کل",
+          "start": 2.74,
+          "end": 3.02,
+          "probability": 0.7
+        },
+        {
+          "word": "سب",
+          "start": 3.02,
+          "end": 3.3,
+          "probability": 0.6
+        },
+        {
+          "word": "لوگ",
+          "start": 3.3,
+          "end": 3.46,
+          "probability": 0.64
+        },
+        {
+          "word": "اپنا",
+          "start": 3.46,
+          "end": 3.64,
+          "probability": 0.8
+        },
+        {
+          "word": "پیسا",
+          "start": 3.64,
+          "end": 3.98,
+          "probability": 0.59
+        },
+        {
+          "word": "نکال",
+          "start": 3.98,
+          "end": 4.26,
+          "probability": 0.63
+        },
+        {
+          "word": "نے",
+          "start": 4.26,
+          "end": 4.38,
+          "probability": 0.39
+        },
+        {
+          "word": "آگے",
+          "start": 4.38,
+          "end": 4.7,
+          "probability": 0.74
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.7,
+      "end": 6.78,
+      "text": "تو کیا Bank آپ کو پورے 10 Lakh دے پائے گا",
+      "words": [
+        {
+          "word": "تو",
+          "start": 4.7,
+          "end": 4.86,
+          "probability": 0.89
+        },
+        {
+          "word": "کیا",
+          "start": 4.86,
+          "end": 5.06,
+          "probability": 0.74
+        },
+        {
+          "word": "Bank",
+          "start": 5.06,
+          "end": 5.3,
+          "probability": 0.88
+        },
+        {
+          "word": "آپ",
+          "start": 5.3,
+          "end": 5.5,
+          "probability": 0.81
+        },
+        {
+          "word": "کو",
+          "start": 5.5,
+          "end": 5.62,
+          "probability": 0.97
+        },
+        {
+          "word": "پورے",
+          "start": 5.62,
+          "end": 5.9,
+          "probability": 0.76
+        },
+        {
+          "word": "10",
+          "start": 5.9,
+          "end": 6.06,
+          "probability": 0.99
+        },
+        {
+          "word": "Lakh",
+          "start": 6.06,
+          "end": 6.32,
+          "probability": 0.95
+        },
+        {
+          "word": "دے",
+          "start": 6.32,
+          "end": 6.48,
+          "probability": 0.31
+        },
+        {
+          "word": "پائے",
+          "start": 6.48,
+          "end": 6.68,
+          "probability": 0.82
+        },
+        {
+          "word": "گا",
+          "start": 6.68,
+          "end": 6.78,
+          "probability": 0.91
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 6.78,
+      "end": 7.88,
+      "text": "یہاں پیسٹ ہے",
+      "words": [
+        {
+          "word": "یہاں",
+          "start": 6.78,
+          "end": 7.26,
+          "probability": 0.56
+        },
+        {
+          "word": "پیسٹ",
+          "start": 7.26,
+          "end": 7.78,
+          "probability": 0.55
+        },
+        {
+          "word": "ہے",
+          "start": 7.78,
+          "end": 7.88,
+          "probability": 0.91
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 7.88,
+      "end": 10.16,
+      "text": "Bank آپ کے پیسے کو بس لوگر میں رکھنی بیٹھا",
+      "words": [
+        {
+          "word": "Bank",
+          "start": 7.88,
+          "end": 8.3,
+          "probability": 0.52
+        },
+        {
+          "word": "آپ",
+          "start": 8.3,
+          "end": 8.48,
+          "probability": 0.95
+        },
+        {
+          "word": "کے",
+          "start": 8.48,
+          "end": 8.62,
+          "probability": 0.81
+        },
+        {
+          "word": "پیسے",
+          "start": 8.62,
+          "end": 8.86,
+          "probability": 0.9
+        },
+        {
+          "word": "کو",
+          "start": 8.86,
+          "end": 8.98,
+          "probability": 0.96
+        },
+        {
+          "word": "بس",
+          "start": 8.98,
+          "end": 9.14,
+          "probability": 0.8
+        },
+        {
+          "word": "لوگر",
+          "start": 9.14,
+          "end": 9.42,
+          "probability": 0.55
+        },
+        {
+          "word": "میں",
+          "start": 9.42,
+          "end": 9.56,
+          "probability": 0.98
+        },
+        {
+          "word": "رکھنی",
+          "start": 9.56,
+          "end": 9.86,
+          "probability": 0.75
+        },
+        {
+          "word": "بیٹھا",
+          "start": 9.86,
+          "end": 10.16,
+          "probability": 0.73
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 10.16,
+      "end": 12.48,
+      "text": "آپ کا Deposit System کی اندر سوکلےٹ ہوتا ہے",
+      "words": [
+        {
+          "word": "آپ",
+          "start": 10.16,
+          "end": 10.38,
+          "probability": 0.79
+        },
+        {
+          "word": "کا",
+          "start": 10.38,
+          "end": 10.5,
+          "probability": 0.84
+        },
+        {
+          "word": "Deposit",
+          "start": 10.5,
+          "end": 10.86,
+          "probability": 0.49
+        },
+        {
+          "word": "System",
+          "start": 10.86,
+          "end": 11.26,
+          "probability": 0.87
+        },
+        {
+          "word": "کی",
+          "start": 11.26,
+          "end": 11.42,
+          "probability": 0.58
+        },
+        {
+          "word": "اندر",
+          "start": 11.42,
+          "end": 11.58,
+          "probability": 0.46
+        },
+        {
+          "word": "سوکلےٹ",
+          "start": 11.58,
+          "end": 12.12,
+          "probability": 0.55
+        },
+        {
+          "word": "ہوتا",
+          "start": 12.12,
+          "end": 12.32,
+          "probability": 0.84
+        },
+        {
+          "word": "ہے",
+          "start": 12.32,
+          "end": 12.48,
+          "probability": 0.91
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 12.48,
+      "end": 15.52,
+      "text": "اور اسی وجہ سے اگر سب لوگ ایک ساتھ کاش مغنے آجائیں",
+      "words": [
+        {
+          "word": "اور",
+          "start": 12.48,
+          "end": 12.84,
+          "probability": 0.84
+        },
+        {
+          "word": "اسی",
+          "start": 12.84,
+          "end": 13.16,
+          "probability": 0.86
+        },
+        {
+          "word": "وجہ",
+          "start": 13.16,
+          "end": 13.36,
+          "probability": 0.83
+        },
+        {
+          "word": "سے",
+          "start": 13.36,
+          "end": 13.56,
+          "probability": 0.99
+        },
+        {
+          "word": "اگر",
+          "start": 13.56,
+          "end": 13.8,
+          "probability": 0.88
+        },
+        {
+          "word": "سب",
+          "start": 13.8,
+          "end": 14.06,
+          "probability": 0.9
+        },
+        {
+          "word": "لوگ",
+          "start": 14.06,
+          "end": 14.22,
+          "probability": 1.0
+        },
+        {
+          "word": "ایک",
+          "start": 14.22,
+          "end": 14.38,
+          "probability": 0.9
+        },
+        {
+          "word": "ساتھ",
+          "start": 14.38,
+          "end": 14.62,
+          "probability": 0.82
+        },
+        {
+          "word": "کاش",
+          "start": 14.62,
+          "end": 14.82,
+          "probability": 0.49
+        },
+        {
+          "word": "مغنے",
+          "start": 14.82,
+          "end": 15.14,
+          "probability": 0.54
+        },
+        {
+          "word": "آجائیں",
+          "start": 15.14,
+          "end": 15.52,
+          "probability": 0.64
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 15.52,
+      "end": 16.9,
+      "text": "پروبلم شروع ہو سکتی ہے",
+      "words": [
+        {
+          "word": "پروبلم",
+          "start": 15.52,
+          "end": 16.04,
+          "probability": 0.29
+        },
+        {
+          "word": "شروع",
+          "start": 16.04,
+          "end": 16.34,
+          "probability": 0.83
+        },
+        {
+          "word": "ہو",
+          "start": 16.34,
+          "end": 16.46,
+          "probability": 0.81
+        },
+        {
+          "word": "سکتی",
+          "start": 16.46,
+          "end": 16.72,
+          "probability": 0.78
+        },
+        {
+          "word": "ہے",
+          "start": 16.72,
+          "end": 16.9,
+          "probability": 0.81
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 16.9,
+      "end": 18.88,
+      "text": "Imagine کرو ایک Bank میں Sollogue ہیں",
+      "words": [
+        {
+          "word": "Imagine",
+          "start": 16.9,
+          "end": 17.3,
+          "probability": 0.41
+        },
+        {
+          "word": "کرو",
+          "start": 17.3,
+          "end": 17.6,
+          "probability": 0.53
+        },
+        {
+          "word": "ایک",
+          "start": 17.6,
+          "end": 17.76,
+          "probability": 0.85
+        },
+        {
+          "word": "Bank",
+          "start": 17.76,
+          "end": 17.98,
+          "probability": 0.99
+        },
+        {
+          "word": "میں",
+          "start": 17.98,
+          "end": 18.2,
+          "probability": 0.76
+        },
+        {
+          "word": "Sollogue",
+          "start": 18.2,
+          "end": 18.68,
+          "probability": 0.2
+        },
+        {
+          "word": "ہیں",
+          "start": 18.68,
+          "end": 18.88,
+          "probability": 0.77
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 18.88,
+      "end": 20.82,
+      "text": "اور ہر کسی کی Account میں 1 Lakh ہے",
+      "words": [
+        {
+          "word": "اور",
+          "start": 18.88,
+          "end": 19.14,
+          "probability": 0.87
+        },
+        {
+          "word": "ہر",
+          "start": 19.14,
+          "end": 19.38,
+          "probability": 0.8
+        },
+        {
+          "word": "کسی",
+          "start": 19.38,
+          "end": 19.66,
+          "probability": 0.8
+        },
+        {
+          "word": "کی",
+          "start": 19.66,
+          "end": 19.72,
+          "probability": 0.94
+        },
+        {
+          "word": "Account",
+          "start": 19.72,
+          "end": 19.96,
+          "probability": 0.6
+        },
+        {
+          "word": "میں",
+          "start": 19.96,
+          "end": 20.16,
+          "probability": 0.99
+        },
+        {
+          "word": "1",
+          "start": 20.16,
+          "end": 20.34,
+          "probability": 0.68
+        },
+        {
+          "word": "Lakh",
+          "start": 20.34,
+          "end": 20.68,
+          "probability": 0.93
+        },
+        {
+          "word": "ہے",
+          "start": 20.68,
+          "end": 20.82,
+          "probability": 0.8
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 20.82,
+      "end": 22.66,
+      "text": "Screen Petotal 1 Karour دکھ رہے",
+      "words": [
+        {
+          "word": "Screen",
+          "start": 20.82,
+          "end": 21.26,
+          "probability": 0.54
+        },
+        {
+          "word": "Petotal",
+          "start": 21.26,
+          "end": 21.66,
+          "probability": 0.26
+        },
+        {
+          "word": "1",
+          "start": 21.66,
+          "end": 21.96,
+          "probability": 0.88
+        },
+        {
+          "word": "Karour",
+          "start": 21.96,
+          "end": 22.24,
+          "probability": 0.24
+        },
+        {
+          "word": "دکھ",
+          "start": 22.24,
+          "end": 22.54,
+          "probability": 0.66
+        },
+        {
+          "word": "رہے",
+          "start": 22.54,
+          "end": 22.66,
+          "probability": 0.6
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 22.66,
+      "end": 25.08,
+      "text": "اب سوچھو اگر یہ Sollogue ایک دن بول دیں",
+      "words": [
+        {
+          "word": "اب",
+          "start": 22.66,
+          "end": 23.06,
+          "probability": 0.07
+        },
+        {
+          "word": "سوچھو",
+          "start": 23.06,
+          "end": 23.44,
+          "probability": 0.44
+        },
+        {
+          "word": "اگر",
+          "start": 23.44,
+          "end": 23.66,
+          "probability": 0.69
+        },
+        {
+          "word": "یہ",
+          "start": 23.66,
+          "end": 23.82,
+          "probability": 0.92
+        },
+        {
+          "word": "Sollogue",
+          "start": 23.82,
+          "end": 24.26,
+          "probability": 0.21
+        },
+        {
+          "word": "ایک",
+          "start": 24.26,
+          "end": 24.54,
+          "probability": 0.44
+        },
+        {
+          "word": "دن",
+          "start": 24.54,
+          "end": 24.76,
+          "probability": 0.33
+        },
+        {
+          "word": "بول",
+          "start": 24.76,
+          "end": 24.98,
+          "probability": 0.15
+        },
+        {
+          "word": "دیں",
+          "start": 24.98,
+          "end": 25.08,
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 25.08,
+      "end": 26.68,
+      "text": "بھائی میرا پورا پیسا ابھی چاہئے",
+      "words": [
+        {
+          "word": "بھائی",
+          "start": 25.08,
+          "end": 25.44,
+          "probability": 0.6
+        },
+        {
+          "word": "میرا",
+          "start": 25.44,
+          "end": 25.64,
+          "probability": 0.66
+        },
+        {
+          "word": "پورا",
+          "start": 25.64,
+          "end": 25.92,
+          "probability": 0.49
+        },
+        {
+          "word": "پیسا",
+          "start": 25.92,
+          "end": 26.16,
+          "probability": 0.64
+        },
+        {
+          "word": "ابھی",
+          "start": 26.16,
+          "end": 26.4,
+          "probability": 0.59
+        },
+        {
+          "word": "چاہئے",
+          "start": 26.4,
+          "end": 26.68,
+          "probability": 0.55
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 26.68,
+      "end": 29.7,
+      "text": "اب Imagine کرو Sollogue ایک ساتھ بھانکے بہار کھڑے ہیں",
+      "words": [
+        {
+          "word": "اب",
+          "start": 26.68,
+          "end": 27.04,
+          "probability": 0.54
+        },
+        {
+          "word": "Imagine",
+          "start": 27.04,
+          "end": 27.36,
+          "probability": 0.03
+        },
+        {
+          "word": "کرو",
+          "start": 27.36,
+          "end": 27.68,
+          "probability": 0.42
+        },
+        {
+          "word": "Sollogue",
+          "start": 27.68,
+          "end": 28.26,
+          "probability": 0.93
+        },
+        {
+          "word": "ایک",
+          "start": 28.26,
+          "end": 28.48,
+          "probability": 0.81
+        },
+        {
+          "word": "ساتھ",
+          "start": 28.48,
+          "end": 28.72,
+          "probability": 0.81
+        },
+        {
+          "word": "بھانکے",
+          "start": 28.72,
+          "end": 29.06,
+          "probability": 0.51
+        },
+        {
+          "word": "بہار",
+          "start": 29.06,
+          "end": 29.26,
+          "probability": 0.66
+        },
+        {
+          "word": "کھڑے",
+          "start": 29.26,
+          "end": 29.52,
+          "probability": 0.74
+        },
+        {
+          "word": "ہیں",
+          "start": 29.52,
+          "end": 29.7,
+          "probability": 0.93
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 29.7,
+      "end": 31.7,
+      "text": "اور سب بول رہے مجھے میرا پیسا ابھی چاہئے",
+      "words": [
+        {
+          "word": "اور",
+          "start": 29.7,
+          "end": 29.9,
+          "probability": 0.52
+        },
+        {
+          "word": "سب",
+          "start": 29.9,
+          "end": 30.16,
+          "probability": 0.62
+        },
+        {
+          "word": "بول",
+          "start": 30.16,
+          "end": 30.32,
+          "probability": 0.4
+        },
+        {
+          "word": "رہے",
+          "start": 30.32,
+          "end": 30.46,
+          "probability": 0.69
+        },
+        {
+          "word": "مجھے",
+          "start": 30.46,
+          "end": 30.72,
+          "probability": 0.76
+        },
+        {
+          "word": "میرا",
+          "start": 30.72,
+          "end": 30.92,
+          "probability": 0.83
+        },
+        {
+          "word": "پیسا",
+          "start": 30.92,
+          "end": 31.16,
+          "probability": 0.91
+        },
+        {
+          "word": "ابھی",
+          "start": 31.16,
+          "end": 31.4,
+          "probability": 0.95
+        },
+        {
+          "word": "چاہئے",
+          "start": 31.4,
+          "end": 31.7,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 31.7,
+      "end": 33.8,
+      "text": "Bank کو suddenly Cash Arrange کرنا پڑے گا",
+      "words": [
+        {
+          "word": "Bank",
+          "start": 31.7,
+          "end": 32.24,
+          "probability": 0.02
+        },
+        {
+          "word": "کو",
+          "start": 32.24,
+          "end": 32.42,
+          "probability": 0.6
+        },
+        {
+          "word": "suddenly",
+          "start": 32.42,
+          "end": 32.66,
+          "probability": 0.11
+        },
+        {
+          "word": "Cash",
+          "start": 32.66,
+          "end": 32.96,
+          "probability": 0.24
+        },
+        {
+          "word": "Arrange",
+          "start": 32.96,
+          "end": 33.2,
+          "probability": 0.57
+        },
+        {
+          "word": "کرنا",
+          "start": 33.2,
+          "end": 33.48,
+          "probability": 0.65
+        },
+        {
+          "word": "پڑے",
+          "start": 33.48,
+          "end": 33.68,
+          "probability": 0.94
+        },
+        {
+          "word": "گا",
+          "start": 33.68,
+          "end": 33.8,
+          "probability": 0.67
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 33.8,
+      "end": 35.58,
+      "text": "اور یہاں سے اصلی پروبلم شروع ہوتی ہے",
+      "words": [
+        {
+          "word": "اور",
+          "start": 33.8,
+          "end": 33.98,
+          "probability": 0.82
+        },
+        {
+          "word": "یہاں",
+          "start": 33.98,
+          "end": 34.2,
+          "probability": 0.66
+        },
+        {
+          "word": "سے",
+          "start": 34.2,
+          "end": 34.34,
+          "probability": 0.64
+        },
+        {
+          "word": "اصلی",
+          "start": 34.34,
+          "end": 34.62,
+          "probability": 0.68
+        },
+        {
+          "word": "پروبلم",
+          "start": 34.62,
+          "end": 34.9,
+          "probability": 0.3
+        },
+        {
+          "word": "شروع",
+          "start": 34.9,
+          "end": 35.18,
+          "probability": 0.29
+        },
+        {
+          "word": "ہوتی",
+          "start": 35.18,
+          "end": 35.42,
+          "probability": 0.39
+        },
+        {
+          "word": "ہے",
+          "start": 35.42,
+          "end": 35.58,
+          "probability": 0.93
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 35.58,
+      "end": 37.8,
+      "text": "اور اسی Situation کو Bank RUN کہتے ہیں",
+      "words": [
+        {
+          "word": "اور",
+          "start": 35.58,
+          "end": 35.92,
+          "probability": 0.77
+        },
+        {
+          "word": "اسی",
+          "start": 35.92,
+          "end": 36.18,
+          "probability": 0.61
+        },
+        {
+          "word": "Situation",
+          "start": 36.18,
+          "end": 36.56,
+          "probability": 0.66
+        },
+        {
+          "word": "کو",
+          "start": 36.56,
+          "end": 36.78,
+          "probability": 0.92
+        },
+        {
+          "word": "Bank",
+          "start": 36.78,
+          "end": 37.02,
+          "probability": 0.96
+        },
+        {
+          "word": "RUN",
+          "start": 37.02,
+          "end": 37.24,
+          "probability": 0.23
+        },
+        {
+          "word": "کہتے",
+          "start": 37.24,
+          "end": 37.6,
+          "probability": 0.64
+        },
+        {
+          "word": "ہیں",
+          "start": 37.6,
+          "end": 37.8,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 37.8,
+      "end": 39.78,
+      "text": "سپس اسکاری پاٹ fanics spread ہو جا ہے",
+      "words": [
+        {
+          "word": "سپس",
+          "start": 37.8,
+          "end": 38.14,
+          "probability": 0.43
+        },
+        {
+          "word": "اسکاری",
+          "start": 38.14,
+          "end": 38.54,
+          "probability": 0.36
+        },
+        {
+          "word": "پاٹ",
+          "start": 38.54,
+          "end": 38.8,
+          "probability": 0.48
+        },
+        {
+          "word": "fanics",
+          "start": 38.8,
+          "end": 39.24,
+          "probability": 0.44
+        },
+        {
+          "word": "spread",
+          "start": 39.24,
+          "end": 39.44,
+          "probability": 0.9
+        },
+        {
+          "word": "ہو",
+          "start": 39.44,
+          "end": 39.58,
+          "probability": 0.25
+        },
+        {
+          "word": "جا",
+          "start": 39.58,
+          "end": 39.7,
+          "probability": 0.49
+        },
+        {
+          "word": "ہے",
+          "start": 39.7,
+          "end": 39.78,
+          "probability": 0.73
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 39.78,
+      "end": 41.14,
+      "text": "تو Problems If Cash کی نہیں تھی",
+      "words": [
+        {
+          "word": "تو",
+          "start": 39.78,
+          "end": 39.9,
+          "probability": 0.96
+        },
+        {
+          "word": "Problems",
+          "start": 39.9,
+          "end": 40.36,
+          "probability": 0.64
+        },
+        {
+          "word": "If",
+          "start": 40.36,
+          "end": 40.4,
+          "probability": 0.13
+        },
+        {
+          "word": "Cash",
+          "start": 40.4,
+          "end": 40.7,
+          "probability": 0.99
+        },
+        {
+          "word": "کی",
+          "start": 40.7,
+          "end": 40.86,
+          "probability": 0.17
+        },
+        {
+          "word": "نہیں",
+          "start": 40.86,
+          "end": 40.96,
+          "probability": 0.9
+        },
+        {
+          "word": "تھی",
+          "start": 40.96,
+          "end": 41.14,
+          "probability": 0.7
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 41.14,
+      "end": 43.38,
+      "text": "لوگ اور لوگ اپنا پیسا نکالنے لکھتے ہیں",
+      "words": [
+        {
+          "word": "لوگ",
+          "start": 41.14,
+          "end": 41.46,
+          "probability": 0.7
+        },
+        {
+          "word": "اور",
+          "start": 41.46,
+          "end": 41.68,
+          "probability": 0.9
+        },
+        {
+          "word": "لوگ",
+          "start": 41.68,
+          "end": 41.92,
+          "probability": 0.98
+        },
+        {
+          "word": "اپنا",
+          "start": 41.92,
+          "end": 42.1,
+          "probability": 0.89
+        },
+        {
+          "word": "پیسا",
+          "start": 42.1,
+          "end": 42.4,
+          "probability": 0.92
+        },
+        {
+          "word": "نکالنے",
+          "start": 42.4,
+          "end": 42.78,
+          "probability": 0.64
+        },
+        {
+          "word": "لکھتے",
+          "start": 42.78,
+          "end": 43.06,
+          "probability": 0.64
+        },
+        {
+          "word": "ہیں",
+          "start": 43.06,
+          "end": 43.38,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "start": 43.38,
+      "end": 45.18,
+      "text": "اور Situation Or Serious ہو سکتی ہے",
+      "words": [
+        {
+          "word": "اور",
+          "start": 43.38,
+          "end": 43.52,
+          "probability": 0.97
+        },
+        {
+          "word": "Situation",
+          "start": 43.52,
+          "end": 43.88,
+          "probability": 0.96
+        },
+        {
+          "word": "Or",
+          "start": 43.88,
+          "end": 44.24,
+          "probability": 0.35
+        },
+        {
+          "word": "Serious",
+          "start": 44.24,
+          "end": 44.6,
+          "probability": 0.71
+        },
+        {
+          "word": "ہو",
+          "start": 44.6,
+          "end": 44.72,
+          "probability": 0.44
+        },
+        {
+          "word": "سکتی",
+          "start": 44.72,
+          "end": 45.04,
+          "probability": 0.69
+        },
+        {
+          "word": "ہے",
+          "start": 45.04,
+          "end": 45.18,
+          "probability": 0.93
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "start": 45.18,
+      "end": 47.04,
+      "text": "مطلب Problems If Pesso کی نہیں ہوتی",
+      "words": [
+        {
+          "word": "مطلب",
+          "start": 45.18,
+          "end": 45.48,
+          "probability": 0.42
+        },
+        {
+          "word": "Problems",
+          "start": 45.48,
+          "end": 46.06,
+          "probability": 0.48
+        },
+        {
+          "word": "If",
+          "start": 46.06,
+          "end": 46.14,
+          "probability": 0.02
+        },
+        {
+          "word": "Pesso",
+          "start": 46.14,
+          "end": 46.48,
+          "probability": 0.17
+        },
+        {
+          "word": "کی",
+          "start": 46.48,
+          "end": 46.64,
+          "probability": 0.05
+        },
+        {
+          "word": "نہیں",
+          "start": 46.64,
+          "end": 46.74,
+          "probability": 0.82
+        },
+        {
+          "word": "ہوتی",
+          "start": 46.74,
+          "end": 47.04,
+          "probability": 0.67
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "start": 47.04,
+      "end": 48.48,
+      "text": "Problem Trust کی ہوتی ہے",
+      "words": [
+        {
+          "word": "Problem",
+          "start": 47.04,
+          "end": 47.44,
+          "probability": 0.01
+        },
+        {
+          "word": "Trust",
+          "start": 47.44,
+          "end": 47.84,
+          "probability": 0.4
+        },
+        {
+          "word": "کی",
+          "start": 47.84,
+          "end": 48.0,
+          "probability": 0.89
+        },
+        {
+          "word": "ہوتی",
+          "start": 48.0,
+          "end": 48.3,
+          "probability": 0.98
+        },
+        {
+          "word": "ہے",
+          "start": 48.3,
+          "end": 48.48,
+          "probability": 0.85
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "start": 48.48,
+      "end": 51.46,
+      "text": "Banking System Trust اور Liquidity دونوں پے چلتے ہیں",
+      "words": [
+        {
+          "word": "Banking",
+          "start": 48.48,
+          "end": 49.08,
+          "probability": 0.88
+        },
+        {
+          "word": "System",
+          "start": 49.08,
+          "end": 49.32,
+          "probability": 0.91
+        },
+        {
+          "word": "Trust",
+          "start": 49.32,
+          "end": 49.8,
+          "probability": 0.86
+        },
+        {
+          "word": "اور",
+          "start": 49.8,
+          "end": 49.96,
+          "probability": 0.01
+        },
+        {
+          "word": "Liquidity",
+          "start": 49.96,
+          "end": 50.44,
+          "probability": 0.62
+        },
+        {
+          "word": "دونوں",
+          "start": 50.44,
+          "end": 50.74,
+          "probability": 0.5
+        },
+        {
+          "word": "پے",
+          "start": 50.74,
+          "end": 50.86,
+          "probability": 0.69
+        },
+        {
+          "word": "چلتے",
+          "start": 50.86,
+          "end": 51.22,
+          "probability": 0.61
+        },
+        {
+          "word": "ہیں",
+          "start": 51.22,
+          "end": 51.46,
+          "probability": 0.86
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "start": 51.46,
+      "end": 53.72,
+      "text": "ایسے Money Concept Simple Language میں سمجھنے ہیں",
+      "words": [
+        {
+          "word": "ایسے",
+          "start": 51.46,
+          "end": 51.8,
+          "probability": 0.54
+        },
+        {
+          "word": "Money",
+          "start": 51.8,
+          "end": 51.96,
+          "probability": 0.17
+        },
+        {
+          "word": "Concept",
+          "start": 51.96,
+          "end": 52.34,
+          "probability": 0.84
+        },
+        {
+          "word": "Simple",
+          "start": 52.34,
+          "end": 52.7,
+          "probability": 0.65
+        },
+        {
+          "word": "Language",
+          "start": 52.7,
+          "end": 53.02,
+          "probability": 0.81
+        },
+        {
+          "word": "میں",
+          "start": 53.02,
+          "end": 53.2,
+          "probability": 0.7
+        },
+        {
+          "word": "سمجھنے",
+          "start": 53.2,
+          "end": 53.64,
+          "probability": 0.52
+        },
+        {
+          "word": "ہیں",
+          "start": 53.64,
+          "end": 53.72,
+          "probability": 0.8
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "start": 53.72,
+      "end": 54.6,
+      "text": "تو Follow ڈا",
+      "words": [
+        {
+          "word": "تو",
+          "start": 53.72,
+          "end": 53.94,
+          "probability": 0.9
+        },
+        {
+          "word": "Follow",
+          "start": 53.94,
+          "end": 54.1,
+          "probability": 0.33
+        },
+        {
+          "word": "ڈا",
+          "start": 54.1,
+          "end": 54.6,
+          "probability": 0.22
+        }
+      ]
+    }
+  ]
+}

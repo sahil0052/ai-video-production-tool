@@ -1,0 +1,1479 @@
+{
+  "text": " Why do smart people make stupid trading decisions? An intelligent trader becomes more confident after the profit and losses become more emotionally. If you go to a team trade, then you say, My strategy is perfect. Confidence increases and the trader makes a reasonable position. Because there is no problem in trading, it is not because of the emotions. When money is real, it feels like it is more fair and greed to react to it. Then a big loss comes. Now, not only to understand the focus of the trader, it is just to recover the loss. And this is where the revenge trading starts. The fun part is that the trader knows the value of the value. But in that moment, he overrides the emotion logic. That is why smart traders are not the ones who are not emotional. Smart traders are the ones who follow the rules of their emotions. And if you want to understand the simple language of the trading concept, then follow.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.3,
+      "text": " Why do smart people make stupid trading decisions?",
+      "tokens": [
+        50364,
+        1545,
+        360,
+        4069,
+        561,
+        652,
+        6631,
+        9529,
+        5327,
+        30,
+        50488
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7572986132478061,
+      "compression_ratio": 1.8161993769470406,
+      "no_speech_prob": 0.004824780393391848,
+      "words": [
+        {
+          "word": " Why",
+          "start": 0.0,
+          "end": 0.22,
+          "probability": 0.8673420548439026
+        },
+        {
+          "word": " do",
+          "start": 0.22,
+          "end": 0.34,
+          "probability": 0.9479550719261169
+        },
+        {
+          "word": " smart",
+          "start": 0.34,
+          "end": 0.58,
+          "probability": 0.987963080406189
+        },
+        {
+          "word": " people",
+          "start": 0.58,
+          "end": 0.92,
+          "probability": 0.9975873231887817
+        },
+        {
+          "word": " make",
+          "start": 0.92,
+          "end": 1.12,
+          "probability": 0.9823604822158813
+        },
+        {
+          "word": " stupid",
+          "start": 1.12,
+          "end": 1.46,
+          "probability": 0.9963276982307434
+        },
+        {
+          "word": " trading",
+          "start": 1.46,
+          "end": 1.8,
+          "probability": 0.9893065094947815
+        },
+        {
+          "word": " decisions?",
+          "start": 1.8,
+          "end": 2.3,
+          "probability": 0.9856614470481873
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.52,
+      "end": 7.02,
+      "text": " An intelligent trader becomes more confident after the profit and losses become more emotionally.",
+      "tokens": [
+        50488,
+        1107,
+        13232,
+        31961,
+        3643,
+        544,
+        6679,
+        934,
+        264,
+        7475,
+        293,
+        15352,
+        1813,
+        544,
+        17991,
+        13,
+        50752
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7572986132478061,
+      "compression_ratio": 1.8161993769470406,
+      "no_speech_prob": 0.004824780393391848,
+      "words": [
+        {
+          "word": " An",
+          "start": 2.52,
+          "end": 2.68,
+          "probability": 0.34061023592948914
+        },
+        {
+          "word": " intelligent",
+          "start": 2.68,
+          "end": 3.04,
+          "probability": 0.9881744384765625
+        },
+        {
+          "word": " trader",
+          "start": 3.04,
+          "end": 3.4,
+          "probability": 0.9961379170417786
+        },
+        {
+          "word": " becomes",
+          "start": 3.4,
+          "end": 3.62,
+          "probability": 0.17340900003910065
+        },
+        {
+          "word": " more",
+          "start": 3.62,
+          "end": 3.72,
+          "probability": 0.19203969836235046
+        },
+        {
+          "word": " confident",
+          "start": 3.72,
+          "end": 5.02,
+          "probability": 0.41398561000823975
+        },
+        {
+          "word": " after",
+          "start": 5.02,
+          "end": 5.32,
+          "probability": 0.3431137800216675
+        },
+        {
+          "word": " the",
+          "start": 5.32,
+          "end": 5.32,
+          "probability": 0.30023860931396484
+        },
+        {
+          "word": " profit",
+          "start": 5.32,
+          "end": 5.32,
+          "probability": 0.7668899893760681
+        },
+        {
+          "word": " and",
+          "start": 5.32,
+          "end": 5.34,
+          "probability": 0.4983763098716736
+        },
+        {
+          "word": " losses",
+          "start": 5.34,
+          "end": 5.7,
+          "probability": 0.03642496466636658
+        },
+        {
+          "word": " become",
+          "start": 5.7,
+          "end": 6.06,
+          "probability": 0.42723366618156433
+        },
+        {
+          "word": " more",
+          "start": 6.06,
+          "end": 6.38,
+          "probability": 0.4477611780166626
+        },
+        {
+          "word": " emotionally.",
+          "start": 6.38,
+          "end": 7.02,
+          "probability": 0.29180335998535156
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.78,
+      "end": 9.74,
+      "text": " If you go to a team trade, then you say,",
+      "tokens": [
+        50752,
+        759,
+        291,
+        352,
+        281,
+        257,
+        1469,
+        4923,
+        11,
+        550,
+        291,
+        584,
+        11,
+        50866
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7572986132478061,
+      "compression_ratio": 1.8161993769470406,
+      "no_speech_prob": 0.004824780393391848,
+      "words": [
+        {
+          "word": " If",
+          "start": 7.78,
+          "end": 7.88,
+          "probability": 0.3250885009765625
+        },
+        {
+          "word": " you",
+          "start": 7.88,
+          "end": 7.92,
+          "probability": 0.26924511790275574
+        },
+        {
+          "word": " go",
+          "start": 7.92,
+          "end": 7.92,
+          "probability": 0.4848552644252777
+        },
+        {
+          "word": " to",
+          "start": 7.92,
+          "end": 7.92,
+          "probability": 0.4105023145675659
+        },
+        {
+          "word": " a",
+          "start": 7.92,
+          "end": 7.92,
+          "probability": 0.6756845116615295
+        },
+        {
+          "word": " team",
+          "start": 7.92,
+          "end": 7.94,
+          "probability": 0.09895588457584381
+        },
+        {
+          "word": " trade,",
+          "start": 7.94,
+          "end": 8.16,
+          "probability": 0.2869207262992859
+        },
+        {
+          "word": " then",
+          "start": 8.98,
+          "end": 9.16,
+          "probability": 0.3570614159107208
+        },
+        {
+          "word": " you",
+          "start": 9.16,
+          "end": 9.38,
+          "probability": 0.13772961497306824
+        },
+        {
+          "word": " say,",
+          "start": 9.38,
+          "end": 9.74,
+          "probability": 0.12779417634010315
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 9.74,
+      "end": 11.22,
+      "text": " My strategy is perfect.",
+      "tokens": [
+        50866,
+        1222,
+        5206,
+        307,
+        2176,
+        13,
+        50936
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7572986132478061,
+      "compression_ratio": 1.8161993769470406,
+      "no_speech_prob": 0.004824780393391848,
+      "words": [
+        {
+          "word": " My",
+          "start": 9.74,
+          "end": 10.22,
+          "probability": 0.022713715210556984
+        },
+        {
+          "word": " strategy",
+          "start": 10.22,
+          "end": 10.7,
+          "probability": 0.9853847622871399
+        },
+        {
+          "word": " is",
+          "start": 10.7,
+          "end": 10.82,
+          "probability": 0.9457634687423706
+        },
+        {
+          "word": " perfect.",
+          "start": 10.82,
+          "end": 11.22,
+          "probability": 0.9224826693534851
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 11.48,
+      "end": 13.8,
+      "text": " Confidence increases and the trader makes a reasonable position.",
+      "tokens": [
+        50936,
+        11701,
+        2778,
+        8637,
+        293,
+        264,
+        31961,
+        1669,
+        257,
+        10585,
+        2535,
+        13,
+        51100
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7572986132478061,
+      "compression_ratio": 1.8161993769470406,
+      "no_speech_prob": 0.004824780393391848,
+      "words": [
+        {
+          "word": " Confidence",
+          "start": 11.48,
+          "end": 11.88,
+          "probability": 0.7586502730846405
+        },
+        {
+          "word": " increases",
+          "start": 11.88,
+          "end": 12.26,
+          "probability": 0.6194356083869934
+        },
+        {
+          "word": " and",
+          "start": 12.26,
+          "end": 12.56,
+          "probability": 0.5236057043075562
+        },
+        {
+          "word": " the",
+          "start": 12.56,
+          "end": 12.74,
+          "probability": 0.11949212104082108
+        },
+        {
+          "word": " trader",
+          "start": 12.74,
+          "end": 12.92,
+          "probability": 0.06112447381019592
+        },
+        {
+          "word": " makes",
+          "start": 12.92,
+          "end": 13.06,
+          "probability": 0.1792762130498886
+        },
+        {
+          "word": " a",
+          "start": 13.06,
+          "end": 13.28,
+          "probability": 0.39092129468917847
+        },
+        {
+          "word": " reasonable",
+          "start": 13.28,
+          "end": 13.28,
+          "probability": 0.1072259396314621
+        },
+        {
+          "word": " position.",
+          "start": 13.28,
+          "end": 13.8,
+          "probability": 0.4303881824016571
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 14.58,
+      "end": 17.14,
+      "text": " Because there is no problem in trading, it is not because of the emotions.",
+      "tokens": [
+        51100,
+        1436,
+        456,
+        307,
+        572,
+        1154,
+        294,
+        9529,
+        11,
+        309,
+        307,
+        406,
+        570,
+        295,
+        264,
+        8462,
+        13,
+        51256
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7572986132478061,
+      "compression_ratio": 1.8161993769470406,
+      "no_speech_prob": 0.004824780393391848,
+      "words": [
+        {
+          "word": " Because",
+          "start": 14.58,
+          "end": 14.94,
+          "probability": 0.7636964917182922
+        },
+        {
+          "word": " there",
+          "start": 14.94,
+          "end": 15.32,
+          "probability": 0.39588218927383423
+        },
+        {
+          "word": " is",
+          "start": 15.32,
+          "end": 15.56,
+          "probability": 0.5241355895996094
+        },
+        {
+          "word": " no",
+          "start": 15.56,
+          "end": 15.64,
+          "probability": 0.8906151652336121
+        },
+        {
+          "word": " problem",
+          "start": 15.64,
+          "end": 15.8,
+          "probability": 0.6501030921936035
+        },
+        {
+          "word": " in",
+          "start": 15.8,
+          "end": 16.06,
+          "probability": 0.806681215763092
+        },
+        {
+          "word": " trading,",
+          "start": 16.06,
+          "end": 16.06,
+          "probability": 0.8367976546287537
+        },
+        {
+          "word": " it",
+          "start": 16.06,
+          "end": 16.78,
+          "probability": 0.11293499916791916
+        },
+        {
+          "word": " is",
+          "start": 16.78,
+          "end": 16.78,
+          "probability": 0.44115588068962097
+        },
+        {
+          "word": " not",
+          "start": 16.78,
+          "end": 16.78,
+          "probability": 0.12139894813299179
+        },
+        {
+          "word": " because",
+          "start": 16.78,
+          "end": 16.78,
+          "probability": 0.2666068971157074
+        },
+        {
+          "word": " of",
+          "start": 16.78,
+          "end": 16.78,
+          "probability": 0.5291208028793335
+        },
+        {
+          "word": " the",
+          "start": 16.78,
+          "end": 16.88,
+          "probability": 0.4895821809768677
+        },
+        {
+          "word": " emotions.",
+          "start": 16.88,
+          "end": 17.14,
+          "probability": 0.44336992502212524
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 17.9,
+      "end": 21.92,
+      "text": " When money is real, it feels like it is more fair and greed to react to it.",
+      "tokens": [
+        51256,
+        1133,
+        1460,
+        307,
+        957,
+        11,
+        309,
+        3417,
+        411,
+        309,
+        307,
+        544,
+        3143,
+        293,
+        29230,
+        281,
+        4515,
+        281,
+        309,
+        13,
+        51470
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7572986132478061,
+      "compression_ratio": 1.8161993769470406,
+      "no_speech_prob": 0.004824780393391848,
+      "words": [
+        {
+          "word": " When",
+          "start": 17.9,
+          "end": 18.0,
+          "probability": 0.820424497127533
+        },
+        {
+          "word": " money",
+          "start": 18.0,
+          "end": 18.34,
+          "probability": 0.29127734899520874
+        },
+        {
+          "word": " is",
+          "start": 18.34,
+          "end": 18.44,
+          "probability": 0.5360376238822937
+        },
+        {
+          "word": " real,",
+          "start": 18.44,
+          "end": 18.6,
+          "probability": 0.9177905321121216
+        },
+        {
+          "word": " it",
+          "start": 18.96,
+          "end": 19.7,
+          "probability": 0.3795577883720398
+        },
+        {
+          "word": " feels",
+          "start": 19.7,
+          "end": 19.76,
+          "probability": 0.2333800047636032
+        },
+        {
+          "word": " like",
+          "start": 19.76,
+          "end": 19.76,
+          "probability": 0.4662632346153259
+        },
+        {
+          "word": " it",
+          "start": 19.76,
+          "end": 19.86,
+          "probability": 0.0720657929778099
+        },
+        {
+          "word": " is",
+          "start": 19.86,
+          "end": 19.86,
+          "probability": 0.4228605031967163
+        },
+        {
+          "word": " more",
+          "start": 19.86,
+          "end": 19.86,
+          "probability": 0.22867025434970856
+        },
+        {
+          "word": " fair",
+          "start": 19.86,
+          "end": 20.28,
+          "probability": 0.15019948780536652
+        },
+        {
+          "word": " and",
+          "start": 20.28,
+          "end": 20.56,
+          "probability": 0.5066645741462708
+        },
+        {
+          "word": " greed",
+          "start": 20.56,
+          "end": 20.8,
+          "probability": 0.09590072929859161
+        },
+        {
+          "word": " to",
+          "start": 20.8,
+          "end": 21.2,
+          "probability": 0.4534246027469635
+        },
+        {
+          "word": " react",
+          "start": 21.2,
+          "end": 21.42,
+          "probability": 0.8673123717308044
+        },
+        {
+          "word": " to",
+          "start": 21.42,
+          "end": 21.92,
+          "probability": 0.6610123515129089
+        },
+        {
+          "word": " it.",
+          "start": 21.92,
+          "end": 21.92,
+          "probability": 0.8220707178115845
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 22.1,
+      "end": 23.08,
+      "text": " Then a big loss comes.",
+      "tokens": [
+        51470,
+        1396,
+        257,
+        955,
+        4470,
+        1487,
+        13,
+        51528
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7572986132478061,
+      "compression_ratio": 1.8161993769470406,
+      "no_speech_prob": 0.004824780393391848,
+      "words": [
+        {
+          "word": " Then",
+          "start": 22.1,
+          "end": 22.32,
+          "probability": 0.43344977498054504
+        },
+        {
+          "word": " a",
+          "start": 22.32,
+          "end": 22.48,
+          "probability": 0.5723536014556885
+        },
+        {
+          "word": " big",
+          "start": 22.48,
+          "end": 22.62,
+          "probability": 0.6637327075004578
+        },
+        {
+          "word": " loss",
+          "start": 22.62,
+          "end": 22.9,
+          "probability": 0.9404373168945312
+        },
+        {
+          "word": " comes.",
+          "start": 22.9,
+          "end": 23.08,
+          "probability": 0.7663094997406006
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 23.32,
+      "end": 24.62,
+      "text": " Now, not only to understand the focus of the trader,",
+      "tokens": [
+        51528,
+        823,
+        11,
+        406,
+        787,
+        281,
+        1223,
+        264,
+        1879,
+        295,
+        264,
+        31961,
+        11,
+        51640
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7572986132478061,
+      "compression_ratio": 1.8161993769470406,
+      "no_speech_prob": 0.004824780393391848,
+      "words": [
+        {
+          "word": " Now,",
+          "start": 23.32,
+          "end": 23.42,
+          "probability": 0.4419387876987457
+        },
+        {
+          "word": " not",
+          "start": 23.6,
+          "end": 23.8,
+          "probability": 0.2920534908771515
+        },
+        {
+          "word": " only",
+          "start": 23.8,
+          "end": 23.8,
+          "probability": 0.12761883437633514
+        },
+        {
+          "word": " to",
+          "start": 23.8,
+          "end": 23.8,
+          "probability": 0.3676171600818634
+        },
+        {
+          "word": " understand",
+          "start": 23.8,
+          "end": 23.8,
+          "probability": 0.5837868452072144
+        },
+        {
+          "word": " the",
+          "start": 23.8,
+          "end": 23.96,
+          "probability": 0.8489683866500854
+        },
+        {
+          "word": " focus",
+          "start": 23.96,
+          "end": 24.18,
+          "probability": 0.9694876074790955
+        },
+        {
+          "word": " of",
+          "start": 24.18,
+          "end": 24.62,
+          "probability": 0.9037225246429443
+        },
+        {
+          "word": " the",
+          "start": 24.62,
+          "end": 24.62,
+          "probability": 0.6251174807548523
+        },
+        {
+          "word": " trader,",
+          "start": 24.62,
+          "end": 24.62,
+          "probability": 0.9517151713371277
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 25.44,
+      "end": 26.94,
+      "text": " it is just to recover the loss.",
+      "tokens": [
+        51640,
+        309,
+        307,
+        445,
+        281,
+        8114,
+        264,
+        4470,
+        13,
+        51722
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7572986132478061,
+      "compression_ratio": 1.8161993769470406,
+      "no_speech_prob": 0.004824780393391848,
+      "words": [
+        {
+          "word": " it",
+          "start": 25.44,
+          "end": 25.72,
+          "probability": 0.47787755727767944
+        },
+        {
+          "word": " is",
+          "start": 25.72,
+          "end": 25.8,
+          "probability": 0.3365526795387268
+        },
+        {
+          "word": " just",
+          "start": 25.8,
+          "end": 25.82,
+          "probability": 0.3112744987010956
+        },
+        {
+          "word": " to",
+          "start": 25.82,
+          "end": 25.9,
+          "probability": 0.6921301484107971
+        },
+        {
+          "word": " recover",
+          "start": 25.9,
+          "end": 26.38,
+          "probability": 0.9409545660018921
+        },
+        {
+          "word": " the",
+          "start": 26.38,
+          "end": 26.94,
+          "probability": 0.6226704120635986
+        },
+        {
+          "word": " loss.",
+          "start": 26.94,
+          "end": 26.94,
+          "probability": 0.6226454377174377
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 0,
+      "start": 27.18,
+      "end": 28.6,
+      "text": " And this is where the revenge trading starts.",
+      "tokens": [
+        51722,
+        400,
+        341,
+        307,
+        689,
+        264,
+        16711,
+        9529,
+        3719,
+        13,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7572986132478061,
+      "compression_ratio": 1.8161993769470406,
+      "no_speech_prob": 0.004824780393391848,
+      "words": [
+        {
+          "word": " And",
+          "start": 27.18,
+          "end": 27.36,
+          "probability": 0.8474150896072388
+        },
+        {
+          "word": " this",
+          "start": 27.36,
+          "end": 27.5,
+          "probability": 0.2467612475156784
+        },
+        {
+          "word": " is",
+          "start": 27.5,
+          "end": 27.64,
+          "probability": 0.8337867259979248
+        },
+        {
+          "word": " where",
+          "start": 27.64,
+          "end": 27.76,
+          "probability": 0.58988356590271
+        },
+        {
+          "word": " the",
+          "start": 27.76,
+          "end": 27.84,
+          "probability": 0.5353763699531555
+        },
+        {
+          "word": " revenge",
+          "start": 27.84,
+          "end": 28.02,
+          "probability": 0.39783692359924316
+        },
+        {
+          "word": " trading",
+          "start": 28.02,
+          "end": 28.32,
+          "probability": 0.8786344528198242
+        },
+        {
+          "word": " starts.",
+          "start": 28.32,
+          "end": 28.6,
+          "probability": 0.3734702467918396
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2860,
+      "start": 28.6,
+      "end": 31.7,
+      "text": " The fun part is that the trader knows the value of the value.",
+      "tokens": [
+        50384,
+        440,
+        1019,
+        644,
+        307,
+        300,
+        264,
+        31961,
+        3255,
+        264,
+        2158,
+        295,
+        264,
+        2158,
+        13,
+        50546
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6553291227759385,
+      "compression_ratio": 1.809782608695652,
+      "no_speech_prob": 0.03984404355287552,
+      "words": [
+        {
+          "word": " The",
+          "start": 28.6,
+          "end": 29.14,
+          "probability": 0.20555339753627777
+        },
+        {
+          "word": " fun",
+          "start": 29.14,
+          "end": 29.24,
+          "probability": 0.3470274806022644
+        },
+        {
+          "word": " part",
+          "start": 29.24,
+          "end": 29.58,
+          "probability": 0.9803223013877869
+        },
+        {
+          "word": " is",
+          "start": 29.58,
+          "end": 29.84,
+          "probability": 0.7751834988594055
+        },
+        {
+          "word": " that",
+          "start": 29.84,
+          "end": 29.98,
+          "probability": 0.7575392127037048
+        },
+        {
+          "word": " the",
+          "start": 29.98,
+          "end": 30.06,
+          "probability": 0.6107698678970337
+        },
+        {
+          "word": " trader",
+          "start": 30.06,
+          "end": 30.32,
+          "probability": 0.7613197565078735
+        },
+        {
+          "word": " knows",
+          "start": 30.32,
+          "end": 30.46,
+          "probability": 0.4274778366088867
+        },
+        {
+          "word": " the",
+          "start": 30.46,
+          "end": 30.46,
+          "probability": 0.19701556861400604
+        },
+        {
+          "word": " value",
+          "start": 30.46,
+          "end": 31.22,
+          "probability": 0.04592549428343773
+        },
+        {
+          "word": " of",
+          "start": 31.22,
+          "end": 31.54,
+          "probability": 0.51474928855896
+        },
+        {
+          "word": " the",
+          "start": 31.54,
+          "end": 31.58,
+          "probability": 0.33335044980049133
+        },
+        {
+          "word": " value.",
+          "start": 31.58,
+          "end": 31.7,
+          "probability": 0.05107342451810837
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 2860,
+      "start": 32.14,
+      "end": 34.88,
+      "text": " But in that moment, he overrides the emotion logic.",
+      "tokens": [
+        50546,
+        583,
+        294,
+        300,
+        1623,
+        11,
+        415,
+        670,
+        81,
+        1875,
+        264,
+        8913,
+        9952,
+        13,
+        50730
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6553291227759385,
+      "compression_ratio": 1.809782608695652,
+      "no_speech_prob": 0.03984404355287552,
+      "words": [
+        {
+          "word": " But",
+          "start": 32.14,
+          "end": 32.58,
+          "probability": 0.6342417597770691
+        },
+        {
+          "word": " in",
+          "start": 32.58,
+          "end": 32.78,
+          "probability": 0.27712616324424744
+        },
+        {
+          "word": " that",
+          "start": 32.78,
+          "end": 33.0,
+          "probability": 0.7074975371360779
+        },
+        {
+          "word": " moment,",
+          "start": 33.0,
+          "end": 33.38,
+          "probability": 0.946144700050354
+        },
+        {
+          "word": " he",
+          "start": 33.88,
+          "end": 34.0,
+          "probability": 0.5321125984191895
+        },
+        {
+          "word": " overrides",
+          "start": 34.0,
+          "end": 34.0,
+          "probability": 0.5042256613572439
+        },
+        {
+          "word": " the",
+          "start": 34.0,
+          "end": 34.0,
+          "probability": 0.7455576062202454
+        },
+        {
+          "word": " emotion",
+          "start": 34.0,
+          "end": 34.28,
+          "probability": 0.5774380564689636
+        },
+        {
+          "word": " logic.",
+          "start": 34.28,
+          "end": 34.88,
+          "probability": 0.41692960262298584
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 2860,
+      "start": 35.92,
+      "end": 37.86,
+      "text": " That is why smart traders are not the ones who are not emotional.",
+      "tokens": [
+        50730,
+        663,
+        307,
+        983,
+        4069,
+        26014,
+        366,
+        406,
+        264,
+        2306,
+        567,
+        366,
+        406,
+        6863,
+        13,
+        50848
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6553291227759385,
+      "compression_ratio": 1.809782608695652,
+      "no_speech_prob": 0.03984404355287552,
+      "words": [
+        {
+          "word": " That",
+          "start": 35.92,
+          "end": 36.08,
+          "probability": 0.35347113013267517
+        },
+        {
+          "word": " is",
+          "start": 36.08,
+          "end": 36.1,
+          "probability": 0.4182679057121277
+        },
+        {
+          "word": " why",
+          "start": 36.1,
+          "end": 36.22,
+          "probability": 0.9378467798233032
+        },
+        {
+          "word": " smart",
+          "start": 36.22,
+          "end": 36.44,
+          "probability": 0.045706551522016525
+        },
+        {
+          "word": " traders",
+          "start": 36.44,
+          "end": 36.78,
+          "probability": 0.4888603389263153
+        },
+        {
+          "word": " are",
+          "start": 36.78,
+          "end": 36.92,
+          "probability": 0.11837995052337646
+        },
+        {
+          "word": " not",
+          "start": 36.92,
+          "end": 37.1,
+          "probability": 0.7574915289878845
+        },
+        {
+          "word": " the",
+          "start": 37.1,
+          "end": 37.24,
+          "probability": 0.46225830912590027
+        },
+        {
+          "word": " ones",
+          "start": 37.24,
+          "end": 37.24,
+          "probability": 0.6298893690109253
+        },
+        {
+          "word": " who",
+          "start": 37.24,
+          "end": 37.34,
+          "probability": 0.7135282754898071
+        },
+        {
+          "word": " are",
+          "start": 37.34,
+          "end": 37.5,
+          "probability": 0.17678599059581757
+        },
+        {
+          "word": " not",
+          "start": 37.5,
+          "end": 37.76,
+          "probability": 0.58060222864151
+        },
+        {
+          "word": " emotional.",
+          "start": 37.76,
+          "end": 37.86,
+          "probability": 0.6065278649330139
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 2860,
+      "start": 38.28,
+      "end": 40.62,
+      "text": " Smart traders are the ones who follow the rules of their emotions.",
+      "tokens": [
+        50848,
+        12923,
+        26014,
+        366,
+        264,
+        2306,
+        567,
+        1524,
+        264,
+        4474,
+        295,
+        641,
+        8462,
+        13,
+        50992
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6553291227759385,
+      "compression_ratio": 1.809782608695652,
+      "no_speech_prob": 0.03984404355287552,
+      "words": [
+        {
+          "word": " Smart",
+          "start": 38.28,
+          "end": 38.5,
+          "probability": 0.6523505449295044
+        },
+        {
+          "word": " traders",
+          "start": 38.5,
+          "end": 38.84,
+          "probability": 0.9486944675445557
+        },
+        {
+          "word": " are",
+          "start": 38.84,
+          "end": 38.98,
+          "probability": 0.7293257713317871
+        },
+        {
+          "word": " the",
+          "start": 38.98,
+          "end": 39.18,
+          "probability": 0.6832937002182007
+        },
+        {
+          "word": " ones",
+          "start": 39.18,
+          "end": 39.18,
+          "probability": 0.9641326665878296
+        },
+        {
+          "word": " who",
+          "start": 39.18,
+          "end": 39.28,
+          "probability": 0.7811420559883118
+        },
+        {
+          "word": " follow",
+          "start": 39.28,
+          "end": 39.84,
+          "probability": 0.8733654618263245
+        },
+        {
+          "word": " the",
+          "start": 39.84,
+          "end": 39.84,
+          "probability": 0.5685778260231018
+        },
+        {
+          "word": " rules",
+          "start": 39.84,
+          "end": 40.62,
+          "probability": 0.9375758171081543
+        },
+        {
+          "word": " of",
+          "start": 40.62,
+          "end": 40.62,
+          "probability": 0.40799519419670105
+        },
+        {
+          "word": " their",
+          "start": 40.62,
+          "end": 40.62,
+          "probability": 0.3276204764842987
+        },
+        {
+          "word": " emotions.",
+          "start": 40.62,
+          "end": 40.62,
+          "probability": 0.25488409399986267
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 2860,
+      "start": 41.16,
+      "end": 43.84,
+      "text": " And if you want to understand the simple language of the trading concept, then follow.",
+      "tokens": [
+        50992,
+        400,
+        498,
+        291,
+        528,
+        281,
+        1223,
+        264,
+        2199,
+        2856,
+        295,
+        264,
+        9529,
+        3410,
+        11,
+        550,
+        1524,
+        13,
+        51152
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6553291227759385,
+      "compression_ratio": 1.809782608695652,
+      "no_speech_prob": 0.03984404355287552,
+      "words": [
+        {
+          "word": " And",
+          "start": 41.16,
+          "end": 41.34,
+          "probability": 0.6038615107536316
+        },
+        {
+          "word": " if",
+          "start": 41.34,
+          "end": 41.48,
+          "probability": 0.43484199047088623
+        },
+        {
+          "word": " you",
+          "start": 41.48,
+          "end": 41.66,
+          "probability": 0.8232510685920715
+        },
+        {
+          "word": " want",
+          "start": 41.66,
+          "end": 41.66,
+          "probability": 0.2772206962108612
+        },
+        {
+          "word": " to",
+          "start": 41.66,
+          "end": 41.66,
+          "probability": 0.9781168699264526
+        },
+        {
+          "word": " understand",
+          "start": 41.66,
+          "end": 41.66,
+          "probability": 0.6120684146881104
+        },
+        {
+          "word": " the",
+          "start": 41.66,
+          "end": 41.66,
+          "probability": 0.429362416267395
+        },
+        {
+          "word": " simple",
+          "start": 41.66,
+          "end": 42.46,
+          "probability": 0.8486708998680115
+        },
+        {
+          "word": " language",
+          "start": 42.46,
+          "end": 42.8,
+          "probability": 0.8499007821083069
+        },
+        {
+          "word": " of",
+          "start": 42.8,
+          "end": 42.9,
+          "probability": 0.5285154581069946
+        },
+        {
+          "word": " the",
+          "start": 42.9,
+          "end": 42.9,
+          "probability": 0.36654192209243774
+        },
+        {
+          "word": " trading",
+          "start": 42.9,
+          "end": 42.9,
+          "probability": 0.24801452457904816
+        },
+        {
+          "word": " concept,",
+          "start": 42.9,
+          "end": 42.9,
+          "probability": 0.9176174402236938
+        },
+        {
+          "word": " then",
+          "start": 43.46,
+          "end": 43.62,
+          "probability": 0.509800136089325
+        },
+        {
+          "word": " follow.",
+          "start": 43.62,
+          "end": 43.84,
+          "probability": 0.9117233753204346
+        }
+      ]
+    }
+  ],
+  "language": "hi"
+}

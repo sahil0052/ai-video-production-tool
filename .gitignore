@@ -1,0 +1,52 @@
+﻿# Environments & Secrets
+.env
+.env.*
+.venv/
+venv/
+ENV/
+env/
+
+# Python Cache & Testing
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.pytest-tmp*/
+.playwright-mcp/
+.remotion/
+.coverage
+htmlcov/
+*.egg-info/
+dist/
+build/
+
+# Node & Remotion
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+renderer/build/
+renderer/dist/
+renderer/.cache/
+
+# Agent & Brain Workspace Cache
+.gemini/
+.system_generated/
+*.log
+
+# Large Video Storage & Temporary Renders
+storage/deliverables/*/segments/
+storage/deliverables/*/unique_segments/
+storage/deliverables/*/top_segments/
+storage/deliverables/*/frame_checks/
+storage/deliverables/*/*.mp4
+storage/deliverables/*/*.wav
+renderer/public/flow_videos/*.mp4
+*.mp4
+*.zip
+*.tar.gz
+
+# OS Artifacts
+Thumbs.db
+[Dd]esktop.ini
+.DS_Store

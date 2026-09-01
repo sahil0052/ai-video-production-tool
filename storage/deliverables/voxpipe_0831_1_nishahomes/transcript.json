@@ -1,0 +1,1003 @@
+{
+  "duration": 39.44,
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.38,
+      "text": "What is the biggest mistake of buying a property?",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.52,
+          "text": "What",
+          "confidence": 0.13
+        },
+        {
+          "start": 0.52,
+          "end": 0.92,
+          "text": "is",
+          "confidence": 0.68
+        },
+        {
+          "start": 0.92,
+          "end": 1.1,
+          "text": "the",
+          "confidence": 0.91
+        },
+        {
+          "start": 1.1,
+          "end": 1.46,
+          "text": "biggest",
+          "confidence": 0.88
+        },
+        {
+          "start": 1.46,
+          "end": 1.96,
+          "text": "mistake",
+          "confidence": 0.78
+        },
+        {
+          "start": 1.96,
+          "end": 2.38,
+          "text": "of",
+          "confidence": 0.27
+        },
+        {
+          "start": 2.1999999999999997,
+          "end": 2.26,
+          "text": "buying",
+          "confidence": 0.52
+        },
+        {
+          "start": 2.26,
+          "end": 2.32,
+          "text": "a",
+          "confidence": 0.4
+        },
+        {
+          "start": 2.32,
+          "end": 2.38,
+          "text": "property?",
+          "confidence": 0.97
+        }
+      ]
+    },
+    {
+      "start": 2.38,
+      "end": 3.3,
+      "text": "Just look at the price.",
+      "words": [
+        {
+          "start": 2.38,
+          "end": 2.66,
+          "text": "Just",
+          "confidence": 0.58
+        },
+        {
+          "start": 2.66,
+          "end": 2.74,
+          "text": "look",
+          "confidence": 0.29
+        },
+        {
+          "start": 2.74,
+          "end": 2.8200000000000003,
+          "text": "at",
+          "confidence": 0.9
+        },
+        {
+          "start": 2.8200000000000003,
+          "end": 2.9000000000000004,
+          "text": "the",
+          "confidence": 0.92
+        },
+        {
+          "start": 2.66,
+          "end": 3.3,
+          "text": "price.",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "start": 3.58,
+      "end": 5.78,
+      "text": "Because the house is not necessary to be a real deal.",
+      "words": [
+        {
+          "start": 3.58,
+          "end": 3.7,
+          "text": "Because",
+          "confidence": 0.74
+        },
+        {
+          "start": 3.7,
+          "end": 3.86,
+          "text": "the",
+          "confidence": 0.27
+        },
+        {
+          "start": 3.86,
+          "end": 4.26,
+          "text": "house",
+          "confidence": 0.2
+        },
+        {
+          "start": 4.26,
+          "end": 4.46,
+          "text": "is",
+          "confidence": 0.63
+        },
+        {
+          "start": 4.46,
+          "end": 4.54,
+          "text": "not",
+          "confidence": 0.79
+        },
+        {
+          "start": 4.46,
+          "end": 4.86,
+          "text": "necessary",
+          "confidence": 0.29
+        },
+        {
+          "start": 4.86,
+          "end": 5.28,
+          "text": "to",
+          "confidence": 0.24
+        },
+        {
+          "start": 5.28,
+          "end": 5.36,
+          "text": "be",
+          "confidence": 0.19
+        },
+        {
+          "start": 5.36,
+          "end": 5.44,
+          "text": "a",
+          "confidence": 0.08
+        },
+        {
+          "start": 5.36,
+          "end": 5.54,
+          "text": "real",
+          "confidence": 0.19
+        },
+        {
+          "start": 5.54,
+          "end": 5.78,
+          "text": "deal.",
+          "confidence": 0.98
+        }
+      ]
+    },
+    {
+      "start": 6.06,
+      "end": 6.44,
+      "text": "How is the location?",
+      "words": [
+        {
+          "start": 6.06,
+          "end": 6.08,
+          "text": "How",
+          "confidence": 0.68
+        },
+        {
+          "start": 6.08,
+          "end": 6.16,
+          "text": "is",
+          "confidence": 0.73
+        },
+        {
+          "start": 6.16,
+          "end": 6.24,
+          "text": "the",
+          "confidence": 0.83
+        },
+        {
+          "start": 6.08,
+          "end": 6.44,
+          "text": "location?",
+          "confidence": 0.98
+        }
+      ]
+    },
+    {
+      "start": 7.04,
+      "end": 7.46,
+      "text": "How is the project?",
+      "words": [
+        {
+          "start": 7.04,
+          "end": 7.26,
+          "text": "How",
+          "confidence": 0.81
+        },
+        {
+          "start": 7.26,
+          "end": 7.28,
+          "text": "is",
+          "confidence": 0.78
+        },
+        {
+          "start": 7.28,
+          "end": 7.46,
+          "text": "the",
+          "confidence": 0.93
+        },
+        {
+          "start": 7.4,
+          "end": 7.46,
+          "text": "project?",
+          "confidence": 0.98
+        }
+      ]
+    },
+    {
+      "start": 8.02,
+      "end": 8.64,
+      "text": "When will we get the possession?",
+      "words": [
+        {
+          "start": 8.02,
+          "end": 8.22,
+          "text": "When",
+          "confidence": 0.6
+        },
+        {
+          "start": 8.22,
+          "end": 8.3,
+          "text": "will",
+          "confidence": 0.79
+        },
+        {
+          "start": 8.3,
+          "end": 8.38,
+          "text": "we",
+          "confidence": 0.4
+        },
+        {
+          "start": 8.38,
+          "end": 8.46,
+          "text": "get",
+          "confidence": 0.85
+        },
+        {
+          "start": 8.46,
+          "end": 8.540000000000001,
+          "text": "the",
+          "confidence": 0.58
+        },
+        {
+          "start": 8.22,
+          "end": 8.64,
+          "text": "possession?",
+          "confidence": 0.66
+        }
+      ]
+    },
+    {
+      "start": 9.24,
+      "end": 9.82,
+      "text": "Ready to move?",
+      "words": [
+        {
+          "start": 9.24,
+          "end": 9.46,
+          "text": "Ready",
+          "confidence": 0.39
+        },
+        {
+          "start": 9.46,
+          "end": 9.64,
+          "text": "to",
+          "confidence": 0.96
+        },
+        {
+          "start": 9.64,
+          "end": 9.82,
+          "text": "move?",
+          "confidence": 0.98
+        }
+      ]
+    },
+    {
+      "start": 10.12,
+      "end": 11.7,
+      "text": "And if you sell it from tomorrow, who will be the buyer?",
+      "words": [
+        {
+          "start": 10.12,
+          "end": 10.24,
+          "text": "And",
+          "confidence": 0.47
+        },
+        {
+          "start": 10.24,
+          "end": 10.36,
+          "text": "if",
+          "confidence": 0.54
+        },
+        {
+          "start": 10.36,
+          "end": 10.72,
+          "text": "you",
+          "confidence": 0.6
+        },
+        {
+          "start": 10.72,
+          "end": 10.84,
+          "text": "sell",
+          "confidence": 0.71
+        },
+        {
+          "start": 10.84,
+          "end": 10.96,
+          "text": "it",
+          "confidence": 0.87
+        },
+        {
+          "start": 10.96,
+          "end": 11.100000000000001,
+          "text": "from",
+          "confidence": 0.43
+        },
+        {
+          "start": 11.100000000000001,
+          "end": 11.24,
+          "text": "tomorrow,",
+          "confidence": 0.94
+        },
+        {
+          "start": 11.24,
+          "end": 11.46,
+          "text": "who",
+          "confidence": 0.38
+        },
+        {
+          "start": 11.46,
+          "end": 11.540000000000001,
+          "text": "will",
+          "confidence": 0.76
+        },
+        {
+          "start": 11.540000000000001,
+          "end": 11.620000000000001,
+          "text": "be",
+          "confidence": 0.5
+        },
+        {
+          "start": 11.46,
+          "end": 11.7,
+          "text": "the",
+          "confidence": 0.33
+        },
+        {
+          "start": 11.639999999999999,
+          "end": 11.7,
+          "text": "buyer?",
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 12.26,
+      "end": 14.92,
+      "text": "There is a listing and a smart investment in the investment.",
+      "words": [
+        {
+          "start": 12.26,
+          "end": 12.68,
+          "text": "There",
+          "confidence": 0.32
+        },
+        {
+          "start": 12.68,
+          "end": 12.72,
+          "text": "is",
+          "confidence": 0.81
+        },
+        {
+          "start": 12.68,
+          "end": 12.72,
+          "text": "a",
+          "confidence": 0.91
+        },
+        {
+          "start": 12.72,
+          "end": 13.12,
+          "text": "listing",
+          "confidence": 0.93
+        },
+        {
+          "start": 13.12,
+          "end": 13.36,
+          "text": "and",
+          "confidence": 0.85
+        },
+        {
+          "start": 13.36,
+          "end": 13.44,
+          "text": "a",
+          "confidence": 0.86
+        },
+        {
+          "start": 13.44,
+          "end": 13.76,
+          "text": "smart",
+          "confidence": 0.96
+        },
+        {
+          "start": 13.76,
+          "end": 14.34,
+          "text": "investment",
+          "confidence": 0.99
+        },
+        {
+          "start": 14.34,
+          "end": 14.42,
+          "text": "in",
+          "confidence": 0.29
+        },
+        {
+          "start": 14.42,
+          "end": 14.92,
+          "text": "the",
+          "confidence": 0.4
+        },
+        {
+          "start": 14.86,
+          "end": 14.92,
+          "text": "investment.",
+          "confidence": 0.23
+        }
+      ]
+    },
+    {
+      "start": 15.16,
+      "end": 17.28,
+      "text": "We don't only see options in Nisha homes with this approach.",
+      "words": [
+        {
+          "start": 15.16,
+          "end": 15.36,
+          "text": "We",
+          "confidence": 0.18
+        },
+        {
+          "start": 15.36,
+          "end": 15.44,
+          "text": "don't",
+          "confidence": 0.65
+        },
+        {
+          "start": 15.44,
+          "end": 15.52,
+          "text": "only",
+          "confidence": 0.51
+        },
+        {
+          "start": 15.52,
+          "end": 15.6,
+          "text": "see",
+          "confidence": 0.37
+        },
+        {
+          "start": 15.6,
+          "end": 15.68,
+          "text": "options",
+          "confidence": 0.94
+        },
+        {
+          "start": 15.36,
+          "end": 16.24,
+          "text": "in",
+          "confidence": 0.47
+        },
+        {
+          "start": 16.24,
+          "end": 16.44,
+          "text": "Nisha",
+          "confidence": 0.51
+        },
+        {
+          "start": 16.44,
+          "end": 16.8,
+          "text": "homes",
+          "confidence": 0.36
+        },
+        {
+          "start": 16.8,
+          "end": 17.28,
+          "text": "with",
+          "confidence": 0.81
+        },
+        {
+          "start": 17.16,
+          "end": 17.22,
+          "text": "this",
+          "confidence": 0.5
+        },
+        {
+          "start": 17.22,
+          "end": 17.28,
+          "text": "approach.",
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 18.46,
+      "end": 20.5,
+      "text": "We look for right options from your budget and requirement.",
+      "words": [
+        {
+          "start": 18.46,
+          "end": 18.6,
+          "text": "We",
+          "confidence": 0.91
+        },
+        {
+          "start": 18.6,
+          "end": 18.644000000000002,
+          "text": "look",
+          "confidence": 0.32
+        },
+        {
+          "start": 18.644000000000002,
+          "end": 18.688000000000002,
+          "text": "for",
+          "confidence": 0.96
+        },
+        {
+          "start": 18.688000000000002,
+          "end": 18.732,
+          "text": "right",
+          "confidence": 0.49
+        },
+        {
+          "start": 18.732,
+          "end": 18.776,
+          "text": "options",
+          "confidence": 0.93
+        },
+        {
+          "start": 18.776,
+          "end": 18.82,
+          "text": "from",
+          "confidence": 0.37
+        },
+        {
+          "start": 18.6,
+          "end": 18.82,
+          "text": "your",
+          "confidence": 0.4
+        },
+        {
+          "start": 18.82,
+          "end": 19.2,
+          "text": "budget",
+          "confidence": 0.99
+        },
+        {
+          "start": 19.2,
+          "end": 19.44,
+          "text": "and",
+          "confidence": 0.91
+        },
+        {
+          "start": 19.44,
+          "end": 20.5,
+          "text": "requirement.",
+          "confidence": 0.69
+        }
+      ]
+    },
+    {
+      "start": 21.84,
+      "end": 24.46,
+      "text": "Gurgau, Noida, Ghasiaabad or South Delhi.",
+      "words": [
+        {
+          "start": 21.84,
+          "end": 22.4,
+          "text": "Gurgau,",
+          "confidence": 0.48
+        },
+        {
+          "start": 22.58,
+          "end": 22.84,
+          "text": "Noida,",
+          "confidence": 0.71
+        },
+        {
+          "start": 23.06,
+          "end": 23.5,
+          "text": "Ghasiaabad",
+          "confidence": 0.51
+        },
+        {
+          "start": 23.5,
+          "end": 23.88,
+          "text": "or",
+          "confidence": 0.66
+        },
+        {
+          "start": 23.88,
+          "end": 24.22,
+          "text": "South",
+          "confidence": 0.96
+        },
+        {
+          "start": 24.22,
+          "end": 24.46,
+          "text": "Delhi.",
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 24.64,
+      "end": 26.88,
+      "text": "Take affordable, economy and premium.",
+      "words": [
+        {
+          "start": 24.64,
+          "end": 24.66,
+          "text": "Take",
+          "confidence": 0.06
+        },
+        {
+          "start": 24.66,
+          "end": 25.1,
+          "text": "affordable,",
+          "confidence": 0.58
+        },
+        {
+          "start": 25.42,
+          "end": 26.04,
+          "text": "economy",
+          "confidence": 0.79
+        },
+        {
+          "start": 26.04,
+          "end": 26.48,
+          "text": "and",
+          "confidence": 0.84
+        },
+        {
+          "start": 26.48,
+          "end": 26.88,
+          "text": "premium.",
+          "confidence": 0.98
+        }
+      ]
+    },
+    {
+      "start": 27.14,
+      "end": 28.48,
+      "text": "Ready to move options are available.",
+      "words": [
+        {
+          "start": 27.14,
+          "end": 27.34,
+          "text": "Ready",
+          "confidence": 0.9
+        },
+        {
+          "start": 27.34,
+          "end": 27.54,
+          "text": "to",
+          "confidence": 0.95
+        },
+        {
+          "start": 27.54,
+          "end": 27.66,
+          "text": "move",
+          "confidence": 0.99
+        },
+        {
+          "start": 27.66,
+          "end": 28.02,
+          "text": "options",
+          "confidence": 0.96
+        },
+        {
+          "start": 28.02,
+          "end": 28.2,
+          "text": "are",
+          "confidence": 0.59
+        },
+        {
+          "start": 28.2,
+          "end": 28.48,
+          "text": "available.",
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 28.48,
+      "end": 30.56,
+      "text": "And if you are selling your ready to move property,",
+      "words": [
+        {
+          "start": 28.48,
+          "end": 28.82,
+          "text": "And",
+          "confidence": 0.39
+        },
+        {
+          "start": 28.82,
+          "end": 29.08,
+          "text": "if",
+          "confidence": 0.94
+        },
+        {
+          "start": 29.08,
+          "end": 29.3,
+          "text": "you",
+          "confidence": 0.99
+        },
+        {
+          "start": 29.3,
+          "end": 29.48,
+          "text": "are",
+          "confidence": 0.76
+        },
+        {
+          "start": 29.48,
+          "end": 29.560000000000002,
+          "text": "selling",
+          "confidence": 0.1
+        },
+        {
+          "start": 29.560000000000002,
+          "end": 29.64,
+          "text": "your",
+          "confidence": 0.9
+        },
+        {
+          "start": 29.48,
+          "end": 29.7,
+          "text": "ready",
+          "confidence": 0.93
+        },
+        {
+          "start": 29.7,
+          "end": 29.92,
+          "text": "to",
+          "confidence": 0.77
+        },
+        {
+          "start": 29.92,
+          "end": 30.1,
+          "text": "move",
+          "confidence": 1.0
+        },
+        {
+          "start": 30.1,
+          "end": 30.56,
+          "text": "property,",
+          "confidence": 0.98
+        }
+      ]
+    },
+    {
+      "start": 31.44,
+      "end": 33.52,
+      "text": "then you are not enough to pay for sale.",
+      "words": [
+        {
+          "start": 31.44,
+          "end": 31.62,
+          "text": "then",
+          "confidence": 0.36
+        },
+        {
+          "start": 31.62,
+          "end": 32.34,
+          "text": "you",
+          "confidence": 0.28
+        },
+        {
+          "start": 32.34,
+          "end": 32.4,
+          "text": "are",
+          "confidence": 0.18
+        },
+        {
+          "start": 32.4,
+          "end": 32.48,
+          "text": "not",
+          "confidence": 0.61
+        },
+        {
+          "start": 32.4,
+          "end": 33.52,
+          "text": "enough",
+          "confidence": 0.35
+        },
+        {
+          "start": 33.28,
+          "end": 33.34,
+          "text": "to",
+          "confidence": 0.69
+        },
+        {
+          "start": 33.34,
+          "end": 33.400000000000006,
+          "text": "pay",
+          "confidence": 0.05
+        },
+        {
+          "start": 33.400000000000006,
+          "end": 33.46,
+          "text": "for",
+          "confidence": 0.54
+        },
+        {
+          "start": 33.46,
+          "end": 33.52,
+          "text": "sale.",
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "start": 33.52,
+      "end": 37.06,
+      "text": "Saheep Rising, Saheep Presentation and the most important, Saheep buyer.",
+      "words": [
+        {
+          "start": 33.52,
+          "end": 33.98,
+          "text": "Saheep",
+          "confidence": 0.24
+        },
+        {
+          "start": 33.98,
+          "end": 34.12,
+          "text": "Rising,",
+          "confidence": 0.69
+        },
+        {
+          "start": 34.48,
+          "end": 34.76,
+          "text": "Saheep",
+          "confidence": 0.71
+        },
+        {
+          "start": 34.76,
+          "end": 35.28,
+          "text": "Presentation",
+          "confidence": 0.82
+        },
+        {
+          "start": 35.28,
+          "end": 35.52,
+          "text": "and",
+          "confidence": 0.48
+        },
+        {
+          "start": 35.52,
+          "end": 35.68,
+          "text": "the",
+          "confidence": 0.35
+        },
+        {
+          "start": 35.68,
+          "end": 35.86,
+          "text": "most",
+          "confidence": 0.87
+        },
+        {
+          "start": 35.86,
+          "end": 36.2,
+          "text": "important,",
+          "confidence": 0.92
+        },
+        {
+          "start": 36.54,
+          "end": 36.9,
+          "text": "Saheep",
+          "confidence": 0.61
+        },
+        {
+          "start": 36.9,
+          "end": 37.06,
+          "text": "buyer.",
+          "confidence": 0.06
+        }
+      ]
+    },
+    {
+      "start": 37.28,
+      "end": 37.78,
+      "text": "Nisha Homes.",
+      "words": [
+        {
+          "start": 37.28,
+          "end": 37.5,
+          "text": "Nisha",
+          "confidence": 0.9
+        },
+        {
+          "start": 37.5,
+          "end": 37.78,
+          "text": "Homes.",
+          "confidence": 0.48
+        }
+      ]
+    },
+    {
+      "start": 38.02,
+      "end": 39.44,
+      "text": "Come to the property and focus on the right deal.",
+      "words": [
+        {
+          "start": 38.02,
+          "end": 38.1,
+          "text": "Come",
+          "confidence": 0.13
+        },
+        {
+          "start": 38.1,
+          "end": 38.74,
+          "text": "to",
+          "confidence": 0.28
+        },
+        {
+          "start": 38.74,
+          "end": 38.82,
+          "text": "the",
+          "confidence": 0.29
+        },
+        {
+          "start": 38.82,
+          "end": 38.9,
+          "text": "property",
+          "confidence": 0.53
+        },
+        {
+          "start": 38.74,
+          "end": 38.98,
+          "text": "and",
+          "confidence": 0.5
+        },
+        {
+          "start": 38.98,
+          "end": 39.0,
+          "text": "focus",
+          "confidence": 0.99
+        },
+        {
+          "start": 39.0,
+          "end": 39.08,
+          "text": "on",
+          "confidence": 0.85
+        },
+        {
+          "start": 39.0,
+          "end": 39.08,
+          "text": "the",
+          "confidence": 0.4
+        },
+        {
+          "start": 39.08,
+          "end": 39.2,
+          "text": "right",
+          "confidence": 0.27
+        },
+        {
+          "start": 39.2,
+          "end": 39.44,
+          "text": "deal.",
+          "confidence": 0.88
+        }
+      ]
+    }
+  ]
+}

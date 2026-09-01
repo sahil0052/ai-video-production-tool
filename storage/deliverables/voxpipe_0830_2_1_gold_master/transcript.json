@@ -1,0 +1,815 @@
+{
+  "duration": 34.88,
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.54,
+      "text": "Every month they give rent and they are tired.",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.16,
+          "text": "Every",
+          "confidence": 0.21
+        },
+        {
+          "start": 0.16,
+          "end": 0.36,
+          "text": "month",
+          "confidence": 0.97
+        },
+        {
+          "start": 0.36,
+          "end": 0.52,
+          "text": "they",
+          "confidence": 0.24
+        },
+        {
+          "start": 0.52,
+          "end": 0.6,
+          "text": "give",
+          "confidence": 0.19
+        },
+        {
+          "start": 0.52,
+          "end": 0.78,
+          "text": "rent",
+          "confidence": 0.37
+        },
+        {
+          "start": 0.78,
+          "end": 1.18,
+          "text": "and",
+          "confidence": 0.43
+        },
+        {
+          "start": 1.18,
+          "end": 1.24,
+          "text": "they",
+          "confidence": 0.15
+        },
+        {
+          "start": 1.24,
+          "end": 1.4,
+          "text": "are",
+          "confidence": 0.32
+        },
+        {
+          "start": 1.4,
+          "end": 1.54,
+          "text": "tired.",
+          "confidence": 0.76
+        }
+      ]
+    },
+    {
+      "start": 1.84,
+      "end": 4.56,
+      "text": "So, once you think, why don't you buy your own house?",
+      "words": [
+        {
+          "start": 1.84,
+          "end": 1.9,
+          "text": "So,",
+          "confidence": 0.57
+        },
+        {
+          "start": 1.96,
+          "end": 2.12,
+          "text": "once",
+          "confidence": 0.38
+        },
+        {
+          "start": 2.12,
+          "end": 2.42,
+          "text": "you",
+          "confidence": 0.43
+        },
+        {
+          "start": 2.42,
+          "end": 2.44,
+          "text": "think,",
+          "confidence": 0.68
+        },
+        {
+          "start": 2.82,
+          "end": 3.34,
+          "text": "why",
+          "confidence": 0.38
+        },
+        {
+          "start": 3.34,
+          "end": 3.42,
+          "text": "don't",
+          "confidence": 0.64
+        },
+        {
+          "start": 3.34,
+          "end": 3.68,
+          "text": "you",
+          "confidence": 0.89
+        },
+        {
+          "start": 3.68,
+          "end": 3.7600000000000002,
+          "text": "buy",
+          "confidence": 0.13
+        },
+        {
+          "start": 3.68,
+          "end": 3.8,
+          "text": "your",
+          "confidence": 0.34
+        },
+        {
+          "start": 3.8,
+          "end": 4.1,
+          "text": "own",
+          "confidence": 0.95
+        },
+        {
+          "start": 4.1,
+          "end": 4.56,
+          "text": "house?",
+          "confidence": 0.42
+        }
+      ]
+    },
+    {
+      "start": 5.1,
+      "end": 9.78,
+      "text": "There are many types of houses in the East, which are only 10 minutes walking distance from the East Railway Station.",
+      "words": [
+        {
+          "start": 5.1,
+          "end": 5.24,
+          "text": "There",
+          "confidence": 0.38
+        },
+        {
+          "start": 5.24,
+          "end": 6.16,
+          "text": "are",
+          "confidence": 0.46
+        },
+        {
+          "start": 6.16,
+          "end": 6.18,
+          "text": "many",
+          "confidence": 0.04
+        },
+        {
+          "start": 6.18,
+          "end": 6.62,
+          "text": "types",
+          "confidence": 0.1
+        },
+        {
+          "start": 6.62,
+          "end": 6.76,
+          "text": "of",
+          "confidence": 0.94
+        },
+        {
+          "start": 6.76,
+          "end": 6.824999999999999,
+          "text": "houses",
+          "confidence": 0.02
+        },
+        {
+          "start": 6.824999999999999,
+          "end": 6.89,
+          "text": "in",
+          "confidence": 0.53
+        },
+        {
+          "start": 6.89,
+          "end": 6.955,
+          "text": "the",
+          "confidence": 0.44
+        },
+        {
+          "start": 6.955,
+          "end": 7.02,
+          "text": "East,",
+          "confidence": 0.31
+        },
+        {
+          "start": 6.76,
+          "end": 7.02,
+          "text": "which",
+          "confidence": 0.71
+        },
+        {
+          "start": 7.02,
+          "end": 7.5,
+          "text": "are",
+          "confidence": 0.51
+        },
+        {
+          "start": 7.5,
+          "end": 7.72,
+          "text": "only",
+          "confidence": 0.55
+        },
+        {
+          "start": 7.72,
+          "end": 8.78,
+          "text": "10",
+          "confidence": 0.59
+        },
+        {
+          "start": 8.78,
+          "end": 9.04,
+          "text": "minutes",
+          "confidence": 0.93
+        },
+        {
+          "start": 9.04,
+          "end": 9.32,
+          "text": "walking",
+          "confidence": 0.37
+        },
+        {
+          "start": 9.32,
+          "end": 9.78,
+          "text": "distance",
+          "confidence": 0.87
+        },
+        {
+          "start": 9.479999999999999,
+          "end": 9.54,
+          "text": "from",
+          "confidence": 0.91
+        },
+        {
+          "start": 9.54,
+          "end": 9.6,
+          "text": "the",
+          "confidence": 0.61
+        },
+        {
+          "start": 9.6,
+          "end": 9.659999999999998,
+          "text": "East",
+          "confidence": 0.74
+        },
+        {
+          "start": 9.659999999999998,
+          "end": 9.719999999999999,
+          "text": "Railway",
+          "confidence": 0.68
+        },
+        {
+          "start": 9.719999999999999,
+          "end": 9.78,
+          "text": "Station.",
+          "confidence": 0.67
+        }
+      ]
+    },
+    {
+      "start": 10.12,
+      "end": 12.74,
+      "text": "And these are the first ones to take home.",
+      "words": [
+        {
+          "start": 10.12,
+          "end": 10.22,
+          "text": "And",
+          "confidence": 0.63
+        },
+        {
+          "start": 10.22,
+          "end": 10.34,
+          "text": "these",
+          "confidence": 0.43
+        },
+        {
+          "start": 10.34,
+          "end": 10.76,
+          "text": "are",
+          "confidence": 0.88
+        },
+        {
+          "start": 10.76,
+          "end": 10.98,
+          "text": "the",
+          "confidence": 0.45
+        },
+        {
+          "start": 10.98,
+          "end": 11.1,
+          "text": "first",
+          "confidence": 0.35
+        },
+        {
+          "start": 11.1,
+          "end": 11.18,
+          "text": "ones",
+          "confidence": 0.49
+        },
+        {
+          "start": 11.1,
+          "end": 11.7,
+          "text": "to",
+          "confidence": 0.29
+        },
+        {
+          "start": 11.7,
+          "end": 12.74,
+          "text": "take",
+          "confidence": 0.2
+        },
+        {
+          "start": 12.68,
+          "end": 12.74,
+          "text": "home.",
+          "confidence": 0.26
+        }
+      ]
+    },
+    {
+      "start": 12.84,
+      "end": 15.8,
+      "text": "Here you get a thoughtfully planned one BHK home,",
+      "words": [
+        {
+          "start": 12.84,
+          "end": 13.1,
+          "text": "Here",
+          "confidence": 0.48
+        },
+        {
+          "start": 13.1,
+          "end": 13.42,
+          "text": "you",
+          "confidence": 0.67
+        },
+        {
+          "start": 13.42,
+          "end": 13.68,
+          "text": "get",
+          "confidence": 0.6
+        },
+        {
+          "start": 13.68,
+          "end": 14.12,
+          "text": "a",
+          "confidence": 0.38
+        },
+        {
+          "start": 14.12,
+          "end": 14.52,
+          "text": "thoughtfully",
+          "confidence": 0.74
+        },
+        {
+          "start": 14.52,
+          "end": 14.86,
+          "text": "planned",
+          "confidence": 0.98
+        },
+        {
+          "start": 14.86,
+          "end": 15.1,
+          "text": "one",
+          "confidence": 0.41
+        },
+        {
+          "start": 15.1,
+          "end": 15.6,
+          "text": "BHK",
+          "confidence": 0.35
+        },
+        {
+          "start": 15.6,
+          "end": 15.8,
+          "text": "home,",
+          "confidence": 0.89
+        }
+      ]
+    },
+    {
+      "start": 16.0,
+      "end": 19.56,
+      "text": "which has vitrified flooring, granite kitchen platform and stainless steel sink.",
+      "words": [
+        {
+          "start": 16.0,
+          "end": 16.06,
+          "text": "which",
+          "confidence": 0.61
+        },
+        {
+          "start": 16.06,
+          "end": 16.22,
+          "text": "has",
+          "confidence": 0.6
+        },
+        {
+          "start": 16.22,
+          "end": 16.68,
+          "text": "vitrified",
+          "confidence": 0.85
+        },
+        {
+          "start": 16.68,
+          "end": 17.2,
+          "text": "flooring,",
+          "confidence": 0.91
+        },
+        {
+          "start": 17.38,
+          "end": 17.72,
+          "text": "granite",
+          "confidence": 0.98
+        },
+        {
+          "start": 17.72,
+          "end": 17.9,
+          "text": "kitchen",
+          "confidence": 0.98
+        },
+        {
+          "start": 17.9,
+          "end": 18.4,
+          "text": "platform",
+          "confidence": 0.76
+        },
+        {
+          "start": 18.4,
+          "end": 18.72,
+          "text": "and",
+          "confidence": 0.72
+        },
+        {
+          "start": 18.72,
+          "end": 19.04,
+          "text": "stainless",
+          "confidence": 0.96
+        },
+        {
+          "start": 19.04,
+          "end": 19.32,
+          "text": "steel",
+          "confidence": 0.99
+        },
+        {
+          "start": 19.32,
+          "end": 19.56,
+          "text": "sink.",
+          "confidence": 0.97
+        }
+      ]
+    },
+    {
+      "start": 20.04,
+      "end": 23.18,
+      "text": "Along with that, full-tiled kitchen, elegant bathroom with premium fittings,",
+      "words": [
+        {
+          "start": 20.04,
+          "end": 20.34,
+          "text": "Along",
+          "confidence": 0.38
+        },
+        {
+          "start": 20.34,
+          "end": 20.44,
+          "text": "with",
+          "confidence": 0.95
+        },
+        {
+          "start": 20.44,
+          "end": 20.56,
+          "text": "that,",
+          "confidence": 0.33
+        },
+        {
+          "start": 20.56,
+          "end": 20.74,
+          "text": "full",
+          "confidence": 0.7
+        },
+        {
+          "start": 20.74,
+          "end": 21.02,
+          "text": "-tiled",
+          "confidence": 0.77
+        },
+        {
+          "start": 21.02,
+          "end": 21.36,
+          "text": "kitchen,",
+          "confidence": 0.98
+        },
+        {
+          "start": 21.58,
+          "end": 21.76,
+          "text": "elegant",
+          "confidence": 0.95
+        },
+        {
+          "start": 21.76,
+          "end": 22.18,
+          "text": "bathroom",
+          "confidence": 0.95
+        },
+        {
+          "start": 22.18,
+          "end": 22.44,
+          "text": "with",
+          "confidence": 0.98
+        },
+        {
+          "start": 22.44,
+          "end": 22.72,
+          "text": "premium",
+          "confidence": 0.99
+        },
+        {
+          "start": 22.72,
+          "end": 23.18,
+          "text": "fittings,",
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 23.32,
+      "end": 27.14,
+      "text": "high-speed elevators with power back up, CCTV security and fire fighting system.",
+      "words": [
+        {
+          "start": 23.32,
+          "end": 23.42,
+          "text": "high",
+          "confidence": 0.99
+        },
+        {
+          "start": 23.42,
+          "end": 23.6,
+          "text": "-speed",
+          "confidence": 0.68
+        },
+        {
+          "start": 23.6,
+          "end": 24.08,
+          "text": "elevators",
+          "confidence": 0.98
+        },
+        {
+          "start": 24.08,
+          "end": 24.32,
+          "text": "with",
+          "confidence": 0.98
+        },
+        {
+          "start": 24.32,
+          "end": 24.56,
+          "text": "power",
+          "confidence": 0.97
+        },
+        {
+          "start": 24.56,
+          "end": 24.72,
+          "text": "back",
+          "confidence": 0.5
+        },
+        {
+          "start": 24.72,
+          "end": 24.92,
+          "text": "up,",
+          "confidence": 0.51
+        },
+        {
+          "start": 25.12,
+          "end": 25.52,
+          "text": "CCTV",
+          "confidence": 0.34
+        },
+        {
+          "start": 25.52,
+          "end": 25.98,
+          "text": "security",
+          "confidence": 0.96
+        },
+        {
+          "start": 25.98,
+          "end": 26.3,
+          "text": "and",
+          "confidence": 0.76
+        },
+        {
+          "start": 26.3,
+          "end": 26.5,
+          "text": "fire",
+          "confidence": 0.73
+        },
+        {
+          "start": 26.5,
+          "end": 26.8,
+          "text": "fighting",
+          "confidence": 0.71
+        },
+        {
+          "start": 26.8,
+          "end": 27.14,
+          "text": "system.",
+          "confidence": 0.61
+        }
+      ]
+    },
+    {
+      "start": 27.14,
+      "end": 30.94,
+      "text": "And the most important thing is that only 24 lakhs of BHK's are included.",
+      "words": [
+        {
+          "start": 27.14,
+          "end": 27.64,
+          "text": "And",
+          "confidence": 0.1
+        },
+        {
+          "start": 27.64,
+          "end": 27.82,
+          "text": "the",
+          "confidence": 0.37
+        },
+        {
+          "start": 27.82,
+          "end": 27.98,
+          "text": "most",
+          "confidence": 0.87
+        },
+        {
+          "start": 27.98,
+          "end": 28.36,
+          "text": "important",
+          "confidence": 0.98
+        },
+        {
+          "start": 28.36,
+          "end": 28.54,
+          "text": "thing",
+          "confidence": 0.84
+        },
+        {
+          "start": 28.54,
+          "end": 28.7,
+          "text": "is",
+          "confidence": 0.54
+        },
+        {
+          "start": 28.7,
+          "end": 28.779999999999998,
+          "text": "that",
+          "confidence": 0.32
+        },
+        {
+          "start": 28.7,
+          "end": 29.24,
+          "text": "only",
+          "confidence": 0.34
+        },
+        {
+          "start": 29.24,
+          "end": 29.96,
+          "text": "24",
+          "confidence": 0.69
+        },
+        {
+          "start": 29.96,
+          "end": 30.46,
+          "text": "lakhs",
+          "confidence": 0.64
+        },
+        {
+          "start": 30.46,
+          "end": 30.54,
+          "text": "of",
+          "confidence": 0.34
+        },
+        {
+          "start": 30.54,
+          "end": 30.62,
+          "text": "BHK's",
+          "confidence": 0.4
+        },
+        {
+          "start": 30.62,
+          "end": 30.7,
+          "text": "are",
+          "confidence": 0.5
+        },
+        {
+          "start": 30.46,
+          "end": 30.94,
+          "text": "included.",
+          "confidence": 0.36
+        }
+      ]
+    },
+    {
+      "start": 31.16,
+      "end": 32.48,
+      "text": "For more information about the house,",
+      "words": [
+        {
+          "start": 31.16,
+          "end": 31.26,
+          "text": "For",
+          "confidence": 0.27
+        },
+        {
+          "start": 31.26,
+          "end": 31.8,
+          "text": "more",
+          "confidence": 0.1
+        },
+        {
+          "start": 31.8,
+          "end": 31.88,
+          "text": "information",
+          "confidence": 0.78
+        },
+        {
+          "start": 31.88,
+          "end": 32.48,
+          "text": "about",
+          "confidence": 0.64
+        },
+        {
+          "start": 32.36,
+          "end": 32.42,
+          "text": "the",
+          "confidence": 0.31
+        },
+        {
+          "start": 32.42,
+          "end": 32.48,
+          "text": "house,",
+          "confidence": 0.19
+        }
+      ]
+    },
+    {
+      "start": 32.48,
+      "end": 34.88,
+      "text": "contact details are given below, call or WhatsApp.",
+      "words": [
+        {
+          "start": 32.48,
+          "end": 33.22,
+          "text": "contact",
+          "confidence": 0.4
+        },
+        {
+          "start": 33.22,
+          "end": 33.92,
+          "text": "details",
+          "confidence": 0.9
+        },
+        {
+          "start": 33.92,
+          "end": 34.06,
+          "text": "are",
+          "confidence": 0.43
+        },
+        {
+          "start": 34.06,
+          "end": 34.14,
+          "text": "given",
+          "confidence": 0.59
+        },
+        {
+          "start": 34.14,
+          "end": 34.22,
+          "text": "below,",
+          "confidence": 0.41
+        },
+        {
+          "start": 34.06,
+          "end": 34.36,
+          "text": "call",
+          "confidence": 0.5
+        },
+        {
+          "start": 34.36,
+          "end": 34.6,
+          "text": "or",
+          "confidence": 0.77
+        },
+        {
+          "start": 34.6,
+          "end": 34.88,
+          "text": "WhatsApp.",
+          "confidence": 0.89
+        }
+      ]
+    }
+  ]
+}

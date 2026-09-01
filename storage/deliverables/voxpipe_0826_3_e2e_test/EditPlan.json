@@ -1,0 +1,2296 @@
+{
+  "job_id": "voxpipe_0826_3_e2e_test",
+  "source_video": "D:\\Downloads\\0826 (3).mp4",
+  "duration": 55.1,
+  "fps": 30.0,
+  "style": "vox",
+  "beats": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.18,
+      "duration": 2.18,
+      "layout": "SPLIT_50_50",
+      "topic": "آپ کے Bank Account میں 10 Lakh Rupees ہی",
+      "concept_summary": "آپ کے Bank Account میں 10 Lakh Rupees ہیں",
+      "prompt_shot": "Background: a torn 1920s banking ledger page with columns of inked accounts at depth. FG: authentic paper collage cutouts representing آپ کے Bank Account میں 10 Lakh Rupees ہیں snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera orbits a quarter turn, focus racking front to back. Settle on آپ کے Bank Account میں 10 Lakh in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a torn 1920s banking ledger page with columns of inked accounts at depth. FG: authentic paper collage cutouts representing آپ کے Bank Account میں 10 Lakh Rupees ہیں snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera orbits a quarter turn, focus racking front to back. Settle on آپ کے Bank Account میں 10 Lakh in sharp focus.\n\nAUDIO: paper pops, whip whoosh, low newsroom hum — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 2,
+      "start": 2.18,
+      "end": 4.7,
+      "duration": 2.52,
+      "layout": "FULL_EXPLAINER",
+      "topic": "لیکن اگر کل سب لوگ اپنا پیسا نکال نے آگے",
+      "concept_summary": "لیکن اگر کل سب لوگ اپنا پیسا نکال نے آگے",
+      "prompt_shot": "Background: a sepia financial chart engraving with etched grid lines and depth falloff. FG: authentic paper collage cutouts representing لیکن اگر کل سب لوگ اپنا پیسا نکال نے آگے snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera dives low between physical paper cutout layers with shallow depth of field. Settle on لیکن اگر کل سب لوگ اپنا پیسا ن in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a sepia financial chart engraving with etched grid lines and depth falloff. FG: authentic paper collage cutouts representing لیکن اگر کل سب لوگ اپنا پیسا نکال نے آگے snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera dives low between physical paper cutout layers with shallow depth of field. Settle on لیکن اگر کل سب لوگ اپنا پیسا ن in sharp focus.\n\nAUDIO: submerge whoosh, deep pressure thud, paper thwip — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 3,
+      "start": 4.7,
+      "end": 6.78,
+      "duration": 2.08,
+      "layout": "SPLIT_50_50",
+      "topic": "تو کیا Bank آپ کو پورے 10 Lakh دے پائے گ",
+      "concept_summary": "تو کیا Bank آپ کو پورے 10 Lakh دے پائے گا",
+      "prompt_shot": "Background: stacked newspaper headline pages receding in deep perspective. FG: authentic paper collage cutouts representing تو کیا Bank آپ کو پورے 10 Lakh دے پائے گا snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera pushes in steadily through a torn paper opening onto the central figure. Settle on تو کیا Bank آپ کو پورے 10 Lakh in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: stacked newspaper headline pages receding in deep perspective. FG: authentic paper collage cutouts representing تو کیا Bank آپ کو پورے 10 Lakh دے پائے گا snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera pushes in steadily through a torn paper opening onto the central figure. Settle on تو کیا Bank آپ کو پورے 10 Lakh in sharp focus.\n\nAUDIO: paper tear, friction slide, low hum — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 4,
+      "start": 6.78,
+      "end": 7.88,
+      "duration": 1.1,
+      "layout": "FULL_EXPLAINER",
+      "topic": "یہاں پیسٹ ہے",
+      "concept_summary": "یہاں پیسٹ ہے",
+      "prompt_shot": "Background: a sepia financial chart engraving with etched grid lines and depth falloff. FG: authentic paper collage cutouts representing یہاں پیسٹ ہے snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera performs a fast lateral track then hard stops with elastic overshoot. Settle on یہاں پیسٹ ہے in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a sepia financial chart engraving with etched grid lines and depth falloff. FG: authentic paper collage cutouts representing یہاں پیسٹ ہے snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera performs a fast lateral track then hard stops with elastic overshoot. Settle on یہاں پیسٹ ہے in sharp focus.\n\nAUDIO: track rumble, stall click, paper pop — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 5,
+      "start": 7.88,
+      "end": 10.16,
+      "duration": 2.28,
+      "layout": "SPLIT_50_50",
+      "topic": "Bank آپ کے پیسے کو بس لوگر میں رکھنی بیٹ",
+      "concept_summary": "Bank آپ کے پیسے کو بس لوگر میں رکھنی بیٹھا",
+      "prompt_shot": "Background: a sepia financial chart engraving with etched grid lines and depth falloff. FG: authentic paper collage cutouts representing Bank آپ کے پیسے کو بس لوگر میں رکھنی بیٹھا snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera cranes up slowly over the layered stack while racking focus. Settle on Bank آپ کے پیسے کو بس لوگر میں in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a sepia financial chart engraving with etched grid lines and depth falloff. FG: authentic paper collage cutouts representing Bank آپ کے پیسے کو بس لوگر میں رکھنی بیٹھا snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera cranes up slowly over the layered stack while racking focus. Settle on Bank آپ کے پیسے کو بس لوگر میں in sharp focus.\n\nAUDIO: riser whoosh, stamp thud, low newsroom hum — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 6,
+      "start": 10.16,
+      "end": 12.48,
+      "duration": 2.32,
+      "layout": "FULL_EXPLAINER",
+      "topic": "آپ کا Deposit System کی اندر سوکلےٹ ہوتا",
+      "concept_summary": "آپ کا Deposit System کی اندر سوکلےٹ ہوتا ہے",
+      "prompt_shot": "Background: an aged blueprint grid with architectural schematics and circuit traces. FG: authentic paper collage cutouts representing آپ کا Deposit System کی اندر سوکلےٹ ہوتا ہے snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera orbits a quarter turn, focus racking front to back. Settle on آپ کا Deposit System کی اندر س in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: an aged blueprint grid with architectural schematics and circuit traces. FG: authentic paper collage cutouts representing آپ کا Deposit System کی اندر سوکلےٹ ہوتا ہے snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera orbits a quarter turn, focus racking front to back. Settle on آپ کا Deposit System کی اندر س in sharp focus.\n\nAUDIO: paper pops, whip whoosh, low newsroom hum — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 7,
+      "start": 12.48,
+      "end": 15.52,
+      "duration": 3.04,
+      "layout": "SPLIT_50_50",
+      "topic": "اور اسی وجہ سے اگر سب لوگ ایک ساتھ کاش م",
+      "concept_summary": "اور اسی وجہ سے اگر سب لوگ ایک ساتھ کاش مغنے آجائیں",
+      "prompt_shot": "Background: an aged blueprint grid with architectural schematics and circuit traces. FG: authentic paper collage cutouts representing اور اسی وجہ سے اگر سب لوگ ایک ساتھ کاش مغنے آجائیں snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera dives low between physical paper cutout layers with shallow depth of field. Settle on اور اسی وجہ سے اگر سب لوگ ایک  in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: an aged blueprint grid with architectural schematics and circuit traces. FG: authentic paper collage cutouts representing اور اسی وجہ سے اگر سب لوگ ایک ساتھ کاش مغنے آجائیں snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera dives low between physical paper cutout layers with shallow depth of field. Settle on اور اسی وجہ سے اگر سب لوگ ایک  in sharp focus.\n\nAUDIO: submerge whoosh, deep pressure thud, paper thwip — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 8,
+      "start": 15.52,
+      "end": 16.9,
+      "duration": 1.38,
+      "layout": "FULL_EXPLAINER",
+      "topic": "پروبلم شروع ہو سکتی ہے",
+      "concept_summary": "پروبلم شروع ہو سکتی ہے",
+      "prompt_shot": "Background: a sepia financial chart engraving with etched grid lines and depth falloff. FG: authentic paper collage cutouts representing پروبلم شروع ہو سکتی ہے snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera pushes in steadily through a torn paper opening onto the central figure. Settle on پروبلم شروع ہو سکتی ہے in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a sepia financial chart engraving with etched grid lines and depth falloff. FG: authentic paper collage cutouts representing پروبلم شروع ہو سکتی ہے snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera pushes in steadily through a torn paper opening onto the central figure. Settle on پروبلم شروع ہو سکتی ہے in sharp focus.\n\nAUDIO: paper tear, friction slide, low hum — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 9,
+      "start": 16.9,
+      "end": 18.88,
+      "duration": 1.98,
+      "layout": "FULL_CHARACTER",
+      "topic": "Imagine کرو ایک Bank میں Sollogue ہیں",
+      "concept_summary": "Imagine کرو ایک Bank میں Sollogue ہیں",
+      "prompt_shot": "Background: a torn 1920s banking ledger page with columns of inked accounts at depth. FG: authentic paper collage cutouts representing Imagine کرو ایک Bank میں Sollogue ہیں snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera performs a fast lateral track then hard stops with elastic overshoot. Settle on Imagine کرو ایک Bank میں Sollo in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a torn 1920s banking ledger page with columns of inked accounts at depth. FG: authentic paper collage cutouts representing Imagine کرو ایک Bank میں Sollogue ہیں snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera performs a fast lateral track then hard stops with elastic overshoot. Settle on Imagine کرو ایک Bank میں Sollo in sharp focus.\n\nAUDIO: track rumble, stall click, paper pop — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "presenter"
+    },
+    {
+      "id": 10,
+      "start": 18.88,
+      "end": 20.82,
+      "duration": 1.94,
+      "layout": "FULL_EXPLAINER",
+      "topic": "اور ہر کسی کی Account میں 1 Lakh ہے",
+      "concept_summary": "اور ہر کسی کی Account میں 1 Lakh ہے",
+      "prompt_shot": "Background: an aged blueprint grid with architectural schematics and circuit traces. FG: authentic paper collage cutouts representing اور ہر کسی کی Account میں 1 Lakh ہے snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera cranes up slowly over the layered stack while racking focus. Settle on اور ہر کسی کی Account میں 1 La in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: an aged blueprint grid with architectural schematics and circuit traces. FG: authentic paper collage cutouts representing اور ہر کسی کی Account میں 1 Lakh ہے snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera cranes up slowly over the layered stack while racking focus. Settle on اور ہر کسی کی Account میں 1 La in sharp focus.\n\nAUDIO: riser whoosh, stamp thud, low newsroom hum — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 11,
+      "start": 20.82,
+      "end": 22.66,
+      "duration": 1.84,
+      "layout": "SPLIT_50_50",
+      "topic": "Screen Petotal 1 Karour دکھ رہے",
+      "concept_summary": "Screen Petotal 1 Karour دکھ رہے",
+      "prompt_shot": "Background: a torn 1920s banking ledger page with columns of inked accounts at depth. FG: authentic paper collage cutouts representing Screen Petotal 1 Karour دکھ رہے snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera orbits a quarter turn, focus racking front to back. Settle on Screen Petotal 1 Karour دکھ رہ in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a torn 1920s banking ledger page with columns of inked accounts at depth. FG: authentic paper collage cutouts representing Screen Petotal 1 Karour دکھ رہے snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera orbits a quarter turn, focus racking front to back. Settle on Screen Petotal 1 Karour دکھ رہ in sharp focus.\n\nAUDIO: paper pops, whip whoosh, low newsroom hum — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 12,
+      "start": 22.66,
+      "end": 25.08,
+      "duration": 2.42,
+      "layout": "FULL_EXPLAINER",
+      "topic": "اب سوچھو اگر یہ Sollogue ایک دن بول دیں",
+      "concept_summary": "اب سوچھو اگر یہ Sollogue ایک دن بول دیں",
+      "prompt_shot": "Background: an aged blueprint grid with architectural schematics and circuit traces. FG: authentic paper collage cutouts representing اب سوچھو اگر یہ Sollogue ایک دن بول دیں snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera dives low between physical paper cutout layers with shallow depth of field. Settle on اب سوچھو اگر یہ Sollogue ایک د in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: an aged blueprint grid with architectural schematics and circuit traces. FG: authentic paper collage cutouts representing اب سوچھو اگر یہ Sollogue ایک دن بول دیں snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera dives low between physical paper cutout layers with shallow depth of field. Settle on اب سوچھو اگر یہ Sollogue ایک د in sharp focus.\n\nAUDIO: submerge whoosh, deep pressure thud, paper thwip — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 13,
+      "start": 25.08,
+      "end": 26.68,
+      "duration": 1.6,
+      "layout": "SPLIT_50_50",
+      "topic": "بھائی میرا پورا پیسا ابھی چاہئے",
+      "concept_summary": "بھائی میرا پورا پیسا ابھی چاہئے",
+      "prompt_shot": "Background: a torn 1920s banking ledger page with columns of inked accounts at depth. FG: authentic paper collage cutouts representing بھائی میرا پورا پیسا ابھی چاہئے snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera pushes in steadily through a torn paper opening onto the central figure. Settle on بھائی میرا پورا پیسا ابھی چاہئ in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a torn 1920s banking ledger page with columns of inked accounts at depth. FG: authentic paper collage cutouts representing بھائی میرا پورا پیسا ابھی چاہئے snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera pushes in steadily through a torn paper opening onto the central figure. Settle on بھائی میرا پورا پیسا ابھی چاہئ in sharp focus.\n\nAUDIO: paper tear, friction slide, low hum — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 14,
+      "start": 26.68,
+      "end": 29.7,
+      "duration": 3.02,
+      "layout": "FULL_CHARACTER",
+      "topic": "اب Imagine کرو Sollogue ایک ساتھ بھانکے ",
+      "concept_summary": "اب Imagine کرو Sollogue ایک ساتھ بھانکے بہار کھڑے ہیں",
+      "prompt_shot": "Background: a faded world map tilted in perspective, far out of focus. FG: authentic paper collage cutouts representing اب Imagine کرو Sollogue ایک ساتھ بھانکے بہار کھڑے ہیں snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera performs a fast lateral track then hard stops with elastic overshoot. Settle on اب Imagine کرو Sollogue ایک سا in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a faded world map tilted in perspective, far out of focus. FG: authentic paper collage cutouts representing اب Imagine کرو Sollogue ایک ساتھ بھانکے بہار کھڑے ہیں snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera performs a fast lateral track then hard stops with elastic overshoot. Settle on اب Imagine کرو Sollogue ایک سا in sharp focus.\n\nAUDIO: track rumble, stall click, paper pop — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "presenter"
+    },
+    {
+      "id": 15,
+      "start": 29.7,
+      "end": 31.7,
+      "duration": 2.0,
+      "layout": "SPLIT_50_50",
+      "topic": "اور سب بول رہے مجھے میرا پیسا ابھی چاہئے",
+      "concept_summary": "اور سب بول رہے مجھے میرا پیسا ابھی چاہئے",
+      "prompt_shot": "Background: a sepia financial chart engraving with etched grid lines and depth falloff. FG: authentic paper collage cutouts representing اور سب بول رہے مجھے میرا پیسا ابھی چاہئے snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera cranes up slowly over the layered stack while racking focus. Settle on اور سب بول رہے مجھے میرا پیسا  in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a sepia financial chart engraving with etched grid lines and depth falloff. FG: authentic paper collage cutouts representing اور سب بول رہے مجھے میرا پیسا ابھی چاہئے snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera cranes up slowly over the layered stack while racking focus. Settle on اور سب بول رہے مجھے میرا پیسا  in sharp focus.\n\nAUDIO: riser whoosh, stamp thud, low newsroom hum — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 16,
+      "start": 31.7,
+      "end": 33.8,
+      "duration": 2.1,
+      "layout": "FULL_EXPLAINER",
+      "topic": "Bank کو suddenly Cash Arrange کرنا پڑے گ",
+      "concept_summary": "Bank کو suddenly Cash Arrange کرنا پڑے گا",
+      "prompt_shot": "Background: an aged blueprint grid with architectural schematics and circuit traces. FG: authentic paper collage cutouts representing Bank کو suddenly Cash Arrange کرنا پڑے گا snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera orbits a quarter turn, focus racking front to back. Settle on Bank کو suddenly Cash Arrange  in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: an aged blueprint grid with architectural schematics and circuit traces. FG: authentic paper collage cutouts representing Bank کو suddenly Cash Arrange کرنا پڑے گا snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera orbits a quarter turn, focus racking front to back. Settle on Bank کو suddenly Cash Arrange  in sharp focus.\n\nAUDIO: paper pops, whip whoosh, low newsroom hum — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 17,
+      "start": 33.8,
+      "end": 35.58,
+      "duration": 1.78,
+      "layout": "SPLIT_50_50",
+      "topic": "اور یہاں سے اصلی پروبلم شروع ہوتی ہے",
+      "concept_summary": "اور یہاں سے اصلی پروبلم شروع ہوتی ہے",
+      "prompt_shot": "Background: a faded world map tilted in perspective, far out of focus. FG: authentic paper collage cutouts representing اور یہاں سے اصلی پروبلم شروع ہوتی ہے snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera dives low between physical paper cutout layers with shallow depth of field. Settle on اور یہاں سے اصلی پروبلم شروع ہ in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a faded world map tilted in perspective, far out of focus. FG: authentic paper collage cutouts representing اور یہاں سے اصلی پروبلم شروع ہوتی ہے snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera dives low between physical paper cutout layers with shallow depth of field. Settle on اور یہاں سے اصلی پروبلم شروع ہ in sharp focus.\n\nAUDIO: submerge whoosh, deep pressure thud, paper thwip — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 18,
+      "start": 35.58,
+      "end": 37.8,
+      "duration": 2.22,
+      "layout": "FULL_EXPLAINER",
+      "topic": "اور اسی Situation کو Bank RUN کہتے ہیں",
+      "concept_summary": "اور اسی Situation کو Bank RUN کہتے ہیں",
+      "prompt_shot": "Background: a sepia financial chart engraving with etched grid lines and depth falloff. FG: authentic paper collage cutouts representing اور اسی Situation کو Bank RUN کہتے ہیں snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera pushes in steadily through a torn paper opening onto the central figure. Settle on اور اسی Situation کو Bank RUN  in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a sepia financial chart engraving with etched grid lines and depth falloff. FG: authentic paper collage cutouts representing اور اسی Situation کو Bank RUN کہتے ہیں snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera pushes in steadily through a torn paper opening onto the central figure. Settle on اور اسی Situation کو Bank RUN  in sharp focus.\n\nAUDIO: paper tear, friction slide, low hum — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 19,
+      "start": 37.8,
+      "end": 39.78,
+      "duration": 1.98,
+      "layout": "SPLIT_50_50",
+      "topic": "سپس اسکاری پاٹ fanics spread ہو جا ہے",
+      "concept_summary": "سپس اسکاری پاٹ fanics spread ہو جا ہے",
+      "prompt_shot": "Background: a torn 1920s banking ledger page with columns of inked accounts at depth. FG: authentic paper collage cutouts representing سپس اسکاری پاٹ fanics spread ہو جا ہے snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera performs a fast lateral track then hard stops with elastic overshoot. Settle on سپس اسکاری پاٹ fanics spread ہ in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a torn 1920s banking ledger page with columns of inked accounts at depth. FG: authentic paper collage cutouts representing سپس اسکاری پاٹ fanics spread ہو جا ہے snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera performs a fast lateral track then hard stops with elastic overshoot. Settle on سپس اسکاری پاٹ fanics spread ہ in sharp focus.\n\nAUDIO: track rumble, stall click, paper pop — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 20,
+      "start": 39.78,
+      "end": 41.14,
+      "duration": 1.36,
+      "layout": "FULL_EXPLAINER",
+      "topic": "تو Problems If Cash کی نہیں تھی",
+      "concept_summary": "تو Problems If Cash کی نہیں تھی",
+      "prompt_shot": "Background: a faded world map tilted in perspective, far out of focus. FG: authentic paper collage cutouts representing تو Problems If Cash کی نہیں تھی snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera cranes up slowly over the layered stack while racking focus. Settle on تو Problems If Cash کی نہیں تھ in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a faded world map tilted in perspective, far out of focus. FG: authentic paper collage cutouts representing تو Problems If Cash کی نہیں تھی snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera cranes up slowly over the layered stack while racking focus. Settle on تو Problems If Cash کی نہیں تھ in sharp focus.\n\nAUDIO: riser whoosh, stamp thud, low newsroom hum — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 21,
+      "start": 41.14,
+      "end": 43.38,
+      "duration": 2.24,
+      "layout": "SPLIT_50_50",
+      "topic": "لوگ اور لوگ اپنا پیسا نکالنے لکھتے ہیں",
+      "concept_summary": "لوگ اور لوگ اپنا پیسا نکالنے لکھتے ہیں",
+      "prompt_shot": "Background: a sepia financial chart engraving with etched grid lines and depth falloff. FG: authentic paper collage cutouts representing لوگ اور لوگ اپنا پیسا نکالنے لکھتے ہیں snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera orbits a quarter turn, focus racking front to back. Settle on لوگ اور لوگ اپنا پیسا نکالنے ل in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a sepia financial chart engraving with etched grid lines and depth falloff. FG: authentic paper collage cutouts representing لوگ اور لوگ اپنا پیسا نکالنے لکھتے ہیں snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera orbits a quarter turn, focus racking front to back. Settle on لوگ اور لوگ اپنا پیسا نکالنے ل in sharp focus.\n\nAUDIO: paper pops, whip whoosh, low newsroom hum — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 22,
+      "start": 43.38,
+      "end": 45.18,
+      "duration": 1.8,
+      "layout": "FULL_EXPLAINER",
+      "topic": "اور Situation Or Serious ہو سکتی ہے",
+      "concept_summary": "اور Situation Or Serious ہو سکتی ہے",
+      "prompt_shot": "Background: stacked newspaper headline pages receding in deep perspective. FG: authentic paper collage cutouts representing اور Situation Or Serious ہو سکتی ہے snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera dives low between physical paper cutout layers with shallow depth of field. Settle on اور Situation Or Serious ہو سک in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: stacked newspaper headline pages receding in deep perspective. FG: authentic paper collage cutouts representing اور Situation Or Serious ہو سکتی ہے snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera dives low between physical paper cutout layers with shallow depth of field. Settle on اور Situation Or Serious ہو سک in sharp focus.\n\nAUDIO: submerge whoosh, deep pressure thud, paper thwip — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 23,
+      "start": 45.18,
+      "end": 47.04,
+      "duration": 1.86,
+      "layout": "SPLIT_50_50",
+      "topic": "مطلب Problems If Pesso کی نہیں ہوتی",
+      "concept_summary": "مطلب Problems If Pesso کی نہیں ہوتی",
+      "prompt_shot": "Background: a torn 1920s banking ledger page with columns of inked accounts at depth. FG: authentic paper collage cutouts representing مطلب Problems If Pesso کی نہیں ہوتی snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera pushes in steadily through a torn paper opening onto the central figure. Settle on مطلب Problems If Pesso کی نہیں in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a torn 1920s banking ledger page with columns of inked accounts at depth. FG: authentic paper collage cutouts representing مطلب Problems If Pesso کی نہیں ہوتی snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera pushes in steadily through a torn paper opening onto the central figure. Settle on مطلب Problems If Pesso کی نہیں in sharp focus.\n\nAUDIO: paper tear, friction slide, low hum — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 24,
+      "start": 47.04,
+      "end": 48.48,
+      "duration": 1.44,
+      "layout": "FULL_EXPLAINER",
+      "topic": "Problem Trust کی ہوتی ہے",
+      "concept_summary": "Problem Trust کی ہوتی ہے",
+      "prompt_shot": "Background: a sepia financial chart engraving with etched grid lines and depth falloff. FG: authentic paper collage cutouts representing Problem Trust کی ہوتی ہے snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera performs a fast lateral track then hard stops with elastic overshoot. Settle on Problem Trust کی ہوتی ہے in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a sepia financial chart engraving with etched grid lines and depth falloff. FG: authentic paper collage cutouts representing Problem Trust کی ہوتی ہے snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera performs a fast lateral track then hard stops with elastic overshoot. Settle on Problem Trust کی ہوتی ہے in sharp focus.\n\nAUDIO: track rumble, stall click, paper pop — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 25,
+      "start": 48.48,
+      "end": 51.46,
+      "duration": 2.98,
+      "layout": "SPLIT_50_50",
+      "topic": "Banking System Trust اور Liquidity دونوں",
+      "concept_summary": "Banking System Trust اور Liquidity دونوں پے چلتے ہیں",
+      "prompt_shot": "Background: a torn 1920s banking ledger page with columns of inked accounts at depth. FG: authentic paper collage cutouts representing Banking System Trust اور Liquidity دونوں پے چلتے ہیں snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera cranes up slowly over the layered stack while racking focus. Settle on Banking System Trust اور Liqui in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a torn 1920s banking ledger page with columns of inked accounts at depth. FG: authentic paper collage cutouts representing Banking System Trust اور Liquidity دونوں پے چلتے ہیں snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera cranes up slowly over the layered stack while racking focus. Settle on Banking System Trust اور Liqui in sharp focus.\n\nAUDIO: riser whoosh, stamp thud, low newsroom hum — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 26,
+      "start": 51.46,
+      "end": 53.72,
+      "duration": 2.26,
+      "layout": "FULL_EXPLAINER",
+      "topic": "ایسے Money Concept Simple Language میں س",
+      "concept_summary": "ایسے Money Concept Simple Language میں سمجھنے ہیں",
+      "prompt_shot": "Background: a sepia financial chart engraving with etched grid lines and depth falloff. FG: authentic paper collage cutouts representing ایسے Money Concept Simple Language میں سمجھنے ہیں snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera orbits a quarter turn, focus racking front to back. Settle on ایسے Money Concept Simple Lang in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a sepia financial chart engraving with etched grid lines and depth falloff. FG: authentic paper collage cutouts representing ایسے Money Concept Simple Language میں سمجھنے ہیں snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera orbits a quarter turn, focus racking front to back. Settle on ایسے Money Concept Simple Lang in sharp focus.\n\nAUDIO: paper pops, whip whoosh, low newsroom hum — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 27,
+      "start": 53.72,
+      "end": 55.1,
+      "duration": 1.38,
+      "layout": "SPLIT_50_50",
+      "topic": "تو Follow ڈا",
+      "concept_summary": "تو Follow ڈا",
+      "prompt_shot": "Background: a torn 1920s banking ledger page with columns of inked accounts at depth. FG: authentic paper collage cutouts representing تو Follow ڈا snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera dives low between physical paper cutout layers with shallow depth of field. Settle on تو Follow ڈا in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a torn 1920s banking ledger page with columns of inked accounts at depth. FG: authentic paper collage cutouts representing تو Follow ڈا snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera dives low between physical paper cutout layers with shallow depth of field. Settle on تو Follow ڈا in sharp focus.\n\nAUDIO: submerge whoosh, deep pressure thud, paper thwip — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    }
+  ],
+  "captions": [
+    {
+      "start": 0.0,
+      "end": 0.48,
+      "words": [
+        {
+          "word": "آپ",
+          "start": 0.0,
+          "end": 0.16,
+          "is_accent": false
+        },
+        {
+          "word": "کے",
+          "start": 0.16,
+          "end": 0.3,
+          "is_accent": false
+        },
+        {
+          "word": "Bank",
+          "start": 0.3,
+          "end": 0.48,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "Bank"
+    },
+    {
+      "start": 0.48,
+      "end": 1.28,
+      "words": [
+        {
+          "word": "Account",
+          "start": 0.48,
+          "end": 0.9,
+          "is_accent": false
+        },
+        {
+          "word": "میں",
+          "start": 0.9,
+          "end": 1.06,
+          "is_accent": false
+        },
+        {
+          "word": "10",
+          "start": 1.06,
+          "end": 1.28,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "10"
+    },
+    {
+      "start": 1.28,
+      "end": 2.18,
+      "words": [
+        {
+          "word": "Lakh",
+          "start": 1.28,
+          "end": 1.6,
+          "is_accent": false
+        },
+        {
+          "word": "Rupees",
+          "start": 1.6,
+          "end": 1.88,
+          "is_accent": false
+        },
+        {
+          "word": "ہیں",
+          "start": 1.88,
+          "end": 2.18,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "ہیں"
+    },
+    {
+      "start": 2.18,
+      "end": 3.02,
+      "words": [
+        {
+          "word": "لیکن",
+          "start": 2.18,
+          "end": 2.52,
+          "is_accent": false
+        },
+        {
+          "word": "اگر",
+          "start": 2.52,
+          "end": 2.74,
+          "is_accent": false
+        },
+        {
+          "word": "کل",
+          "start": 2.74,
+          "end": 3.02,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "کل"
+    },
+    {
+      "start": 3.02,
+      "end": 3.64,
+      "words": [
+        {
+          "word": "سب",
+          "start": 3.02,
+          "end": 3.3,
+          "is_accent": false
+        },
+        {
+          "word": "لوگ",
+          "start": 3.3,
+          "end": 3.46,
+          "is_accent": false
+        },
+        {
+          "word": "اپنا",
+          "start": 3.46,
+          "end": 3.64,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "اپنا"
+    },
+    {
+      "start": 3.64,
+      "end": 4.38,
+      "words": [
+        {
+          "word": "پیسا",
+          "start": 3.64,
+          "end": 3.98,
+          "is_accent": false
+        },
+        {
+          "word": "نکال",
+          "start": 3.98,
+          "end": 4.26,
+          "is_accent": false
+        },
+        {
+          "word": "نے",
+          "start": 4.26,
+          "end": 4.38,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "نے"
+    },
+    {
+      "start": 4.38,
+      "end": 5.06,
+      "words": [
+        {
+          "word": "آگے",
+          "start": 4.38,
+          "end": 4.7,
+          "is_accent": false
+        },
+        {
+          "word": "تو",
+          "start": 4.7,
+          "end": 4.86,
+          "is_accent": false
+        },
+        {
+          "word": "کیا",
+          "start": 4.86,
+          "end": 5.06,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "کیا"
+    },
+    {
+      "start": 5.06,
+      "end": 5.62,
+      "words": [
+        {
+          "word": "Bank",
+          "start": 5.06,
+          "end": 5.3,
+          "is_accent": false
+        },
+        {
+          "word": "آپ",
+          "start": 5.3,
+          "end": 5.5,
+          "is_accent": false
+        },
+        {
+          "word": "کو",
+          "start": 5.5,
+          "end": 5.62,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "کو"
+    },
+    {
+      "start": 5.62,
+      "end": 6.32,
+      "words": [
+        {
+          "word": "پورے",
+          "start": 5.62,
+          "end": 5.9,
+          "is_accent": false
+        },
+        {
+          "word": "10",
+          "start": 5.9,
+          "end": 6.06,
+          "is_accent": false
+        },
+        {
+          "word": "Lakh",
+          "start": 6.06,
+          "end": 6.32,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "Lakh"
+    },
+    {
+      "start": 6.32,
+      "end": 6.78,
+      "words": [
+        {
+          "word": "دے",
+          "start": 6.32,
+          "end": 6.48,
+          "is_accent": false
+        },
+        {
+          "word": "پائے",
+          "start": 6.48,
+          "end": 6.68,
+          "is_accent": false
+        },
+        {
+          "word": "گا",
+          "start": 6.68,
+          "end": 6.78,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "گا"
+    },
+    {
+      "start": 6.78,
+      "end": 7.88,
+      "words": [
+        {
+          "word": "یہاں",
+          "start": 6.78,
+          "end": 7.26,
+          "is_accent": false
+        },
+        {
+          "word": "پیسٹ",
+          "start": 7.26,
+          "end": 7.78,
+          "is_accent": false
+        },
+        {
+          "word": "ہے",
+          "start": 7.78,
+          "end": 7.88,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "ہے"
+    },
+    {
+      "start": 7.88,
+      "end": 8.62,
+      "words": [
+        {
+          "word": "Bank",
+          "start": 7.88,
+          "end": 8.3,
+          "is_accent": false
+        },
+        {
+          "word": "آپ",
+          "start": 8.3,
+          "end": 8.48,
+          "is_accent": false
+        },
+        {
+          "word": "کے",
+          "start": 8.48,
+          "end": 8.62,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "کے"
+    },
+    {
+      "start": 8.62,
+      "end": 9.14,
+      "words": [
+        {
+          "word": "پیسے",
+          "start": 8.62,
+          "end": 8.86,
+          "is_accent": false
+        },
+        {
+          "word": "کو",
+          "start": 8.86,
+          "end": 8.98,
+          "is_accent": false
+        },
+        {
+          "word": "بس",
+          "start": 8.98,
+          "end": 9.14,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "بس"
+    },
+    {
+      "start": 9.14,
+      "end": 9.86,
+      "words": [
+        {
+          "word": "لوگر",
+          "start": 9.14,
+          "end": 9.42,
+          "is_accent": false
+        },
+        {
+          "word": "میں",
+          "start": 9.42,
+          "end": 9.56,
+          "is_accent": false
+        },
+        {
+          "word": "رکھنی",
+          "start": 9.56,
+          "end": 9.86,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "رکھنی"
+    },
+    {
+      "start": 9.86,
+      "end": 10.5,
+      "words": [
+        {
+          "word": "بیٹھا",
+          "start": 9.86,
+          "end": 10.16,
+          "is_accent": false
+        },
+        {
+          "word": "آپ",
+          "start": 10.16,
+          "end": 10.38,
+          "is_accent": false
+        },
+        {
+          "word": "کا",
+          "start": 10.38,
+          "end": 10.5,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "کا"
+    },
+    {
+      "start": 10.5,
+      "end": 11.42,
+      "words": [
+        {
+          "word": "Deposit",
+          "start": 10.5,
+          "end": 10.86,
+          "is_accent": false
+        },
+        {
+          "word": "System",
+          "start": 10.86,
+          "end": 11.26,
+          "is_accent": false
+        },
+        {
+          "word": "کی",
+          "start": 11.26,
+          "end": 11.42,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "کی"
+    },
+    {
+      "start": 11.42,
+      "end": 12.32,
+      "words": [
+        {
+          "word": "اندر",
+          "start": 11.42,
+          "end": 11.58,
+          "is_accent": false
+        },
+        {
+          "word": "سوکلےٹ",
+          "start": 11.58,
+          "end": 12.12,
+          "is_accent": false
+        },
+        {
+          "word": "ہوتا",
+          "start": 12.12,
+          "end": 12.32,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "ہوتا"
+    },
+    {
+      "start": 12.32,
+      "end": 13.16,
+      "words": [
+        {
+          "word": "ہے",
+          "start": 12.32,
+          "end": 12.48,
+          "is_accent": false
+        },
+        {
+          "word": "اور",
+          "start": 12.48,
+          "end": 12.84,
+          "is_accent": false
+        },
+        {
+          "word": "اسی",
+          "start": 12.84,
+          "end": 13.16,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "اسی"
+    },
+    {
+      "start": 13.16,
+      "end": 13.8,
+      "words": [
+        {
+          "word": "وجہ",
+          "start": 13.16,
+          "end": 13.36,
+          "is_accent": false
+        },
+        {
+          "word": "سے",
+          "start": 13.36,
+          "end": 13.56,
+          "is_accent": false
+        },
+        {
+          "word": "اگر",
+          "start": 13.56,
+          "end": 13.8,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "اگر"
+    },
+    {
+      "start": 13.8,
+      "end": 14.38,
+      "words": [
+        {
+          "word": "سب",
+          "start": 13.8,
+          "end": 14.06,
+          "is_accent": false
+        },
+        {
+          "word": "لوگ",
+          "start": 14.06,
+          "end": 14.22,
+          "is_accent": false
+        },
+        {
+          "word": "ایک",
+          "start": 14.22,
+          "end": 14.38,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "ایک"
+    },
+    {
+      "start": 14.38,
+      "end": 15.14,
+      "words": [
+        {
+          "word": "ساتھ",
+          "start": 14.38,
+          "end": 14.62,
+          "is_accent": false
+        },
+        {
+          "word": "کاش",
+          "start": 14.62,
+          "end": 14.82,
+          "is_accent": false
+        },
+        {
+          "word": "مغنے",
+          "start": 14.82,
+          "end": 15.14,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "مغنے"
+    },
+    {
+      "start": 15.14,
+      "end": 16.34,
+      "words": [
+        {
+          "word": "آجائیں",
+          "start": 15.14,
+          "end": 15.52,
+          "is_accent": false
+        },
+        {
+          "word": "پروبلم",
+          "start": 15.52,
+          "end": 16.04,
+          "is_accent": false
+        },
+        {
+          "word": "شروع",
+          "start": 16.04,
+          "end": 16.34,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "شروع"
+    },
+    {
+      "start": 16.34,
+      "end": 16.9,
+      "words": [
+        {
+          "word": "ہو",
+          "start": 16.34,
+          "end": 16.46,
+          "is_accent": false
+        },
+        {
+          "word": "سکتی",
+          "start": 16.46,
+          "end": 16.72,
+          "is_accent": false
+        },
+        {
+          "word": "ہے",
+          "start": 16.72,
+          "end": 16.9,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "ہے"
+    },
+    {
+      "start": 16.9,
+      "end": 17.76,
+      "words": [
+        {
+          "word": "Imagine",
+          "start": 16.9,
+          "end": 17.3,
+          "is_accent": false
+        },
+        {
+          "word": "کرو",
+          "start": 17.3,
+          "end": 17.6,
+          "is_accent": false
+        },
+        {
+          "word": "ایک",
+          "start": 17.6,
+          "end": 17.76,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "ایک"
+    },
+    {
+      "start": 17.76,
+      "end": 18.68,
+      "words": [
+        {
+          "word": "Bank",
+          "start": 17.76,
+          "end": 17.98,
+          "is_accent": false
+        },
+        {
+          "word": "میں",
+          "start": 17.98,
+          "end": 18.2,
+          "is_accent": false
+        },
+        {
+          "word": "Sollogue",
+          "start": 18.2,
+          "end": 18.68,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "Sollogue"
+    },
+    {
+      "start": 18.68,
+      "end": 19.38,
+      "words": [
+        {
+          "word": "ہیں",
+          "start": 18.68,
+          "end": 18.88,
+          "is_accent": false
+        },
+        {
+          "word": "اور",
+          "start": 18.88,
+          "end": 19.14,
+          "is_accent": false
+        },
+        {
+          "word": "ہر",
+          "start": 19.14,
+          "end": 19.38,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "ہر"
+    },
+    {
+      "start": 19.38,
+      "end": 19.96,
+      "words": [
+        {
+          "word": "کسی",
+          "start": 19.38,
+          "end": 19.66,
+          "is_accent": false
+        },
+        {
+          "word": "کی",
+          "start": 19.66,
+          "end": 19.72,
+          "is_accent": false
+        },
+        {
+          "word": "Account",
+          "start": 19.72,
+          "end": 19.96,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "Account"
+    },
+    {
+      "start": 19.96,
+      "end": 20.68,
+      "words": [
+        {
+          "word": "میں",
+          "start": 19.96,
+          "end": 20.16,
+          "is_accent": false
+        },
+        {
+          "word": "1",
+          "start": 20.16,
+          "end": 20.34,
+          "is_accent": false
+        },
+        {
+          "word": "Lakh",
+          "start": 20.34,
+          "end": 20.68,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "Lakh"
+    },
+    {
+      "start": 20.68,
+      "end": 21.66,
+      "words": [
+        {
+          "word": "ہے",
+          "start": 20.68,
+          "end": 20.82,
+          "is_accent": false
+        },
+        {
+          "word": "Screen",
+          "start": 20.82,
+          "end": 21.26,
+          "is_accent": false
+        },
+        {
+          "word": "Petotal",
+          "start": 21.26,
+          "end": 21.66,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "Petotal"
+    },
+    {
+      "start": 21.66,
+      "end": 22.54,
+      "words": [
+        {
+          "word": "1",
+          "start": 21.66,
+          "end": 21.96,
+          "is_accent": false
+        },
+        {
+          "word": "Karour",
+          "start": 21.96,
+          "end": 22.24,
+          "is_accent": false
+        },
+        {
+          "word": "دکھ",
+          "start": 22.24,
+          "end": 22.54,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "دکھ"
+    },
+    {
+      "start": 22.54,
+      "end": 23.44,
+      "words": [
+        {
+          "word": "رہے",
+          "start": 22.54,
+          "end": 22.66,
+          "is_accent": false
+        },
+        {
+          "word": "اب",
+          "start": 22.66,
+          "end": 23.06,
+          "is_accent": false
+        },
+        {
+          "word": "سوچھو",
+          "start": 23.06,
+          "end": 23.44,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "سوچھو"
+    },
+    {
+      "start": 23.44,
+      "end": 24.26,
+      "words": [
+        {
+          "word": "اگر",
+          "start": 23.44,
+          "end": 23.66,
+          "is_accent": false
+        },
+        {
+          "word": "یہ",
+          "start": 23.66,
+          "end": 23.82,
+          "is_accent": false
+        },
+        {
+          "word": "Sollogue",
+          "start": 23.82,
+          "end": 24.26,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "Sollogue"
+    },
+    {
+      "start": 24.26,
+      "end": 24.98,
+      "words": [
+        {
+          "word": "ایک",
+          "start": 24.26,
+          "end": 24.54,
+          "is_accent": false
+        },
+        {
+          "word": "دن",
+          "start": 24.54,
+          "end": 24.76,
+          "is_accent": false
+        },
+        {
+          "word": "بول",
+          "start": 24.76,
+          "end": 24.98,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "بول"
+    },
+    {
+      "start": 24.98,
+      "end": 25.64,
+      "words": [
+        {
+          "word": "دیں",
+          "start": 24.98,
+          "end": 25.08,
+          "is_accent": false
+        },
+        {
+          "word": "بھائی",
+          "start": 25.08,
+          "end": 25.44,
+          "is_accent": false
+        },
+        {
+          "word": "میرا",
+          "start": 25.44,
+          "end": 25.64,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "میرا"
+    },
+    {
+      "start": 25.64,
+      "end": 26.4,
+      "words": [
+        {
+          "word": "پورا",
+          "start": 25.64,
+          "end": 25.92,
+          "is_accent": false
+        },
+        {
+          "word": "پیسا",
+          "start": 25.92,
+          "end": 26.16,
+          "is_accent": false
+        },
+        {
+          "word": "ابھی",
+          "start": 26.16,
+          "end": 26.4,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "ابھی"
+    },
+    {
+      "start": 26.4,
+      "end": 27.36,
+      "words": [
+        {
+          "word": "چاہئے",
+          "start": 26.4,
+          "end": 26.68,
+          "is_accent": false
+        },
+        {
+          "word": "اب",
+          "start": 26.68,
+          "end": 27.04,
+          "is_accent": false
+        },
+        {
+          "word": "Imagine",
+          "start": 27.04,
+          "end": 27.36,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "Imagine"
+    },
+    {
+      "start": 27.36,
+      "end": 28.48,
+      "words": [
+        {
+          "word": "کرو",
+          "start": 27.36,
+          "end": 27.68,
+          "is_accent": false
+        },
+        {
+          "word": "Sollogue",
+          "start": 27.68,
+          "end": 28.26,
+          "is_accent": false
+        },
+        {
+          "word": "ایک",
+          "start": 28.26,
+          "end": 28.48,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "ایک"
+    },
+    {
+      "start": 28.48,
+      "end": 29.26,
+      "words": [
+        {
+          "word": "ساتھ",
+          "start": 28.48,
+          "end": 28.72,
+          "is_accent": false
+        },
+        {
+          "word": "بھانکے",
+          "start": 28.72,
+          "end": 29.06,
+          "is_accent": false
+        },
+        {
+          "word": "بہار",
+          "start": 29.06,
+          "end": 29.26,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "بہار"
+    },
+    {
+      "start": 29.26,
+      "end": 29.9,
+      "words": [
+        {
+          "word": "کھڑے",
+          "start": 29.26,
+          "end": 29.52,
+          "is_accent": false
+        },
+        {
+          "word": "ہیں",
+          "start": 29.52,
+          "end": 29.7,
+          "is_accent": false
+        },
+        {
+          "word": "اور",
+          "start": 29.7,
+          "end": 29.9,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "اور"
+    },
+    {
+      "start": 29.9,
+      "end": 30.46,
+      "words": [
+        {
+          "word": "سب",
+          "start": 29.9,
+          "end": 30.16,
+          "is_accent": false
+        },
+        {
+          "word": "بول",
+          "start": 30.16,
+          "end": 30.32,
+          "is_accent": false
+        },
+        {
+          "word": "رہے",
+          "start": 30.32,
+          "end": 30.46,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "رہے"
+    },
+    {
+      "start": 30.46,
+      "end": 31.16,
+      "words": [
+        {
+          "word": "مجھے",
+          "start": 30.46,
+          "end": 30.72,
+          "is_accent": false
+        },
+        {
+          "word": "میرا",
+          "start": 30.72,
+          "end": 30.92,
+          "is_accent": false
+        },
+        {
+          "word": "پیسا",
+          "start": 30.92,
+          "end": 31.16,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "پیسا"
+    },
+    {
+      "start": 31.16,
+      "end": 32.24,
+      "words": [
+        {
+          "word": "ابھی",
+          "start": 31.16,
+          "end": 31.4,
+          "is_accent": false
+        },
+        {
+          "word": "چاہئے",
+          "start": 31.4,
+          "end": 31.7,
+          "is_accent": false
+        },
+        {
+          "word": "Bank",
+          "start": 31.7,
+          "end": 32.24,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "Bank"
+    },
+    {
+      "start": 32.24,
+      "end": 32.96,
+      "words": [
+        {
+          "word": "کو",
+          "start": 32.24,
+          "end": 32.42,
+          "is_accent": false
+        },
+        {
+          "word": "suddenly",
+          "start": 32.42,
+          "end": 32.66,
+          "is_accent": false
+        },
+        {
+          "word": "Cash",
+          "start": 32.66,
+          "end": 32.96,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "Cash"
+    },
+    {
+      "start": 32.96,
+      "end": 33.68,
+      "words": [
+        {
+          "word": "Arrange",
+          "start": 32.96,
+          "end": 33.2,
+          "is_accent": false
+        },
+        {
+          "word": "کرنا",
+          "start": 33.2,
+          "end": 33.48,
+          "is_accent": false
+        },
+        {
+          "word": "پڑے",
+          "start": 33.48,
+          "end": 33.68,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "پڑے"
+    },
+    {
+      "start": 33.68,
+      "end": 34.2,
+      "words": [
+        {
+          "word": "گا",
+          "start": 33.68,
+          "end": 33.8,
+          "is_accent": false
+        },
+        {
+          "word": "اور",
+          "start": 33.8,
+          "end": 33.98,
+          "is_accent": false
+        },
+        {
+          "word": "یہاں",
+          "start": 33.98,
+          "end": 34.2,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "یہاں"
+    },
+    {
+      "start": 34.2,
+      "end": 34.9,
+      "words": [
+        {
+          "word": "سے",
+          "start": 34.2,
+          "end": 34.34,
+          "is_accent": false
+        },
+        {
+          "word": "اصلی",
+          "start": 34.34,
+          "end": 34.62,
+          "is_accent": false
+        },
+        {
+          "word": "پروبلم",
+          "start": 34.62,
+          "end": 34.9,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "پروبلم"
+    },
+    {
+      "start": 34.9,
+      "end": 35.58,
+      "words": [
+        {
+          "word": "شروع",
+          "start": 34.9,
+          "end": 35.18,
+          "is_accent": false
+        },
+        {
+          "word": "ہوتی",
+          "start": 35.18,
+          "end": 35.42,
+          "is_accent": false
+        },
+        {
+          "word": "ہے",
+          "start": 35.42,
+          "end": 35.58,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "ہے"
+    },
+    {
+      "start": 35.58,
+      "end": 36.56,
+      "words": [
+        {
+          "word": "اور",
+          "start": 35.58,
+          "end": 35.92,
+          "is_accent": false
+        },
+        {
+          "word": "اسی",
+          "start": 35.92,
+          "end": 36.18,
+          "is_accent": false
+        },
+        {
+          "word": "Situation",
+          "start": 36.18,
+          "end": 36.56,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "Situation"
+    },
+    {
+      "start": 36.56,
+      "end": 37.24,
+      "words": [
+        {
+          "word": "کو",
+          "start": 36.56,
+          "end": 36.78,
+          "is_accent": false
+        },
+        {
+          "word": "Bank",
+          "start": 36.78,
+          "end": 37.02,
+          "is_accent": false
+        },
+        {
+          "word": "RUN",
+          "start": 37.02,
+          "end": 37.24,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "RUN"
+    },
+    {
+      "start": 37.24,
+      "end": 38.14,
+      "words": [
+        {
+          "word": "کہتے",
+          "start": 37.24,
+          "end": 37.6,
+          "is_accent": false
+        },
+        {
+          "word": "ہیں",
+          "start": 37.6,
+          "end": 37.8,
+          "is_accent": false
+        },
+        {
+          "word": "سپس",
+          "start": 37.8,
+          "end": 38.14,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "سپس"
+    },
+    {
+      "start": 38.14,
+      "end": 39.24,
+      "words": [
+        {
+          "word": "اسکاری",
+          "start": 38.14,
+          "end": 38.54,
+          "is_accent": false
+        },
+        {
+          "word": "پاٹ",
+          "start": 38.54,
+          "end": 38.8,
+          "is_accent": false
+        },
+        {
+          "word": "fanics",
+          "start": 38.8,
+          "end": 39.24,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "fanics"
+    },
+    {
+      "start": 39.24,
+      "end": 39.7,
+      "words": [
+        {
+          "word": "spread",
+          "start": 39.24,
+          "end": 39.44,
+          "is_accent": false
+        },
+        {
+          "word": "ہو",
+          "start": 39.44,
+          "end": 39.58,
+          "is_accent": false
+        },
+        {
+          "word": "جا",
+          "start": 39.58,
+          "end": 39.7,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "جا"
+    },
+    {
+      "start": 39.7,
+      "end": 40.36,
+      "words": [
+        {
+          "word": "ہے",
+          "start": 39.7,
+          "end": 39.78,
+          "is_accent": false
+        },
+        {
+          "word": "تو",
+          "start": 39.78,
+          "end": 39.9,
+          "is_accent": false
+        },
+        {
+          "word": "Problems",
+          "start": 39.9,
+          "end": 40.36,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "Problems"
+    },
+    {
+      "start": 40.36,
+      "end": 40.86,
+      "words": [
+        {
+          "word": "If",
+          "start": 40.36,
+          "end": 40.4,
+          "is_accent": false
+        },
+        {
+          "word": "Cash",
+          "start": 40.4,
+          "end": 40.7,
+          "is_accent": false
+        },
+        {
+          "word": "کی",
+          "start": 40.7,
+          "end": 40.86,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "کی"
+    },
+    {
+      "start": 40.86,
+      "end": 41.46,
+      "words": [
+        {
+          "word": "نہیں",
+          "start": 40.86,
+          "end": 40.96,
+          "is_accent": false
+        },
+        {
+          "word": "تھی",
+          "start": 40.96,
+          "end": 41.14,
+          "is_accent": false
+        },
+        {
+          "word": "لوگ",
+          "start": 41.14,
+          "end": 41.46,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "لوگ"
+    },
+    {
+      "start": 41.46,
+      "end": 42.1,
+      "words": [
+        {
+          "word": "اور",
+          "start": 41.46,
+          "end": 41.68,
+          "is_accent": false
+        },
+        {
+          "word": "لوگ",
+          "start": 41.68,
+          "end": 41.92,
+          "is_accent": false
+        },
+        {
+          "word": "اپنا",
+          "start": 41.92,
+          "end": 42.1,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "اپنا"
+    },
+    {
+      "start": 42.1,
+      "end": 43.06,
+      "words": [
+        {
+          "word": "پیسا",
+          "start": 42.1,
+          "end": 42.4,
+          "is_accent": false
+        },
+        {
+          "word": "نکالنے",
+          "start": 42.4,
+          "end": 42.78,
+          "is_accent": false
+        },
+        {
+          "word": "لکھتے",
+          "start": 42.78,
+          "end": 43.06,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "لکھتے"
+    },
+    {
+      "start": 43.06,
+      "end": 43.88,
+      "words": [
+        {
+          "word": "ہیں",
+          "start": 43.06,
+          "end": 43.38,
+          "is_accent": false
+        },
+        {
+          "word": "اور",
+          "start": 43.38,
+          "end": 43.52,
+          "is_accent": false
+        },
+        {
+          "word": "Situation",
+          "start": 43.52,
+          "end": 43.88,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "Situation"
+    },
+    {
+      "start": 43.88,
+      "end": 44.72,
+      "words": [
+        {
+          "word": "Or",
+          "start": 43.88,
+          "end": 44.24,
+          "is_accent": false
+        },
+        {
+          "word": "Serious",
+          "start": 44.24,
+          "end": 44.6,
+          "is_accent": false
+        },
+        {
+          "word": "ہو",
+          "start": 44.6,
+          "end": 44.72,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "ہو"
+    },
+    {
+      "start": 44.72,
+      "end": 45.48,
+      "words": [
+        {
+          "word": "سکتی",
+          "start": 44.72,
+          "end": 45.04,
+          "is_accent": false
+        },
+        {
+          "word": "ہے",
+          "start": 45.04,
+          "end": 45.18,
+          "is_accent": false
+        },
+        {
+          "word": "مطلب",
+          "start": 45.18,
+          "end": 45.48,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "مطلب"
+    },
+    {
+      "start": 45.48,
+      "end": 46.48,
+      "words": [
+        {
+          "word": "Problems",
+          "start": 45.48,
+          "end": 46.06,
+          "is_accent": false
+        },
+        {
+          "word": "If",
+          "start": 46.06,
+          "end": 46.14,
+          "is_accent": false
+        },
+        {
+          "word": "Pesso",
+          "start": 46.14,
+          "end": 46.48,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "Pesso"
+    },
+    {
+      "start": 46.48,
+      "end": 47.04,
+      "words": [
+        {
+          "word": "کی",
+          "start": 46.48,
+          "end": 46.64,
+          "is_accent": false
+        },
+        {
+          "word": "نہیں",
+          "start": 46.64,
+          "end": 46.74,
+          "is_accent": false
+        },
+        {
+          "word": "ہوتی",
+          "start": 46.74,
+          "end": 47.04,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "ہوتی"
+    },
+    {
+      "start": 47.04,
+      "end": 48.0,
+      "words": [
+        {
+          "word": "Problem",
+          "start": 47.04,
+          "end": 47.44,
+          "is_accent": false
+        },
+        {
+          "word": "Trust",
+          "start": 47.44,
+          "end": 47.84,
+          "is_accent": false
+        },
+        {
+          "word": "کی",
+          "start": 47.84,
+          "end": 48.0,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "کی"
+    },
+    {
+      "start": 48.0,
+      "end": 49.08,
+      "words": [
+        {
+          "word": "ہوتی",
+          "start": 48.0,
+          "end": 48.3,
+          "is_accent": false
+        },
+        {
+          "word": "ہے",
+          "start": 48.3,
+          "end": 48.48,
+          "is_accent": false
+        },
+        {
+          "word": "Banking",
+          "start": 48.48,
+          "end": 49.08,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "Banking"
+    },
+    {
+      "start": 49.08,
+      "end": 49.96,
+      "words": [
+        {
+          "word": "System",
+          "start": 49.08,
+          "end": 49.32,
+          "is_accent": false
+        },
+        {
+          "word": "Trust",
+          "start": 49.32,
+          "end": 49.8,
+          "is_accent": false
+        },
+        {
+          "word": "اور",
+          "start": 49.8,
+          "end": 49.96,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "اور"
+    },
+    {
+      "start": 49.96,
+      "end": 50.86,
+      "words": [
+        {
+          "word": "Liquidity",
+          "start": 49.96,
+          "end": 50.44,
+          "is_accent": false
+        },
+        {
+          "word": "دونوں",
+          "start": 50.44,
+          "end": 50.74,
+          "is_accent": false
+        },
+        {
+          "word": "پے",
+          "start": 50.74,
+          "end": 50.86,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "پے"
+    },
+    {
+      "start": 50.86,
+      "end": 51.8,
+      "words": [
+        {
+          "word": "چلتے",
+          "start": 50.86,
+          "end": 51.22,
+          "is_accent": false
+        },
+        {
+          "word": "ہیں",
+          "start": 51.22,
+          "end": 51.46,
+          "is_accent": false
+        },
+        {
+          "word": "ایسے",
+          "start": 51.46,
+          "end": 51.8,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "ایسے"
+    },
+    {
+      "start": 51.8,
+      "end": 52.7,
+      "words": [
+        {
+          "word": "Money",
+          "start": 51.8,
+          "end": 51.96,
+          "is_accent": false
+        },
+        {
+          "word": "Concept",
+          "start": 51.96,
+          "end": 52.34,
+          "is_accent": false
+        },
+        {
+          "word": "Simple",
+          "start": 52.34,
+          "end": 52.7,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "Simple"
+    },
+    {
+      "start": 52.7,
+      "end": 53.64,
+      "words": [
+        {
+          "word": "Language",
+          "start": 52.7,
+          "end": 53.02,
+          "is_accent": false
+        },
+        {
+          "word": "میں",
+          "start": 53.02,
+          "end": 53.2,
+          "is_accent": false
+        },
+        {
+          "word": "سمجھنے",
+          "start": 53.2,
+          "end": 53.64,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "سمجھنے"
+    },
+    {
+      "start": 53.64,
+      "end": 54.1,
+      "words": [
+        {
+          "word": "ہیں",
+          "start": 53.64,
+          "end": 53.72,
+          "is_accent": false
+        },
+        {
+          "word": "تو",
+          "start": 53.72,
+          "end": 53.94,
+          "is_accent": false
+        },
+        {
+          "word": "Follow",
+          "start": 53.94,
+          "end": 54.1,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "Follow"
+    },
+    {
+      "start": 54.1,
+      "end": 54.6,
+      "words": [
+        {
+          "word": "ڈا",
+          "start": 54.1,
+          "end": 54.6,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "ڈا"
+    }
+  ],
+  "sfx_tracks": [
+    {
+      "timestamp": 0.0,
+      "name": "card-slide-1.mp3",
+      "category": "paper_and_cards",
+      "volume": 0.85
+    },
+    {
+      "timestamp": 2.18,
+      "name": "switch-001.mp3",
+      "category": "switches_and_toggles",
+      "volume": 0.8
+    },
+    {
+      "timestamp": 4.7,
+      "name": "click-soft.mp3",
+      "category": "clicks",
+      "volume": 0.8
+    },
+    {
+      "timestamp": 6.78,
+      "name": "book-flip-1.mp3",
+      "category": "paper_and_cards",
+      "volume": 0.85
+    },
+    {
+      "timestamp": 7.88,
+      "name": "card-shove-1.mp3",
+      "category": "paper_and_cards",
+      "volume": 0.85
+    },
+    {
+      "timestamp": 10.16,
+      "name": "whoosh.wav",
+      "category": "whoosh",
+      "volume": 0.8
+    },
+    {
+      "timestamp": 12.48,
+      "name": "handle-coins.mp3",
+      "category": "bells_and_chimes",
+      "volume": 0.85
+    },
+    {
+      "timestamp": 15.52,
+      "name": "card-place-1.mp3",
+      "category": "paper_and_cards",
+      "volume": 0.85
+    },
+    {
+      "timestamp": 16.9,
+      "name": "card-slide-1.mp3",
+      "category": "paper_and_cards",
+      "volume": 0.85
+    },
+    {
+      "timestamp": 18.88,
+      "name": "switch-001.mp3",
+      "category": "switches_and_toggles",
+      "volume": 0.8
+    },
+    {
+      "timestamp": 20.82,
+      "name": "click-soft.mp3",
+      "category": "clicks",
+      "volume": 0.8
+    },
+    {
+      "timestamp": 22.66,
+      "name": "book-flip-1.mp3",
+      "category": "paper_and_cards",
+      "volume": 0.85
+    },
+    {
+      "timestamp": 25.08,
+      "name": "card-shove-1.mp3",
+      "category": "paper_and_cards",
+      "volume": 0.85
+    },
+    {
+      "timestamp": 26.68,
+      "name": "whoosh.wav",
+      "category": "whoosh",
+      "volume": 0.8
+    },
+    {
+      "timestamp": 29.7,
+      "name": "handle-coins.mp3",
+      "category": "bells_and_chimes",
+      "volume": 0.85
+    },
+    {
+      "timestamp": 31.7,
+      "name": "card-place-1.mp3",
+      "category": "paper_and_cards",
+      "volume": 0.85
+    },
+    {
+      "timestamp": 33.8,
+      "name": "card-slide-1.mp3",
+      "category": "paper_and_cards",
+      "volume": 0.85
+    },
+    {
+      "timestamp": 35.58,
+      "name": "switch-001.mp3",
+      "category": "switches_and_toggles",
+      "volume": 0.8
+    },
+    {
+      "timestamp": 37.8,
+      "name": "click-soft.mp3",
+      "category": "clicks",
+      "volume": 0.8
+    },
+    {
+      "timestamp": 39.78,
+      "name": "book-flip-1.mp3",
+      "category": "paper_and_cards",
+      "volume": 0.85
+    },
+    {
+      "timestamp": 41.14,
+      "name": "card-shove-1.mp3",
+      "category": "paper_and_cards",
+      "volume": 0.85
+    },
+    {
+      "timestamp": 43.38,
+      "name": "whoosh.wav",
+      "category": "whoosh",
+      "volume": 0.8
+    },
+    {
+      "timestamp": 45.18,
+      "name": "handle-coins.mp3",
+      "category": "bells_and_chimes",
+      "volume": 0.85
+    },
+    {
+      "timestamp": 47.04,
+      "name": "card-place-1.mp3",
+      "category": "paper_and_cards",
+      "volume": 0.85
+    },
+    {
+      "timestamp": 48.48,
+      "name": "card-slide-1.mp3",
+      "category": "paper_and_cards",
+      "volume": 0.85
+    },
+    {
+      "timestamp": 51.46,
+      "name": "switch-001.mp3",
+      "category": "switches_and_toggles",
+      "volume": 0.8
+    },
+    {
+      "timestamp": 53.72,
+      "name": "click-soft.mp3",
+      "category": "clicks",
+      "volume": 0.8
+    },
+    {
+      "timestamp": 51.6,
+      "name": "success-chime.mp3",
+      "category": "bells_and_chimes",
+      "volume": 0.9
+    }
+  ],
+  "created_at": null
+}

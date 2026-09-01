@@ -1,0 +1,1214 @@
+{
+  "duration": 49.68,
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.28,
+      "text": "Market crash is a simple question, this money is not a cash that is not a cash that is left out of someone's account",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.32,
+          "text": "Market",
+          "confidence": 0.26
+        },
+        {
+          "start": 0.32,
+          "end": 0.64,
+          "text": "crash",
+          "confidence": 0.76
+        },
+        {
+          "start": 0.64,
+          "end": 0.9,
+          "text": "is",
+          "confidence": 0.11
+        },
+        {
+          "start": 0.9,
+          "end": 2.96,
+          "text": "a",
+          "confidence": 0.36
+        },
+        {
+          "start": 2.96,
+          "end": 3.38,
+          "text": "simple",
+          "confidence": 0.78
+        },
+        {
+          "start": 3.38,
+          "end": 3.94,
+          "text": "question,",
+          "confidence": 0.88
+        },
+        {
+          "start": 4.18,
+          "end": 4.38,
+          "text": "this",
+          "confidence": 0.11
+        },
+        {
+          "start": 4.38,
+          "end": 4.68,
+          "text": "money",
+          "confidence": 0.41
+        },
+        {
+          "start": 4.68,
+          "end": 5.06,
+          "text": "is",
+          "confidence": 0.45
+        },
+        {
+          "start": 5.06,
+          "end": 5.16,
+          "text": "not",
+          "confidence": 0.09
+        },
+        {
+          "start": 5.16,
+          "end": 5.28,
+          "text": "a",
+          "confidence": 0.18
+        },
+        {
+          "start": 5.28,
+          "end": 5.48,
+          "text": "cash",
+          "confidence": 0.26
+        },
+        {
+          "start": 5.48,
+          "end": 7.72,
+          "text": "that",
+          "confidence": 0.07
+        },
+        {
+          "start": 7.72,
+          "end": 8.26,
+          "text": "is",
+          "confidence": 0.18
+        },
+        {
+          "start": 8.26,
+          "end": 8.3,
+          "text": "not",
+          "confidence": 0.14
+        },
+        {
+          "start": 8.3,
+          "end": 8.34,
+          "text": "a",
+          "confidence": 0.1
+        },
+        {
+          "start": 8.34,
+          "end": 8.379999999999999,
+          "text": "cash",
+          "confidence": 0.62
+        },
+        {
+          "start": 8.379999999999999,
+          "end": 8.42,
+          "text": "that",
+          "confidence": 0.36
+        },
+        {
+          "start": 8.42,
+          "end": 8.46,
+          "text": "is",
+          "confidence": 0.4
+        },
+        {
+          "start": 8.46,
+          "end": 8.5,
+          "text": "left",
+          "confidence": 0.16
+        },
+        {
+          "start": 8.5,
+          "end": 8.54,
+          "text": "out",
+          "confidence": 0.38
+        },
+        {
+          "start": 8.54,
+          "end": 8.58,
+          "text": "of",
+          "confidence": 0.46
+        },
+        {
+          "start": 8.26,
+          "end": 8.46,
+          "text": "someone's",
+          "confidence": 0.42
+        },
+        {
+          "start": 8.46,
+          "end": 9.28,
+          "text": "account",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "start": 9.28,
+      "end": 13.22,
+      "text": "Market value is lost and most of the people here are confused",
+      "words": [
+        {
+          "start": 9.28,
+          "end": 9.82,
+          "text": "Market",
+          "confidence": 0.3
+        },
+        {
+          "start": 9.82,
+          "end": 10.28,
+          "text": "value",
+          "confidence": 0.9
+        },
+        {
+          "start": 10.28,
+          "end": 10.38,
+          "text": "is",
+          "confidence": 0.45
+        },
+        {
+          "start": 10.38,
+          "end": 10.64,
+          "text": "lost",
+          "confidence": 0.22
+        },
+        {
+          "start": 10.64,
+          "end": 11.02,
+          "text": "and",
+          "confidence": 0.6
+        },
+        {
+          "start": 11.02,
+          "end": 11.62,
+          "text": "most",
+          "confidence": 0.41
+        },
+        {
+          "start": 11.62,
+          "end": 12.54,
+          "text": "of",
+          "confidence": 0.56
+        },
+        {
+          "start": 12.54,
+          "end": 12.62,
+          "text": "the",
+          "confidence": 0.69
+        },
+        {
+          "start": 12.62,
+          "end": 12.7,
+          "text": "people",
+          "confidence": 0.91
+        },
+        {
+          "start": 12.7,
+          "end": 12.78,
+          "text": "here",
+          "confidence": 0.61
+        },
+        {
+          "start": 12.78,
+          "end": 12.86,
+          "text": "are",
+          "confidence": 0.66
+        },
+        {
+          "start": 12.54,
+          "end": 13.22,
+          "text": "confused",
+          "confidence": 0.93
+        }
+      ]
+    },
+    {
+      "start": 13.22,
+      "end": 16.54,
+      "text": "You have 100 shares and every share is Rs. 1000",
+      "words": [
+        {
+          "start": 13.22,
+          "end": 13.48,
+          "text": "You",
+          "confidence": 0.02
+        },
+        {
+          "start": 13.48,
+          "end": 14.1,
+          "text": "have",
+          "confidence": 0.23
+        },
+        {
+          "start": 14.1,
+          "end": 14.36,
+          "text": "100",
+          "confidence": 0.71
+        },
+        {
+          "start": 14.36,
+          "end": 14.8,
+          "text": "shares",
+          "confidence": 0.97
+        },
+        {
+          "start": 14.8,
+          "end": 15.22,
+          "text": "and",
+          "confidence": 0.68
+        },
+        {
+          "start": 15.22,
+          "end": 15.46,
+          "text": "every",
+          "confidence": 0.25
+        },
+        {
+          "start": 15.46,
+          "end": 15.8,
+          "text": "share",
+          "confidence": 0.85
+        },
+        {
+          "start": 15.8,
+          "end": 15.88,
+          "text": "is",
+          "confidence": 0.78
+        },
+        {
+          "start": 15.88,
+          "end": 16.5,
+          "text": "Rs.",
+          "confidence": 0.14
+        },
+        {
+          "start": 16.5,
+          "end": 16.54,
+          "text": "1000",
+          "confidence": 0.27
+        }
+      ]
+    },
+    {
+      "start": 16.54,
+      "end": 22.56,
+      "text": "That means your total value is like, now if you get a price of Rs. 700, then your value is Rs. 70,000",
+      "words": [
+        {
+          "start": 16.54,
+          "end": 16.88,
+          "text": "That",
+          "confidence": 0.08
+        },
+        {
+          "start": 16.88,
+          "end": 16.96,
+          "text": "means",
+          "confidence": 0.74
+        },
+        {
+          "start": 16.96,
+          "end": 17.26,
+          "text": "your",
+          "confidence": 0.68
+        },
+        {
+          "start": 17.26,
+          "end": 17.48,
+          "text": "total",
+          "confidence": 0.99
+        },
+        {
+          "start": 17.48,
+          "end": 17.86,
+          "text": "value",
+          "confidence": 0.89
+        },
+        {
+          "start": 17.86,
+          "end": 17.94,
+          "text": "is",
+          "confidence": 0.97
+        },
+        {
+          "start": 17.94,
+          "end": 18.08,
+          "text": "like,",
+          "confidence": 0.14
+        },
+        {
+          "start": 18.38,
+          "end": 18.46,
+          "text": "now",
+          "confidence": 0.39
+        },
+        {
+          "start": 18.46,
+          "end": 18.88,
+          "text": "if",
+          "confidence": 0.18
+        },
+        {
+          "start": 18.88,
+          "end": 19.0,
+          "text": "you",
+          "confidence": 0.38
+        },
+        {
+          "start": 19.0,
+          "end": 19.04,
+          "text": "get",
+          "confidence": 0.29
+        },
+        {
+          "start": 19.04,
+          "end": 19.18,
+          "text": "a",
+          "confidence": 0.35
+        },
+        {
+          "start": 19.18,
+          "end": 19.2,
+          "text": "price",
+          "confidence": 0.66
+        },
+        {
+          "start": 19.2,
+          "end": 19.86,
+          "text": "of",
+          "confidence": 0.78
+        },
+        {
+          "start": 19.86,
+          "end": 20.009999999999998,
+          "text": "Rs.",
+          "confidence": 0.58
+        },
+        {
+          "start": 20.009999999999998,
+          "end": 20.16,
+          "text": "700,",
+          "confidence": 0.78
+        },
+        {
+          "start": 20.16,
+          "end": 20.52,
+          "text": "then",
+          "confidence": 0.59
+        },
+        {
+          "start": 20.52,
+          "end": 20.82,
+          "text": "your",
+          "confidence": 0.89
+        },
+        {
+          "start": 20.82,
+          "end": 21.14,
+          "text": "value",
+          "confidence": 0.93
+        },
+        {
+          "start": 21.14,
+          "end": 21.24,
+          "text": "is",
+          "confidence": 0.54
+        },
+        {
+          "start": 21.24,
+          "end": 21.319999999999997,
+          "text": "Rs.",
+          "confidence": 0.53
+        },
+        {
+          "start": 21.24,
+          "end": 21.72,
+          "text": "70",
+          "confidence": 0.44
+        },
+        {
+          "start": 21.72,
+          "end": 22.56,
+          "text": ",000",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "start": 22.56,
+      "end": 24.66,
+      "text": "Now the question is, where is that 30,000 shares?",
+      "words": [
+        {
+          "start": 22.56,
+          "end": 22.62,
+          "text": "Now",
+          "confidence": 0.42
+        },
+        {
+          "start": 22.62,
+          "end": 22.76,
+          "text": "the",
+          "confidence": 0.57
+        },
+        {
+          "start": 22.76,
+          "end": 23.02,
+          "text": "question",
+          "confidence": 0.94
+        },
+        {
+          "start": 23.02,
+          "end": 23.4,
+          "text": "is,",
+          "confidence": 0.88
+        },
+        {
+          "start": 23.58,
+          "end": 23.72,
+          "text": "where",
+          "confidence": 0.7
+        },
+        {
+          "start": 23.72,
+          "end": 23.799999999999997,
+          "text": "is",
+          "confidence": 0.48
+        },
+        {
+          "start": 23.799999999999997,
+          "end": 23.88,
+          "text": "that",
+          "confidence": 0.28
+        },
+        {
+          "start": 23.72,
+          "end": 24.02,
+          "text": "30",
+          "confidence": 0.7
+        },
+        {
+          "start": 24.02,
+          "end": 24.44,
+          "text": ",000",
+          "confidence": 0.86
+        },
+        {
+          "start": 24.44,
+          "end": 24.66,
+          "text": "shares?",
+          "confidence": 0.01
+        }
+      ]
+    },
+    {
+      "start": 25.08,
+      "end": 27.16,
+      "text": "No one has taken 30,000 from your account",
+      "words": [
+        {
+          "start": 25.08,
+          "end": 25.28,
+          "text": "No",
+          "confidence": 0.33
+        },
+        {
+          "start": 25.28,
+          "end": 25.36,
+          "text": "one",
+          "confidence": 0.83
+        },
+        {
+          "start": 25.36,
+          "end": 25.54,
+          "text": "has",
+          "confidence": 0.42
+        },
+        {
+          "start": 25.54,
+          "end": 25.82,
+          "text": "taken",
+          "confidence": 0.08
+        },
+        {
+          "start": 25.82,
+          "end": 26.24,
+          "text": "30",
+          "confidence": 0.44
+        },
+        {
+          "start": 26.24,
+          "end": 27.14,
+          "text": ",000",
+          "confidence": 0.96
+        },
+        {
+          "start": 27.14,
+          "end": 27.16,
+          "text": "from",
+          "confidence": 0.41
+        },
+        {
+          "start": 27.14,
+          "end": 27.15,
+          "text": "your",
+          "confidence": 0.71
+        },
+        {
+          "start": 27.15,
+          "end": 27.16,
+          "text": "account",
+          "confidence": 0.93
+        }
+      ]
+    },
+    {
+      "start": 27.16,
+      "end": 30.74,
+      "text": "Just on the price, your share was ready to buy and that price fell",
+      "words": [
+        {
+          "start": 27.16,
+          "end": 27.52,
+          "text": "Just",
+          "confidence": 0.01
+        },
+        {
+          "start": 27.52,
+          "end": 27.599999999999998,
+          "text": "on",
+          "confidence": 0.11
+        },
+        {
+          "start": 27.52,
+          "end": 27.84,
+          "text": "the",
+          "confidence": 0.81
+        },
+        {
+          "start": 27.84,
+          "end": 28.12,
+          "text": "price,",
+          "confidence": 0.9
+        },
+        {
+          "start": 28.34,
+          "end": 28.72,
+          "text": "your",
+          "confidence": 0.31
+        },
+        {
+          "start": 28.72,
+          "end": 29.02,
+          "text": "share",
+          "confidence": 0.89
+        },
+        {
+          "start": 29.02,
+          "end": 29.46,
+          "text": "was",
+          "confidence": 0.43
+        },
+        {
+          "start": 29.46,
+          "end": 29.8,
+          "text": "ready",
+          "confidence": 0.77
+        },
+        {
+          "start": 29.8,
+          "end": 30.22,
+          "text": "to",
+          "confidence": 0.71
+        },
+        {
+          "start": 30.22,
+          "end": 30.259999999999998,
+          "text": "buy",
+          "confidence": 0.59
+        },
+        {
+          "start": 30.259999999999998,
+          "end": 30.299999999999997,
+          "text": "and",
+          "confidence": 0.15
+        },
+        {
+          "start": 30.22,
+          "end": 30.26,
+          "text": "that",
+          "confidence": 0.2
+        },
+        {
+          "start": 30.26,
+          "end": 30.54,
+          "text": "price",
+          "confidence": 0.7
+        },
+        {
+          "start": 30.54,
+          "end": 30.74,
+          "text": "fell",
+          "confidence": 0.54
+        }
+      ]
+    },
+    {
+      "start": 30.74,
+      "end": 34.58,
+      "text": "That's why when the market crash is called headlines, it has become a 10 lakh crore wipeout",
+      "words": [
+        {
+          "start": 30.74,
+          "end": 31.26,
+          "text": "That's",
+          "confidence": 0.65
+        },
+        {
+          "start": 31.26,
+          "end": 31.42,
+          "text": "why",
+          "confidence": 0.94
+        },
+        {
+          "start": 31.42,
+          "end": 31.58,
+          "text": "when",
+          "confidence": 0.49
+        },
+        {
+          "start": 31.58,
+          "end": 31.659999999999997,
+          "text": "the",
+          "confidence": 0.46
+        },
+        {
+          "start": 31.58,
+          "end": 31.76,
+          "text": "market",
+          "confidence": 0.79
+        },
+        {
+          "start": 31.76,
+          "end": 32.14,
+          "text": "crash",
+          "confidence": 0.92
+        },
+        {
+          "start": 32.14,
+          "end": 32.26,
+          "text": "is",
+          "confidence": 0.09
+        },
+        {
+          "start": 32.26,
+          "end": 33.06,
+          "text": "called",
+          "confidence": 0.33
+        },
+        {
+          "start": 33.06,
+          "end": 33.24,
+          "text": "headlines,",
+          "confidence": 0.43
+        },
+        {
+          "start": 33.3,
+          "end": 33.52,
+          "text": "it",
+          "confidence": 0.24
+        },
+        {
+          "start": 33.52,
+          "end": 33.56,
+          "text": "has",
+          "confidence": 0.23
+        },
+        {
+          "start": 33.56,
+          "end": 33.6,
+          "text": "become",
+          "confidence": 0.71
+        },
+        {
+          "start": 33.6,
+          "end": 33.64,
+          "text": "a",
+          "confidence": 0.63
+        },
+        {
+          "start": 33.52,
+          "end": 33.54,
+          "text": "10",
+          "confidence": 0.65
+        },
+        {
+          "start": 33.54,
+          "end": 33.82,
+          "text": "lakh",
+          "confidence": 0.7
+        },
+        {
+          "start": 33.82,
+          "end": 34.14,
+          "text": "crore",
+          "confidence": 0.91
+        },
+        {
+          "start": 34.14,
+          "end": 34.58,
+          "text": "wipeout",
+          "confidence": 0.68
+        }
+      ]
+    },
+    {
+      "start": 34.58,
+      "end": 37.96,
+      "text": "That means it has become a 10 lakh crore cash that is not a 10 lakh crore cash",
+      "words": [
+        {
+          "start": 34.58,
+          "end": 35.08,
+          "text": "That",
+          "confidence": 0.09
+        },
+        {
+          "start": 35.08,
+          "end": 35.42,
+          "text": "means",
+          "confidence": 0.92
+        },
+        {
+          "start": 35.42,
+          "end": 35.68,
+          "text": "it",
+          "confidence": 0.31
+        },
+        {
+          "start": 35.68,
+          "end": 35.82,
+          "text": "has",
+          "confidence": 0.56
+        },
+        {
+          "start": 35.82,
+          "end": 35.9,
+          "text": "become",
+          "confidence": 0.53
+        },
+        {
+          "start": 35.82,
+          "end": 35.9,
+          "text": "a",
+          "confidence": 0.92
+        },
+        {
+          "start": 35.9,
+          "end": 36.1,
+          "text": "10",
+          "confidence": 0.97
+        },
+        {
+          "start": 36.1,
+          "end": 36.4,
+          "text": "lakh",
+          "confidence": 0.97
+        },
+        {
+          "start": 36.4,
+          "end": 36.68,
+          "text": "crore",
+          "confidence": 0.97
+        },
+        {
+          "start": 36.68,
+          "end": 36.9,
+          "text": "cash",
+          "confidence": 0.86
+        },
+        {
+          "start": 36.9,
+          "end": 37.32,
+          "text": "that",
+          "confidence": 0.01
+        },
+        {
+          "start": 37.32,
+          "end": 37.9,
+          "text": "is",
+          "confidence": 0.11
+        },
+        {
+          "start": 37.9,
+          "end": 37.92,
+          "text": "not",
+          "confidence": 0.06
+        },
+        {
+          "start": 37.92,
+          "end": 37.94,
+          "text": "a",
+          "confidence": 0.17
+        },
+        {
+          "start": 37.94,
+          "end": 37.96,
+          "text": "10",
+          "confidence": 0.89
+        },
+        {
+          "start": 37.9,
+          "end": 37.96,
+          "text": "lakh",
+          "confidence": 0.97
+        },
+        {
+          "start": 37.9,
+          "end": 37.93,
+          "text": "crore",
+          "confidence": 0.61
+        },
+        {
+          "start": 37.93,
+          "end": 37.96,
+          "text": "cash",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "start": 37.96,
+      "end": 39.58,
+      "text": "Mostly the total valuation of the market has fallen",
+      "words": [
+        {
+          "start": 37.96,
+          "end": 38.04,
+          "text": "Mostly",
+          "confidence": 0.0
+        },
+        {
+          "start": 37.96,
+          "end": 38.12,
+          "text": "the",
+          "confidence": 0.61
+        },
+        {
+          "start": 38.12,
+          "end": 38.64,
+          "text": "total",
+          "confidence": 0.82
+        },
+        {
+          "start": 38.64,
+          "end": 39.22,
+          "text": "valuation",
+          "confidence": 0.91
+        },
+        {
+          "start": 39.22,
+          "end": 39.44,
+          "text": "of",
+          "confidence": 0.58
+        },
+        {
+          "start": 39.44,
+          "end": 39.486666666666665,
+          "text": "the",
+          "confidence": 0.96
+        },
+        {
+          "start": 39.486666666666665,
+          "end": 39.53333333333333,
+          "text": "market",
+          "confidence": 0.98
+        },
+        {
+          "start": 39.53333333333333,
+          "end": 39.58,
+          "text": "has",
+          "confidence": 0.47
+        },
+        {
+          "start": 39.44,
+          "end": 39.58,
+          "text": "fallen",
+          "confidence": 0.56
+        }
+      ]
+    },
+    {
+      "start": 39.58,
+      "end": 41.84,
+      "text": "That's why the money in the market crash is not a habit",
+      "words": [
+        {
+          "start": 39.58,
+          "end": 39.98,
+          "text": "That's",
+          "confidence": 0.53
+        },
+        {
+          "start": 39.98,
+          "end": 40.1,
+          "text": "why",
+          "confidence": 0.96
+        },
+        {
+          "start": 40.1,
+          "end": 40.22,
+          "text": "the",
+          "confidence": 0.47
+        },
+        {
+          "start": 40.22,
+          "end": 40.3,
+          "text": "money",
+          "confidence": 0.42
+        },
+        {
+          "start": 40.3,
+          "end": 40.379999999999995,
+          "text": "in",
+          "confidence": 0.43
+        },
+        {
+          "start": 40.22,
+          "end": 40.38,
+          "text": "the",
+          "confidence": 0.86
+        },
+        {
+          "start": 40.38,
+          "end": 40.46,
+          "text": "market",
+          "confidence": 0.93
+        },
+        {
+          "start": 40.38,
+          "end": 40.76,
+          "text": "crash",
+          "confidence": 0.96
+        },
+        {
+          "start": 40.76,
+          "end": 40.9,
+          "text": "is",
+          "confidence": 0.24
+        },
+        {
+          "start": 40.9,
+          "end": 41.56,
+          "text": "not",
+          "confidence": 0.77
+        },
+        {
+          "start": 41.56,
+          "end": 41.68,
+          "text": "a",
+          "confidence": 0.08
+        },
+        {
+          "start": 41.68,
+          "end": 41.84,
+          "text": "habit",
+          "confidence": 0.01
+        }
+      ]
+    },
+    {
+      "start": 42.44,
+      "end": 44.0,
+      "text": "It is just the value of assets",
+      "words": [
+        {
+          "start": 42.19,
+          "end": 42.46,
+          "text": "It",
+          "confidence": 0.11
+        },
+        {
+          "start": 42.46,
+          "end": 42.6,
+          "text": "is",
+          "confidence": 0.38
+        },
+        {
+          "start": 42.6,
+          "end": 42.68,
+          "text": "just",
+          "confidence": 0.21
+        },
+        {
+          "start": 42.6,
+          "end": 43.1,
+          "text": "the",
+          "confidence": 0.6
+        },
+        {
+          "start": 43.1,
+          "end": 43.3,
+          "text": "value",
+          "confidence": 0.52
+        },
+        {
+          "start": 43.3,
+          "end": 44.0,
+          "text": "of",
+          "confidence": 0.98
+        },
+        {
+          "start": 43.94,
+          "end": 44.0,
+          "text": "assets",
+          "confidence": 0.87
+        }
+      ]
+    },
+    {
+      "start": 44.0,
+      "end": 46.58,
+      "text": "And this difference in trading is very important",
+      "words": [
+        {
+          "start": 44.0,
+          "end": 44.5,
+          "text": "And",
+          "confidence": 0.45
+        },
+        {
+          "start": 44.5,
+          "end": 45.08,
+          "text": "this",
+          "confidence": 0.33
+        },
+        {
+          "start": 45.08,
+          "end": 45.4,
+          "text": "difference",
+          "confidence": 0.73
+        },
+        {
+          "start": 45.4,
+          "end": 45.68,
+          "text": "in",
+          "confidence": 0.56
+        },
+        {
+          "start": 45.68,
+          "end": 45.76,
+          "text": "trading",
+          "confidence": 0.9
+        },
+        {
+          "start": 45.68,
+          "end": 45.88,
+          "text": "is",
+          "confidence": 0.92
+        },
+        {
+          "start": 45.88,
+          "end": 46.08,
+          "text": "very",
+          "confidence": 0.78
+        },
+        {
+          "start": 46.08,
+          "end": 46.58,
+          "text": "important",
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 46.58,
+      "end": 49.68,
+      "text": "If you want to understand such a simple language, then follow it",
+      "words": [
+        {
+          "start": 46.58,
+          "end": 46.84,
+          "text": "If",
+          "confidence": 0.04
+        },
+        {
+          "start": 46.84,
+          "end": 47.06,
+          "text": "you",
+          "confidence": 0.9
+        },
+        {
+          "start": 47.06,
+          "end": 47.1,
+          "text": "want",
+          "confidence": 0.4
+        },
+        {
+          "start": 47.1,
+          "end": 47.14,
+          "text": "to",
+          "confidence": 0.99
+        },
+        {
+          "start": 47.14,
+          "end": 47.18,
+          "text": "understand",
+          "confidence": 0.84
+        },
+        {
+          "start": 47.18,
+          "end": 47.22,
+          "text": "such",
+          "confidence": 0.25
+        },
+        {
+          "start": 47.06,
+          "end": 47.18,
+          "text": "a",
+          "confidence": 0.73
+        },
+        {
+          "start": 47.18,
+          "end": 47.74,
+          "text": "simple",
+          "confidence": 0.84
+        },
+        {
+          "start": 47.74,
+          "end": 48.12,
+          "text": "language,",
+          "confidence": 0.89
+        },
+        {
+          "start": 48.78,
+          "end": 49.0,
+          "text": "then",
+          "confidence": 0.6
+        },
+        {
+          "start": 49.0,
+          "end": 49.26,
+          "text": "follow",
+          "confidence": 0.95
+        },
+        {
+          "start": 49.26,
+          "end": 49.68,
+          "text": "it",
+          "confidence": 0.77
+        }
+      ]
+    }
+  ]
+}

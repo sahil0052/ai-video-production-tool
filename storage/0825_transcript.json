@@ -1,0 +1,980 @@
+{
+  "language": "hi",
+  "duration": 51.8501875,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.06,
+      "text": "आपने noteis kiya hai, gold ka prize literally seconds mein change ho jaata hai.",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.3,
+          "word": " आपने"
+        },
+        {
+          "start": 0.3,
+          "end": 0.66,
+          "word": " noteis"
+        },
+        {
+          "start": 0.66,
+          "end": 0.9,
+          "word": " kiya"
+        },
+        {
+          "start": 0.9,
+          "end": 1.06,
+          "word": " hai,"
+        },
+        {
+          "start": 1.22,
+          "end": 1.46,
+          "word": " gold"
+        },
+        {
+          "start": 1.46,
+          "end": 1.68,
+          "word": " ka"
+        },
+        {
+          "start": 1.68,
+          "end": 1.98,
+          "word": " prize"
+        },
+        {
+          "start": 1.98,
+          "end": 2.42,
+          "word": " literally"
+        },
+        {
+          "start": 2.42,
+          "end": 3.06,
+          "word": " seconds"
+        },
+        {
+          "start": 3.06,
+          "end": 3.3,
+          "word": " mein"
+        },
+        {
+          "start": 3.3,
+          "end": 3.52,
+          "word": " change"
+        },
+        {
+          "start": 3.52,
+          "end": 3.68,
+          "word": " ho"
+        },
+        {
+          "start": 3.68,
+          "end": 3.96,
+          "word": " jaata"
+        },
+        {
+          "start": 3.96,
+          "end": 4.06,
+          "word": " hai."
+        }
+      ]
+    },
+    {
+      "start": 4.16,
+      "end": 6.86,
+      "text": "लेकिन question ye hai, price change karta koun hai.",
+      "words": [
+        {
+          "start": 4.16,
+          "end": 4.44,
+          "word": " लेकिन"
+        },
+        {
+          "start": 4.44,
+          "end": 4.74,
+          "word": " question"
+        },
+        {
+          "start": 4.74,
+          "end": 5.06,
+          "word": " ye"
+        },
+        {
+          "start": 5.06,
+          "end": 5.3,
+          "word": " hai,"
+        },
+        {
+          "start": 5.44,
+          "end": 5.66,
+          "word": " price"
+        },
+        {
+          "start": 5.66,
+          "end": 5.98,
+          "word": " change"
+        },
+        {
+          "start": 5.98,
+          "end": 6.36,
+          "word": " karta"
+        },
+        {
+          "start": 6.36,
+          "end": 6.7,
+          "word": " koun"
+        },
+        {
+          "start": 6.7,
+          "end": 6.86,
+          "word": " hai."
+        }
+      ]
+    },
+    {
+      "start": 6.98,
+      "end": 9.3,
+      "text": "सिंपल अनसर है, buyer's or seller's.",
+      "words": [
+        {
+          "start": 6.98,
+          "end": 7.36,
+          "word": " सिंपल"
+        },
+        {
+          "start": 7.36,
+          "end": 7.72,
+          "word": " अनसर"
+        },
+        {
+          "start": 7.72,
+          "end": 7.88,
+          "word": " है,"
+        },
+        {
+          "start": 8.08,
+          "end": 8.56,
+          "word": " buyer's"
+        },
+        {
+          "start": 8.56,
+          "end": 8.7,
+          "word": " or"
+        },
+        {
+          "start": 8.7,
+          "end": 9.3,
+          "word": " seller's."
+        }
+      ]
+    },
+    {
+      "start": 9.38,
+      "end": 11.6,
+      "text": "जब buyer's zyada price deneko ready hote hain,",
+      "words": [
+        {
+          "start": 9.38,
+          "end": 9.46,
+          "word": " जब"
+        },
+        {
+          "start": 9.46,
+          "end": 9.96,
+          "word": " buyer's"
+        },
+        {
+          "start": 9.96,
+          "end": 10.14,
+          "word": " zyada"
+        },
+        {
+          "start": 10.14,
+          "end": 10.42,
+          "word": " price"
+        },
+        {
+          "start": 10.42,
+          "end": 10.86,
+          "word": " deneko"
+        },
+        {
+          "start": 10.86,
+          "end": 11.06,
+          "word": " ready"
+        },
+        {
+          "start": 11.06,
+          "end": 11.34,
+          "word": " hote"
+        },
+        {
+          "start": 11.34,
+          "end": 11.6,
+          "word": " hain,"
+        }
+      ]
+    },
+    {
+      "start": 11.7,
+      "end": 13.54,
+      "text": "और seller's apni price change krta hain,",
+      "words": [
+        {
+          "start": 11.7,
+          "end": 11.78,
+          "word": " और"
+        },
+        {
+          "start": 11.78,
+          "end": 12.2,
+          "word": " seller's"
+        },
+        {
+          "start": 12.2,
+          "end": 12.38,
+          "word": " apni"
+        },
+        {
+          "start": 12.38,
+          "end": 12.66,
+          "word": " price"
+        },
+        {
+          "start": 12.66,
+          "end": 12.96,
+          "word": " change"
+        },
+        {
+          "start": 12.96,
+          "end": 13.34,
+          "word": " krta"
+        },
+        {
+          "start": 13.34,
+          "end": 13.54,
+          "word": " hain,"
+        }
+      ]
+    },
+    {
+      "start": 13.6,
+      "end": 14.96,
+      "text": "तो market price bhi move hote hai.",
+      "words": [
+        {
+          "start": 13.6,
+          "end": 13.68,
+          "word": " तो"
+        },
+        {
+          "start": 13.68,
+          "end": 13.92,
+          "word": " market"
+        },
+        {
+          "start": 13.92,
+          "end": 14.22,
+          "word": " price"
+        },
+        {
+          "start": 14.22,
+          "end": 14.4,
+          "word": " bhi"
+        },
+        {
+          "start": 14.4,
+          "end": 14.6,
+          "word": " move"
+        },
+        {
+          "start": 14.6,
+          "end": 14.8,
+          "word": " hote"
+        },
+        {
+          "start": 14.8,
+          "end": 14.96,
+          "word": " hai."
+        }
+      ]
+    },
+    {
+      "start": 15.04,
+      "end": 16.06,
+      "text": "इमाजगन ek gold shop.",
+      "words": [
+        {
+          "start": 15.04,
+          "end": 15.46,
+          "word": " इमाजगन"
+        },
+        {
+          "start": 15.46,
+          "end": 15.56,
+          "word": " ek"
+        },
+        {
+          "start": 15.56,
+          "end": 15.82,
+          "word": " gold"
+        },
+        {
+          "start": 15.82,
+          "end": 16.06,
+          "word": " shop."
+        }
+      ]
+    },
+    {
+      "start": 16.18,
+      "end": 18.18,
+      "text": "अगर ek buyer 7000 offer kar rahe hai,",
+      "words": [
+        {
+          "start": 16.18,
+          "end": 16.34,
+          "word": " अगर"
+        },
+        {
+          "start": 16.34,
+          "end": 16.46,
+          "word": " ek"
+        },
+        {
+          "start": 16.46,
+          "end": 16.7,
+          "word": " buyer"
+        },
+        {
+          "start": 16.7,
+          "end": 17.38,
+          "word": " 7000"
+        },
+        {
+          "start": 17.38,
+          "end": 17.7,
+          "word": " offer"
+        },
+        {
+          "start": 17.7,
+          "end": 17.94,
+          "word": " kar"
+        },
+        {
+          "start": 17.94,
+          "end": 18.08,
+          "word": " rahe"
+        },
+        {
+          "start": 18.08,
+          "end": 18.18,
+          "word": " hai,"
+        }
+      ]
+    },
+    {
+      "start": 18.36,
+      "end": 19.36,
+      "text": "प्रैज वही हो सकता है.",
+      "words": [
+        {
+          "start": 18.36,
+          "end": 18.56,
+          "word": " प्रैज"
+        },
+        {
+          "start": 18.56,
+          "end": 18.82,
+          "word": " वही"
+        },
+        {
+          "start": 18.82,
+          "end": 18.98,
+          "word": " हो"
+        },
+        {
+          "start": 18.98,
+          "end": 19.28,
+          "word": " सकता"
+        },
+        {
+          "start": 19.28,
+          "end": 19.36,
+          "word": " है."
+        }
+      ]
+    },
+    {
+      "start": 19.44,
+      "end": 21.76,
+      "text": "लेकिन अगर buyer's 7000 50 bhi dene lagin,",
+      "words": [
+        {
+          "start": 19.44,
+          "end": 19.68,
+          "word": " लेकिन"
+        },
+        {
+          "start": 19.68,
+          "end": 19.86,
+          "word": " अगर"
+        },
+        {
+          "start": 19.86,
+          "end": 20.28,
+          "word": " buyer's"
+        },
+        {
+          "start": 20.28,
+          "end": 20.68,
+          "word": " 7000"
+        },
+        {
+          "start": 20.68,
+          "end": 20.94,
+          "word": " 50"
+        },
+        {
+          "start": 20.94,
+          "end": 21.28,
+          "word": " bhi"
+        },
+        {
+          "start": 21.28,
+          "end": 21.44,
+          "word": " dene"
+        },
+        {
+          "start": 21.44,
+          "end": 21.76,
+          "word": " lagin,"
+        }
+      ]
+    },
+    {
+      "start": 22.02,
+      "end": 23.9,
+      "text": "seller bhi apni asking price badha ashta hai.",
+      "words": [
+        {
+          "start": 22.02,
+          "end": 22.24,
+          "word": " seller"
+        },
+        {
+          "start": 22.24,
+          "end": 22.46,
+          "word": " bhi"
+        },
+        {
+          "start": 22.46,
+          "end": 22.64,
+          "word": " apni"
+        },
+        {
+          "start": 22.64,
+          "end": 22.9,
+          "word": " asking"
+        },
+        {
+          "start": 22.9,
+          "end": 23.22,
+          "word": " price"
+        },
+        {
+          "start": 23.22,
+          "end": 23.52,
+          "word": " badha"
+        },
+        {
+          "start": 23.52,
+          "end": 23.76,
+          "word": " ashta"
+        },
+        {
+          "start": 23.76,
+          "end": 23.9,
+          "word": " hai."
+        }
+      ]
+    },
+    {
+      "start": 23.9,
+      "end": 28.22,
+      "text": "अब इमजन करो ये प्रोसेस एक शोप में नहीं पूरी दून्या में सामलतेनियसली हो रहा है",
+      "words": [
+        {
+          "start": 23.9,
+          "end": 24.12,
+          "word": " अब"
+        },
+        {
+          "start": 24.12,
+          "end": 24.5,
+          "word": " इमजन"
+        },
+        {
+          "start": 24.5,
+          "end": 24.78,
+          "word": " करो"
+        },
+        {
+          "start": 24.78,
+          "end": 24.94,
+          "word": " ये"
+        },
+        {
+          "start": 24.94,
+          "end": 25.42,
+          "word": " प्रोसेस"
+        },
+        {
+          "start": 25.42,
+          "end": 25.62,
+          "word": " एक"
+        },
+        {
+          "start": 25.62,
+          "end": 25.9,
+          "word": " शोप"
+        },
+        {
+          "start": 25.9,
+          "end": 26.1,
+          "word": " में"
+        },
+        {
+          "start": 26.1,
+          "end": 26.34,
+          "word": " नहीं"
+        },
+        {
+          "start": 26.34,
+          "end": 26.6,
+          "word": " पूरी"
+        },
+        {
+          "start": 26.6,
+          "end": 26.96,
+          "word": " दून्या"
+        },
+        {
+          "start": 26.96,
+          "end": 27.14,
+          "word": " में"
+        },
+        {
+          "start": 27.14,
+          "end": 27.88,
+          "word": " सामलतेनियसली"
+        },
+        {
+          "start": 27.88,
+          "end": 28.02,
+          "word": " हो"
+        },
+        {
+          "start": 28.02,
+          "end": 28.18,
+          "word": " रहा"
+        },
+        {
+          "start": 28.18,
+          "end": 28.22,
+          "word": " है"
+        }
+      ]
+    },
+    {
+      "start": 28.22,
+      "end": 32.92,
+      "text": "बांक्स, इंस्टिटूचन, ट्रेटर्स और इंवेस्टर्स कंटिन्यूस्ली भाई और सेल कर रहें है",
+      "words": [
+        {
+          "start": 28.22,
+          "end": 28.78,
+          "word": " बांक्स,"
+        },
+        {
+          "start": 28.86,
+          "end": 29.48,
+          "word": " इंस्टिटूचन,"
+        },
+        {
+          "start": 29.6,
+          "end": 30.14,
+          "word": " ट्रेटर्स"
+        },
+        {
+          "start": 30.14,
+          "end": 30.32,
+          "word": " और"
+        },
+        {
+          "start": 30.32,
+          "end": 30.88,
+          "word": " इंवेस्टर्स"
+        },
+        {
+          "start": 30.88,
+          "end": 31.56,
+          "word": " कंटिन्यूस्ली"
+        },
+        {
+          "start": 31.56,
+          "end": 31.84,
+          "word": " भाई"
+        },
+        {
+          "start": 31.84,
+          "end": 32.02,
+          "word": " और"
+        },
+        {
+          "start": 32.02,
+          "end": 32.24,
+          "word": " सेल"
+        },
+        {
+          "start": 32.24,
+          "end": 32.44,
+          "word": " कर"
+        },
+        {
+          "start": 32.44,
+          "end": 32.68,
+          "word": " रहें"
+        },
+        {
+          "start": 32.68,
+          "end": 32.92,
+          "word": " है"
+        }
+      ]
+    },
+    {
+      "start": 32.92,
+      "end": 38.22,
+      "text": "और जब इंपार्टन्ट एकनोमिक नूज आती है, बायर्ज और सेलर्स का बालन्स सेकिन्ज में चेंज हो सकता है",
+      "words": [
+        {
+          "start": 32.92,
+          "end": 33.1,
+          "word": " और"
+        },
+        {
+          "start": 33.1,
+          "end": 33.26,
+          "word": " जब"
+        },
+        {
+          "start": 33.26,
+          "end": 33.8,
+          "word": " इंपार्टन्ट"
+        },
+        {
+          "start": 33.8,
+          "end": 34.3,
+          "word": " एकनोमिक"
+        },
+        {
+          "start": 34.3,
+          "end": 34.56,
+          "word": " नूज"
+        },
+        {
+          "start": 34.56,
+          "end": 34.84,
+          "word": " आती"
+        },
+        {
+          "start": 34.84,
+          "end": 35.0,
+          "word": " है,"
+        },
+        {
+          "start": 35.12,
+          "end": 35.6,
+          "word": " बायर्ज"
+        },
+        {
+          "start": 35.6,
+          "end": 35.74,
+          "word": " और"
+        },
+        {
+          "start": 35.74,
+          "end": 36.12,
+          "word": " सेलर्स"
+        },
+        {
+          "start": 36.12,
+          "end": 36.3,
+          "word": " का"
+        },
+        {
+          "start": 36.3,
+          "end": 36.78,
+          "word": " बालन्स"
+        },
+        {
+          "start": 36.78,
+          "end": 37.26,
+          "word": " सेकिन्ज"
+        },
+        {
+          "start": 37.26,
+          "end": 37.42,
+          "word": " में"
+        },
+        {
+          "start": 37.42,
+          "end": 37.7,
+          "word": " चेंज"
+        },
+        {
+          "start": 37.7,
+          "end": 37.82,
+          "word": " हो"
+        },
+        {
+          "start": 37.82,
+          "end": 38.12,
+          "word": " सकता"
+        },
+        {
+          "start": 38.12,
+          "end": 38.22,
+          "word": " है"
+        }
+      ]
+    },
+    {
+      "start": 38.22,
+      "end": 40.96,
+      "text": "इसी लिये गोल्ड का प्राइस सचनली मुव कर सकता है",
+      "words": [
+        {
+          "start": 38.22,
+          "end": 38.52,
+          "word": " इसी"
+        },
+        {
+          "start": 38.52,
+          "end": 38.76,
+          "word": " लिये"
+        },
+        {
+          "start": 38.76,
+          "end": 39.04,
+          "word": " गोल्ड"
+        },
+        {
+          "start": 39.04,
+          "end": 39.2,
+          "word": " का"
+        },
+        {
+          "start": 39.2,
+          "end": 39.48,
+          "word": " प्राइस"
+        },
+        {
+          "start": 39.48,
+          "end": 39.94,
+          "word": " सचनली"
+        },
+        {
+          "start": 39.94,
+          "end": 40.16,
+          "word": " मुव"
+        },
+        {
+          "start": 40.16,
+          "end": 40.3,
+          "word": " कर"
+        },
+        {
+          "start": 40.3,
+          "end": 40.68,
+          "word": " सकता"
+        },
+        {
+          "start": 40.68,
+          "end": 40.96,
+          "word": " है"
+        }
+      ]
+    },
+    {
+      "start": 40.96,
+      "end": 47.14,
+      "text": "इसी फास्ट मूविंग माक्किट में एकनोमिक नूज के अक्डिशन्स मुनिटर कर के अतमाटिकली आक्षन ले सकता है",
+      "words": [
+        {
+          "start": 40.96,
+          "end": 41.1,
+          "word": " इसी"
+        },
+        {
+          "start": 41.1,
+          "end": 41.48,
+          "word": " फास्ट"
+        },
+        {
+          "start": 41.48,
+          "end": 41.78,
+          "word": " मूविंग"
+        },
+        {
+          "start": 41.78,
+          "end": 42.18,
+          "word": " माक्किट"
+        },
+        {
+          "start": 42.18,
+          "end": 42.46,
+          "word": " में"
+        },
+        {
+          "start": 42.46,
+          "end": 43.08,
+          "word": " एकनोमिक"
+        },
+        {
+          "start": 43.08,
+          "end": 43.52,
+          "word": " नूज"
+        },
+        {
+          "start": 43.52,
+          "end": 43.66,
+          "word": " के"
+        },
+        {
+          "start": 43.66,
+          "end": 44.6,
+          "word": " अक्डिशन्स"
+        },
+        {
+          "start": 44.6,
+          "end": 45.02,
+          "word": " मुनिटर"
+        },
+        {
+          "start": 45.02,
+          "end": 45.22,
+          "word": " कर"
+        },
+        {
+          "start": 45.22,
+          "end": 45.4,
+          "word": " के"
+        },
+        {
+          "start": 45.4,
+          "end": 46.14,
+          "word": " अतमाटिकली"
+        },
+        {
+          "start": 46.14,
+          "end": 46.46,
+          "word": " आक्षन"
+        },
+        {
+          "start": 46.46,
+          "end": 46.62,
+          "word": " ले"
+        },
+        {
+          "start": 46.62,
+          "end": 47.0,
+          "word": " सकता"
+        },
+        {
+          "start": 47.0,
+          "end": 47.14,
+          "word": " है"
+        }
+      ]
+    },
+    {
+      "start": 47.14,
+      "end": 51.66,
+      "text": "असे फोरेख्स, गोल्ड और एकन्सेप समपल लंगवेज में समझने है, तो फोलो कर लो",
+      "words": [
+        {
+          "start": 47.14,
+          "end": 47.46,
+          "word": " असे"
+        },
+        {
+          "start": 47.46,
+          "end": 47.98,
+          "word": " फोरेख्स,"
+        },
+        {
+          "start": 48.0,
+          "end": 48.3,
+          "word": " गोल्ड"
+        },
+        {
+          "start": 48.3,
+          "end": 48.46,
+          "word": " और"
+        },
+        {
+          "start": 48.46,
+          "end": 49.12,
+          "word": " एकन्सेप"
+        },
+        {
+          "start": 49.12,
+          "end": 49.56,
+          "word": " समपल"
+        },
+        {
+          "start": 49.56,
+          "end": 49.92,
+          "word": " लंगवेज"
+        },
+        {
+          "start": 49.92,
+          "end": 50.06,
+          "word": " में"
+        },
+        {
+          "start": 50.06,
+          "end": 50.5,
+          "word": " समझने"
+        },
+        {
+          "start": 50.5,
+          "end": 50.68,
+          "word": " है,"
+        },
+        {
+          "start": 50.9,
+          "end": 50.98,
+          "word": " तो"
+        },
+        {
+          "start": 50.98,
+          "end": 51.3,
+          "word": " फोलो"
+        },
+        {
+          "start": 51.3,
+          "end": 51.5,
+          "word": " कर"
+        },
+        {
+          "start": 51.5,
+          "end": 51.66,
+          "word": " लो"
+        }
+      ]
+    }
+  ]
+}

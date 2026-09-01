@@ -1,0 +1,1293 @@
+{
+  "duration": 48.6,
+  "language": "hi",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.56,
+      "text": "سوچو گوڑمنٹ کل اناؤنس کریں",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.38,
+          "text": "سوچو",
+          "confidence": 0.45
+        },
+        {
+          "start": 0.38,
+          "end": 0.9,
+          "text": "گوڑمنٹ",
+          "confidence": 0.34
+        },
+        {
+          "start": 0.9,
+          "end": 0.92,
+          "text": "کل",
+          "confidence": 0.31
+        },
+        {
+          "start": 0.92,
+          "end": 1.32,
+          "text": "اناؤنس",
+          "confidence": 0.22
+        },
+        {
+          "start": 1.32,
+          "end": 1.56,
+          "text": "کریں",
+          "confidence": 0.84
+        }
+      ]
+    },
+    {
+      "start": 1.56,
+      "end": 3.16,
+      "text": "ہر انڈین کے بانک کاؤنٹ میں",
+      "words": [
+        {
+          "start": 1.56,
+          "end": 1.96,
+          "text": "ہر",
+          "confidence": 0.49
+        },
+        {
+          "start": 1.96,
+          "end": 2.22,
+          "text": "انڈین",
+          "confidence": 0.57
+        },
+        {
+          "start": 2.22,
+          "end": 2.4,
+          "text": "کے",
+          "confidence": 0.92
+        },
+        {
+          "start": 2.4,
+          "end": 2.72,
+          "text": "بانک",
+          "confidence": 0.43
+        },
+        {
+          "start": 2.72,
+          "end": 3.04,
+          "text": "کاؤنٹ",
+          "confidence": 0.52
+        },
+        {
+          "start": 3.04,
+          "end": 3.16,
+          "text": "میں",
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 3.16,
+      "end": 4.38,
+      "text": "1 کرو رہا جائے گا",
+      "words": [
+        {
+          "start": 3.16,
+          "end": 3.46,
+          "text": "1",
+          "confidence": 0.15
+        },
+        {
+          "start": 3.46,
+          "end": 3.82,
+          "text": "کرو",
+          "confidence": 0.31
+        },
+        {
+          "start": 3.82,
+          "end": 4.12,
+          "text": "رہا",
+          "confidence": 0.46
+        },
+        {
+          "start": 4.12,
+          "end": 4.26,
+          "text": "جائے",
+          "confidence": 0.46
+        },
+        {
+          "start": 4.26,
+          "end": 4.38,
+          "text": "گا",
+          "confidence": 0.93
+        }
+      ]
+    },
+    {
+      "start": 4.38,
+      "end": 5.48,
+      "text": "Sounds Amazing Right",
+      "words": [
+        {
+          "start": 4.38,
+          "end": 4.8,
+          "text": "Sounds",
+          "confidence": 0.05
+        },
+        {
+          "start": 4.8,
+          "end": 5.14,
+          "text": "Amazing",
+          "confidence": 0.32
+        },
+        {
+          "start": 5.14,
+          "end": 5.48,
+          "text": "Right",
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "start": 5.48,
+      "end": 6.6,
+      "text": "لیکن 1 ڈپڑлом ہے",
+      "words": [
+        {
+          "start": 5.48,
+          "end": 5.86,
+          "text": "لیکن",
+          "confidence": 0.64
+        },
+        {
+          "start": 5.86,
+          "end": 5.98,
+          "text": "1",
+          "confidence": 0.38
+        },
+        {
+          "start": 5.98,
+          "end": 6.38,
+          "text": "ڈپڑлом",
+          "confidence": 0.38
+        },
+        {
+          "start": 6.38,
+          "end": 6.6,
+          "text": "ہے",
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "start": 6.6,
+      "end": 8.56,
+      "text": "اس سے ہم سب ایکچلی رچ نہیں ہوں گے",
+      "words": [
+        {
+          "start": 6.6,
+          "end": 6.84,
+          "text": "اس",
+          "confidence": 0.63
+        },
+        {
+          "start": 6.84,
+          "end": 6.94,
+          "text": "سے",
+          "confidence": 0.94
+        },
+        {
+          "start": 6.94,
+          "end": 7.12,
+          "text": "ہم",
+          "confidence": 0.96
+        },
+        {
+          "start": 7.12,
+          "end": 7.3,
+          "text": "سب",
+          "confidence": 0.65
+        },
+        {
+          "start": 7.3,
+          "end": 7.78,
+          "text": "ایکچلی",
+          "confidence": 0.52
+        },
+        {
+          "start": 7.78,
+          "end": 8.04,
+          "text": "رچ",
+          "confidence": 0.61
+        },
+        {
+          "start": 8.04,
+          "end": 8.18,
+          "text": "نہیں",
+          "confidence": 0.77
+        },
+        {
+          "start": 8.18,
+          "end": 8.46,
+          "text": "ہوں",
+          "confidence": 0.8
+        },
+        {
+          "start": 8.46,
+          "end": 8.56,
+          "text": "گے",
+          "confidence": 0.94
+        }
+      ]
+    },
+    {
+      "start": 8.56,
+      "end": 9.48,
+      "text": "PROBLEM یہ ہے کہ",
+      "words": [
+        {
+          "start": 8.56,
+          "end": 9.06,
+          "text": "PROBLEM",
+          "confidence": 0.43
+        },
+        {
+          "start": 9.06,
+          "end": 9.2,
+          "text": "یہ",
+          "confidence": 0.58
+        },
+        {
+          "start": 9.2,
+          "end": 9.34,
+          "text": "ہے",
+          "confidence": 0.87
+        },
+        {
+          "start": 9.34,
+          "end": 9.48,
+          "text": "کہ",
+          "confidence": 0.93
+        }
+      ]
+    },
+    {
+      "start": 9.48,
+      "end": 10.46,
+      "text": "PESA PRINT کرنے سے",
+      "words": [
+        {
+          "start": 9.48,
+          "end": 9.84,
+          "text": "PESA",
+          "confidence": 0.37
+        },
+        {
+          "start": 9.84,
+          "end": 10.04,
+          "text": "PRINT",
+          "confidence": 0.41
+        },
+        {
+          "start": 10.04,
+          "end": 10.32,
+          "text": "کرنے",
+          "confidence": 0.62
+        },
+        {
+          "start": 10.32,
+          "end": 10.46,
+          "text": "سے",
+          "confidence": 0.98
+        }
+      ]
+    },
+    {
+      "start": 10.46,
+      "end": 11.52,
+      "text": "Country Actually Richer",
+      "words": [
+        {
+          "start": 10.46,
+          "end": 10.76,
+          "text": "Country",
+          "confidence": 0.14
+        },
+        {
+          "start": 10.76,
+          "end": 11.16,
+          "text": "Actually",
+          "confidence": 0.21
+        },
+        {
+          "start": 11.16,
+          "end": 11.52,
+          "text": "Richer",
+          "confidence": 0.58
+        }
+      ]
+    },
+    {
+      "start": 11.52,
+      "end": 11.96,
+      "text": "نہیں ہوتی",
+      "words": [
+        {
+          "start": 11.52,
+          "end": 11.66,
+          "text": "نہیں",
+          "confidence": 0.58
+        },
+        {
+          "start": 11.66,
+          "end": 11.96,
+          "text": "ہوتی",
+          "confidence": 0.72
+        }
+      ]
+    },
+    {
+      "start": 11.96,
+      "end": 12.76,
+      "text": "اگر سب کے پاس",
+      "words": [
+        {
+          "start": 11.96,
+          "end": 12.26,
+          "text": "اگر",
+          "confidence": 0.78
+        },
+        {
+          "start": 12.26,
+          "end": 12.46,
+          "text": "سب",
+          "confidence": 0.76
+        },
+        {
+          "start": 12.46,
+          "end": 12.6,
+          "text": "کے",
+          "confidence": 0.52
+        },
+        {
+          "start": 12.6,
+          "end": 12.76,
+          "text": "پاس",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "start": 12.76,
+      "end": 13.16,
+      "text": "SADNLY",
+      "words": [
+        {
+          "start": 12.76,
+          "end": 13.16,
+          "text": "SADNLY",
+          "confidence": 0.31
+        }
+      ]
+    },
+    {
+      "start": 13.16,
+      "end": 14.52,
+      "text": "بہت زادہ پیسا آگیا",
+      "words": [
+        {
+          "start": 13.16,
+          "end": 13.52,
+          "text": "بہت",
+          "confidence": 0.53
+        },
+        {
+          "start": 13.52,
+          "end": 13.78,
+          "text": "زادہ",
+          "confidence": 0.5
+        },
+        {
+          "start": 13.78,
+          "end": 14.12,
+          "text": "پیسا",
+          "confidence": 0.69
+        },
+        {
+          "start": 14.12,
+          "end": 14.52,
+          "text": "آگیا",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "start": 14.52,
+      "end": 15.26,
+      "text": "تو چیزے بھی",
+      "words": [
+        {
+          "start": 14.52,
+          "end": 14.74,
+          "text": "تو",
+          "confidence": 0.9
+        },
+        {
+          "start": 14.74,
+          "end": 15.14,
+          "text": "چیزے",
+          "confidence": 0.87
+        },
+        {
+          "start": 15.14,
+          "end": 15.26,
+          "text": "بھی",
+          "confidence": 0.96
+        }
+      ]
+    },
+    {
+      "start": 15.26,
+      "end": 16.9,
+      "text": "اتنی ہی فاس مہیں گی ہونے لگی",
+      "words": [
+        {
+          "start": 15.26,
+          "end": 15.66,
+          "text": "اتنی",
+          "confidence": 0.72
+        },
+        {
+          "start": 15.66,
+          "end": 15.74,
+          "text": "ہی",
+          "confidence": 0.79
+        },
+        {
+          "start": 15.74,
+          "end": 16.0,
+          "text": "فاس",
+          "confidence": 0.38
+        },
+        {
+          "start": 16.0,
+          "end": 16.24,
+          "text": "مہیں",
+          "confidence": 0.52
+        },
+        {
+          "start": 16.24,
+          "end": 16.4,
+          "text": "گی",
+          "confidence": 0.91
+        },
+        {
+          "start": 16.4,
+          "end": 16.66,
+          "text": "ہونے",
+          "confidence": 0.73
+        },
+        {
+          "start": 16.66,
+          "end": 16.9,
+          "text": "لگی",
+          "confidence": 0.82
+        }
+      ]
+    },
+    {
+      "start": 16.9,
+      "end": 17.3,
+      "text": "Imagine",
+      "words": [
+        {
+          "start": 16.9,
+          "end": 17.3,
+          "text": "Imagine",
+          "confidence": 0.14
+        }
+      ]
+    },
+    {
+      "start": 17.3,
+      "end": 19.14,
+      "text": "کرو کل سب کے بانک کاؤنٹ میں",
+      "words": [
+        {
+          "start": 17.3,
+          "end": 17.78,
+          "text": "کرو",
+          "confidence": 0.44
+        },
+        {
+          "start": 17.78,
+          "end": 18.04,
+          "text": "کل",
+          "confidence": 0.62
+        },
+        {
+          "start": 18.04,
+          "end": 18.3,
+          "text": "سب",
+          "confidence": 0.9
+        },
+        {
+          "start": 18.3,
+          "end": 18.4,
+          "text": "کے",
+          "confidence": 0.98
+        },
+        {
+          "start": 18.4,
+          "end": 18.72,
+          "text": "بانک",
+          "confidence": 0.97
+        },
+        {
+          "start": 18.72,
+          "end": 19.04,
+          "text": "کاؤنٹ",
+          "confidence": 0.98
+        },
+        {
+          "start": 19.04,
+          "end": 19.14,
+          "text": "میں",
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "start": 19.14,
+      "end": 20.04,
+      "text": "1 کرو رہا گیا",
+      "words": [
+        {
+          "start": 19.14,
+          "end": 19.32,
+          "text": "1",
+          "confidence": 0.98
+        },
+        {
+          "start": 19.32,
+          "end": 19.64,
+          "text": "کرو",
+          "confidence": 0.96
+        },
+        {
+          "start": 19.64,
+          "end": 19.9,
+          "text": "رہا",
+          "confidence": 0.94
+        },
+        {
+          "start": 19.9,
+          "end": 20.04,
+          "text": "گیا",
+          "confidence": 0.87
+        }
+      ]
+    },
+    {
+      "start": 20.04,
+      "end": 20.82,
+      "text": "آپ سوچوگے",
+      "words": [
+        {
+          "start": 20.04,
+          "end": 20.32,
+          "text": "آپ",
+          "confidence": 0.36
+        },
+        {
+          "start": 20.32,
+          "end": 20.82,
+          "text": "سوچوگے",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "start": 30.56,
+      "end": 32.14,
+      "text": "پیزا تین سو رپے کا کیوں رہے گا",
+      "words": [
+        {
+          "start": 30.56,
+          "end": 31.0,
+          "text": "پیزا",
+          "confidence": 0.35
+        },
+        {
+          "start": 31.0,
+          "end": 31.16,
+          "text": "تین",
+          "confidence": 0.4
+        },
+        {
+          "start": 31.16,
+          "end": 31.34,
+          "text": "سو",
+          "confidence": 0.14
+        },
+        {
+          "start": 31.34,
+          "end": 31.56,
+          "text": "رپے",
+          "confidence": 0.53
+        },
+        {
+          "start": 31.56,
+          "end": 31.62,
+          "text": "کا",
+          "confidence": 0.62
+        },
+        {
+          "start": 31.62,
+          "end": 31.84,
+          "text": "کیوں",
+          "confidence": 0.6
+        },
+        {
+          "start": 31.84,
+          "end": 32.06,
+          "text": "رہے",
+          "confidence": 0.95
+        },
+        {
+          "start": 32.06,
+          "end": 32.14,
+          "text": "گا",
+          "confidence": 0.83
+        }
+      ]
+    },
+    {
+      "start": 32.14,
+      "end": 33.9,
+      "text": "وہ تین ہزاروپے کا بھی ہو سکتے",
+      "words": [
+        {
+          "start": 32.14,
+          "end": 32.34,
+          "text": "وہ",
+          "confidence": 0.57
+        },
+        {
+          "start": 32.34,
+          "end": 32.6,
+          "text": "تین",
+          "confidence": 0.68
+        },
+        {
+          "start": 32.6,
+          "end": 33.1,
+          "text": "ہزاروپے",
+          "confidence": 0.75
+        },
+        {
+          "start": 33.1,
+          "end": 33.2,
+          "text": "کا",
+          "confidence": 0.84
+        },
+        {
+          "start": 33.2,
+          "end": 33.32,
+          "text": "بھی",
+          "confidence": 0.82
+        },
+        {
+          "start": 33.32,
+          "end": 33.46,
+          "text": "ہو",
+          "confidence": 0.91
+        },
+        {
+          "start": 33.46,
+          "end": 33.9,
+          "text": "سکتے",
+          "confidence": 0.67
+        }
+      ]
+    },
+    {
+      "start": 33.9,
+      "end": 34.4,
+      "text": "بسکلی",
+      "words": [
+        {
+          "start": 33.9,
+          "end": 34.4,
+          "text": "بسکلی",
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "start": 34.4,
+      "end": 35.18,
+      "text": "PESA کی value",
+      "words": [
+        {
+          "start": 34.4,
+          "end": 34.8,
+          "text": "PESA",
+          "confidence": 0.53
+        },
+        {
+          "start": 34.8,
+          "end": 34.92,
+          "text": "کی",
+          "confidence": 0.8
+        },
+        {
+          "start": 34.92,
+          "end": 35.18,
+          "text": "value",
+          "confidence": 0.43
+        }
+      ]
+    },
+    {
+      "start": 35.18,
+      "end": 36.0,
+      "text": "صرف اس بات سے",
+      "words": [
+        {
+          "start": 35.18,
+          "end": 35.48,
+          "text": "صرف",
+          "confidence": 0.63
+        },
+        {
+          "start": 35.48,
+          "end": 35.68,
+          "text": "اس",
+          "confidence": 0.84
+        },
+        {
+          "start": 35.68,
+          "end": 35.86,
+          "text": "بات",
+          "confidence": 0.73
+        },
+        {
+          "start": 35.86,
+          "end": 36.0,
+          "text": "سے",
+          "confidence": 0.96
+        }
+      ]
+    },
+    {
+      "start": 36.0,
+      "end": 36.22,
+      "text": "decide",
+      "words": [
+        {
+          "start": 36.0,
+          "end": 36.22,
+          "text": "decide",
+          "confidence": 0.42
+        }
+      ]
+    },
+    {
+      "start": 36.22,
+      "end": 36.76,
+      "text": "نہیں ہوتی",
+      "words": [
+        {
+          "start": 36.22,
+          "end": 36.48,
+          "text": "نہیں",
+          "confidence": 0.65
+        },
+        {
+          "start": 36.48,
+          "end": 36.76,
+          "text": "ہوتی",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "start": 36.76,
+      "end": 37.14,
+      "text": "کہ آپ کی",
+      "words": [
+        {
+          "start": 36.76,
+          "end": 36.88,
+          "text": "کہ",
+          "confidence": 0.56
+        },
+        {
+          "start": 36.88,
+          "end": 37.06,
+          "text": "آپ",
+          "confidence": 0.97
+        },
+        {
+          "start": 37.06,
+          "end": 37.14,
+          "text": "کی",
+          "confidence": 0.93
+        }
+      ]
+    },
+    {
+      "start": 37.14,
+      "end": 37.54,
+      "text": "ایک کانوں میں",
+      "words": [
+        {
+          "start": 37.14,
+          "end": 37.24,
+          "text": "ایک",
+          "confidence": 0.24
+        },
+        {
+          "start": 37.24,
+          "end": 37.44,
+          "text": "کانوں",
+          "confidence": 0.18
+        },
+        {
+          "start": 37.44,
+          "end": 37.54,
+          "text": "میں",
+          "confidence": 0.97
+        }
+      ]
+    },
+    {
+      "start": 37.54,
+      "end": 38.34,
+      "text": "کتھنے روپیس پڑے",
+      "words": [
+        {
+          "start": 37.54,
+          "end": 37.78,
+          "text": "کتھنے",
+          "confidence": 0.58
+        },
+        {
+          "start": 37.78,
+          "end": 38.1,
+          "text": "روپیس",
+          "confidence": 0.74
+        },
+        {
+          "start": 38.1,
+          "end": 38.34,
+          "text": "پڑے",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "start": 38.34,
+      "end": 39.0,
+      "text": "اگر 1",
+      "words": [
+        {
+          "start": 38.34,
+          "end": 38.78,
+          "text": "اگر",
+          "confidence": 0.79
+        },
+        {
+          "start": 38.78,
+          "end": 39.0,
+          "text": "1",
+          "confidence": 0.37
+        }
+      ]
+    },
+    {
+      "start": 39.0,
+      "end": 40.18,
+      "text": "کرو رہا سب کے پاس آگیا",
+      "words": [
+        {
+          "start": 39.0,
+          "end": 39.26,
+          "text": "کرو",
+          "confidence": 0.49
+        },
+        {
+          "start": 39.26,
+          "end": 39.42,
+          "text": "رہا",
+          "confidence": 0.1
+        },
+        {
+          "start": 39.42,
+          "end": 39.52,
+          "text": "سب",
+          "confidence": 0.48
+        },
+        {
+          "start": 39.52,
+          "end": 39.62,
+          "text": "کے",
+          "confidence": 0.89
+        },
+        {
+          "start": 39.62,
+          "end": 39.82,
+          "text": "پاس",
+          "confidence": 0.95
+        },
+        {
+          "start": 39.82,
+          "end": 40.18,
+          "text": "آگیا",
+          "confidence": 0.82
+        }
+      ]
+    },
+    {
+      "start": 40.18,
+      "end": 40.66,
+      "text": "تو 1",
+      "words": [
+        {
+          "start": 40.18,
+          "end": 40.46,
+          "text": "تو",
+          "confidence": 0.98
+        },
+        {
+          "start": 40.46,
+          "end": 40.66,
+          "text": "1",
+          "confidence": 0.98
+        }
+      ]
+    },
+    {
+      "start": 40.66,
+      "end": 41.06,
+      "text": "کرو رہا کی",
+      "words": [
+        {
+          "start": 40.66,
+          "end": 40.92,
+          "text": "کرو",
+          "confidence": 0.95
+        },
+        {
+          "start": 40.92,
+          "end": 41.06,
+          "text": "رہا",
+          "confidence": 0.7
+        },
+        {
+          "start": 41.0,
+          "end": 41.06,
+          "text": "کی",
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "start": 41.06,
+      "end": 41.48,
+      "text": "Purchasing",
+      "words": [
+        {
+          "start": 41.06,
+          "end": 41.48,
+          "text": "Purchasing",
+          "confidence": 0.39
+        }
+      ]
+    },
+    {
+      "start": 41.48,
+      "end": 41.9,
+      "text": "پاری",
+      "words": [
+        {
+          "start": 41.48,
+          "end": 41.9,
+          "text": "پاری",
+          "confidence": 0.61
+        }
+      ]
+    },
+    {
+      "start": 41.9,
+      "end": 42.58,
+      "text": "چینج ہو جائے گی",
+      "words": [
+        {
+          "start": 41.9,
+          "end": 42.2,
+          "text": "چینج",
+          "confidence": 0.66
+        },
+        {
+          "start": 42.2,
+          "end": 42.24,
+          "text": "ہو",
+          "confidence": 0.87
+        },
+        {
+          "start": 42.24,
+          "end": 42.48,
+          "text": "جائے",
+          "confidence": 0.83
+        },
+        {
+          "start": 42.48,
+          "end": 42.58,
+          "text": "گی",
+          "confidence": 0.71
+        }
+      ]
+    },
+    {
+      "start": 42.58,
+      "end": 42.76,
+      "text": "تو",
+      "words": [
+        {
+          "start": 42.58,
+          "end": 42.76,
+          "text": "تو",
+          "confidence": 0.29
+        }
+      ]
+    },
+    {
+      "start": 42.76,
+      "end": 43.14,
+      "text": "SIMPLE",
+      "words": [
+        {
+          "start": 42.76,
+          "end": 43.14,
+          "text": "SIMPLE",
+          "confidence": 0.27
+        }
+      ]
+    },
+    {
+      "start": 43.14,
+      "end": 43.7,
+      "text": "سی بات ہے",
+      "words": [
+        {
+          "start": 43.14,
+          "end": 43.3,
+          "text": "سی",
+          "confidence": 0.46
+        },
+        {
+          "start": 43.3,
+          "end": 43.5,
+          "text": "بات",
+          "confidence": 0.89
+        },
+        {
+          "start": 43.5,
+          "end": 43.7,
+          "text": "ہے",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "start": 43.7,
+      "end": 44.1,
+      "text": "Government",
+      "words": [
+        {
+          "start": 43.7,
+          "end": 44.1,
+          "text": "Government",
+          "confidence": 0.1
+        }
+      ]
+    },
+    {
+      "start": 44.1,
+      "end": 44.56,
+      "text": "کے پاس",
+      "words": [
+        {
+          "start": 44.1,
+          "end": 44.32,
+          "text": "کے",
+          "confidence": 0.72
+        },
+        {
+          "start": 44.32,
+          "end": 44.56,
+          "text": "پاس",
+          "confidence": 0.98
+        }
+      ]
+    },
+    {
+      "start": 44.56,
+      "end": 45.02,
+      "text": "Unlimited",
+      "words": [
+        {
+          "start": 44.56,
+          "end": 45.02,
+          "text": "Unlimited",
+          "confidence": 0.56
+        }
+      ]
+    },
+    {
+      "start": 45.02,
+      "end": 45.66,
+      "text": "Note Sprint",
+      "words": [
+        {
+          "start": 45.02,
+          "end": 45.34,
+          "text": "Note",
+          "confidence": 0.52
+        },
+        {
+          "start": 45.34,
+          "end": 45.66,
+          "text": "Sprint",
+          "confidence": 0.67
+        }
+      ]
+    },
+    {
+      "start": 45.66,
+      "end": 46.02,
+      "text": "کرنے کی",
+      "words": [
+        {
+          "start": 45.66,
+          "end": 45.94,
+          "text": "کرنے",
+          "confidence": 0.73
+        },
+        {
+          "start": 45.94,
+          "end": 46.02,
+          "text": "کی",
+          "confidence": 0.96
+        }
+      ]
+    },
+    {
+      "start": 46.02,
+      "end": 46.28,
+      "text": "Power",
+      "words": [
+        {
+          "start": 46.02,
+          "end": 46.28,
+          "text": "Power",
+          "confidence": 0.11
+        }
+      ]
+    },
+    {
+      "start": 46.28,
+      "end": 46.76,
+      "text": "ہو سری ہے",
+      "words": [
+        {
+          "start": 46.28,
+          "end": 46.5,
+          "text": "ہو",
+          "confidence": 0.14
+        },
+        {
+          "start": 46.5,
+          "end": 46.68,
+          "text": "سری",
+          "confidence": 0.59
+        },
+        {
+          "start": 46.68,
+          "end": 46.76,
+          "text": "ہے",
+          "confidence": 0.47
+        }
+      ]
+    },
+    {
+      "start": 46.76,
+      "end": 47.02,
+      "text": "لیکن",
+      "words": [
+        {
+          "start": 46.76,
+          "end": 47.02,
+          "text": "لیکن",
+          "confidence": 0.82
+        }
+      ]
+    },
+    {
+      "start": 47.02,
+      "end": 47.46,
+      "text": "Unlimited",
+      "words": [
+        {
+          "start": 47.02,
+          "end": 47.46,
+          "text": "Unlimited",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "start": 47.46,
+      "end": 47.78,
+      "text": "Well",
+      "words": [
+        {
+          "start": 47.46,
+          "end": 47.78,
+          "text": "Well",
+          "confidence": 0.2
+        }
+      ]
+    },
+    {
+      "start": 47.78,
+      "end": 48.12,
+      "text": "Create",
+      "words": [
+        {
+          "start": 47.78,
+          "end": 48.12,
+          "text": "Create",
+          "confidence": 0.03
+        }
+      ]
+    },
+    {
+      "start": 48.12,
+      "end": 48.6,
+      "text": "کرنے کی",
+      "words": [
+        {
+          "start": 48.12,
+          "end": 48.52,
+          "text": "کرنے",
+          "confidence": 0.97
+        },
+        {
+          "start": 48.52,
+          "end": 48.6,
+          "text": "کی",
+          "confidence": 0.94
+        }
+      ]
+    }
+  ]
+}

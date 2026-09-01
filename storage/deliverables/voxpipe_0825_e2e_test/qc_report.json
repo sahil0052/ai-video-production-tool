@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "score": 100,
+  "metrics": {
+    "resolution_1080x1920": true,
+    "audio_48khz": true,
+    "actual_duration": 51.87,
+    "target_duration": 51.8501875,
+    "measured_lufs": -14.1
+  },
+  "errors": []
+}

@@ -1,0 +1,1560 @@
+{
+  "text": " Market crash is a simple question, this money is not a cash that is not a cash that is left out of someone's account Market value is lost and most of the people here are confused You have 100 shares and every share is Rs. 1000 That means your total value is like, now if you get a price of Rs. 700, then your value is Rs. 70,000 Now the question is, where is that 30,000 shares? No one has taken 30,000 from your account Just on the price, your share was ready to buy and that price fell That's why when the market crash is called headlines, it has become a 10 lakh crore wipeout That means it has become a 10 lakh crore cash that is not a 10 lakh crore cash Mostly the total valuation of the market has fallen That's why the money in the market crash is not a habit It is just the value of assets And this difference in trading is very important If you want to understand such a simple language, then follow it",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 9.28,
+      "text": " Market crash is a simple question, this money is not a cash that is not a cash that is left out of someone's account",
+      "tokens": [
+        50364,
+        15596,
+        8252,
+        307,
+        257,
+        2199,
+        1168,
+        11,
+        341,
+        1460,
+        307,
+        406,
+        257,
+        6388,
+        300,
+        307,
+        406,
+        257,
+        6388,
+        300,
+        307,
+        1411,
+        484,
+        295,
+        1580,
+        311,
+        2696,
+        50840
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8976248379411369,
+      "compression_ratio": 1.6482412060301508,
+      "no_speech_prob": 0.11063310503959656,
+      "words": [
+        {
+          "word": " Market",
+          "start": 0.0,
+          "end": 0.32,
+          "probability": 0.26082533597946167
+        },
+        {
+          "word": " crash",
+          "start": 0.32,
+          "end": 0.64,
+          "probability": 0.7628682851791382
+        },
+        {
+          "word": " is",
+          "start": 0.64,
+          "end": 0.9,
+          "probability": 0.10947857052087784
+        },
+        {
+          "word": " a",
+          "start": 0.9,
+          "end": 2.96,
+          "probability": 0.35727617144584656
+        },
+        {
+          "word": " simple",
+          "start": 2.96,
+          "end": 3.38,
+          "probability": 0.7805581092834473
+        },
+        {
+          "word": " question,",
+          "start": 3.38,
+          "end": 3.94,
+          "probability": 0.8789066672325134
+        },
+        {
+          "word": " this",
+          "start": 4.18,
+          "end": 4.38,
+          "probability": 0.11099877953529358
+        },
+        {
+          "word": " money",
+          "start": 4.38,
+          "end": 4.68,
+          "probability": 0.4094712436199188
+        },
+        {
+          "word": " is",
+          "start": 4.68,
+          "end": 5.06,
+          "probability": 0.45169347524642944
+        },
+        {
+          "word": " not",
+          "start": 5.06,
+          "end": 5.16,
+          "probability": 0.08850276470184326
+        },
+        {
+          "word": " a",
+          "start": 5.16,
+          "end": 5.28,
+          "probability": 0.18076689541339874
+        },
+        {
+          "word": " cash",
+          "start": 5.28,
+          "end": 5.48,
+          "probability": 0.2632284462451935
+        },
+        {
+          "word": " that",
+          "start": 5.48,
+          "end": 7.72,
+          "probability": 0.07215393334627151
+        },
+        {
+          "word": " is",
+          "start": 7.72,
+          "end": 8.26,
+          "probability": 0.17987237870693207
+        },
+        {
+          "word": " not",
+          "start": 8.26,
+          "end": 8.26,
+          "probability": 0.1431346982717514
+        },
+        {
+          "word": " a",
+          "start": 8.26,
+          "end": 8.26,
+          "probability": 0.09522080421447754
+        },
+        {
+          "word": " cash",
+          "start": 8.26,
+          "end": 8.26,
+          "probability": 0.6241353750228882
+        },
+        {
+          "word": " that",
+          "start": 8.26,
+          "end": 8.26,
+          "probability": 0.35669225454330444
+        },
+        {
+          "word": " is",
+          "start": 8.26,
+          "end": 8.26,
+          "probability": 0.3998468518257141
+        },
+        {
+          "word": " left",
+          "start": 8.26,
+          "end": 8.26,
+          "probability": 0.1618831306695938
+        },
+        {
+          "word": " out",
+          "start": 8.26,
+          "end": 8.26,
+          "probability": 0.37846437096595764
+        },
+        {
+          "word": " of",
+          "start": 8.26,
+          "end": 8.26,
+          "probability": 0.4596867263317108
+        },
+        {
+          "word": " someone's",
+          "start": 8.26,
+          "end": 8.46,
+          "probability": 0.41649971902370453
+        },
+        {
+          "word": " account",
+          "start": 8.46,
+          "end": 9.28,
+          "probability": 0.8468545079231262
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 9.28,
+      "end": 13.22,
+      "text": " Market value is lost and most of the people here are confused",
+      "tokens": [
+        50840,
+        15596,
+        2158,
+        307,
+        2731,
+        293,
+        881,
+        295,
+        264,
+        561,
+        510,
+        366,
+        9019,
+        51028
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8976248379411369,
+      "compression_ratio": 1.6482412060301508,
+      "no_speech_prob": 0.11063310503959656,
+      "words": [
+        {
+          "word": " Market",
+          "start": 9.28,
+          "end": 9.82,
+          "probability": 0.30483248829841614
+        },
+        {
+          "word": " value",
+          "start": 9.82,
+          "end": 10.28,
+          "probability": 0.8983179330825806
+        },
+        {
+          "word": " is",
+          "start": 10.28,
+          "end": 10.38,
+          "probability": 0.45250943303108215
+        },
+        {
+          "word": " lost",
+          "start": 10.38,
+          "end": 10.64,
+          "probability": 0.21930712461471558
+        },
+        {
+          "word": " and",
+          "start": 10.64,
+          "end": 11.02,
+          "probability": 0.5995291471481323
+        },
+        {
+          "word": " most",
+          "start": 11.02,
+          "end": 11.62,
+          "probability": 0.41374051570892334
+        },
+        {
+          "word": " of",
+          "start": 11.62,
+          "end": 12.54,
+          "probability": 0.5562735199928284
+        },
+        {
+          "word": " the",
+          "start": 12.54,
+          "end": 12.54,
+          "probability": 0.6933723092079163
+        },
+        {
+          "word": " people",
+          "start": 12.54,
+          "end": 12.54,
+          "probability": 0.9142719507217407
+        },
+        {
+          "word": " here",
+          "start": 12.54,
+          "end": 12.54,
+          "probability": 0.6133749485015869
+        },
+        {
+          "word": " are",
+          "start": 12.54,
+          "end": 12.54,
+          "probability": 0.6611305475234985
+        },
+        {
+          "word": " confused",
+          "start": 12.54,
+          "end": 13.22,
+          "probability": 0.9298630356788635
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 13.22,
+      "end": 16.54,
+      "text": " You have 100 shares and every share is Rs. 1000",
+      "tokens": [
+        51028,
+        509,
+        362,
+        2319,
+        12182,
+        293,
+        633,
+        2073,
+        307,
+        21643,
+        13,
+        9714,
+        51198
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8976248379411369,
+      "compression_ratio": 1.6482412060301508,
+      "no_speech_prob": 0.11063310503959656,
+      "words": [
+        {
+          "word": " You",
+          "start": 13.22,
+          "end": 13.48,
+          "probability": 0.01696871593594551
+        },
+        {
+          "word": " have",
+          "start": 13.48,
+          "end": 14.1,
+          "probability": 0.23433756828308105
+        },
+        {
+          "word": " 100",
+          "start": 14.1,
+          "end": 14.36,
+          "probability": 0.7125541567802429
+        },
+        {
+          "word": " shares",
+          "start": 14.36,
+          "end": 14.8,
+          "probability": 0.9662266969680786
+        },
+        {
+          "word": " and",
+          "start": 14.8,
+          "end": 15.22,
+          "probability": 0.6830313205718994
+        },
+        {
+          "word": " every",
+          "start": 15.22,
+          "end": 15.46,
+          "probability": 0.25254136323928833
+        },
+        {
+          "word": " share",
+          "start": 15.46,
+          "end": 15.8,
+          "probability": 0.8526903986930847
+        },
+        {
+          "word": " is",
+          "start": 15.8,
+          "end": 15.88,
+          "probability": 0.7795796990394592
+        },
+        {
+          "word": " Rs.",
+          "start": 15.88,
+          "end": 15.88,
+          "probability": 0.14292196929454803
+        },
+        {
+          "word": " 1000",
+          "start": 16.5,
+          "end": 16.54,
+          "probability": 0.27347370982170105
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 16.54,
+      "end": 22.56,
+      "text": " That means your total value is like, now if you get a price of Rs. 700, then your value is Rs. 70,000",
+      "tokens": [
+        51198,
+        663,
+        1355,
+        428,
+        3217,
+        2158,
+        307,
+        411,
+        11,
+        586,
+        498,
+        291,
+        483,
+        257,
+        3218,
+        295,
+        21643,
+        13,
+        15204,
+        11,
+        550,
+        428,
+        2158,
+        307,
+        21643,
+        13,
+        5285,
+        11,
+        1360,
+        51488
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8976248379411369,
+      "compression_ratio": 1.6482412060301508,
+      "no_speech_prob": 0.11063310503959656,
+      "words": [
+        {
+          "word": " That",
+          "start": 16.54,
+          "end": 16.88,
+          "probability": 0.08413392305374146
+        },
+        {
+          "word": " means",
+          "start": 16.88,
+          "end": 16.96,
+          "probability": 0.7440296411514282
+        },
+        {
+          "word": " your",
+          "start": 16.96,
+          "end": 17.26,
+          "probability": 0.6786479949951172
+        },
+        {
+          "word": " total",
+          "start": 17.26,
+          "end": 17.48,
+          "probability": 0.9903779029846191
+        },
+        {
+          "word": " value",
+          "start": 17.48,
+          "end": 17.86,
+          "probability": 0.8938534259796143
+        },
+        {
+          "word": " is",
+          "start": 17.86,
+          "end": 17.94,
+          "probability": 0.9657226800918579
+        },
+        {
+          "word": " like,",
+          "start": 17.94,
+          "end": 18.08,
+          "probability": 0.14164254069328308
+        },
+        {
+          "word": " now",
+          "start": 18.38,
+          "end": 18.46,
+          "probability": 0.38717004656791687
+        },
+        {
+          "word": " if",
+          "start": 18.46,
+          "end": 18.88,
+          "probability": 0.18457278609275818
+        },
+        {
+          "word": " you",
+          "start": 18.88,
+          "end": 19.0,
+          "probability": 0.38074880838394165
+        },
+        {
+          "word": " get",
+          "start": 19.0,
+          "end": 19.04,
+          "probability": 0.2864820957183838
+        },
+        {
+          "word": " a",
+          "start": 19.04,
+          "end": 19.18,
+          "probability": 0.34949254989624023
+        },
+        {
+          "word": " price",
+          "start": 19.18,
+          "end": 19.2,
+          "probability": 0.6581650972366333
+        },
+        {
+          "word": " of",
+          "start": 19.2,
+          "end": 19.86,
+          "probability": 0.7820551991462708
+        },
+        {
+          "word": " Rs.",
+          "start": 19.86,
+          "end": 19.86,
+          "probability": 0.5785053968429565
+        },
+        {
+          "word": " 700,",
+          "start": 19.86,
+          "end": 19.86,
+          "probability": 0.7795207500457764
+        },
+        {
+          "word": " then",
+          "start": 20.16,
+          "end": 20.52,
+          "probability": 0.5855937600135803
+        },
+        {
+          "word": " your",
+          "start": 20.52,
+          "end": 20.82,
+          "probability": 0.8902467489242554
+        },
+        {
+          "word": " value",
+          "start": 20.82,
+          "end": 21.14,
+          "probability": 0.9344146251678467
+        },
+        {
+          "word": " is",
+          "start": 21.14,
+          "end": 21.24,
+          "probability": 0.5393813848495483
+        },
+        {
+          "word": " Rs.",
+          "start": 21.24,
+          "end": 21.24,
+          "probability": 0.5327016711235046
+        },
+        {
+          "word": " 70",
+          "start": 21.24,
+          "end": 21.72,
+          "probability": 0.43662381172180176
+        },
+        {
+          "word": ",000",
+          "start": 21.72,
+          "end": 22.56,
+          "probability": 0.9004798233509064
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2256,
+      "start": 22.56,
+      "end": 24.66,
+      "text": " Now the question is, where is that 30,000 shares?",
+      "tokens": [
+        50364,
+        823,
+        264,
+        1168,
+        307,
+        11,
+        689,
+        307,
+        300,
+        2217,
+        11,
+        1360,
+        12182,
+        30,
+        50494
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.588919169108073,
+      "compression_ratio": 1.883495145631068,
+      "no_speech_prob": 0.0022852772381156683,
+      "words": [
+        {
+          "word": " Now",
+          "start": 22.56,
+          "end": 22.62,
+          "probability": 0.4165322482585907
+        },
+        {
+          "word": " the",
+          "start": 22.62,
+          "end": 22.76,
+          "probability": 0.5739970803260803
+        },
+        {
+          "word": " question",
+          "start": 22.76,
+          "end": 23.02,
+          "probability": 0.9419845342636108
+        },
+        {
+          "word": " is,",
+          "start": 23.02,
+          "end": 23.4,
+          "probability": 0.8840699195861816
+        },
+        {
+          "word": " where",
+          "start": 23.58,
+          "end": 23.72,
+          "probability": 0.7040736079216003
+        },
+        {
+          "word": " is",
+          "start": 23.72,
+          "end": 23.72,
+          "probability": 0.48231497406959534
+        },
+        {
+          "word": " that",
+          "start": 23.72,
+          "end": 23.72,
+          "probability": 0.28039970993995667
+        },
+        {
+          "word": " 30",
+          "start": 23.72,
+          "end": 24.02,
+          "probability": 0.7005705833435059
+        },
+        {
+          "word": ",000",
+          "start": 24.02,
+          "end": 24.44,
+          "probability": 0.8560265600681305
+        },
+        {
+          "word": " shares?",
+          "start": 24.44,
+          "end": 24.66,
+          "probability": 0.009521416388452053
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2256,
+      "start": 25.08,
+      "end": 27.16,
+      "text": " No one has taken 30,000 from your account",
+      "tokens": [
+        50494,
+        883,
+        472,
+        575,
+        2726,
+        2217,
+        11,
+        1360,
+        490,
+        428,
+        2696,
+        50604
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.588919169108073,
+      "compression_ratio": 1.883495145631068,
+      "no_speech_prob": 0.0022852772381156683,
+      "words": [
+        {
+          "word": " No",
+          "start": 25.08,
+          "end": 25.28,
+          "probability": 0.3340882956981659
+        },
+        {
+          "word": " one",
+          "start": 25.28,
+          "end": 25.36,
+          "probability": 0.8297578692436218
+        },
+        {
+          "word": " has",
+          "start": 25.36,
+          "end": 25.54,
+          "probability": 0.4242632985115051
+        },
+        {
+          "word": " taken",
+          "start": 25.54,
+          "end": 25.82,
+          "probability": 0.07955681532621384
+        },
+        {
+          "word": " 30",
+          "start": 25.82,
+          "end": 26.24,
+          "probability": 0.4433823227882385
+        },
+        {
+          "word": ",000",
+          "start": 26.24,
+          "end": 27.14,
+          "probability": 0.9557414352893829
+        },
+        {
+          "word": " from",
+          "start": 27.14,
+          "end": 27.16,
+          "probability": 0.41487815976142883
+        },
+        {
+          "word": " your",
+          "start": 27.16,
+          "end": 27.16,
+          "probability": 0.7135086059570312
+        },
+        {
+          "word": " account",
+          "start": 27.16,
+          "end": 27.16,
+          "probability": 0.9297453761100769
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2256,
+      "start": 27.16,
+      "end": 30.74,
+      "text": " Just on the price, your share was ready to buy and that price fell",
+      "tokens": [
+        50604,
+        1449,
+        322,
+        264,
+        3218,
+        11,
+        428,
+        2073,
+        390,
+        1919,
+        281,
+        2256,
+        293,
+        300,
+        3218,
+        5696,
+        50790
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.588919169108073,
+      "compression_ratio": 1.883495145631068,
+      "no_speech_prob": 0.0022852772381156683,
+      "words": [
+        {
+          "word": " Just",
+          "start": 27.16,
+          "end": 27.52,
+          "probability": 0.011946488171815872
+        },
+        {
+          "word": " on",
+          "start": 27.52,
+          "end": 27.52,
+          "probability": 0.10693958401679993
+        },
+        {
+          "word": " the",
+          "start": 27.52,
+          "end": 27.84,
+          "probability": 0.8074673414230347
+        },
+        {
+          "word": " price,",
+          "start": 27.84,
+          "end": 28.12,
+          "probability": 0.8979470729827881
+        },
+        {
+          "word": " your",
+          "start": 28.34,
+          "end": 28.72,
+          "probability": 0.3093813359737396
+        },
+        {
+          "word": " share",
+          "start": 28.72,
+          "end": 29.02,
+          "probability": 0.8943667411804199
+        },
+        {
+          "word": " was",
+          "start": 29.02,
+          "end": 29.46,
+          "probability": 0.42619258165359497
+        },
+        {
+          "word": " ready",
+          "start": 29.46,
+          "end": 29.8,
+          "probability": 0.7651119828224182
+        },
+        {
+          "word": " to",
+          "start": 29.8,
+          "end": 30.22,
+          "probability": 0.7116883397102356
+        },
+        {
+          "word": " buy",
+          "start": 30.22,
+          "end": 30.22,
+          "probability": 0.5939159393310547
+        },
+        {
+          "word": " and",
+          "start": 30.22,
+          "end": 30.22,
+          "probability": 0.145169198513031
+        },
+        {
+          "word": " that",
+          "start": 30.22,
+          "end": 30.26,
+          "probability": 0.1988047957420349
+        },
+        {
+          "word": " price",
+          "start": 30.26,
+          "end": 30.54,
+          "probability": 0.6950040459632874
+        },
+        {
+          "word": " fell",
+          "start": 30.54,
+          "end": 30.74,
+          "probability": 0.5448728799819946
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2256,
+      "start": 30.74,
+      "end": 34.58,
+      "text": " That's why when the market crash is called headlines, it has become a 10 lakh crore wipeout",
+      "tokens": [
+        50790,
+        663,
+        311,
+        983,
+        562,
+        264,
+        2142,
+        8252,
+        307,
+        1219,
+        23867,
+        11,
+        309,
+        575,
+        1813,
+        257,
+        1266,
+        33314,
+        4848,
+        265,
+        14082,
+        346,
+        50986
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.588919169108073,
+      "compression_ratio": 1.883495145631068,
+      "no_speech_prob": 0.0022852772381156683,
+      "words": [
+        {
+          "word": " That's",
+          "start": 30.74,
+          "end": 31.26,
+          "probability": 0.6496341526508331
+        },
+        {
+          "word": " why",
+          "start": 31.26,
+          "end": 31.42,
+          "probability": 0.9387004971504211
+        },
+        {
+          "word": " when",
+          "start": 31.42,
+          "end": 31.58,
+          "probability": 0.4947884678840637
+        },
+        {
+          "word": " the",
+          "start": 31.58,
+          "end": 31.58,
+          "probability": 0.4644022285938263
+        },
+        {
+          "word": " market",
+          "start": 31.58,
+          "end": 31.76,
+          "probability": 0.7906212210655212
+        },
+        {
+          "word": " crash",
+          "start": 31.76,
+          "end": 32.14,
+          "probability": 0.9243350625038147
+        },
+        {
+          "word": " is",
+          "start": 32.14,
+          "end": 32.26,
+          "probability": 0.08548657596111298
+        },
+        {
+          "word": " called",
+          "start": 32.26,
+          "end": 33.06,
+          "probability": 0.325092613697052
+        },
+        {
+          "word": " headlines,",
+          "start": 33.06,
+          "end": 33.24,
+          "probability": 0.4272874891757965
+        },
+        {
+          "word": " it",
+          "start": 33.3,
+          "end": 33.52,
+          "probability": 0.2358933687210083
+        },
+        {
+          "word": " has",
+          "start": 33.52,
+          "end": 33.52,
+          "probability": 0.22852012515068054
+        },
+        {
+          "word": " become",
+          "start": 33.52,
+          "end": 33.52,
+          "probability": 0.709452211856842
+        },
+        {
+          "word": " a",
+          "start": 33.52,
+          "end": 33.52,
+          "probability": 0.626417875289917
+        },
+        {
+          "word": " 10",
+          "start": 33.52,
+          "end": 33.54,
+          "probability": 0.6466901898384094
+        },
+        {
+          "word": " lakh",
+          "start": 33.54,
+          "end": 33.82,
+          "probability": 0.6966524124145508
+        },
+        {
+          "word": " crore",
+          "start": 33.82,
+          "end": 34.14,
+          "probability": 0.913507729768753
+        },
+        {
+          "word": " wipeout",
+          "start": 34.14,
+          "end": 34.58,
+          "probability": 0.6809578835964203
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2256,
+      "start": 34.58,
+      "end": 37.96,
+      "text": " That means it has become a 10 lakh crore cash that is not a 10 lakh crore cash",
+      "tokens": [
+        50986,
+        663,
+        1355,
+        309,
+        575,
+        1813,
+        257,
+        1266,
+        33314,
+        4848,
+        265,
+        6388,
+        300,
+        307,
+        406,
+        257,
+        1266,
+        33314,
+        4848,
+        265,
+        6388,
+        51118
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.588919169108073,
+      "compression_ratio": 1.883495145631068,
+      "no_speech_prob": 0.0022852772381156683,
+      "words": [
+        {
+          "word": " That",
+          "start": 34.58,
+          "end": 35.08,
+          "probability": 0.09471633285284042
+        },
+        {
+          "word": " means",
+          "start": 35.08,
+          "end": 35.42,
+          "probability": 0.9183845520019531
+        },
+        {
+          "word": " it",
+          "start": 35.42,
+          "end": 35.68,
+          "probability": 0.31261876225471497
+        },
+        {
+          "word": " has",
+          "start": 35.68,
+          "end": 35.82,
+          "probability": 0.5647264719009399
+        },
+        {
+          "word": " become",
+          "start": 35.82,
+          "end": 35.82,
+          "probability": 0.5287898778915405
+        },
+        {
+          "word": " a",
+          "start": 35.82,
+          "end": 35.9,
+          "probability": 0.9199462532997131
+        },
+        {
+          "word": " 10",
+          "start": 35.9,
+          "end": 36.1,
+          "probability": 0.9659364819526672
+        },
+        {
+          "word": " lakh",
+          "start": 36.1,
+          "end": 36.4,
+          "probability": 0.9675679206848145
+        },
+        {
+          "word": " crore",
+          "start": 36.4,
+          "end": 36.68,
+          "probability": 0.9745705127716064
+        },
+        {
+          "word": " cash",
+          "start": 36.68,
+          "end": 36.9,
+          "probability": 0.8620362281799316
+        },
+        {
+          "word": " that",
+          "start": 36.9,
+          "end": 37.32,
+          "probability": 0.005815377924591303
+        },
+        {
+          "word": " is",
+          "start": 37.32,
+          "end": 37.9,
+          "probability": 0.11133015900850296
+        },
+        {
+          "word": " not",
+          "start": 37.9,
+          "end": 37.9,
+          "probability": 0.05852114409208298
+        },
+        {
+          "word": " a",
+          "start": 37.9,
+          "end": 37.9,
+          "probability": 0.1660379022359848
+        },
+        {
+          "word": " 10",
+          "start": 37.9,
+          "end": 37.9,
+          "probability": 0.8931289315223694
+        },
+        {
+          "word": " lakh",
+          "start": 37.9,
+          "end": 37.96,
+          "probability": 0.9731403589248657
+        },
+        {
+          "word": " crore",
+          "start": 37.96,
+          "end": 37.96,
+          "probability": 0.6064954549074173
+        },
+        {
+          "word": " cash",
+          "start": 37.96,
+          "end": 37.96,
+          "probability": 0.8969102501869202
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2256,
+      "start": 37.96,
+      "end": 39.58,
+      "text": " Mostly the total valuation of the market has fallen",
+      "tokens": [
+        51118,
+        29035,
+        264,
+        3217,
+        38546,
+        295,
+        264,
+        2142,
+        575,
+        11547,
+        51228
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.588919169108073,
+      "compression_ratio": 1.883495145631068,
+      "no_speech_prob": 0.0022852772381156683,
+      "words": [
+        {
+          "word": " Mostly",
+          "start": 37.96,
+          "end": 37.96,
+          "probability": 0.0008830766892060637
+        },
+        {
+          "word": " the",
+          "start": 37.96,
+          "end": 38.12,
+          "probability": 0.6148852109909058
+        },
+        {
+          "word": " total",
+          "start": 38.12,
+          "end": 38.64,
+          "probability": 0.8176342844963074
+        },
+        {
+          "word": " valuation",
+          "start": 38.64,
+          "end": 39.22,
+          "probability": 0.9065932631492615
+        },
+        {
+          "word": " of",
+          "start": 39.22,
+          "end": 39.44,
+          "probability": 0.575661301612854
+        },
+        {
+          "word": " the",
+          "start": 39.44,
+          "end": 39.44,
+          "probability": 0.9616179466247559
+        },
+        {
+          "word": " market",
+          "start": 39.44,
+          "end": 39.44,
+          "probability": 0.9844004511833191
+        },
+        {
+          "word": " has",
+          "start": 39.44,
+          "end": 39.44,
+          "probability": 0.46751096844673157
+        },
+        {
+          "word": " fallen",
+          "start": 39.44,
+          "end": 39.58,
+          "probability": 0.5638217926025391
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2256,
+      "start": 39.58,
+      "end": 41.84,
+      "text": " That's why the money in the market crash is not a habit",
+      "tokens": [
+        51228,
+        663,
+        311,
+        983,
+        264,
+        1460,
+        294,
+        264,
+        2142,
+        8252,
+        307,
+        406,
+        257,
+        7164,
+        51358
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.588919169108073,
+      "compression_ratio": 1.883495145631068,
+      "no_speech_prob": 0.0022852772381156683,
+      "words": [
+        {
+          "word": " That's",
+          "start": 39.58,
+          "end": 39.98,
+          "probability": 0.5293138921260834
+        },
+        {
+          "word": " why",
+          "start": 39.98,
+          "end": 40.1,
+          "probability": 0.9646299481391907
+        },
+        {
+          "word": " the",
+          "start": 40.1,
+          "end": 40.22,
+          "probability": 0.4686781167984009
+        },
+        {
+          "word": " money",
+          "start": 40.22,
+          "end": 40.22,
+          "probability": 0.418676495552063
+        },
+        {
+          "word": " in",
+          "start": 40.22,
+          "end": 40.22,
+          "probability": 0.4300938844680786
+        },
+        {
+          "word": " the",
+          "start": 40.22,
+          "end": 40.38,
+          "probability": 0.8633090853691101
+        },
+        {
+          "word": " market",
+          "start": 40.38,
+          "end": 40.38,
+          "probability": 0.9329227209091187
+        },
+        {
+          "word": " crash",
+          "start": 40.38,
+          "end": 40.76,
+          "probability": 0.9631884694099426
+        },
+        {
+          "word": " is",
+          "start": 40.76,
+          "end": 40.9,
+          "probability": 0.23630185425281525
+        },
+        {
+          "word": " not",
+          "start": 40.9,
+          "end": 41.56,
+          "probability": 0.7737634181976318
+        },
+        {
+          "word": " a",
+          "start": 41.56,
+          "end": 41.68,
+          "probability": 0.07870449870824814
+        },
+        {
+          "word": " habit",
+          "start": 41.68,
+          "end": 41.84,
+          "probability": 0.011709744110703468
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2256,
+      "start": 42.44,
+      "end": 44.0,
+      "text": " It is just the value of assets",
+      "tokens": [
+        51358,
+        467,
+        307,
+        445,
+        264,
+        2158,
+        295,
+        9769,
+        51458
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.588919169108073,
+      "compression_ratio": 1.883495145631068,
+      "no_speech_prob": 0.0022852772381156683,
+      "words": [
+        {
+          "word": " It",
+          "start": 42.19,
+          "end": 42.46,
+          "probability": 0.10669557005167007
+        },
+        {
+          "word": " is",
+          "start": 42.46,
+          "end": 42.6,
+          "probability": 0.37633398175239563
+        },
+        {
+          "word": " just",
+          "start": 42.6,
+          "end": 42.6,
+          "probability": 0.21449041366577148
+        },
+        {
+          "word": " the",
+          "start": 42.6,
+          "end": 43.1,
+          "probability": 0.5975597500801086
+        },
+        {
+          "word": " value",
+          "start": 43.1,
+          "end": 43.3,
+          "probability": 0.5159431099891663
+        },
+        {
+          "word": " of",
+          "start": 43.3,
+          "end": 44.0,
+          "probability": 0.9788479208946228
+        },
+        {
+          "word": " assets",
+          "start": 44.0,
+          "end": 44.0,
+          "probability": 0.8678787350654602
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 2256,
+      "start": 44.0,
+      "end": 46.58,
+      "text": " And this difference in trading is very important",
+      "tokens": [
+        51458,
+        400,
+        341,
+        2649,
+        294,
+        9529,
+        307,
+        588,
+        1021,
+        51578
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.588919169108073,
+      "compression_ratio": 1.883495145631068,
+      "no_speech_prob": 0.0022852772381156683,
+      "words": [
+        {
+          "word": " And",
+          "start": 44.0,
+          "end": 44.5,
+          "probability": 0.4489578306674957
+        },
+        {
+          "word": " this",
+          "start": 44.5,
+          "end": 45.08,
+          "probability": 0.3344171345233917
+        },
+        {
+          "word": " difference",
+          "start": 45.08,
+          "end": 45.4,
+          "probability": 0.7297123074531555
+        },
+        {
+          "word": " in",
+          "start": 45.4,
+          "end": 45.68,
+          "probability": 0.5598558783531189
+        },
+        {
+          "word": " trading",
+          "start": 45.68,
+          "end": 45.68,
+          "probability": 0.9024735689163208
+        },
+        {
+          "word": " is",
+          "start": 45.68,
+          "end": 45.88,
+          "probability": 0.9232968688011169
+        },
+        {
+          "word": " very",
+          "start": 45.88,
+          "end": 46.08,
+          "probability": 0.7767408490180969
+        },
+        {
+          "word": " important",
+          "start": 46.08,
+          "end": 46.58,
+          "probability": 0.9954166412353516
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 2256,
+      "start": 46.58,
+      "end": 49.68,
+      "text": " If you want to understand such a simple language, then follow it",
+      "tokens": [
+        51578,
+        759,
+        291,
+        528,
+        281,
+        1223,
+        1270,
+        257,
+        2199,
+        2856,
+        11,
+        550,
+        1524,
+        309,
+        51724
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.588919169108073,
+      "compression_ratio": 1.883495145631068,
+      "no_speech_prob": 0.0022852772381156683,
+      "words": [
+        {
+          "word": " If",
+          "start": 46.58,
+          "end": 46.84,
+          "probability": 0.042645737528800964
+        },
+        {
+          "word": " you",
+          "start": 46.84,
+          "end": 47.06,
+          "probability": 0.8999886512756348
+        },
+        {
+          "word": " want",
+          "start": 47.06,
+          "end": 47.06,
+          "probability": 0.39592286944389343
+        },
+        {
+          "word": " to",
+          "start": 47.06,
+          "end": 47.06,
+          "probability": 0.9938350915908813
+        },
+        {
+          "word": " understand",
+          "start": 47.06,
+          "end": 47.06,
+          "probability": 0.8433722257614136
+        },
+        {
+          "word": " such",
+          "start": 47.06,
+          "end": 47.06,
+          "probability": 0.24953965842723846
+        },
+        {
+          "word": " a",
+          "start": 47.06,
+          "end": 47.18,
+          "probability": 0.7348532676696777
+        },
+        {
+          "word": " simple",
+          "start": 47.18,
+          "end": 47.74,
+          "probability": 0.8358643651008606
+        },
+        {
+          "word": " language,",
+          "start": 47.74,
+          "end": 48.12,
+          "probability": 0.8896021842956543
+        },
+        {
+          "word": " then",
+          "start": 48.78,
+          "end": 49.0,
+          "probability": 0.5950345396995544
+        },
+        {
+          "word": " follow",
+          "start": 49.0,
+          "end": 49.26,
+          "probability": 0.9462260603904724
+        },
+        {
+          "word": " it",
+          "start": 49.26,
+          "end": 49.68,
+          "probability": 0.7654333114624023
+        }
+      ]
+    }
+  ],
+  "language": "hi"
+}

@@ -1,0 +1,1126 @@
+{
+  "duration": 43.84,
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "Why do smart people make stupid trading decisions?",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.22,
+          "text": "Why",
+          "confidence": 0.87
+        },
+        {
+          "start": 0.22,
+          "end": 0.34,
+          "text": "do",
+          "confidence": 0.95
+        },
+        {
+          "start": 0.34,
+          "end": 0.58,
+          "text": "smart",
+          "confidence": 0.99
+        },
+        {
+          "start": 0.58,
+          "end": 0.92,
+          "text": "people",
+          "confidence": 1.0
+        },
+        {
+          "start": 0.92,
+          "end": 1.12,
+          "text": "make",
+          "confidence": 0.98
+        },
+        {
+          "start": 1.12,
+          "end": 1.46,
+          "text": "stupid",
+          "confidence": 1.0
+        },
+        {
+          "start": 1.46,
+          "end": 1.8,
+          "text": "trading",
+          "confidence": 0.99
+        },
+        {
+          "start": 1.8,
+          "end": 2.3,
+          "text": "decisions?",
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "start": 2.52,
+      "end": 7.02,
+      "text": "An intelligent trader becomes more confident after the profit and losses become more emotionally.",
+      "words": [
+        {
+          "start": 2.52,
+          "end": 2.68,
+          "text": "An",
+          "confidence": 0.34
+        },
+        {
+          "start": 2.68,
+          "end": 3.04,
+          "text": "intelligent",
+          "confidence": 0.99
+        },
+        {
+          "start": 3.04,
+          "end": 3.4,
+          "text": "trader",
+          "confidence": 1.0
+        },
+        {
+          "start": 3.4,
+          "end": 3.62,
+          "text": "becomes",
+          "confidence": 0.17
+        },
+        {
+          "start": 3.62,
+          "end": 3.72,
+          "text": "more",
+          "confidence": 0.19
+        },
+        {
+          "start": 3.72,
+          "end": 5.02,
+          "text": "confident",
+          "confidence": 0.41
+        },
+        {
+          "start": 5.02,
+          "end": 5.32,
+          "text": "after",
+          "confidence": 0.34
+        },
+        {
+          "start": 5.32,
+          "end": 5.36,
+          "text": "the",
+          "confidence": 0.3
+        },
+        {
+          "start": 5.36,
+          "end": 5.4,
+          "text": "profit",
+          "confidence": 0.77
+        },
+        {
+          "start": 5.32,
+          "end": 5.34,
+          "text": "and",
+          "confidence": 0.5
+        },
+        {
+          "start": 5.34,
+          "end": 5.7,
+          "text": "losses",
+          "confidence": 0.04
+        },
+        {
+          "start": 5.7,
+          "end": 6.06,
+          "text": "become",
+          "confidence": 0.43
+        },
+        {
+          "start": 6.06,
+          "end": 6.38,
+          "text": "more",
+          "confidence": 0.45
+        },
+        {
+          "start": 6.38,
+          "end": 7.02,
+          "text": "emotionally.",
+          "confidence": 0.29
+        }
+      ]
+    },
+    {
+      "start": 7.78,
+      "end": 9.74,
+      "text": "If you go to a team trade, then you say,",
+      "words": [
+        {
+          "start": 7.78,
+          "end": 7.88,
+          "text": "If",
+          "confidence": 0.33
+        },
+        {
+          "start": 7.88,
+          "end": 7.92,
+          "text": "you",
+          "confidence": 0.27
+        },
+        {
+          "start": 7.92,
+          "end": 7.96,
+          "text": "go",
+          "confidence": 0.48
+        },
+        {
+          "start": 7.96,
+          "end": 7.999999999999999,
+          "text": "to",
+          "confidence": 0.41
+        },
+        {
+          "start": 7.999999999999999,
+          "end": 8.04,
+          "text": "a",
+          "confidence": 0.68
+        },
+        {
+          "start": 7.92,
+          "end": 7.94,
+          "text": "team",
+          "confidence": 0.1
+        },
+        {
+          "start": 7.94,
+          "end": 8.16,
+          "text": "trade,",
+          "confidence": 0.29
+        },
+        {
+          "start": 8.98,
+          "end": 9.16,
+          "text": "then",
+          "confidence": 0.36
+        },
+        {
+          "start": 9.16,
+          "end": 9.38,
+          "text": "you",
+          "confidence": 0.14
+        },
+        {
+          "start": 9.38,
+          "end": 9.74,
+          "text": "say,",
+          "confidence": 0.13
+        }
+      ]
+    },
+    {
+      "start": 9.74,
+      "end": 11.22,
+      "text": "My strategy is perfect.",
+      "words": [
+        {
+          "start": 9.74,
+          "end": 10.22,
+          "text": "My",
+          "confidence": 0.02
+        },
+        {
+          "start": 10.22,
+          "end": 10.7,
+          "text": "strategy",
+          "confidence": 0.99
+        },
+        {
+          "start": 10.7,
+          "end": 10.82,
+          "text": "is",
+          "confidence": 0.95
+        },
+        {
+          "start": 10.82,
+          "end": 11.22,
+          "text": "perfect.",
+          "confidence": 0.92
+        }
+      ]
+    },
+    {
+      "start": 11.48,
+      "end": 13.8,
+      "text": "Confidence increases and the trader makes a reasonable position.",
+      "words": [
+        {
+          "start": 11.48,
+          "end": 11.88,
+          "text": "Confidence",
+          "confidence": 0.76
+        },
+        {
+          "start": 11.88,
+          "end": 12.26,
+          "text": "increases",
+          "confidence": 0.62
+        },
+        {
+          "start": 12.26,
+          "end": 12.56,
+          "text": "and",
+          "confidence": 0.52
+        },
+        {
+          "start": 12.56,
+          "end": 12.74,
+          "text": "the",
+          "confidence": 0.12
+        },
+        {
+          "start": 12.74,
+          "end": 12.92,
+          "text": "trader",
+          "confidence": 0.06
+        },
+        {
+          "start": 12.92,
+          "end": 13.06,
+          "text": "makes",
+          "confidence": 0.18
+        },
+        {
+          "start": 13.06,
+          "end": 13.28,
+          "text": "a",
+          "confidence": 0.39
+        },
+        {
+          "start": 13.28,
+          "end": 13.36,
+          "text": "reasonable",
+          "confidence": 0.11
+        },
+        {
+          "start": 13.28,
+          "end": 13.8,
+          "text": "position.",
+          "confidence": 0.43
+        }
+      ]
+    },
+    {
+      "start": 14.58,
+      "end": 17.14,
+      "text": "Because there is no problem in trading, it is not because of the emotions.",
+      "words": [
+        {
+          "start": 14.58,
+          "end": 14.94,
+          "text": "Because",
+          "confidence": 0.76
+        },
+        {
+          "start": 14.94,
+          "end": 15.32,
+          "text": "there",
+          "confidence": 0.4
+        },
+        {
+          "start": 15.32,
+          "end": 15.56,
+          "text": "is",
+          "confidence": 0.52
+        },
+        {
+          "start": 15.56,
+          "end": 15.64,
+          "text": "no",
+          "confidence": 0.89
+        },
+        {
+          "start": 15.64,
+          "end": 15.8,
+          "text": "problem",
+          "confidence": 0.65
+        },
+        {
+          "start": 15.8,
+          "end": 16.06,
+          "text": "in",
+          "confidence": 0.81
+        },
+        {
+          "start": 16.06,
+          "end": 16.139999999999997,
+          "text": "trading,",
+          "confidence": 0.84
+        },
+        {
+          "start": 16.06,
+          "end": 16.78,
+          "text": "it",
+          "confidence": 0.11
+        },
+        {
+          "start": 16.78,
+          "end": 16.82,
+          "text": "is",
+          "confidence": 0.44
+        },
+        {
+          "start": 16.82,
+          "end": 16.86,
+          "text": "not",
+          "confidence": 0.12
+        },
+        {
+          "start": 16.86,
+          "end": 16.900000000000002,
+          "text": "because",
+          "confidence": 0.27
+        },
+        {
+          "start": 16.900000000000002,
+          "end": 16.94,
+          "text": "of",
+          "confidence": 0.53
+        },
+        {
+          "start": 16.78,
+          "end": 16.88,
+          "text": "the",
+          "confidence": 0.49
+        },
+        {
+          "start": 16.88,
+          "end": 17.14,
+          "text": "emotions.",
+          "confidence": 0.44
+        }
+      ]
+    },
+    {
+      "start": 17.9,
+      "end": 21.92,
+      "text": "When money is real, it feels like it is more fair and greed to react to it.",
+      "words": [
+        {
+          "start": 17.9,
+          "end": 18.0,
+          "text": "When",
+          "confidence": 0.82
+        },
+        {
+          "start": 18.0,
+          "end": 18.34,
+          "text": "money",
+          "confidence": 0.29
+        },
+        {
+          "start": 18.34,
+          "end": 18.44,
+          "text": "is",
+          "confidence": 0.54
+        },
+        {
+          "start": 18.44,
+          "end": 18.6,
+          "text": "real,",
+          "confidence": 0.92
+        },
+        {
+          "start": 18.96,
+          "end": 19.7,
+          "text": "it",
+          "confidence": 0.38
+        },
+        {
+          "start": 19.7,
+          "end": 19.76,
+          "text": "feels",
+          "confidence": 0.23
+        },
+        {
+          "start": 19.76,
+          "end": 19.84,
+          "text": "like",
+          "confidence": 0.47
+        },
+        {
+          "start": 19.76,
+          "end": 19.86,
+          "text": "it",
+          "confidence": 0.07
+        },
+        {
+          "start": 19.86,
+          "end": 19.939999999999998,
+          "text": "is",
+          "confidence": 0.42
+        },
+        {
+          "start": 19.939999999999998,
+          "end": 20.02,
+          "text": "more",
+          "confidence": 0.23
+        },
+        {
+          "start": 19.86,
+          "end": 20.28,
+          "text": "fair",
+          "confidence": 0.15
+        },
+        {
+          "start": 20.28,
+          "end": 20.56,
+          "text": "and",
+          "confidence": 0.51
+        },
+        {
+          "start": 20.56,
+          "end": 20.8,
+          "text": "greed",
+          "confidence": 0.1
+        },
+        {
+          "start": 20.8,
+          "end": 21.2,
+          "text": "to",
+          "confidence": 0.45
+        },
+        {
+          "start": 21.2,
+          "end": 21.42,
+          "text": "react",
+          "confidence": 0.87
+        },
+        {
+          "start": 21.42,
+          "end": 21.92,
+          "text": "to",
+          "confidence": 0.66
+        },
+        {
+          "start": 21.860000000000003,
+          "end": 21.92,
+          "text": "it.",
+          "confidence": 0.82
+        }
+      ]
+    },
+    {
+      "start": 22.1,
+      "end": 23.08,
+      "text": "Then a big loss comes.",
+      "words": [
+        {
+          "start": 22.1,
+          "end": 22.32,
+          "text": "Then",
+          "confidence": 0.43
+        },
+        {
+          "start": 22.32,
+          "end": 22.48,
+          "text": "a",
+          "confidence": 0.57
+        },
+        {
+          "start": 22.48,
+          "end": 22.62,
+          "text": "big",
+          "confidence": 0.66
+        },
+        {
+          "start": 22.62,
+          "end": 22.9,
+          "text": "loss",
+          "confidence": 0.94
+        },
+        {
+          "start": 22.9,
+          "end": 23.08,
+          "text": "comes.",
+          "confidence": 0.77
+        }
+      ]
+    },
+    {
+      "start": 23.32,
+      "end": 24.62,
+      "text": "Now, not only to understand the focus of the trader,",
+      "words": [
+        {
+          "start": 23.32,
+          "end": 23.42,
+          "text": "Now,",
+          "confidence": 0.44
+        },
+        {
+          "start": 23.6,
+          "end": 23.8,
+          "text": "not",
+          "confidence": 0.29
+        },
+        {
+          "start": 23.8,
+          "end": 23.853333333333335,
+          "text": "only",
+          "confidence": 0.13
+        },
+        {
+          "start": 23.853333333333335,
+          "end": 23.906666666666666,
+          "text": "to",
+          "confidence": 0.37
+        },
+        {
+          "start": 23.906666666666666,
+          "end": 23.96,
+          "text": "understand",
+          "confidence": 0.58
+        },
+        {
+          "start": 23.8,
+          "end": 23.96,
+          "text": "the",
+          "confidence": 0.85
+        },
+        {
+          "start": 23.96,
+          "end": 24.18,
+          "text": "focus",
+          "confidence": 0.97
+        },
+        {
+          "start": 24.18,
+          "end": 24.62,
+          "text": "of",
+          "confidence": 0.9
+        },
+        {
+          "start": 24.5,
+          "end": 24.560000000000002,
+          "text": "the",
+          "confidence": 0.63
+        },
+        {
+          "start": 24.560000000000002,
+          "end": 24.62,
+          "text": "trader,",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "start": 25.44,
+      "end": 26.94,
+      "text": "it is just to recover the loss.",
+      "words": [
+        {
+          "start": 25.44,
+          "end": 25.72,
+          "text": "it",
+          "confidence": 0.48
+        },
+        {
+          "start": 25.72,
+          "end": 25.8,
+          "text": "is",
+          "confidence": 0.34
+        },
+        {
+          "start": 25.8,
+          "end": 25.82,
+          "text": "just",
+          "confidence": 0.31
+        },
+        {
+          "start": 25.82,
+          "end": 25.9,
+          "text": "to",
+          "confidence": 0.69
+        },
+        {
+          "start": 25.9,
+          "end": 26.38,
+          "text": "recover",
+          "confidence": 0.94
+        },
+        {
+          "start": 26.38,
+          "end": 26.94,
+          "text": "the",
+          "confidence": 0.62
+        },
+        {
+          "start": 26.880000000000003,
+          "end": 26.94,
+          "text": "loss.",
+          "confidence": 0.62
+        }
+      ]
+    },
+    {
+      "start": 27.18,
+      "end": 28.6,
+      "text": "And this is where the revenge trading starts.",
+      "words": [
+        {
+          "start": 27.18,
+          "end": 27.36,
+          "text": "And",
+          "confidence": 0.85
+        },
+        {
+          "start": 27.36,
+          "end": 27.5,
+          "text": "this",
+          "confidence": 0.25
+        },
+        {
+          "start": 27.5,
+          "end": 27.64,
+          "text": "is",
+          "confidence": 0.83
+        },
+        {
+          "start": 27.64,
+          "end": 27.76,
+          "text": "where",
+          "confidence": 0.59
+        },
+        {
+          "start": 27.76,
+          "end": 27.84,
+          "text": "the",
+          "confidence": 0.54
+        },
+        {
+          "start": 27.84,
+          "end": 28.02,
+          "text": "revenge",
+          "confidence": 0.4
+        },
+        {
+          "start": 28.02,
+          "end": 28.32,
+          "text": "trading",
+          "confidence": 0.88
+        },
+        {
+          "start": 28.32,
+          "end": 28.6,
+          "text": "starts.",
+          "confidence": 0.37
+        }
+      ]
+    },
+    {
+      "start": 28.6,
+      "end": 31.7,
+      "text": "The fun part is that the trader knows the value of the value.",
+      "words": [
+        {
+          "start": 28.6,
+          "end": 29.14,
+          "text": "The",
+          "confidence": 0.21
+        },
+        {
+          "start": 29.14,
+          "end": 29.24,
+          "text": "fun",
+          "confidence": 0.35
+        },
+        {
+          "start": 29.24,
+          "end": 29.58,
+          "text": "part",
+          "confidence": 0.98
+        },
+        {
+          "start": 29.58,
+          "end": 29.84,
+          "text": "is",
+          "confidence": 0.78
+        },
+        {
+          "start": 29.84,
+          "end": 29.98,
+          "text": "that",
+          "confidence": 0.76
+        },
+        {
+          "start": 29.98,
+          "end": 30.06,
+          "text": "the",
+          "confidence": 0.61
+        },
+        {
+          "start": 30.06,
+          "end": 30.32,
+          "text": "trader",
+          "confidence": 0.76
+        },
+        {
+          "start": 30.32,
+          "end": 30.46,
+          "text": "knows",
+          "confidence": 0.43
+        },
+        {
+          "start": 30.46,
+          "end": 30.54,
+          "text": "the",
+          "confidence": 0.2
+        },
+        {
+          "start": 30.46,
+          "end": 31.22,
+          "text": "value",
+          "confidence": 0.05
+        },
+        {
+          "start": 31.22,
+          "end": 31.54,
+          "text": "of",
+          "confidence": 0.51
+        },
+        {
+          "start": 31.54,
+          "end": 31.58,
+          "text": "the",
+          "confidence": 0.33
+        },
+        {
+          "start": 31.58,
+          "end": 31.7,
+          "text": "value.",
+          "confidence": 0.05
+        }
+      ]
+    },
+    {
+      "start": 32.14,
+      "end": 34.88,
+      "text": "But in that moment, he overrides the emotion logic.",
+      "words": [
+        {
+          "start": 32.14,
+          "end": 32.58,
+          "text": "But",
+          "confidence": 0.63
+        },
+        {
+          "start": 32.58,
+          "end": 32.78,
+          "text": "in",
+          "confidence": 0.28
+        },
+        {
+          "start": 32.78,
+          "end": 33.0,
+          "text": "that",
+          "confidence": 0.71
+        },
+        {
+          "start": 33.0,
+          "end": 33.38,
+          "text": "moment,",
+          "confidence": 0.95
+        },
+        {
+          "start": 33.88,
+          "end": 34.0,
+          "text": "he",
+          "confidence": 0.53
+        },
+        {
+          "start": 34.0,
+          "end": 34.08,
+          "text": "overrides",
+          "confidence": 0.5
+        },
+        {
+          "start": 34.08,
+          "end": 34.16,
+          "text": "the",
+          "confidence": 0.75
+        },
+        {
+          "start": 34.0,
+          "end": 34.28,
+          "text": "emotion",
+          "confidence": 0.58
+        },
+        {
+          "start": 34.28,
+          "end": 34.88,
+          "text": "logic.",
+          "confidence": 0.42
+        }
+      ]
+    },
+    {
+      "start": 35.92,
+      "end": 37.86,
+      "text": "That is why smart traders are not the ones who are not emotional.",
+      "words": [
+        {
+          "start": 35.92,
+          "end": 36.08,
+          "text": "That",
+          "confidence": 0.35
+        },
+        {
+          "start": 36.08,
+          "end": 36.1,
+          "text": "is",
+          "confidence": 0.42
+        },
+        {
+          "start": 36.1,
+          "end": 36.22,
+          "text": "why",
+          "confidence": 0.94
+        },
+        {
+          "start": 36.22,
+          "end": 36.44,
+          "text": "smart",
+          "confidence": 0.05
+        },
+        {
+          "start": 36.44,
+          "end": 36.78,
+          "text": "traders",
+          "confidence": 0.49
+        },
+        {
+          "start": 36.78,
+          "end": 36.92,
+          "text": "are",
+          "confidence": 0.12
+        },
+        {
+          "start": 36.92,
+          "end": 37.1,
+          "text": "not",
+          "confidence": 0.76
+        },
+        {
+          "start": 37.1,
+          "end": 37.24,
+          "text": "the",
+          "confidence": 0.46
+        },
+        {
+          "start": 37.24,
+          "end": 37.32,
+          "text": "ones",
+          "confidence": 0.63
+        },
+        {
+          "start": 37.24,
+          "end": 37.34,
+          "text": "who",
+          "confidence": 0.71
+        },
+        {
+          "start": 37.34,
+          "end": 37.5,
+          "text": "are",
+          "confidence": 0.18
+        },
+        {
+          "start": 37.5,
+          "end": 37.76,
+          "text": "not",
+          "confidence": 0.58
+        },
+        {
+          "start": 37.76,
+          "end": 37.86,
+          "text": "emotional.",
+          "confidence": 0.61
+        }
+      ]
+    },
+    {
+      "start": 38.28,
+      "end": 40.62,
+      "text": "Smart traders are the ones who follow the rules of their emotions.",
+      "words": [
+        {
+          "start": 38.28,
+          "end": 38.5,
+          "text": "Smart",
+          "confidence": 0.65
+        },
+        {
+          "start": 38.5,
+          "end": 38.84,
+          "text": "traders",
+          "confidence": 0.95
+        },
+        {
+          "start": 38.84,
+          "end": 38.98,
+          "text": "are",
+          "confidence": 0.73
+        },
+        {
+          "start": 38.98,
+          "end": 39.18,
+          "text": "the",
+          "confidence": 0.68
+        },
+        {
+          "start": 39.18,
+          "end": 39.26,
+          "text": "ones",
+          "confidence": 0.96
+        },
+        {
+          "start": 39.18,
+          "end": 39.28,
+          "text": "who",
+          "confidence": 0.78
+        },
+        {
+          "start": 39.28,
+          "end": 39.84,
+          "text": "follow",
+          "confidence": 0.87
+        },
+        {
+          "start": 39.84,
+          "end": 39.92,
+          "text": "the",
+          "confidence": 0.57
+        },
+        {
+          "start": 39.84,
+          "end": 40.62,
+          "text": "rules",
+          "confidence": 0.94
+        },
+        {
+          "start": 40.44,
+          "end": 40.5,
+          "text": "of",
+          "confidence": 0.41
+        },
+        {
+          "start": 40.5,
+          "end": 40.559999999999995,
+          "text": "their",
+          "confidence": 0.33
+        },
+        {
+          "start": 40.559999999999995,
+          "end": 40.62,
+          "text": "emotions.",
+          "confidence": 0.25
+        }
+      ]
+    },
+    {
+      "start": 41.16,
+      "end": 43.84,
+      "text": "And if you want to understand the simple language of the trading concept, then follow.",
+      "words": [
+        {
+          "start": 41.16,
+          "end": 41.34,
+          "text": "And",
+          "confidence": 0.6
+        },
+        {
+          "start": 41.34,
+          "end": 41.48,
+          "text": "if",
+          "confidence": 0.43
+        },
+        {
+          "start": 41.48,
+          "end": 41.66,
+          "text": "you",
+          "confidence": 0.82
+        },
+        {
+          "start": 41.66,
+          "end": 41.739999999999995,
+          "text": "want",
+          "confidence": 0.28
+        },
+        {
+          "start": 41.739999999999995,
+          "end": 41.81999999999999,
+          "text": "to",
+          "confidence": 0.98
+        },
+        {
+          "start": 41.81999999999999,
+          "end": 41.9,
+          "text": "understand",
+          "confidence": 0.61
+        },
+        {
+          "start": 41.9,
+          "end": 41.98,
+          "text": "the",
+          "confidence": 0.43
+        },
+        {
+          "start": 41.66,
+          "end": 42.46,
+          "text": "simple",
+          "confidence": 0.85
+        },
+        {
+          "start": 42.46,
+          "end": 42.8,
+          "text": "language",
+          "confidence": 0.85
+        },
+        {
+          "start": 42.8,
+          "end": 42.9,
+          "text": "of",
+          "confidence": 0.53
+        },
+        {
+          "start": 42.9,
+          "end": 43.086666666666666,
+          "text": "the",
+          "confidence": 0.37
+        },
+        {
+          "start": 43.086666666666666,
+          "end": 43.27333333333333,
+          "text": "trading",
+          "confidence": 0.25
+        },
+        {
+          "start": 43.27333333333333,
+          "end": 43.46,
+          "text": "concept,",
+          "confidence": 0.92
+        },
+        {
+          "start": 43.46,
+          "end": 43.62,
+          "text": "then",
+          "confidence": 0.51
+        },
+        {
+          "start": 43.62,
+          "end": 43.84,
+          "text": "follow.",
+          "confidence": 0.91
+        }
+      ]
+    }
+  ]
+}

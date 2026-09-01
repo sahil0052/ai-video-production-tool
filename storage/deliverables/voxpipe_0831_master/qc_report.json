@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "score": 7.4,
+  "audited_frames_count": 22,
+  "metrics": {
+    "resolution_1080x1920": true,
+    "audio_48khz": true,
+    "actual_duration": 44.37,
+    "target_duration": 44.4,
+    "measured_lufs": -13.8,
+    "subtitles_latin_script": true,
+    "frame_audit": {
+      "total_frames_audited": 22,
+      "average_frame_score": 7.4,
+      "frame_errors": [],
+      "frames_directory": "C:\\websites\\ai video production tool\\storage\\deliverables\\voxpipe_0831_master\\audit_frames"
+    }
+  },
+  "errors": []
+}

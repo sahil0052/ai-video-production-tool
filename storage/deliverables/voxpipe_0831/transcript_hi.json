@@ -1,0 +1,1714 @@
+{
+  "text": " Why do smart people make stupid trading decisions? An intelligent trader bhi profit ke baad overconfident aur loss ke baad completely emotional keu hoo jata hai Teen trades profit me gaya hai To dimag bhol sa hai My strategy to perfect hai Confidence bada hai aur trader bhi na reason position size bhana dhi Khi ki trading mi problem IQ ki nahi Emotions ki hoo tia Jha pe sa real ho Dimag logic se zada fear aur greed koos ko react karni liahta hai Ferek bada loss aata hai Up trader ka focus market sa maa chni paar nahi Bhas loss recover karni baar hoo tia Aur yehise revenge trading starti ki Pani parti hai Trader ko akh sir pata hoo tia ki wo galat kar hai Likin o oomment me Emotion logic ko overwrite kardhe sa Islea smart trader wo nahi jo kabeh emotional na hoo Smart trader wo hai jo Emotions ke baavajooda kne rules follow kare Aur asi trading concept simple language msamajna hai To follow kare lo",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.2,
+      "text": " Why do smart people make stupid trading decisions?",
+      "tokens": [
+        50364,
+        1545,
+        360,
+        4069,
+        561,
+        652,
+        6631,
+        9529,
+        5327,
+        30,
+        50486
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.666005582225566,
+      "compression_ratio": 1.7951807228915662,
+      "no_speech_prob": 0.004824780393391848,
+      "words": [
+        {
+          "word": " Why",
+          "start": 0.0,
+          "end": 0.22,
+          "probability": 0.6341337561607361
+        },
+        {
+          "word": " do",
+          "start": 0.22,
+          "end": 0.34,
+          "probability": 0.8910292387008667
+        },
+        {
+          "word": " smart",
+          "start": 0.34,
+          "end": 0.58,
+          "probability": 0.9571115374565125
+        },
+        {
+          "word": " people",
+          "start": 0.58,
+          "end": 0.92,
+          "probability": 0.9970109462738037
+        },
+        {
+          "word": " make",
+          "start": 0.92,
+          "end": 1.12,
+          "probability": 0.9528841376304626
+        },
+        {
+          "word": " stupid",
+          "start": 1.12,
+          "end": 1.46,
+          "probability": 0.990211546421051
+        },
+        {
+          "word": " trading",
+          "start": 1.46,
+          "end": 1.78,
+          "probability": 0.9935929179191589
+        },
+        {
+          "word": " decisions?",
+          "start": 1.78,
+          "end": 2.2,
+          "probability": 0.9800195693969727
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.52,
+      "end": 5.02,
+      "text": " An intelligent trader bhi profit ke baad overconfident",
+      "tokens": [
+        50486,
+        1107,
+        13232,
+        31961,
+        272,
+        4954,
+        7475,
+        803,
+        4773,
+        345,
+        670,
+        24697,
+        1078,
+        50622
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.666005582225566,
+      "compression_ratio": 1.7951807228915662,
+      "no_speech_prob": 0.004824780393391848,
+      "words": [
+        {
+          "word": " An",
+          "start": 2.52,
+          "end": 2.64,
+          "probability": 0.4219788908958435
+        },
+        {
+          "word": " intelligent",
+          "start": 2.64,
+          "end": 3.02,
+          "probability": 0.9911509156227112
+        },
+        {
+          "word": " trader",
+          "start": 3.02,
+          "end": 3.38,
+          "probability": 0.9959295392036438
+        },
+        {
+          "word": " bhi",
+          "start": 3.38,
+          "end": 3.62,
+          "probability": 0.5242702066898346
+        },
+        {
+          "word": " profit",
+          "start": 3.62,
+          "end": 3.94,
+          "probability": 0.9226312041282654
+        },
+        {
+          "word": " ke",
+          "start": 3.94,
+          "end": 4.14,
+          "probability": 0.9186350703239441
+        },
+        {
+          "word": " baad",
+          "start": 4.14,
+          "end": 4.38,
+          "probability": 0.5667363554239273
+        },
+        {
+          "word": " overconfident",
+          "start": 4.38,
+          "end": 5.02,
+          "probability": 0.7622909347216288
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 5.02,
+      "end": 7.74,
+      "text": " aur loss ke baad completely emotional keu hoo jata hai",
+      "tokens": [
+        50622,
+        19145,
+        4470,
+        803,
+        4773,
+        345,
+        2584,
+        6863,
+        803,
+        84,
+        1106,
+        78,
+        361,
+        3274,
+        21822,
+        50752
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.666005582225566,
+      "compression_ratio": 1.7951807228915662,
+      "no_speech_prob": 0.004824780393391848,
+      "words": [
+        {
+          "word": " aur",
+          "start": 5.02,
+          "end": 5.36,
+          "probability": 0.009654724039137363
+        },
+        {
+          "word": " loss",
+          "start": 5.36,
+          "end": 5.58,
+          "probability": 0.8394668102264404
+        },
+        {
+          "word": " ke",
+          "start": 5.58,
+          "end": 5.8,
+          "probability": 0.9790416359901428
+        },
+        {
+          "word": " baad",
+          "start": 5.8,
+          "end": 6.04,
+          "probability": 0.9695649147033691
+        },
+        {
+          "word": " completely",
+          "start": 6.04,
+          "end": 6.42,
+          "probability": 0.31678763031959534
+        },
+        {
+          "word": " emotional",
+          "start": 6.42,
+          "end": 7.0,
+          "probability": 0.9799671769142151
+        },
+        {
+          "word": " keu",
+          "start": 7.0,
+          "end": 7.3,
+          "probability": 0.3936004564166069
+        },
+        {
+          "word": " hoo",
+          "start": 7.3,
+          "end": 7.42,
+          "probability": 0.43960118293762207
+        },
+        {
+          "word": " jata",
+          "start": 7.42,
+          "end": 7.62,
+          "probability": 0.2019694671034813
+        },
+        {
+          "word": " hai",
+          "start": 7.62,
+          "end": 7.74,
+          "probability": 0.8544514775276184
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 7.74,
+      "end": 8.96,
+      "text": " Teen trades profit me gaya hai",
+      "tokens": [
+        50752,
+        33297,
+        21287,
+        7475,
+        385,
+        290,
+        4427,
+        21822,
+        50816
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.666005582225566,
+      "compression_ratio": 1.7951807228915662,
+      "no_speech_prob": 0.004824780393391848,
+      "words": [
+        {
+          "word": " Teen",
+          "start": 7.74,
+          "end": 7.94,
+          "probability": 0.06812345236539841
+        },
+        {
+          "word": " trades",
+          "start": 7.94,
+          "end": 8.16,
+          "probability": 0.41289862990379333
+        },
+        {
+          "word": " profit",
+          "start": 8.16,
+          "end": 8.56,
+          "probability": 0.9797472953796387
+        },
+        {
+          "word": " me",
+          "start": 8.56,
+          "end": 8.72,
+          "probability": 0.40620627999305725
+        },
+        {
+          "word": " gaya",
+          "start": 8.72,
+          "end": 8.9,
+          "probability": 0.256086602807045
+        },
+        {
+          "word": " hai",
+          "start": 8.9,
+          "end": 8.96,
+          "probability": 0.20706701278686523
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 8.96,
+      "end": 9.94,
+      "text": " To dimag bhol sa hai",
+      "tokens": [
+        50816,
+        1407,
+        5013,
+        559,
+        272,
+        5449,
+        601,
+        21822,
+        50866
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.666005582225566,
+      "compression_ratio": 1.7951807228915662,
+      "no_speech_prob": 0.004824780393391848,
+      "words": [
+        {
+          "word": " To",
+          "start": 8.96,
+          "end": 9.16,
+          "probability": 0.09223128110170364
+        },
+        {
+          "word": " dimag",
+          "start": 9.16,
+          "end": 9.44,
+          "probability": 0.4467335045337677
+        },
+        {
+          "word": " bhol",
+          "start": 9.44,
+          "end": 9.68,
+          "probability": 0.5032669231295586
+        },
+        {
+          "word": " sa",
+          "start": 9.68,
+          "end": 9.8,
+          "probability": 0.13799020648002625
+        },
+        {
+          "word": " hai",
+          "start": 9.8,
+          "end": 9.94,
+          "probability": 0.7103202939033508
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 9.94,
+      "end": 11.36,
+      "text": " My strategy to perfect hai",
+      "tokens": [
+        50866,
+        1222,
+        5206,
+        281,
+        2176,
+        21822,
+        50934
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.666005582225566,
+      "compression_ratio": 1.7951807228915662,
+      "no_speech_prob": 0.004824780393391848,
+      "words": [
+        {
+          "word": " My",
+          "start": 9.94,
+          "end": 10.22,
+          "probability": 0.17751635611057281
+        },
+        {
+          "word": " strategy",
+          "start": 10.22,
+          "end": 10.64,
+          "probability": 0.8115411400794983
+        },
+        {
+          "word": " to",
+          "start": 10.64,
+          "end": 10.84,
+          "probability": 0.7480388879776001
+        },
+        {
+          "word": " perfect",
+          "start": 10.84,
+          "end": 11.16,
+          "probability": 0.9520978927612305
+        },
+        {
+          "word": " hai",
+          "start": 11.16,
+          "end": 11.36,
+          "probability": 0.8987568020820618
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 11.36,
+      "end": 12.32,
+      "text": " Confidence bada hai",
+      "tokens": [
+        50934,
+        11701,
+        2778,
+        272,
+        1538,
+        21822,
+        50984
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.666005582225566,
+      "compression_ratio": 1.7951807228915662,
+      "no_speech_prob": 0.004824780393391848,
+      "words": [
+        {
+          "word": " Confidence",
+          "start": 11.36,
+          "end": 11.88,
+          "probability": 0.4836753159761429
+        },
+        {
+          "word": " bada",
+          "start": 11.88,
+          "end": 12.12,
+          "probability": 0.3694414719939232
+        },
+        {
+          "word": " hai",
+          "start": 12.12,
+          "end": 12.32,
+          "probability": 0.49772679805755615
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 12.32,
+      "end": 14.58,
+      "text": " aur trader bhi na reason position size bhana dhi",
+      "tokens": [
+        50984,
+        19145,
+        31961,
+        272,
+        4954,
+        1667,
+        1778,
+        2535,
+        2744,
+        272,
+        3451,
+        64,
+        274,
+        4954,
+        51094
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.666005582225566,
+      "compression_ratio": 1.7951807228915662,
+      "no_speech_prob": 0.004824780393391848,
+      "words": [
+        {
+          "word": " aur",
+          "start": 12.32,
+          "end": 12.58,
+          "probability": 0.2738828659057617
+        },
+        {
+          "word": " trader",
+          "start": 12.58,
+          "end": 12.84,
+          "probability": 0.9754034280776978
+        },
+        {
+          "word": " bhi",
+          "start": 12.84,
+          "end": 13.1,
+          "probability": 0.6084942668676376
+        },
+        {
+          "word": " na",
+          "start": 13.1,
+          "end": 13.24,
+          "probability": 0.9008144736289978
+        },
+        {
+          "word": " reason",
+          "start": 13.24,
+          "end": 13.48,
+          "probability": 0.6429699659347534
+        },
+        {
+          "word": " position",
+          "start": 13.48,
+          "end": 13.76,
+          "probability": 0.8816313147544861
+        },
+        {
+          "word": " size",
+          "start": 13.76,
+          "end": 14.12,
+          "probability": 0.719430685043335
+        },
+        {
+          "word": " bhana",
+          "start": 14.12,
+          "end": 14.44,
+          "probability": 0.45023507873217267
+        },
+        {
+          "word": " dhi",
+          "start": 14.44,
+          "end": 14.58,
+          "probability": 0.302033394575119
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 14.58,
+      "end": 16.62,
+      "text": " Khi ki trading mi problem IQ ki nahi",
+      "tokens": [
+        51094,
+        591,
+        4954,
+        6315,
+        9529,
+        2752,
+        1154,
+        28921,
+        6315,
+        17170,
+        72,
+        51202
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.666005582225566,
+      "compression_ratio": 1.7951807228915662,
+      "no_speech_prob": 0.004824780393391848,
+      "words": [
+        {
+          "word": " Khi",
+          "start": 14.58,
+          "end": 14.88,
+          "probability": 0.29767831787467003
+        },
+        {
+          "word": " ki",
+          "start": 14.88,
+          "end": 15.02,
+          "probability": 0.37248697876930237
+        },
+        {
+          "word": " trading",
+          "start": 15.02,
+          "end": 15.3,
+          "probability": 0.8516631126403809
+        },
+        {
+          "word": " mi",
+          "start": 15.3,
+          "end": 15.48,
+          "probability": 0.32101941108703613
+        },
+        {
+          "word": " problem",
+          "start": 15.48,
+          "end": 15.8,
+          "probability": 0.9330389499664307
+        },
+        {
+          "word": " IQ",
+          "start": 15.8,
+          "end": 16.14,
+          "probability": 0.6992329359054565
+        },
+        {
+          "word": " ki",
+          "start": 16.14,
+          "end": 16.36,
+          "probability": 0.8285748958587646
+        },
+        {
+          "word": " nahi",
+          "start": 16.36,
+          "end": 16.62,
+          "probability": 0.8047888278961182
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 16.62,
+      "end": 17.78,
+      "text": " Emotions ki hoo tia",
+      "tokens": [
+        51202,
+        3968,
+        310,
+        626,
+        6315,
+        1106,
+        78,
+        256,
+        654,
+        51254
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.666005582225566,
+      "compression_ratio": 1.7951807228915662,
+      "no_speech_prob": 0.004824780393391848,
+      "words": [
+        {
+          "word": " Emotions",
+          "start": 16.62,
+          "end": 17.28,
+          "probability": 0.8671409289042155
+        },
+        {
+          "word": " ki",
+          "start": 17.28,
+          "end": 17.42,
+          "probability": 0.8242146968841553
+        },
+        {
+          "word": " hoo",
+          "start": 17.42,
+          "end": 17.62,
+          "probability": 0.5554917752742767
+        },
+        {
+          "word": " tia",
+          "start": 17.62,
+          "end": 17.78,
+          "probability": 0.3652506619691849
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 0,
+      "start": 17.78,
+      "end": 18.78,
+      "text": " Jha pe sa real ho",
+      "tokens": [
+        51254,
+        508,
+        1641,
+        520,
+        601,
+        957,
+        1106,
+        51308
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.666005582225566,
+      "compression_ratio": 1.7951807228915662,
+      "no_speech_prob": 0.004824780393391848,
+      "words": [
+        {
+          "word": " Jha",
+          "start": 17.78,
+          "end": 18.02,
+          "probability": 0.3905801773071289
+        },
+        {
+          "word": " pe",
+          "start": 18.02,
+          "end": 18.18,
+          "probability": 0.2825467586517334
+        },
+        {
+          "word": " sa",
+          "start": 18.18,
+          "end": 18.32,
+          "probability": 0.3917326033115387
+        },
+        {
+          "word": " real",
+          "start": 18.32,
+          "end": 18.56,
+          "probability": 0.9433919191360474
+        },
+        {
+          "word": " ho",
+          "start": 18.56,
+          "end": 18.78,
+          "probability": 0.937743067741394
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 0,
+      "start": 18.78,
+      "end": 22.08,
+      "text": " Dimag logic se zada fear aur greed koos ko react karni liahta hai",
+      "tokens": [
+        51308,
+        20975,
+        559,
+        9952,
+        369,
+        710,
+        1538,
+        4240,
+        19145,
+        29230,
+        8384,
+        329,
+        8384,
+        4515,
+        350,
+        1083,
+        72,
+        375,
+        64,
+        357,
+        64,
+        21822,
+        51468
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.666005582225566,
+      "compression_ratio": 1.7951807228915662,
+      "no_speech_prob": 0.004824780393391848,
+      "words": [
+        {
+          "word": " Dimag",
+          "start": 18.78,
+          "end": 19.22,
+          "probability": 0.7354176193475723
+        },
+        {
+          "word": " logic",
+          "start": 19.22,
+          "end": 19.52,
+          "probability": 0.5372189879417419
+        },
+        {
+          "word": " se",
+          "start": 19.52,
+          "end": 19.76,
+          "probability": 0.42222532629966736
+        },
+        {
+          "word": " zada",
+          "start": 19.76,
+          "end": 19.94,
+          "probability": 0.771063894033432
+        },
+        {
+          "word": " fear",
+          "start": 19.94,
+          "end": 20.28,
+          "probability": 0.5498920679092407
+        },
+        {
+          "word": " aur",
+          "start": 20.28,
+          "end": 20.56,
+          "probability": 0.9658511877059937
+        },
+        {
+          "word": " greed",
+          "start": 20.56,
+          "end": 20.82,
+          "probability": 0.7765003442764282
+        },
+        {
+          "word": " koos",
+          "start": 20.82,
+          "end": 21.08,
+          "probability": 0.5535999834537506
+        },
+        {
+          "word": " ko",
+          "start": 21.08,
+          "end": 21.2,
+          "probability": 0.7638142108917236
+        },
+        {
+          "word": " react",
+          "start": 21.2,
+          "end": 21.36,
+          "probability": 0.7002667784690857
+        },
+        {
+          "word": " karni",
+          "start": 21.36,
+          "end": 21.72,
+          "probability": 0.38875968257586163
+        },
+        {
+          "word": " liahta",
+          "start": 21.72,
+          "end": 22.06,
+          "probability": 0.22148739360272884
+        },
+        {
+          "word": " hai",
+          "start": 22.06,
+          "end": 22.08,
+          "probability": 0.5739743113517761
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 0,
+      "start": 22.08,
+      "end": 23.26,
+      "text": " Ferek bada loss aata hai",
+      "tokens": [
+        51468,
+        479,
+        323,
+        74,
+        272,
+        1538,
+        4470,
+        257,
+        3274,
+        21822,
+        51528
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.666005582225566,
+      "compression_ratio": 1.7951807228915662,
+      "no_speech_prob": 0.004824780393391848,
+      "words": [
+        {
+          "word": " Ferek",
+          "start": 22.08,
+          "end": 22.48,
+          "probability": 0.17674359679222107
+        },
+        {
+          "word": " bada",
+          "start": 22.48,
+          "end": 22.64,
+          "probability": 0.813938707113266
+        },
+        {
+          "word": " loss",
+          "start": 22.64,
+          "end": 22.88,
+          "probability": 0.4430396258831024
+        },
+        {
+          "word": " aata",
+          "start": 22.88,
+          "end": 23.2,
+          "probability": 0.15905727073550224
+        },
+        {
+          "word": " hai",
+          "start": 23.2,
+          "end": 23.26,
+          "probability": 0.31750577688217163
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 0,
+      "start": 23.26,
+      "end": 25.52,
+      "text": " Up trader ka focus market sa maa chni paar nahi",
+      "tokens": [
+        51528,
+        5858,
+        31961,
+        6799,
+        1879,
+        2142,
+        601,
+        463,
+        64,
+        417,
+        3722,
+        2502,
+        289,
+        17170,
+        72,
+        51640
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.666005582225566,
+      "compression_ratio": 1.7951807228915662,
+      "no_speech_prob": 0.004824780393391848,
+      "words": [
+        {
+          "word": " Up",
+          "start": 23.26,
+          "end": 23.44,
+          "probability": 0.1462308168411255
+        },
+        {
+          "word": " trader",
+          "start": 23.44,
+          "end": 23.72,
+          "probability": 0.8992059826850891
+        },
+        {
+          "word": " ka",
+          "start": 23.72,
+          "end": 23.9,
+          "probability": 0.8530575633049011
+        },
+        {
+          "word": " focus",
+          "start": 23.9,
+          "end": 24.2,
+          "probability": 0.9109805822372437
+        },
+        {
+          "word": " market",
+          "start": 24.2,
+          "end": 24.6,
+          "probability": 0.5746335387229919
+        },
+        {
+          "word": " sa",
+          "start": 24.6,
+          "end": 24.78,
+          "probability": 0.29440513253211975
+        },
+        {
+          "word": " maa",
+          "start": 24.78,
+          "end": 24.94,
+          "probability": 0.36257772147655487
+        },
+        {
+          "word": " chni",
+          "start": 24.94,
+          "end": 25.04,
+          "probability": 0.2321792095899582
+        },
+        {
+          "word": " paar",
+          "start": 25.04,
+          "end": 25.26,
+          "probability": 0.2704467177391052
+        },
+        {
+          "word": " nahi",
+          "start": 25.26,
+          "end": 25.52,
+          "probability": 0.8587204217910767
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 0,
+      "start": 25.52,
+      "end": 27.16,
+      "text": " Bhas loss recover karni baar hoo tia",
+      "tokens": [
+        51640,
+        363,
+        12438,
+        4470,
+        8114,
+        350,
+        1083,
+        72,
+        4773,
+        289,
+        1106,
+        78,
+        256,
+        654,
+        51720
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.666005582225566,
+      "compression_ratio": 1.7951807228915662,
+      "no_speech_prob": 0.004824780393391848,
+      "words": [
+        {
+          "word": " Bhas",
+          "start": 25.52,
+          "end": 25.8,
+          "probability": 0.6662529110908508
+        },
+        {
+          "word": " loss",
+          "start": 25.8,
+          "end": 25.98,
+          "probability": 0.8142181634902954
+        },
+        {
+          "word": " recover",
+          "start": 25.98,
+          "end": 26.28,
+          "probability": 0.6798170804977417
+        },
+        {
+          "word": " karni",
+          "start": 26.28,
+          "end": 26.68,
+          "probability": 0.8226243754227957
+        },
+        {
+          "word": " baar",
+          "start": 26.68,
+          "end": 26.86,
+          "probability": 0.5773510634899139
+        },
+        {
+          "word": " hoo",
+          "start": 26.86,
+          "end": 27.0,
+          "probability": 0.8207602202892303
+        },
+        {
+          "word": " tia",
+          "start": 27.0,
+          "end": 27.16,
+          "probability": 0.5150262862443924
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 0,
+      "start": 27.16,
+      "end": 28.88,
+      "text": " Aur yehise revenge trading starti ki",
+      "tokens": [
+        51720,
+        26945,
+        606,
+        71,
+        908,
+        16711,
+        9529,
+        722,
+        72,
+        6315,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.666005582225566,
+      "compression_ratio": 1.7951807228915662,
+      "no_speech_prob": 0.004824780393391848,
+      "words": [
+        {
+          "word": " Aur",
+          "start": 27.16,
+          "end": 27.34,
+          "probability": 0.044605277478694916
+        },
+        {
+          "word": " yehise",
+          "start": 27.34,
+          "end": 27.72,
+          "probability": 0.36583564430475235
+        },
+        {
+          "word": " revenge",
+          "start": 27.72,
+          "end": 28.0,
+          "probability": 0.458974152803421
+        },
+        {
+          "word": " trading",
+          "start": 28.0,
+          "end": 28.32,
+          "probability": 0.984415590763092
+        },
+        {
+          "word": " starti",
+          "start": 28.32,
+          "end": 28.78,
+          "probability": 0.34925729036331177
+        },
+        {
+          "word": " ki",
+          "start": 28.78,
+          "end": 28.88,
+          "probability": 0.8213921785354614
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 2888,
+      "start": 28.88,
+      "end": 29.74,
+      "text": " Pani parti hai",
+      "tokens": [
+        50364,
+        430,
+        3782,
+        644,
+        72,
+        21822,
+        50414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7827422158759937,
+      "compression_ratio": 1.638743455497382,
+      "no_speech_prob": 0.04533277451992035,
+      "words": [
+        {
+          "word": " Pani",
+          "start": 28.88,
+          "end": 29.3,
+          "probability": 0.2714084666222334
+        },
+        {
+          "word": " parti",
+          "start": 29.3,
+          "end": 29.66,
+          "probability": 0.18956287950277328
+        },
+        {
+          "word": " hai",
+          "start": 29.66,
+          "end": 29.74,
+          "probability": 0.25583839416503906
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 2888,
+      "start": 29.74,
+      "end": 32.14,
+      "text": " Trader ko akh sir pata hoo tia ki wo galat kar hai",
+      "tokens": [
+        50414,
+        1765,
+        8312,
+        8384,
+        9308,
+        71,
+        4735,
+        1947,
+        64,
+        1106,
+        78,
+        256,
+        654,
+        6315,
+        6020,
+        7660,
+        267,
+        7917,
+        21822,
+        50528
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7827422158759937,
+      "compression_ratio": 1.638743455497382,
+      "no_speech_prob": 0.04533277451992035,
+      "words": [
+        {
+          "word": " Trader",
+          "start": 29.74,
+          "end": 30.26,
+          "probability": 0.5004200004041195
+        },
+        {
+          "word": " ko",
+          "start": 30.26,
+          "end": 30.44,
+          "probability": 0.4359416961669922
+        },
+        {
+          "word": " akh",
+          "start": 30.44,
+          "end": 30.66,
+          "probability": 0.29910098016262054
+        },
+        {
+          "word": " sir",
+          "start": 30.66,
+          "end": 30.72,
+          "probability": 0.1584114283323288
+        },
+        {
+          "word": " pata",
+          "start": 30.72,
+          "end": 31.0,
+          "probability": 0.6730826050043106
+        },
+        {
+          "word": " hoo",
+          "start": 31.0,
+          "end": 31.2,
+          "probability": 0.28207794623449445
+        },
+        {
+          "word": " tia",
+          "start": 31.2,
+          "end": 31.28,
+          "probability": 0.039057693851646036
+        },
+        {
+          "word": " ki",
+          "start": 31.28,
+          "end": 31.44,
+          "probability": 0.9465225338935852
+        },
+        {
+          "word": " wo",
+          "start": 31.44,
+          "end": 31.54,
+          "probability": 0.521455705165863
+        },
+        {
+          "word": " galat",
+          "start": 31.54,
+          "end": 31.84,
+          "probability": 0.6545646637678146
+        },
+        {
+          "word": " kar",
+          "start": 31.84,
+          "end": 31.98,
+          "probability": 0.39889663457870483
+        },
+        {
+          "word": " hai",
+          "start": 31.98,
+          "end": 32.14,
+          "probability": 0.22394925355911255
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 2888,
+      "start": 32.14,
+      "end": 33.56,
+      "text": " Likin o oomment me",
+      "tokens": [
+        50528,
+        441,
+        1035,
+        259,
+        277,
+        277,
+        298,
+        518,
+        385,
+        50610
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7827422158759937,
+      "compression_ratio": 1.638743455497382,
+      "no_speech_prob": 0.04533277451992035,
+      "words": [
+        {
+          "word": " Likin",
+          "start": 32.14,
+          "end": 32.66,
+          "probability": 0.2824930598338445
+        },
+        {
+          "word": " o",
+          "start": 32.66,
+          "end": 32.88,
+          "probability": 0.20900069177150726
+        },
+        {
+          "word": " oomment",
+          "start": 32.88,
+          "end": 33.38,
+          "probability": 0.1934995030363401
+        },
+        {
+          "word": " me",
+          "start": 33.38,
+          "end": 33.56,
+          "probability": 0.16407951712608337
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 2888,
+      "start": 33.56,
+      "end": 35.84,
+      "text": " Emotion logic ko overwrite kardhe sa",
+      "tokens": [
+        50610,
+        3968,
+        19228,
+        9952,
+        8384,
+        670,
+        21561,
+        350,
+        515,
+        675,
+        601,
+        50710
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7827422158759937,
+      "compression_ratio": 1.638743455497382,
+      "no_speech_prob": 0.04533277451992035,
+      "words": [
+        {
+          "word": " Emotion",
+          "start": 33.56,
+          "end": 34.28,
+          "probability": 0.6690735965967178
+        },
+        {
+          "word": " logic",
+          "start": 34.28,
+          "end": 34.78,
+          "probability": 0.6354098916053772
+        },
+        {
+          "word": " ko",
+          "start": 34.78,
+          "end": 34.98,
+          "probability": 0.9522426128387451
+        },
+        {
+          "word": " overwrite",
+          "start": 34.98,
+          "end": 35.36,
+          "probability": 0.5088596045970917
+        },
+        {
+          "word": " kardhe",
+          "start": 35.36,
+          "end": 35.68,
+          "probability": 0.21773443122704825
+        },
+        {
+          "word": " sa",
+          "start": 35.68,
+          "end": 35.84,
+          "probability": 0.35220208764076233
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 2888,
+      "start": 35.84,
+      "end": 38.38,
+      "text": " Islea smart trader wo nahi jo kabeh emotional na hoo",
+      "tokens": [
+        50710,
+        1119,
+        306,
+        64,
+        4069,
+        31961,
+        6020,
+        17170,
+        72,
+        1488,
+        350,
+        4488,
+        71,
+        6863,
+        1667,
+        1106,
+        78,
+        50830
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7827422158759937,
+      "compression_ratio": 1.638743455497382,
+      "no_speech_prob": 0.04533277451992035,
+      "words": [
+        {
+          "word": " Islea",
+          "start": 35.84,
+          "end": 36.22,
+          "probability": 0.23407319684823355
+        },
+        {
+          "word": " smart",
+          "start": 36.22,
+          "end": 36.44,
+          "probability": 0.5309154987335205
+        },
+        {
+          "word": " trader",
+          "start": 36.44,
+          "end": 36.72,
+          "probability": 0.8431941270828247
+        },
+        {
+          "word": " wo",
+          "start": 36.72,
+          "end": 36.94,
+          "probability": 0.7659282684326172
+        },
+        {
+          "word": " nahi",
+          "start": 36.94,
+          "end": 37.16,
+          "probability": 0.3651464134454727
+        },
+        {
+          "word": " jo",
+          "start": 37.16,
+          "end": 37.3,
+          "probability": 0.2707309126853943
+        },
+        {
+          "word": " kabeh",
+          "start": 37.3,
+          "end": 37.52,
+          "probability": 0.3418797453244527
+        },
+        {
+          "word": " emotional",
+          "start": 37.52,
+          "end": 37.84,
+          "probability": 0.6991875171661377
+        },
+        {
+          "word": " na",
+          "start": 37.84,
+          "end": 38.08,
+          "probability": 0.5578516721725464
+        },
+        {
+          "word": " hoo",
+          "start": 38.08,
+          "end": 38.38,
+          "probability": 0.31282967087463476
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 2888,
+      "start": 38.38,
+      "end": 39.24,
+      "text": " Smart trader wo hai jo",
+      "tokens": [
+        50830,
+        12923,
+        31961,
+        6020,
+        21822,
+        1488,
+        50882
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7827422158759937,
+      "compression_ratio": 1.638743455497382,
+      "no_speech_prob": 0.04533277451992035,
+      "words": [
+        {
+          "word": " Smart",
+          "start": 38.38,
+          "end": 38.48,
+          "probability": 0.9361338019371033
+        },
+        {
+          "word": " trader",
+          "start": 38.48,
+          "end": 38.82,
+          "probability": 0.971118152141571
+        },
+        {
+          "word": " wo",
+          "start": 38.82,
+          "end": 38.98,
+          "probability": 0.9639174342155457
+        },
+        {
+          "word": " hai",
+          "start": 38.98,
+          "end": 39.14,
+          "probability": 0.9396146535873413
+        },
+        {
+          "word": " jo",
+          "start": 39.14,
+          "end": 39.24,
+          "probability": 0.6351257562637329
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 2888,
+      "start": 39.24,
+      "end": 41.08,
+      "text": " Emotions ke baavajooda kne rules follow kare",
+      "tokens": [
+        50882,
+        3968,
+        310,
+        626,
+        803,
+        4773,
+        706,
+        1805,
+        1816,
+        64,
+        350,
+        716,
+        4474,
+        1524,
+        350,
+        543,
+        50972
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7827422158759937,
+      "compression_ratio": 1.638743455497382,
+      "no_speech_prob": 0.04533277451992035,
+      "words": [
+        {
+          "word": " Emotions",
+          "start": 39.24,
+          "end": 39.68,
+          "probability": 0.6585475405057272
+        },
+        {
+          "word": " ke",
+          "start": 39.68,
+          "end": 39.76,
+          "probability": 0.906458854675293
+        },
+        {
+          "word": " baavajooda",
+          "start": 39.76,
+          "end": 40.24,
+          "probability": 0.5068338140845299
+        },
+        {
+          "word": " kne",
+          "start": 40.24,
+          "end": 40.38,
+          "probability": 0.05771142989397049
+        },
+        {
+          "word": " rules",
+          "start": 40.38,
+          "end": 40.58,
+          "probability": 0.5533387064933777
+        },
+        {
+          "word": " follow",
+          "start": 40.58,
+          "end": 40.82,
+          "probability": 0.7559912204742432
+        },
+        {
+          "word": " kare",
+          "start": 40.82,
+          "end": 41.08,
+          "probability": 0.7591168582439423
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 2888,
+      "start": 41.08,
+      "end": 43.42,
+      "text": " Aur asi trading concept simple language msamajna hai",
+      "tokens": [
+        50972,
+        26945,
+        382,
+        72,
+        9529,
+        3410,
+        2199,
+        2856,
+        275,
+        82,
+        2404,
+        73,
+        629,
+        21822,
+        51094
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7827422158759937,
+      "compression_ratio": 1.638743455497382,
+      "no_speech_prob": 0.04533277451992035,
+      "words": [
+        {
+          "word": " Aur",
+          "start": 41.08,
+          "end": 41.32,
+          "probability": 0.006553483661264181
+        },
+        {
+          "word": " asi",
+          "start": 41.32,
+          "end": 41.6,
+          "probability": 0.38458768278360367
+        },
+        {
+          "word": " trading",
+          "start": 41.6,
+          "end": 41.8,
+          "probability": 0.8869521617889404
+        },
+        {
+          "word": " concept",
+          "start": 41.8,
+          "end": 42.14,
+          "probability": 0.7276619672775269
+        },
+        {
+          "word": " simple",
+          "start": 42.14,
+          "end": 42.48,
+          "probability": 0.788597583770752
+        },
+        {
+          "word": " language",
+          "start": 42.48,
+          "end": 42.76,
+          "probability": 0.701961100101471
+        },
+        {
+          "word": " msamajna",
+          "start": 42.76,
+          "end": 43.28,
+          "probability": 0.1552661567926407
+        },
+        {
+          "word": " hai",
+          "start": 43.28,
+          "end": 43.42,
+          "probability": 0.9430255889892578
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 2888,
+      "start": 43.42,
+      "end": 44.16,
+      "text": " To follow kare lo",
+      "tokens": [
+        51094,
+        1407,
+        1524,
+        350,
+        543,
+        450,
+        51134
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7827422158759937,
+      "compression_ratio": 1.638743455497382,
+      "no_speech_prob": 0.04533277451992035,
+      "words": [
+        {
+          "word": " To",
+          "start": 43.42,
+          "end": 43.58,
+          "probability": 0.14675511419773102
+        },
+        {
+          "word": " follow",
+          "start": 43.58,
+          "end": 43.84,
+          "probability": 0.993006706237793
+        },
+        {
+          "word": " kare",
+          "start": 43.84,
+          "end": 44.06,
+          "probability": 0.4035542160272598
+        },
+        {
+          "word": " lo",
+          "start": 44.06,
+          "end": 44.16,
+          "probability": 0.4477722942829132
+        }
+      ]
+    }
+  ],
+  "language": "hi"
+}

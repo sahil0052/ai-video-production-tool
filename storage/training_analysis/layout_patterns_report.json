@@ -1,0 +1,1342 @@
+[
+  {
+    "video": "Chinese labs are finally back. Someone even made a CS-GO x Portal using Kimi K3 for $3.24 in API.mp4",
+    "duration": 70.12,
+    "layout_distribution": {
+      "SPLIT_SCREEN_50_50": "60.0%",
+      "FULL_SCREEN_EXPLAINER": "40.0%"
+    },
+    "timeline": [
+      {
+        "time": 0.5,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_000.5s.jpg"
+      },
+      {
+        "time": 1.5,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_001.5s.jpg"
+      },
+      {
+        "time": 3.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_003.0s.jpg"
+      },
+      {
+        "time": 5.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_005.0s.jpg"
+      },
+      {
+        "time": 7.5,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_007.5s.jpg"
+      },
+      {
+        "time": 10.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_010.0s.jpg"
+      },
+      {
+        "time": 13.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_013.0s.jpg"
+      },
+      {
+        "time": 16.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_016.0s.jpg"
+      },
+      {
+        "time": 20.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_020.0s.jpg"
+      },
+      {
+        "time": 25.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_025.0s.jpg"
+      },
+      {
+        "time": 30.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_030.0s.jpg"
+      },
+      {
+        "time": 35.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_035.0s.jpg"
+      },
+      {
+        "time": 40.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_040.0s.jpg"
+      },
+      {
+        "time": 45.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_045.0s.jpg"
+      },
+      {
+        "time": 50.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_050.0s.jpg"
+      }
+    ]
+  },
+  {
+    "video": "Everyones arguing about whether voice or glasses replace the chatbot. But the bottleneck was ne.mp4",
+    "duration": 110.78,
+    "layout_distribution": {
+      "SPLIT_SCREEN_50_50": "53.3%",
+      "FULL_SCREEN_CHARACTER": "13.3%",
+      "FULL_SCREEN_EXPLAINER": "33.3%"
+    },
+    "timeline": [
+      {
+        "time": 0.5,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_000.5s.jpg"
+      },
+      {
+        "time": 1.5,
+        "layout": "FULL_SCREEN_CHARACTER",
+        "frame": "f_001.5s.jpg"
+      },
+      {
+        "time": 3.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_003.0s.jpg"
+      },
+      {
+        "time": 5.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_005.0s.jpg"
+      },
+      {
+        "time": 7.5,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_007.5s.jpg"
+      },
+      {
+        "time": 10.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_010.0s.jpg"
+      },
+      {
+        "time": 13.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_013.0s.jpg"
+      },
+      {
+        "time": 16.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_016.0s.jpg"
+      },
+      {
+        "time": 20.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_020.0s.jpg"
+      },
+      {
+        "time": 25.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_025.0s.jpg"
+      },
+      {
+        "time": 30.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_030.0s.jpg"
+      },
+      {
+        "time": 35.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_035.0s.jpg"
+      },
+      {
+        "time": 40.0,
+        "layout": "FULL_SCREEN_CHARACTER",
+        "frame": "f_040.0s.jpg"
+      },
+      {
+        "time": 45.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_045.0s.jpg"
+      },
+      {
+        "time": 50.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_050.0s.jpg"
+      }
+    ]
+  },
+  {
+    "video": "Fable 5 just solved a maths problem that was basically impossible to solve for 87 years!.mp4",
+    "duration": 104.77000000000001,
+    "layout_distribution": {
+      "SPLIT_SCREEN_50_50": "13.3%",
+      "FULL_SCREEN_EXPLAINER": "80.0%",
+      "FULL_SCREEN_CHARACTER": "6.7%"
+    },
+    "timeline": [
+      {
+        "time": 0.5,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_000.5s.jpg"
+      },
+      {
+        "time": 1.5,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_001.5s.jpg"
+      },
+      {
+        "time": 3.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_003.0s.jpg"
+      },
+      {
+        "time": 5.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_005.0s.jpg"
+      },
+      {
+        "time": 7.5,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_007.5s.jpg"
+      },
+      {
+        "time": 10.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_010.0s.jpg"
+      },
+      {
+        "time": 13.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_013.0s.jpg"
+      },
+      {
+        "time": 16.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_016.0s.jpg"
+      },
+      {
+        "time": 20.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_020.0s.jpg"
+      },
+      {
+        "time": 25.0,
+        "layout": "FULL_SCREEN_CHARACTER",
+        "frame": "f_025.0s.jpg"
+      },
+      {
+        "time": 30.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_030.0s.jpg"
+      },
+      {
+        "time": 35.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_035.0s.jpg"
+      },
+      {
+        "time": 40.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_040.0s.jpg"
+      },
+      {
+        "time": 45.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_045.0s.jpg"
+      },
+      {
+        "time": 50.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_050.0s.jpg"
+      }
+    ]
+  },
+  {
+    "video": "Heres How This Engineer Saved Half of the Internet from the Worst Cyber Attack.It started with .mp4",
+    "duration": 92.5,
+    "layout_distribution": {
+      "SPLIT_SCREEN_50_50": "40.0%",
+      "FULL_SCREEN_EXPLAINER": "60.0%"
+    },
+    "timeline": [
+      {
+        "time": 0.5,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_000.5s.jpg"
+      },
+      {
+        "time": 1.5,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_001.5s.jpg"
+      },
+      {
+        "time": 3.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_003.0s.jpg"
+      },
+      {
+        "time": 5.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_005.0s.jpg"
+      },
+      {
+        "time": 7.5,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_007.5s.jpg"
+      },
+      {
+        "time": 10.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_010.0s.jpg"
+      },
+      {
+        "time": 13.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_013.0s.jpg"
+      },
+      {
+        "time": 16.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_016.0s.jpg"
+      },
+      {
+        "time": 20.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_020.0s.jpg"
+      },
+      {
+        "time": 25.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_025.0s.jpg"
+      },
+      {
+        "time": 30.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_030.0s.jpg"
+      },
+      {
+        "time": 35.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_035.0s.jpg"
+      },
+      {
+        "time": 40.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_040.0s.jpg"
+      },
+      {
+        "time": 45.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_045.0s.jpg"
+      },
+      {
+        "time": 50.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_050.0s.jpg"
+      }
+    ]
+  },
+  {
+    "video": "I Found a Hiring Hack Using Codex That Sources, Vets & Emails Talent From YouTube. #AD.mp4",
+    "duration": 143.19,
+    "layout_distribution": {
+      "SPLIT_SCREEN_50_50": "100.0%"
+    },
+    "timeline": [
+      {
+        "time": 0.5,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_000.5s.jpg"
+      },
+      {
+        "time": 1.5,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_001.5s.jpg"
+      },
+      {
+        "time": 3.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_003.0s.jpg"
+      },
+      {
+        "time": 5.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_005.0s.jpg"
+      },
+      {
+        "time": 7.5,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_007.5s.jpg"
+      },
+      {
+        "time": 10.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_010.0s.jpg"
+      },
+      {
+        "time": 13.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_013.0s.jpg"
+      },
+      {
+        "time": 16.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_016.0s.jpg"
+      },
+      {
+        "time": 20.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_020.0s.jpg"
+      },
+      {
+        "time": 25.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_025.0s.jpg"
+      },
+      {
+        "time": 30.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_030.0s.jpg"
+      },
+      {
+        "time": 35.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_035.0s.jpg"
+      },
+      {
+        "time": 40.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_040.0s.jpg"
+      },
+      {
+        "time": 45.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_045.0s.jpg"
+      },
+      {
+        "time": 50.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_050.0s.jpg"
+      }
+    ]
+  },
+  {
+    "video": "OpenAI just released their first ever hardware. Its a compact control deck for agentic coding c.mp4",
+    "duration": 45.25,
+    "layout_distribution": {
+      "SPLIT_SCREEN_50_50": "47.8%",
+      "FULL_SCREEN_CHARACTER": "8.7%",
+      "FULL_SCREEN_EXPLAINER": "43.5%"
+    },
+    "timeline": [
+      {
+        "time": 0.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_000.0s.jpg"
+      },
+      {
+        "time": 2.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_002.0s.jpg"
+      },
+      {
+        "time": 4.0,
+        "layout": "FULL_SCREEN_CHARACTER",
+        "frame": "f_004.0s.jpg"
+      },
+      {
+        "time": 6.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_006.0s.jpg"
+      },
+      {
+        "time": 8.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_008.0s.jpg"
+      },
+      {
+        "time": 10.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_010.0s.jpg"
+      },
+      {
+        "time": 12.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_012.0s.jpg"
+      },
+      {
+        "time": 14.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_014.0s.jpg"
+      },
+      {
+        "time": 16.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_016.0s.jpg"
+      },
+      {
+        "time": 18.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_018.0s.jpg"
+      },
+      {
+        "time": 20.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_020.0s.jpg"
+      },
+      {
+        "time": 22.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_022.0s.jpg"
+      },
+      {
+        "time": 24.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_024.0s.jpg"
+      },
+      {
+        "time": 26.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_026.0s.jpg"
+      },
+      {
+        "time": 28.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_028.0s.jpg"
+      },
+      {
+        "time": 30.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_030.0s.jpg"
+      },
+      {
+        "time": 32.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_032.0s.jpg"
+      },
+      {
+        "time": 34.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_034.0s.jpg"
+      },
+      {
+        "time": 36.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_036.0s.jpg"
+      },
+      {
+        "time": 38.0,
+        "layout": "FULL_SCREEN_CHARACTER",
+        "frame": "f_038.0s.jpg"
+      },
+      {
+        "time": 40.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_040.0s.jpg"
+      },
+      {
+        "time": 42.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_042.0s.jpg"
+      },
+      {
+        "time": 44.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_044.0s.jpg"
+      }
+    ]
+  },
+  {
+    "video": "So we spend upwards of 5k USD on AI-generated b-rolls almost every month, and I keep telling peo.mp4",
+    "duration": 60.48,
+    "layout_distribution": {
+      "SPLIT_SCREEN_50_50": "33.3%",
+      "FULL_SCREEN_EXPLAINER": "53.3%",
+      "FULL_SCREEN_CHARACTER": "13.3%"
+    },
+    "timeline": [
+      {
+        "time": 0.5,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_000.5s.jpg"
+      },
+      {
+        "time": 1.5,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_001.5s.jpg"
+      },
+      {
+        "time": 3.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_003.0s.jpg"
+      },
+      {
+        "time": 5.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_005.0s.jpg"
+      },
+      {
+        "time": 7.5,
+        "layout": "FULL_SCREEN_CHARACTER",
+        "frame": "f_007.5s.jpg"
+      },
+      {
+        "time": 10.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_010.0s.jpg"
+      },
+      {
+        "time": 13.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_013.0s.jpg"
+      },
+      {
+        "time": 16.0,
+        "layout": "FULL_SCREEN_CHARACTER",
+        "frame": "f_016.0s.jpg"
+      },
+      {
+        "time": 20.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_020.0s.jpg"
+      },
+      {
+        "time": 25.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_025.0s.jpg"
+      },
+      {
+        "time": 30.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_030.0s.jpg"
+      },
+      {
+        "time": 35.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_035.0s.jpg"
+      },
+      {
+        "time": 40.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_040.0s.jpg"
+      },
+      {
+        "time": 45.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_045.0s.jpg"
+      },
+      {
+        "time": 50.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_050.0s.jpg"
+      }
+    ]
+  },
+  {
+    "video": "Someone just built Tom Riddles diary from Harry Potter using AI. You write with a stylus, your .mp4",
+    "duration": 50.15,
+    "layout_distribution": {
+      "FULL_SCREEN_CHARACTER": "44.0%",
+      "FULL_SCREEN_EXPLAINER": "32.0%",
+      "SPLIT_SCREEN_50_50": "24.0%"
+    },
+    "timeline": [
+      {
+        "time": 0.0,
+        "layout": "FULL_SCREEN_CHARACTER",
+        "frame": "f_000.0s.jpg"
+      },
+      {
+        "time": 2.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_002.0s.jpg"
+      },
+      {
+        "time": 4.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_004.0s.jpg"
+      },
+      {
+        "time": 6.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_006.0s.jpg"
+      },
+      {
+        "time": 8.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_008.0s.jpg"
+      },
+      {
+        "time": 10.0,
+        "layout": "FULL_SCREEN_CHARACTER",
+        "frame": "f_010.0s.jpg"
+      },
+      {
+        "time": 12.0,
+        "layout": "FULL_SCREEN_CHARACTER",
+        "frame": "f_012.0s.jpg"
+      },
+      {
+        "time": 14.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_014.0s.jpg"
+      },
+      {
+        "time": 16.0,
+        "layout": "FULL_SCREEN_CHARACTER",
+        "frame": "f_016.0s.jpg"
+      },
+      {
+        "time": 18.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_018.0s.jpg"
+      },
+      {
+        "time": 20.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_020.0s.jpg"
+      },
+      {
+        "time": 22.0,
+        "layout": "FULL_SCREEN_CHARACTER",
+        "frame": "f_022.0s.jpg"
+      },
+      {
+        "time": 24.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_024.0s.jpg"
+      },
+      {
+        "time": 26.0,
+        "layout": "FULL_SCREEN_CHARACTER",
+        "frame": "f_026.0s.jpg"
+      },
+      {
+        "time": 28.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_028.0s.jpg"
+      },
+      {
+        "time": 30.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_030.0s.jpg"
+      },
+      {
+        "time": 32.0,
+        "layout": "FULL_SCREEN_CHARACTER",
+        "frame": "f_032.0s.jpg"
+      },
+      {
+        "time": 34.0,
+        "layout": "FULL_SCREEN_CHARACTER",
+        "frame": "f_034.0s.jpg"
+      },
+      {
+        "time": 36.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_036.0s.jpg"
+      },
+      {
+        "time": 38.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_038.0s.jpg"
+      },
+      {
+        "time": 40.0,
+        "layout": "FULL_SCREEN_CHARACTER",
+        "frame": "f_040.0s.jpg"
+      },
+      {
+        "time": 42.0,
+        "layout": "FULL_SCREEN_CHARACTER",
+        "frame": "f_042.0s.jpg"
+      },
+      {
+        "time": 44.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_044.0s.jpg"
+      },
+      {
+        "time": 46.0,
+        "layout": "FULL_SCREEN_CHARACTER",
+        "frame": "f_046.0s.jpg"
+      },
+      {
+        "time": 48.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_048.0s.jpg"
+      }
+    ]
+  },
+  {
+    "video": "The hardware ceiling on humanoid robots might actually be gone. 1X just built a hand that holds .mp4",
+    "duration": 62.42,
+    "layout_distribution": {
+      "SPLIT_SCREEN_50_50": "40.0%",
+      "FULL_SCREEN_EXPLAINER": "40.0%",
+      "FULL_SCREEN_CHARACTER": "20.0%"
+    },
+    "timeline": [
+      {
+        "time": 0.5,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_000.5s.jpg"
+      },
+      {
+        "time": 1.5,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_001.5s.jpg"
+      },
+      {
+        "time": 3.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_003.0s.jpg"
+      },
+      {
+        "time": 5.0,
+        "layout": "FULL_SCREEN_CHARACTER",
+        "frame": "f_005.0s.jpg"
+      },
+      {
+        "time": 7.5,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_007.5s.jpg"
+      },
+      {
+        "time": 10.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_010.0s.jpg"
+      },
+      {
+        "time": 13.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_013.0s.jpg"
+      },
+      {
+        "time": 16.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_016.0s.jpg"
+      },
+      {
+        "time": 20.0,
+        "layout": "FULL_SCREEN_CHARACTER",
+        "frame": "f_020.0s.jpg"
+      },
+      {
+        "time": 25.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_025.0s.jpg"
+      },
+      {
+        "time": 30.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_030.0s.jpg"
+      },
+      {
+        "time": 35.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_035.0s.jpg"
+      },
+      {
+        "time": 40.0,
+        "layout": "FULL_SCREEN_CHARACTER",
+        "frame": "f_040.0s.jpg"
+      },
+      {
+        "time": 45.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_045.0s.jpg"
+      },
+      {
+        "time": 50.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_050.0s.jpg"
+      }
+    ]
+  },
+  {
+    "video": "This engineer just discovered a hack that gives us 12% faster CPUs by just adding the number 3 t.mp4",
+    "duration": 72.68,
+    "layout_distribution": {
+      "SPLIT_SCREEN_50_50": "40.0%",
+      "FULL_SCREEN_EXPLAINER": "46.7%",
+      "FULL_SCREEN_CHARACTER": "13.3%"
+    },
+    "timeline": [
+      {
+        "time": 0.5,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_000.5s.jpg"
+      },
+      {
+        "time": 1.5,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_001.5s.jpg"
+      },
+      {
+        "time": 3.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_003.0s.jpg"
+      },
+      {
+        "time": 5.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_005.0s.jpg"
+      },
+      {
+        "time": 7.5,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_007.5s.jpg"
+      },
+      {
+        "time": 10.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_010.0s.jpg"
+      },
+      {
+        "time": 13.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_013.0s.jpg"
+      },
+      {
+        "time": 16.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_016.0s.jpg"
+      },
+      {
+        "time": 20.0,
+        "layout": "FULL_SCREEN_CHARACTER",
+        "frame": "f_020.0s.jpg"
+      },
+      {
+        "time": 25.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_025.0s.jpg"
+      },
+      {
+        "time": 30.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_030.0s.jpg"
+      },
+      {
+        "time": 35.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_035.0s.jpg"
+      },
+      {
+        "time": 40.0,
+        "layout": "FULL_SCREEN_CHARACTER",
+        "frame": "f_040.0s.jpg"
+      },
+      {
+        "time": 45.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_045.0s.jpg"
+      },
+      {
+        "time": 50.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_050.0s.jpg"
+      }
+    ]
+  },
+  {
+    "video": "This might be one of the most interesting features on the Nothing phone 4(b).Its called Essenti.mp4",
+    "duration": 56.08,
+    "layout_distribution": {
+      "SPLIT_SCREEN_50_50": "20.0%",
+      "FULL_SCREEN_EXPLAINER": "73.3%",
+      "FULL_SCREEN_CHARACTER": "6.7%"
+    },
+    "timeline": [
+      {
+        "time": 0.5,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_000.5s.jpg"
+      },
+      {
+        "time": 1.5,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_001.5s.jpg"
+      },
+      {
+        "time": 3.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_003.0s.jpg"
+      },
+      {
+        "time": 5.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_005.0s.jpg"
+      },
+      {
+        "time": 7.5,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_007.5s.jpg"
+      },
+      {
+        "time": 10.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_010.0s.jpg"
+      },
+      {
+        "time": 13.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_013.0s.jpg"
+      },
+      {
+        "time": 16.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_016.0s.jpg"
+      },
+      {
+        "time": 20.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_020.0s.jpg"
+      },
+      {
+        "time": 25.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_025.0s.jpg"
+      },
+      {
+        "time": 30.0,
+        "layout": "FULL_SCREEN_CHARACTER",
+        "frame": "f_030.0s.jpg"
+      },
+      {
+        "time": 35.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_035.0s.jpg"
+      },
+      {
+        "time": 40.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_040.0s.jpg"
+      },
+      {
+        "time": 45.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_045.0s.jpg"
+      },
+      {
+        "time": 50.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_050.0s.jpg"
+      }
+    ]
+  },
+  {
+    "video": "We just built this app using Emergent that automatically finds every subsidy, grant, tax benefit.mp4",
+    "duration": 62.78,
+    "layout_distribution": {
+      "FULL_SCREEN_EXPLAINER": "40.0%",
+      "SPLIT_SCREEN_50_50": "40.0%",
+      "FULL_SCREEN_CHARACTER": "20.0%"
+    },
+    "timeline": [
+      {
+        "time": 0.5,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_000.5s.jpg"
+      },
+      {
+        "time": 1.5,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_001.5s.jpg"
+      },
+      {
+        "time": 3.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_003.0s.jpg"
+      },
+      {
+        "time": 5.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_005.0s.jpg"
+      },
+      {
+        "time": 7.5,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_007.5s.jpg"
+      },
+      {
+        "time": 10.0,
+        "layout": "FULL_SCREEN_CHARACTER",
+        "frame": "f_010.0s.jpg"
+      },
+      {
+        "time": 13.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_013.0s.jpg"
+      },
+      {
+        "time": 16.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_016.0s.jpg"
+      },
+      {
+        "time": 20.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_020.0s.jpg"
+      },
+      {
+        "time": 25.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_025.0s.jpg"
+      },
+      {
+        "time": 30.0,
+        "layout": "FULL_SCREEN_CHARACTER",
+        "frame": "f_030.0s.jpg"
+      },
+      {
+        "time": 35.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_035.0s.jpg"
+      },
+      {
+        "time": 40.0,
+        "layout": "FULL_SCREEN_CHARACTER",
+        "frame": "f_040.0s.jpg"
+      },
+      {
+        "time": 45.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_045.0s.jpg"
+      },
+      {
+        "time": 50.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_050.0s.jpg"
+      }
+    ]
+  },
+  {
+    "video": "Xbox Cloud Gaming is testing a free tier. Watch one ad, then play. No Game Pass subscription nee.mp4",
+    "duration": 50.09,
+    "layout_distribution": {
+      "SPLIT_SCREEN_50_50": "40.0%",
+      "FULL_SCREEN_EXPLAINER": "52.0%",
+      "FULL_SCREEN_CHARACTER": "8.0%"
+    },
+    "timeline": [
+      {
+        "time": 0.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_000.0s.jpg"
+      },
+      {
+        "time": 2.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_002.0s.jpg"
+      },
+      {
+        "time": 4.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_004.0s.jpg"
+      },
+      {
+        "time": 6.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_006.0s.jpg"
+      },
+      {
+        "time": 8.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_008.0s.jpg"
+      },
+      {
+        "time": 10.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_010.0s.jpg"
+      },
+      {
+        "time": 12.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_012.0s.jpg"
+      },
+      {
+        "time": 14.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_014.0s.jpg"
+      },
+      {
+        "time": 16.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_016.0s.jpg"
+      },
+      {
+        "time": 18.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_018.0s.jpg"
+      },
+      {
+        "time": 20.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_020.0s.jpg"
+      },
+      {
+        "time": 22.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_022.0s.jpg"
+      },
+      {
+        "time": 24.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_024.0s.jpg"
+      },
+      {
+        "time": 26.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_026.0s.jpg"
+      },
+      {
+        "time": 28.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_028.0s.jpg"
+      },
+      {
+        "time": 30.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_030.0s.jpg"
+      },
+      {
+        "time": 32.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_032.0s.jpg"
+      },
+      {
+        "time": 34.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_034.0s.jpg"
+      },
+      {
+        "time": 36.0,
+        "layout": "FULL_SCREEN_CHARACTER",
+        "frame": "f_036.0s.jpg"
+      },
+      {
+        "time": 38.0,
+        "layout": "FULL_SCREEN_CHARACTER",
+        "frame": "f_038.0s.jpg"
+      },
+      {
+        "time": 40.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_040.0s.jpg"
+      },
+      {
+        "time": 42.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_042.0s.jpg"
+      },
+      {
+        "time": 44.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_044.0s.jpg"
+      },
+      {
+        "time": 46.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_046.0s.jpg"
+      },
+      {
+        "time": 48.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_048.0s.jpg"
+      }
+    ]
+  },
+  {
+    "video": "You can now control your cursor using your tongue!.mp4",
+    "duration": 58.84,
+    "layout_distribution": {
+      "SPLIT_SCREEN_50_50": "40.0%",
+      "FULL_SCREEN_EXPLAINER": "40.0%",
+      "FULL_SCREEN_CHARACTER": "20.0%"
+    },
+    "timeline": [
+      {
+        "time": 0.5,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_000.5s.jpg"
+      },
+      {
+        "time": 1.5,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_001.5s.jpg"
+      },
+      {
+        "time": 3.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_003.0s.jpg"
+      },
+      {
+        "time": 5.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_005.0s.jpg"
+      },
+      {
+        "time": 7.5,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_007.5s.jpg"
+      },
+      {
+        "time": 10.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_010.0s.jpg"
+      },
+      {
+        "time": 13.0,
+        "layout": "FULL_SCREEN_CHARACTER",
+        "frame": "f_013.0s.jpg"
+      },
+      {
+        "time": 16.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_016.0s.jpg"
+      },
+      {
+        "time": 20.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_020.0s.jpg"
+      },
+      {
+        "time": 25.0,
+        "layout": "FULL_SCREEN_CHARACTER",
+        "frame": "f_025.0s.jpg"
+      },
+      {
+        "time": 30.0,
+        "layout": "FULL_SCREEN_CHARACTER",
+        "frame": "f_030.0s.jpg"
+      },
+      {
+        "time": 35.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_035.0s.jpg"
+      },
+      {
+        "time": 40.0,
+        "layout": "SPLIT_SCREEN_50_50",
+        "frame": "f_040.0s.jpg"
+      },
+      {
+        "time": 45.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_045.0s.jpg"
+      },
+      {
+        "time": 50.0,
+        "layout": "FULL_SCREEN_EXPLAINER",
+        "frame": "f_050.0s.jpg"
+      }
+    ]
+  }
+]

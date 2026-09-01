@@ -1,0 +1,1409 @@
+{
+  "job_id": "voxpipe_0828_master",
+  "source_video": "D:\\Downloads\\0828.mp4",
+  "duration": 48.6,
+  "fps": 30.0,
+  "style": "vox",
+  "beats": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 10.46,
+      "duration": 10.46,
+      "layout": "SPLIT_50_50",
+      "topic": "سوچو گوڑمنٹ کل اناؤنس کریں ہر انڈین کے ب",
+      "concept_summary": "سوچو گوڑمنٹ کل اناؤنس کریں ہر انڈین کے بانک کاؤنٹ میں 1 کرو رہا جائے گا Sounds Amazing Right لیکن 1 ڈپڑлом ہے اس سے ہم سب ایکچلی رچ نہیں ہوں گے PROBLEM یہ ہے کہ PESA PRINT کرنے سے",
+      "prompt_shot": "Background: a sepia financial chart engraving with etched grid lines and depth falloff. FG: authentic paper collage cutouts representing سوچو گوڑمنٹ کل اناؤنس کریں ہر انڈین کے بانک کاؤنٹ میں 1 کرو رہا جائے گا Sounds Amazing Right لیکن 1 ڈپڑлом ہے اس سے ہم سب ایکچلی رچ نہیں ہوں گے PROBLEM یہ ہے کہ PESA PRINT کرنے سے snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera orbits a quarter turn, focus racking front to back. Settle on سوچو گوڑمنٹ کل اناؤنس کریں ہر انڈین in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a sepia financial chart engraving with etched grid lines and depth falloff. FG: authentic paper collage cutouts representing سوچو گوڑمنٹ کل اناؤنس کریں ہر انڈین کے بانک کاؤنٹ میں 1 کرو رہا جائے گا Sounds Amazing Right لیکن 1 ڈپڑлом ہے اس سے ہم سب ایکچلی رچ نہیں ہوں گے PROBLEM یہ ہے کہ PESA PRINT کرنے سے snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera orbits a quarter turn, focus racking front to back. Settle on سوچو گوڑمنٹ کل اناؤنس کریں ہر انڈین in sharp focus.\n\nAUDIO: paper pops, whip whoosh, low newsroom hum — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 2,
+      "start": 10.46,
+      "end": 20.82,
+      "duration": 10.36,
+      "layout": "SPLIT_50_50",
+      "topic": "Country Actually Richer نہیں ہوتی اگر سب",
+      "concept_summary": "Country Actually Richer نہیں ہوتی اگر سب کے پاس SADNLY بہت زادہ پیسا آگیا تو چیزے بھی اتنی ہی فاس مہیں گی ہونے لگی Imagine کرو کل سب کے بانک کاؤنٹ میں 1 کرو رہا گیا آپ سوچوگے",
+      "prompt_shot": "Background: an aged blueprint grid with architectural schematics and circuit traces. FG: authentic paper collage cutouts representing Country Actually Richer نہیں ہوتی اگر سب کے پاس SADNLY بہت زادہ پیسا آگیا تو چیزے بھی اتنی ہی فاس مہیں گی ہونے لگی Imagine کرو کل سب کے بانک کاؤنٹ میں 1 کرو رہا گیا آپ سوچوگے snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera dives low between physical paper cutout layers with shallow depth of field. Settle on Country Actually Richer نہیں ہوتی ا in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: an aged blueprint grid with architectural schematics and circuit traces. FG: authentic paper collage cutouts representing Country Actually Richer نہیں ہوتی اگر سب کے پاس SADNLY بہت زادہ پیسا آگیا تو چیزے بھی اتنی ہی فاس مہیں گی ہونے لگی Imagine کرو کل سب کے بانک کاؤنٹ میں 1 کرو رہا گیا آپ سوچوگے snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera dives low between physical paper cutout layers with shallow depth of field. Settle on Country Actually Richer نہیں ہوتی ا in sharp focus.\n\nAUDIO: submerge whoosh, deep pressure thud, paper thwip — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 3,
+      "start": 20.82,
+      "end": 32.14,
+      "duration": 11.32,
+      "layout": "SPLIT_50_50",
+      "topic": "پیزا تین سو رپے کا کیوں رہے گا",
+      "concept_summary": "پیزا تین سو رپے کا کیوں رہے گا",
+      "prompt_shot": "Background: a torn 1920s banking ledger page with columns of inked accounts at depth. FG: authentic paper collage cutouts representing پیزا تین سو رپے کا کیوں رہے گا snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera pushes in steadily through a torn paper opening onto the central figure. Settle on پیزا تین سو رپے کا کیوں رہے گا in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a torn 1920s banking ledger page with columns of inked accounts at depth. FG: authentic paper collage cutouts representing پیزا تین سو رپے کا کیوں رہے گا snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera pushes in steadily through a torn paper opening onto the central figure. Settle on پیزا تین سو رپے کا کیوں رہے گا in sharp focus.\n\nAUDIO: paper tear, friction slide, low hum — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 4,
+      "start": 32.14,
+      "end": 41.9,
+      "duration": 9.76,
+      "layout": "SPLIT_50_50",
+      "topic": "وہ تین ہزاروپے کا بھی ہو سکتے بسکلی PESA",
+      "concept_summary": "وہ تین ہزاروپے کا بھی ہو سکتے بسکلی PESA کی value صرف اس بات سے decide نہیں ہوتی کہ آپ کی ایک کانوں میں کتھنے روپیس پڑے اگر 1 کرو رہا سب کے پاس آگیا تو 1 کرو رہا کی Purchasing پاری",
+      "prompt_shot": "Background: an aged blueprint grid with architectural schematics and circuit traces. FG: authentic paper collage cutouts representing وہ تین ہزاروپے کا بھی ہو سکتے بسکلی PESA کی value صرف اس بات سے decide نہیں ہوتی کہ آپ کی ایک کانوں میں کتھنے روپیس پڑے اگر 1 کرو رہا سب کے پاس آگیا تو 1 کرو رہا کی Purchasing پاری snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera performs a fast lateral track then hard stops with elastic overshoot. Settle on وہ تین ہزاروپے کا بھی ہو سکتے بسکلی in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: an aged blueprint grid with architectural schematics and circuit traces. FG: authentic paper collage cutouts representing وہ تین ہزاروپے کا بھی ہو سکتے بسکلی PESA کی value صرف اس بات سے decide نہیں ہوتی کہ آپ کی ایک کانوں میں کتھنے روپیس پڑے اگر 1 کرو رہا سب کے پاس آگیا تو 1 کرو رہا کی Purchasing پاری snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera performs a fast lateral track then hard stops with elastic overshoot. Settle on وہ تین ہزاروپے کا بھی ہو سکتے بسکلی in sharp focus.\n\nAUDIO: track rumble, stall click, paper pop — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 5,
+      "start": 41.9,
+      "end": 48.6,
+      "duration": 6.7,
+      "layout": "SPLIT_50_50",
+      "topic": "چینج ہو جائے گی تو SIMPLE سی بات ہے Gove",
+      "concept_summary": "چینج ہو جائے گی تو SIMPLE سی بات ہے Government کے پاس Unlimited Note Sprint کرنے کی Power ہو سری ہے لیکن Unlimited Well Create کرنے کی",
+      "prompt_shot": "Background: a faded world map tilted in perspective, far out of focus. FG: authentic paper collage cutouts representing چینج ہو جائے گی تو SIMPLE سی بات ہے Government کے پاس Unlimited Note Sprint کرنے کی Power ہو سری ہے لیکن Unlimited Well Create کرنے کی snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera cranes up slowly over the layered stack while racking focus. Settle on چینج ہو جائے گی تو SIMPLE سی بات ہے in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a faded world map tilted in perspective, far out of focus. FG: authentic paper collage cutouts representing چینج ہو جائے گی تو SIMPLE سی بات ہے Government کے پاس Unlimited Note Sprint کرنے کی Power ہو سری ہے لیکن Unlimited Well Create کرنے کی snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera cranes up slowly over the layered stack while racking focus. Settle on چینج ہو جائے گی تو SIMPLE سی بات ہے in sharp focus.\n\nAUDIO: riser whoosh, stamp thud, low newsroom hum — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    }
+  ],
+  "captions": [
+    {
+      "start": 0.0,
+      "end": 0.92,
+      "words": [
+        {
+          "word": "سوچو",
+          "start": 0.0,
+          "end": 0.38,
+          "is_accent": false
+        },
+        {
+          "word": "گوڑمنٹ",
+          "start": 0.38,
+          "end": 0.9,
+          "is_accent": false
+        },
+        {
+          "word": "کل",
+          "start": 0.9,
+          "end": 0.92,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "کل"
+    },
+    {
+      "start": 0.92,
+      "end": 1.96,
+      "words": [
+        {
+          "word": "اناؤنس",
+          "start": 0.92,
+          "end": 1.32,
+          "is_accent": false
+        },
+        {
+          "word": "کریں",
+          "start": 1.32,
+          "end": 1.56,
+          "is_accent": false
+        },
+        {
+          "word": "ہر",
+          "start": 1.56,
+          "end": 1.96,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "ہر"
+    },
+    {
+      "start": 1.96,
+      "end": 2.72,
+      "words": [
+        {
+          "word": "انڈین",
+          "start": 1.96,
+          "end": 2.22,
+          "is_accent": false
+        },
+        {
+          "word": "کے",
+          "start": 2.22,
+          "end": 2.4,
+          "is_accent": false
+        },
+        {
+          "word": "بانک",
+          "start": 2.4,
+          "end": 2.72,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "بانک"
+    },
+    {
+      "start": 2.72,
+      "end": 3.46,
+      "words": [
+        {
+          "word": "کاؤنٹ",
+          "start": 2.72,
+          "end": 3.04,
+          "is_accent": false
+        },
+        {
+          "word": "میں",
+          "start": 3.04,
+          "end": 3.16,
+          "is_accent": false
+        },
+        {
+          "word": "1",
+          "start": 3.16,
+          "end": 3.46,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "1"
+    },
+    {
+      "start": 3.46,
+      "end": 4.26,
+      "words": [
+        {
+          "word": "کرو",
+          "start": 3.46,
+          "end": 3.82,
+          "is_accent": false
+        },
+        {
+          "word": "رہا",
+          "start": 3.82,
+          "end": 4.12,
+          "is_accent": false
+        },
+        {
+          "word": "جائے",
+          "start": 4.12,
+          "end": 4.26,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "جائے"
+    },
+    {
+      "start": 4.26,
+      "end": 5.14,
+      "words": [
+        {
+          "word": "گا",
+          "start": 4.26,
+          "end": 4.38,
+          "is_accent": false
+        },
+        {
+          "word": "Sounds",
+          "start": 4.38,
+          "end": 4.8,
+          "is_accent": false
+        },
+        {
+          "word": "Amazing",
+          "start": 4.8,
+          "end": 5.14,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "Amazing"
+    },
+    {
+      "start": 5.14,
+      "end": 5.98,
+      "words": [
+        {
+          "word": "Right",
+          "start": 5.14,
+          "end": 5.48,
+          "is_accent": false
+        },
+        {
+          "word": "لیکن",
+          "start": 5.48,
+          "end": 5.86,
+          "is_accent": false
+        },
+        {
+          "word": "1",
+          "start": 5.86,
+          "end": 5.98,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "1"
+    },
+    {
+      "start": 5.98,
+      "end": 6.84,
+      "words": [
+        {
+          "word": "ڈپڑлом",
+          "start": 5.98,
+          "end": 6.38,
+          "is_accent": false
+        },
+        {
+          "word": "ہے",
+          "start": 6.38,
+          "end": 6.6,
+          "is_accent": false
+        },
+        {
+          "word": "اس",
+          "start": 6.6,
+          "end": 6.84,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "اس"
+    },
+    {
+      "start": 6.84,
+      "end": 7.3,
+      "words": [
+        {
+          "word": "سے",
+          "start": 6.84,
+          "end": 6.94,
+          "is_accent": false
+        },
+        {
+          "word": "ہم",
+          "start": 6.94,
+          "end": 7.12,
+          "is_accent": false
+        },
+        {
+          "word": "سب",
+          "start": 7.12,
+          "end": 7.3,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "سب"
+    },
+    {
+      "start": 7.3,
+      "end": 8.18,
+      "words": [
+        {
+          "word": "ایکچلی",
+          "start": 7.3,
+          "end": 7.78,
+          "is_accent": false
+        },
+        {
+          "word": "رچ",
+          "start": 7.78,
+          "end": 8.04,
+          "is_accent": false
+        },
+        {
+          "word": "نہیں",
+          "start": 8.04,
+          "end": 8.18,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "نہیں"
+    },
+    {
+      "start": 8.18,
+      "end": 9.06,
+      "words": [
+        {
+          "word": "ہوں",
+          "start": 8.18,
+          "end": 8.46,
+          "is_accent": false
+        },
+        {
+          "word": "گے",
+          "start": 8.46,
+          "end": 8.56,
+          "is_accent": false
+        },
+        {
+          "word": "PROBLEM",
+          "start": 8.56,
+          "end": 9.06,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "PROBLEM"
+    },
+    {
+      "start": 9.06,
+      "end": 9.48,
+      "words": [
+        {
+          "word": "یہ",
+          "start": 9.06,
+          "end": 9.2,
+          "is_accent": false
+        },
+        {
+          "word": "ہے",
+          "start": 9.2,
+          "end": 9.34,
+          "is_accent": false
+        },
+        {
+          "word": "کہ",
+          "start": 9.34,
+          "end": 9.48,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "کہ"
+    },
+    {
+      "start": 9.48,
+      "end": 10.32,
+      "words": [
+        {
+          "word": "PESA",
+          "start": 9.48,
+          "end": 9.84,
+          "is_accent": false
+        },
+        {
+          "word": "PRINT",
+          "start": 9.84,
+          "end": 10.04,
+          "is_accent": false
+        },
+        {
+          "word": "کرنے",
+          "start": 10.04,
+          "end": 10.32,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "کرنے"
+    },
+    {
+      "start": 10.32,
+      "end": 11.16,
+      "words": [
+        {
+          "word": "سے",
+          "start": 10.32,
+          "end": 10.46,
+          "is_accent": false
+        },
+        {
+          "word": "Country",
+          "start": 10.46,
+          "end": 10.76,
+          "is_accent": false
+        },
+        {
+          "word": "Actually",
+          "start": 10.76,
+          "end": 11.16,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "Actually"
+    },
+    {
+      "start": 11.16,
+      "end": 11.96,
+      "words": [
+        {
+          "word": "Richer",
+          "start": 11.16,
+          "end": 11.52,
+          "is_accent": false
+        },
+        {
+          "word": "نہیں",
+          "start": 11.52,
+          "end": 11.66,
+          "is_accent": false
+        },
+        {
+          "word": "ہوتی",
+          "start": 11.66,
+          "end": 11.96,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "ہوتی"
+    },
+    {
+      "start": 11.96,
+      "end": 12.6,
+      "words": [
+        {
+          "word": "اگر",
+          "start": 11.96,
+          "end": 12.26,
+          "is_accent": false
+        },
+        {
+          "word": "سب",
+          "start": 12.26,
+          "end": 12.46,
+          "is_accent": false
+        },
+        {
+          "word": "کے",
+          "start": 12.46,
+          "end": 12.6,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "کے"
+    },
+    {
+      "start": 12.6,
+      "end": 13.52,
+      "words": [
+        {
+          "word": "پاس",
+          "start": 12.6,
+          "end": 12.76,
+          "is_accent": false
+        },
+        {
+          "word": "SADNLY",
+          "start": 12.76,
+          "end": 13.16,
+          "is_accent": false
+        },
+        {
+          "word": "بہت",
+          "start": 13.16,
+          "end": 13.52,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "بہت"
+    },
+    {
+      "start": 13.52,
+      "end": 14.52,
+      "words": [
+        {
+          "word": "زادہ",
+          "start": 13.52,
+          "end": 13.78,
+          "is_accent": false
+        },
+        {
+          "word": "پیسا",
+          "start": 13.78,
+          "end": 14.12,
+          "is_accent": false
+        },
+        {
+          "word": "آگیا",
+          "start": 14.12,
+          "end": 14.52,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "آگیا"
+    },
+    {
+      "start": 14.52,
+      "end": 15.26,
+      "words": [
+        {
+          "word": "تو",
+          "start": 14.52,
+          "end": 14.74,
+          "is_accent": false
+        },
+        {
+          "word": "چیزے",
+          "start": 14.74,
+          "end": 15.14,
+          "is_accent": false
+        },
+        {
+          "word": "بھی",
+          "start": 15.14,
+          "end": 15.26,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "بھی"
+    },
+    {
+      "start": 15.26,
+      "end": 16.0,
+      "words": [
+        {
+          "word": "اتنی",
+          "start": 15.26,
+          "end": 15.66,
+          "is_accent": false
+        },
+        {
+          "word": "ہی",
+          "start": 15.66,
+          "end": 15.74,
+          "is_accent": false
+        },
+        {
+          "word": "فاس",
+          "start": 15.74,
+          "end": 16.0,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "فاس"
+    },
+    {
+      "start": 16.0,
+      "end": 16.66,
+      "words": [
+        {
+          "word": "مہیں",
+          "start": 16.0,
+          "end": 16.24,
+          "is_accent": false
+        },
+        {
+          "word": "گی",
+          "start": 16.24,
+          "end": 16.4,
+          "is_accent": false
+        },
+        {
+          "word": "ہونے",
+          "start": 16.4,
+          "end": 16.66,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "ہونے"
+    },
+    {
+      "start": 16.66,
+      "end": 17.78,
+      "words": [
+        {
+          "word": "لگی",
+          "start": 16.66,
+          "end": 16.9,
+          "is_accent": false
+        },
+        {
+          "word": "Imagine",
+          "start": 16.9,
+          "end": 17.3,
+          "is_accent": false
+        },
+        {
+          "word": "کرو",
+          "start": 17.3,
+          "end": 17.78,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "کرو"
+    },
+    {
+      "start": 17.78,
+      "end": 18.4,
+      "words": [
+        {
+          "word": "کل",
+          "start": 17.78,
+          "end": 18.04,
+          "is_accent": false
+        },
+        {
+          "word": "سب",
+          "start": 18.04,
+          "end": 18.3,
+          "is_accent": false
+        },
+        {
+          "word": "کے",
+          "start": 18.3,
+          "end": 18.4,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "کے"
+    },
+    {
+      "start": 18.4,
+      "end": 19.14,
+      "words": [
+        {
+          "word": "بانک",
+          "start": 18.4,
+          "end": 18.72,
+          "is_accent": false
+        },
+        {
+          "word": "کاؤنٹ",
+          "start": 18.72,
+          "end": 19.04,
+          "is_accent": false
+        },
+        {
+          "word": "میں",
+          "start": 19.04,
+          "end": 19.14,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "میں"
+    },
+    {
+      "start": 19.14,
+      "end": 19.9,
+      "words": [
+        {
+          "word": "1",
+          "start": 19.14,
+          "end": 19.32,
+          "is_accent": false
+        },
+        {
+          "word": "کرو",
+          "start": 19.32,
+          "end": 19.64,
+          "is_accent": false
+        },
+        {
+          "word": "رہا",
+          "start": 19.64,
+          "end": 19.9,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "رہا"
+    },
+    {
+      "start": 19.9,
+      "end": 20.82,
+      "words": [
+        {
+          "word": "گیا",
+          "start": 19.9,
+          "end": 20.04,
+          "is_accent": false
+        },
+        {
+          "word": "آپ",
+          "start": 20.04,
+          "end": 20.32,
+          "is_accent": false
+        },
+        {
+          "word": "سوچوگے",
+          "start": 20.32,
+          "end": 20.82,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "سوچوگے"
+    },
+    {
+      "start": 30.56,
+      "end": 31.34,
+      "words": [
+        {
+          "word": "پیزا",
+          "start": 30.56,
+          "end": 31.0,
+          "is_accent": false
+        },
+        {
+          "word": "تین",
+          "start": 31.0,
+          "end": 31.16,
+          "is_accent": false
+        },
+        {
+          "word": "سو",
+          "start": 31.16,
+          "end": 31.34,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "سو"
+    },
+    {
+      "start": 31.34,
+      "end": 31.84,
+      "words": [
+        {
+          "word": "رپے",
+          "start": 31.34,
+          "end": 31.56,
+          "is_accent": false
+        },
+        {
+          "word": "کا",
+          "start": 31.56,
+          "end": 31.62,
+          "is_accent": false
+        },
+        {
+          "word": "کیوں",
+          "start": 31.62,
+          "end": 31.84,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "کیوں"
+    },
+    {
+      "start": 31.84,
+      "end": 32.34,
+      "words": [
+        {
+          "word": "رہے",
+          "start": 31.84,
+          "end": 32.06,
+          "is_accent": false
+        },
+        {
+          "word": "گا",
+          "start": 32.06,
+          "end": 32.14,
+          "is_accent": false
+        },
+        {
+          "word": "وہ",
+          "start": 32.14,
+          "end": 32.34,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "وہ"
+    },
+    {
+      "start": 32.34,
+      "end": 33.2,
+      "words": [
+        {
+          "word": "تین",
+          "start": 32.34,
+          "end": 32.6,
+          "is_accent": false
+        },
+        {
+          "word": "ہزاروپے",
+          "start": 32.6,
+          "end": 33.1,
+          "is_accent": false
+        },
+        {
+          "word": "کا",
+          "start": 33.1,
+          "end": 33.2,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "کا"
+    },
+    {
+      "start": 33.2,
+      "end": 33.9,
+      "words": [
+        {
+          "word": "بھی",
+          "start": 33.2,
+          "end": 33.32,
+          "is_accent": false
+        },
+        {
+          "word": "ہو",
+          "start": 33.32,
+          "end": 33.46,
+          "is_accent": false
+        },
+        {
+          "word": "سکتے",
+          "start": 33.46,
+          "end": 33.9,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "سکتے"
+    },
+    {
+      "start": 33.9,
+      "end": 34.92,
+      "words": [
+        {
+          "word": "بسکلی",
+          "start": 33.9,
+          "end": 34.4,
+          "is_accent": false
+        },
+        {
+          "word": "PESA",
+          "start": 34.4,
+          "end": 34.8,
+          "is_accent": false
+        },
+        {
+          "word": "کی",
+          "start": 34.8,
+          "end": 34.92,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "کی"
+    },
+    {
+      "start": 34.92,
+      "end": 35.68,
+      "words": [
+        {
+          "word": "value",
+          "start": 34.92,
+          "end": 35.18,
+          "is_accent": false
+        },
+        {
+          "word": "صرف",
+          "start": 35.18,
+          "end": 35.48,
+          "is_accent": false
+        },
+        {
+          "word": "اس",
+          "start": 35.48,
+          "end": 35.68,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "اس"
+    },
+    {
+      "start": 35.68,
+      "end": 36.22,
+      "words": [
+        {
+          "word": "بات",
+          "start": 35.68,
+          "end": 35.86,
+          "is_accent": false
+        },
+        {
+          "word": "سے",
+          "start": 35.86,
+          "end": 36.0,
+          "is_accent": false
+        },
+        {
+          "word": "decide",
+          "start": 36.0,
+          "end": 36.22,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "decide"
+    },
+    {
+      "start": 36.22,
+      "end": 36.88,
+      "words": [
+        {
+          "word": "نہیں",
+          "start": 36.22,
+          "end": 36.48,
+          "is_accent": false
+        },
+        {
+          "word": "ہوتی",
+          "start": 36.48,
+          "end": 36.76,
+          "is_accent": false
+        },
+        {
+          "word": "کہ",
+          "start": 36.76,
+          "end": 36.88,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "کہ"
+    },
+    {
+      "start": 36.88,
+      "end": 37.24,
+      "words": [
+        {
+          "word": "آپ",
+          "start": 36.88,
+          "end": 37.06,
+          "is_accent": false
+        },
+        {
+          "word": "کی",
+          "start": 37.06,
+          "end": 37.14,
+          "is_accent": false
+        },
+        {
+          "word": "ایک",
+          "start": 37.14,
+          "end": 37.24,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "ایک"
+    },
+    {
+      "start": 37.24,
+      "end": 37.78,
+      "words": [
+        {
+          "word": "کانوں",
+          "start": 37.24,
+          "end": 37.44,
+          "is_accent": false
+        },
+        {
+          "word": "میں",
+          "start": 37.44,
+          "end": 37.54,
+          "is_accent": false
+        },
+        {
+          "word": "کتھنے",
+          "start": 37.54,
+          "end": 37.78,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "کتھنے"
+    },
+    {
+      "start": 37.78,
+      "end": 38.78,
+      "words": [
+        {
+          "word": "روپیس",
+          "start": 37.78,
+          "end": 38.1,
+          "is_accent": false
+        },
+        {
+          "word": "پڑے",
+          "start": 38.1,
+          "end": 38.34,
+          "is_accent": false
+        },
+        {
+          "word": "اگر",
+          "start": 38.34,
+          "end": 38.78,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "اگر"
+    },
+    {
+      "start": 38.78,
+      "end": 39.42,
+      "words": [
+        {
+          "word": "1",
+          "start": 38.78,
+          "end": 39.0,
+          "is_accent": false
+        },
+        {
+          "word": "کرو",
+          "start": 39.0,
+          "end": 39.26,
+          "is_accent": false
+        },
+        {
+          "word": "رہا",
+          "start": 39.26,
+          "end": 39.42,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "رہا"
+    },
+    {
+      "start": 39.42,
+      "end": 39.82,
+      "words": [
+        {
+          "word": "سب",
+          "start": 39.42,
+          "end": 39.52,
+          "is_accent": false
+        },
+        {
+          "word": "کے",
+          "start": 39.52,
+          "end": 39.62,
+          "is_accent": false
+        },
+        {
+          "word": "پاس",
+          "start": 39.62,
+          "end": 39.82,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "پاس"
+    },
+    {
+      "start": 39.82,
+      "end": 40.66,
+      "words": [
+        {
+          "word": "آگیا",
+          "start": 39.82,
+          "end": 40.18,
+          "is_accent": false
+        },
+        {
+          "word": "تو",
+          "start": 40.18,
+          "end": 40.46,
+          "is_accent": false
+        },
+        {
+          "word": "1",
+          "start": 40.46,
+          "end": 40.66,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "1"
+    },
+    {
+      "start": 40.66,
+      "end": 41.06,
+      "words": [
+        {
+          "word": "کرو",
+          "start": 40.66,
+          "end": 40.92,
+          "is_accent": false
+        },
+        {
+          "word": "رہا",
+          "start": 40.92,
+          "end": 41.06,
+          "is_accent": false
+        },
+        {
+          "word": "کی",
+          "start": 41.0,
+          "end": 41.06,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "کی"
+    },
+    {
+      "start": 41.06,
+      "end": 42.2,
+      "words": [
+        {
+          "word": "Purchasing",
+          "start": 41.06,
+          "end": 41.48,
+          "is_accent": false
+        },
+        {
+          "word": "پاری",
+          "start": 41.48,
+          "end": 41.9,
+          "is_accent": false
+        },
+        {
+          "word": "چینج",
+          "start": 41.9,
+          "end": 42.2,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "چینج"
+    },
+    {
+      "start": 42.2,
+      "end": 42.58,
+      "words": [
+        {
+          "word": "ہو",
+          "start": 42.2,
+          "end": 42.24,
+          "is_accent": false
+        },
+        {
+          "word": "جائے",
+          "start": 42.24,
+          "end": 42.48,
+          "is_accent": false
+        },
+        {
+          "word": "گی",
+          "start": 42.48,
+          "end": 42.58,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "گی"
+    },
+    {
+      "start": 42.58,
+      "end": 43.3,
+      "words": [
+        {
+          "word": "تو",
+          "start": 42.58,
+          "end": 42.76,
+          "is_accent": false
+        },
+        {
+          "word": "SIMPLE",
+          "start": 42.76,
+          "end": 43.14,
+          "is_accent": false
+        },
+        {
+          "word": "سی",
+          "start": 43.14,
+          "end": 43.3,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "سی"
+    },
+    {
+      "start": 43.3,
+      "end": 44.1,
+      "words": [
+        {
+          "word": "بات",
+          "start": 43.3,
+          "end": 43.5,
+          "is_accent": false
+        },
+        {
+          "word": "ہے",
+          "start": 43.5,
+          "end": 43.7,
+          "is_accent": false
+        },
+        {
+          "word": "Government",
+          "start": 43.7,
+          "end": 44.1,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "Government"
+    },
+    {
+      "start": 44.1,
+      "end": 45.02,
+      "words": [
+        {
+          "word": "کے",
+          "start": 44.1,
+          "end": 44.32,
+          "is_accent": false
+        },
+        {
+          "word": "پاس",
+          "start": 44.32,
+          "end": 44.56,
+          "is_accent": false
+        },
+        {
+          "word": "Unlimited",
+          "start": 44.56,
+          "end": 45.02,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "Unlimited"
+    },
+    {
+      "start": 45.02,
+      "end": 45.94,
+      "words": [
+        {
+          "word": "Note",
+          "start": 45.02,
+          "end": 45.34,
+          "is_accent": false
+        },
+        {
+          "word": "Sprint",
+          "start": 45.34,
+          "end": 45.66,
+          "is_accent": false
+        },
+        {
+          "word": "کرنے",
+          "start": 45.66,
+          "end": 45.94,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "کرنے"
+    },
+    {
+      "start": 45.94,
+      "end": 46.5,
+      "words": [
+        {
+          "word": "کی",
+          "start": 45.94,
+          "end": 46.02,
+          "is_accent": false
+        },
+        {
+          "word": "Power",
+          "start": 46.02,
+          "end": 46.28,
+          "is_accent": false
+        },
+        {
+          "word": "ہو",
+          "start": 46.28,
+          "end": 46.5,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "ہو"
+    },
+    {
+      "start": 46.5,
+      "end": 47.02,
+      "words": [
+        {
+          "word": "سری",
+          "start": 46.5,
+          "end": 46.68,
+          "is_accent": false
+        },
+        {
+          "word": "ہے",
+          "start": 46.68,
+          "end": 46.76,
+          "is_accent": false
+        },
+        {
+          "word": "لیکن",
+          "start": 46.76,
+          "end": 47.02,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "لیکن"
+    },
+    {
+      "start": 47.02,
+      "end": 48.12,
+      "words": [
+        {
+          "word": "Unlimited",
+          "start": 47.02,
+          "end": 47.46,
+          "is_accent": false
+        },
+        {
+          "word": "Well",
+          "start": 47.46,
+          "end": 47.78,
+          "is_accent": false
+        },
+        {
+          "word": "Create",
+          "start": 47.78,
+          "end": 48.12,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "Create"
+    },
+    {
+      "start": 48.12,
+      "end": 48.6,
+      "words": [
+        {
+          "word": "کرنے",
+          "start": 48.12,
+          "end": 48.52,
+          "is_accent": false
+        },
+        {
+          "word": "کی",
+          "start": 48.52,
+          "end": 48.6,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "کی"
+    }
+  ],
+  "sfx_tracks": [
+    {
+      "timestamp": 0.0,
+      "name": "card-slide-1.mp3",
+      "category": "paper_and_cards",
+      "volume": 0.85
+    },
+    {
+      "timestamp": 10.46,
+      "name": "switch-001.mp3",
+      "category": "switches_and_toggles",
+      "volume": 0.8
+    },
+    {
+      "timestamp": 20.82,
+      "name": "click-soft.mp3",
+      "category": "clicks",
+      "volume": 0.8
+    },
+    {
+      "timestamp": 32.14,
+      "name": "book-flip-1.mp3",
+      "category": "paper_and_cards",
+      "volume": 0.85
+    },
+    {
+      "timestamp": 41.9,
+      "name": "card-shove-1.mp3",
+      "category": "paper_and_cards",
+      "volume": 0.85
+    },
+    {
+      "timestamp": 45.6,
+      "name": "success-chime.mp3",
+      "category": "bells_and_chimes",
+      "volume": 0.9
+    }
+  ],
+  "created_at": null
+}

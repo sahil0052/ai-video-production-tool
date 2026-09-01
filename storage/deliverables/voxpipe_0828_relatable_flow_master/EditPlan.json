@@ -1,0 +1,1709 @@
+{
+  "job_id": "voxpipe_0828_relatable_flow_master",
+  "source_video": "D:\\Downloads\\0828.mp4",
+  "duration": 55.74,
+  "fps": 30.0,
+  "style": "vox",
+  "beats": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 12.0,
+      "duration": 12.0,
+      "layout": "SPLIT_50_50",
+      "topic": "Think about the government and announce ",
+      "concept_summary": "Think about the government and announce that one of the bank accounts will be in every Indian bank account. Sounds amazing right? But it's a problem. We all will not be rich. The problem is that the country is not rich by printing money.",
+      "prompt_shot": "Background: a torn 1920s banking ledger page with columns of inked accounts at depth. FG: authentic paper collage cutouts representing Think about the government and announce that one of the bank accounts will be in every Indian bank account. Sounds amazing right? But it's a problem. We all will not be rich. The problem is that the country is not rich by printing money. snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera orbits a quarter turn, focus racking front to back. Settle on Think about the government and anno in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a torn 1920s banking ledger page with columns of inked accounts at depth. FG: authentic paper collage cutouts representing Think about the government and announce that one of the bank accounts will be in every Indian bank account. Sounds amazing right? But it's a problem. We all will not be rich. The problem is that the country is not rich by printing money. snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera orbits a quarter turn, focus racking front to back. Settle on Think about the government and anno in sharp focus.\n\nAUDIO: paper pops, whip whoosh, low newsroom hum — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 2,
+      "start": 12.0,
+      "end": 25.02,
+      "duration": 13.02,
+      "layout": "SPLIT_50_50",
+      "topic": "If everyone has more money suddenly, the",
+      "concept_summary": "If everyone has more money suddenly, then things will get so fast. Imagine that everyone has won in bank account yesterday. Think about it, now I am rich. But if everyone has one crore, then what is actually rich?",
+      "prompt_shot": "Background: stacked newspaper headline pages receding in deep perspective. FG: authentic paper collage cutouts representing If everyone has more money suddenly, then things will get so fast. Imagine that everyone has won in bank account yesterday. Think about it, now I am rich. But if everyone has one crore, then what is actually rich? snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera dives low between physical paper cutout layers with shallow depth of field. Settle on If everyone has more money suddenly in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: stacked newspaper headline pages receding in deep perspective. FG: authentic paper collage cutouts representing If everyone has more money suddenly, then things will get so fast. Imagine that everyone has won in bank account yesterday. Think about it, now I am rich. But if everyone has one crore, then what is actually rich? snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera dives low between physical paper cutout layers with shallow depth of field. Settle on If everyone has more money suddenly in sharp focus.\n\nAUDIO: submerge whoosh, deep pressure thud, paper thwip — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 3,
+      "start": 25.02,
+      "end": 37.4,
+      "duration": 12.38,
+      "layout": "SPLIT_50_50",
+      "topic": "Because if everyone has suddenly won in ",
+      "concept_summary": "Because if everyone has suddenly won in bank account, then seller knows that people pay more. Then why is the price of a pizza 30 rupees? It can be 30,000 rupees. Basically, the value of money is not only because of this, but also because of your account.",
+      "prompt_shot": "Background: an aged blueprint grid with architectural schematics and circuit traces. FG: authentic paper collage cutouts representing Because if everyone has suddenly won in bank account, then seller knows that people pay more. Then why is the price of a pizza 30 rupees? It can be 30,000 rupees. Basically, the value of money is not only because of this, but also because of your account. snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera pushes in steadily through a torn paper opening onto the central figure. Settle on Because if everyone has suddenly wo in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: an aged blueprint grid with architectural schematics and circuit traces. FG: authentic paper collage cutouts representing Because if everyone has suddenly won in bank account, then seller knows that people pay more. Then why is the price of a pizza 30 rupees? It can be 30,000 rupees. Basically, the value of money is not only because of this, but also because of your account. snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera pushes in steadily through a torn paper opening onto the central figure. Settle on Because if everyone has suddenly wo in sharp focus.\n\nAUDIO: paper tear, friction slide, low hum — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 4,
+      "start": 37.4,
+      "end": 53.54,
+      "duration": 16.14,
+      "layout": "FULL_EXPLAINER",
+      "topic": "If everyone has won in one crore, then t",
+      "concept_summary": "If everyone has won in one crore, then the purchasing power of one crore will change. So it's simple. Government has the power to print unlimited notes. But it's not to create unlimited wealth. The real wealth tab is when the economy increases in actual goods, services and productivity.",
+      "prompt_shot": "Background: stacked newspaper headline pages receding in deep perspective. FG: authentic paper collage cutouts representing If everyone has won in one crore, then the purchasing power of one crore will change. So it's simple. Government has the power to print unlimited notes. But it's not to create unlimited wealth. The real wealth tab is when the economy increases in actual goods, services and productivity. snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera performs a fast lateral track then hard stops with elastic overshoot. Settle on If everyone has won in one crore, t in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: stacked newspaper headline pages receding in deep perspective. FG: authentic paper collage cutouts representing If everyone has won in one crore, then the purchasing power of one crore will change. So it's simple. Government has the power to print unlimited notes. But it's not to create unlimited wealth. The real wealth tab is when the economy increases in actual goods, services and productivity. snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera performs a fast lateral track then hard stops with elastic overshoot. Settle on If everyone has won in one crore, t in sharp focus.\n\nAUDIO: track rumble, stall click, paper pop — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    },
+    {
+      "id": 5,
+      "start": 53.54,
+      "end": 55.74,
+      "duration": 2.2,
+      "layout": "SPLIT_50_50",
+      "topic": "If you have such a money concept, then f",
+      "concept_summary": "If you have such a money concept, then follow it.",
+      "prompt_shot": "Background: a sepia financial chart engraving with etched grid lines and depth falloff. FG: authentic paper collage cutouts representing If you have such a money concept, then follow it. snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera cranes up slowly over the layered stack while racking focus. Settle on If you have such a money concept, t in sharp focus.",
+      "prompt_full": "Use the attached style sheet for materials only — aged-print collage textures, halftone black-and-white cutout people with rough keylines and offset accent strokes, giant stat numbers, print grain. Do NOT copy the sheet's layout or its flatness: every clip is a deep 3D paper diorama — cutouts are physical layers separated in real space, strong shallow depth of field, foreground elements crossing close to the lens. The camera is an actor: it flies between layers, orbits, dives, whips, racks focus — one committed cinematic move per clip. Backgrounds change per clip, always within the sheet's palette. ALERT WASH means the entire frame floods to the hot accent tone in one beat. Motion: springs with overshoot, staggered entrances, ticking counters. Audio: sound design only — paper pops, whooshes, stamps, ticks. No music. No voice-over.\n\nSHOT: Background: a sepia financial chart engraving with etched grid lines and depth falloff. FG: authentic paper collage cutouts representing If you have such a money concept, then follow it. snap in at three distinct depth planes with rough white keylines and offset red marker strokes. Connective elements activate as red ink marker arrows draw connections and giant stat numbers stamp down. Camera cranes up slowly over the layered stack while racking focus. Settle on If you have such a money concept, t in sharp focus.\n\nAUDIO: riser whoosh, stamp thud, low newsroom hum — sound design only, no music, no narration.\n\nAVOID: no flat single-plane composition, no static locked-off camera, no glossy plastic CG (depth stays papercraft), no full-color midground portraits (people stay halftone black-and-white), no warped or gibberish text, no invented logos, no watermarks, no music, no soundtrack, no voice-over, no narration, no lyrics, no UI or glass elements",
+      "asset_path": null,
+      "asset_engine": "flow_i2v"
+    }
+  ],
+  "captions": [
+    {
+      "start": 0.0,
+      "end": 0.48,
+      "words": [
+        {
+          "word": "Think",
+          "start": 0.0,
+          "end": 0.24,
+          "is_accent": false
+        },
+        {
+          "word": "about",
+          "start": 0.24,
+          "end": 0.44,
+          "is_accent": false
+        },
+        {
+          "word": "the",
+          "start": 0.44,
+          "end": 0.48,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "the"
+    },
+    {
+      "start": 0.48,
+      "end": 1.74,
+      "words": [
+        {
+          "word": "government",
+          "start": 0.48,
+          "end": 0.78,
+          "is_accent": false
+        },
+        {
+          "word": "and",
+          "start": 0.78,
+          "end": 1.7,
+          "is_accent": false
+        },
+        {
+          "word": "announce",
+          "start": 1.7,
+          "end": 1.74,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "announce"
+    },
+    {
+      "start": 1.7,
+      "end": 1.86,
+      "words": [
+        {
+          "word": "that",
+          "start": 1.7,
+          "end": 1.74,
+          "is_accent": false
+        },
+        {
+          "word": "one",
+          "start": 1.74,
+          "end": 1.82,
+          "is_accent": false
+        },
+        {
+          "word": "of",
+          "start": 1.82,
+          "end": 1.86,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "of"
+    },
+    {
+      "start": 1.86,
+      "end": 1.98,
+      "words": [
+        {
+          "word": "the",
+          "start": 1.86,
+          "end": 1.9000000000000001,
+          "is_accent": false
+        },
+        {
+          "word": "bank",
+          "start": 1.9000000000000001,
+          "end": 1.94,
+          "is_accent": false
+        },
+        {
+          "word": "accounts",
+          "start": 1.94,
+          "end": 1.98,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "accounts"
+    },
+    {
+      "start": 1.98,
+      "end": 2.1,
+      "words": [
+        {
+          "word": "will",
+          "start": 1.98,
+          "end": 2.02,
+          "is_accent": false
+        },
+        {
+          "word": "be",
+          "start": 2.02,
+          "end": 2.06,
+          "is_accent": false
+        },
+        {
+          "word": "in",
+          "start": 2.06,
+          "end": 2.1,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "in"
+    },
+    {
+      "start": 1.82,
+      "end": 2.58,
+      "words": [
+        {
+          "word": "every",
+          "start": 1.82,
+          "end": 1.96,
+          "is_accent": false
+        },
+        {
+          "word": "Indian",
+          "start": 1.96,
+          "end": 2.2,
+          "is_accent": false
+        },
+        {
+          "word": "bank",
+          "start": 2.2,
+          "end": 2.58,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "bank"
+    },
+    {
+      "start": 2.58,
+      "end": 5.2,
+      "words": [
+        {
+          "word": "account.",
+          "start": 2.58,
+          "end": 3.88,
+          "is_accent": false
+        },
+        {
+          "word": "Sounds",
+          "start": 4.34,
+          "end": 4.82,
+          "is_accent": false
+        },
+        {
+          "word": "amazing",
+          "start": 4.82,
+          "end": 5.2,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "amazing"
+    },
+    {
+      "start": 5.2,
+      "end": 5.98,
+      "words": [
+        {
+          "word": "right?",
+          "start": 5.2,
+          "end": 5.44,
+          "is_accent": false
+        },
+        {
+          "word": "But",
+          "start": 5.82,
+          "end": 5.86,
+          "is_accent": false
+        },
+        {
+          "word": "it's",
+          "start": 5.86,
+          "end": 5.98,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "it's"
+    },
+    {
+      "start": 5.98,
+      "end": 7.06,
+      "words": [
+        {
+          "word": "a",
+          "start": 5.98,
+          "end": 6.0600000000000005,
+          "is_accent": false
+        },
+        {
+          "word": "problem.",
+          "start": 5.98,
+          "end": 6.38,
+          "is_accent": false
+        },
+        {
+          "word": "We",
+          "start": 6.7,
+          "end": 7.06,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "We"
+    },
+    {
+      "start": 7.06,
+      "end": 7.48,
+      "words": [
+        {
+          "word": "all",
+          "start": 7.06,
+          "end": 7.28,
+          "is_accent": false
+        },
+        {
+          "word": "will",
+          "start": 7.28,
+          "end": 7.4,
+          "is_accent": false
+        },
+        {
+          "word": "not",
+          "start": 7.4,
+          "end": 7.48,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "not"
+    },
+    {
+      "start": 7.4,
+      "end": 8.74,
+      "words": [
+        {
+          "word": "be",
+          "start": 7.4,
+          "end": 8.38,
+          "is_accent": false
+        },
+        {
+          "word": "rich.",
+          "start": 8.32,
+          "end": 8.38,
+          "is_accent": false
+        },
+        {
+          "word": "The",
+          "start": 8.58,
+          "end": 8.74,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "The"
+    },
+    {
+      "start": 8.74,
+      "end": 9.48,
+      "words": [
+        {
+          "word": "problem",
+          "start": 8.74,
+          "end": 8.98,
+          "is_accent": false
+        },
+        {
+          "word": "is",
+          "start": 8.98,
+          "end": 9.32,
+          "is_accent": false
+        },
+        {
+          "word": "that",
+          "start": 9.32,
+          "end": 9.48,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "that"
+    },
+    {
+      "start": 9.48,
+      "end": 10.9,
+      "words": [
+        {
+          "word": "the",
+          "start": 9.48,
+          "end": 9.88,
+          "is_accent": false
+        },
+        {
+          "word": "country",
+          "start": 9.88,
+          "end": 10.72,
+          "is_accent": false
+        },
+        {
+          "word": "is",
+          "start": 10.72,
+          "end": 10.9,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "is"
+    },
+    {
+      "start": 10.9,
+      "end": 12.0,
+      "words": [
+        {
+          "word": "not",
+          "start": 10.9,
+          "end": 11.12,
+          "is_accent": false
+        },
+        {
+          "word": "rich",
+          "start": 11.12,
+          "end": 11.82,
+          "is_accent": false
+        },
+        {
+          "word": "by",
+          "start": 11.82,
+          "end": 12.0,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "by"
+    },
+    {
+      "start": 11.88,
+      "end": 12.22,
+      "words": [
+        {
+          "word": "printing",
+          "start": 11.88,
+          "end": 11.940000000000001,
+          "is_accent": false
+        },
+        {
+          "word": "money.",
+          "start": 11.940000000000001,
+          "end": 12.0,
+          "is_accent": false
+        },
+        {
+          "word": "If",
+          "start": 12.02,
+          "end": 12.22,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "If"
+    },
+    {
+      "start": 12.22,
+      "end": 12.86,
+      "words": [
+        {
+          "word": "everyone",
+          "start": 12.22,
+          "end": 12.58,
+          "is_accent": false
+        },
+        {
+          "word": "has",
+          "start": 12.58,
+          "end": 12.82,
+          "is_accent": false
+        },
+        {
+          "word": "more",
+          "start": 12.82,
+          "end": 12.86,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "more"
+    },
+    {
+      "start": 12.86,
+      "end": 14.74,
+      "words": [
+        {
+          "word": "money",
+          "start": 12.86,
+          "end": 13.76,
+          "is_accent": false
+        },
+        {
+          "word": "suddenly,",
+          "start": 13.76,
+          "end": 13.84,
+          "is_accent": false
+        },
+        {
+          "word": "then",
+          "start": 14.58,
+          "end": 14.74,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "then"
+    },
+    {
+      "start": 14.74,
+      "end": 15.38,
+      "words": [
+        {
+          "word": "things",
+          "start": 14.74,
+          "end": 15.02,
+          "is_accent": false
+        },
+        {
+          "word": "will",
+          "start": 15.02,
+          "end": 15.34,
+          "is_accent": false
+        },
+        {
+          "word": "get",
+          "start": 15.34,
+          "end": 15.38,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "get"
+    },
+    {
+      "start": 15.34,
+      "end": 17.46,
+      "words": [
+        {
+          "word": "so",
+          "start": 15.34,
+          "end": 15.38,
+          "is_accent": false
+        },
+        {
+          "word": "fast.",
+          "start": 15.38,
+          "end": 15.98,
+          "is_accent": false
+        },
+        {
+          "word": "Imagine",
+          "start": 16.98,
+          "end": 17.46,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "Imagine"
+    },
+    {
+      "start": 17.46,
+      "end": 18.5,
+      "words": [
+        {
+          "word": "that",
+          "start": 17.46,
+          "end": 17.92,
+          "is_accent": false
+        },
+        {
+          "word": "everyone",
+          "start": 17.92,
+          "end": 18.24,
+          "is_accent": false
+        },
+        {
+          "word": "has",
+          "start": 18.24,
+          "end": 18.5,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "has"
+    },
+    {
+      "start": 18.5,
+      "end": 18.7,
+      "words": [
+        {
+          "word": "won",
+          "start": 18.5,
+          "end": 18.58,
+          "is_accent": false
+        },
+        {
+          "word": "in",
+          "start": 18.58,
+          "end": 18.66,
+          "is_accent": false
+        },
+        {
+          "word": "bank",
+          "start": 18.5,
+          "end": 18.7,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "bank"
+    },
+    {
+      "start": 18.7,
+      "end": 20.44,
+      "words": [
+        {
+          "word": "account",
+          "start": 18.7,
+          "end": 19.68,
+          "is_accent": false
+        },
+        {
+          "word": "yesterday.",
+          "start": 19.62,
+          "end": 19.68,
+          "is_accent": false
+        },
+        {
+          "word": "Think",
+          "start": 20.08,
+          "end": 20.44,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "Think"
+    },
+    {
+      "start": 20.44,
+      "end": 21.1,
+      "words": [
+        {
+          "word": "about",
+          "start": 20.44,
+          "end": 20.76,
+          "is_accent": false
+        },
+        {
+          "word": "it,",
+          "start": 20.76,
+          "end": 20.86,
+          "is_accent": false
+        },
+        {
+          "word": "now",
+          "start": 20.86,
+          "end": 21.1,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "now"
+    },
+    {
+      "start": 21.1,
+      "end": 21.62,
+      "words": [
+        {
+          "word": "I",
+          "start": 21.1,
+          "end": 21.38,
+          "is_accent": false
+        },
+        {
+          "word": "am",
+          "start": 21.38,
+          "end": 21.459999999999997,
+          "is_accent": false
+        },
+        {
+          "word": "rich.",
+          "start": 21.38,
+          "end": 21.62,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "rich."
+    },
+    {
+      "start": 22.04,
+      "end": 22.78,
+      "words": [
+        {
+          "word": "But",
+          "start": 22.04,
+          "end": 22.22,
+          "is_accent": false
+        },
+        {
+          "word": "if",
+          "start": 22.22,
+          "end": 22.38,
+          "is_accent": false
+        },
+        {
+          "word": "everyone",
+          "start": 22.38,
+          "end": 22.78,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "everyone"
+    },
+    {
+      "start": 22.78,
+      "end": 23.6,
+      "words": [
+        {
+          "word": "has",
+          "start": 22.78,
+          "end": 22.98,
+          "is_accent": false
+        },
+        {
+          "word": "one",
+          "start": 22.98,
+          "end": 23.22,
+          "is_accent": false
+        },
+        {
+          "word": "crore,",
+          "start": 23.22,
+          "end": 23.6,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "crore,"
+    },
+    {
+      "start": 23.88,
+      "end": 24.38,
+      "words": [
+        {
+          "word": "then",
+          "start": 23.88,
+          "end": 24.0,
+          "is_accent": false
+        },
+        {
+          "word": "what",
+          "start": 24.0,
+          "end": 24.16,
+          "is_accent": false
+        },
+        {
+          "word": "is",
+          "start": 24.16,
+          "end": 24.38,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "is"
+    },
+    {
+      "start": 24.38,
+      "end": 25.5,
+      "words": [
+        {
+          "word": "actually",
+          "start": 24.38,
+          "end": 24.68,
+          "is_accent": false
+        },
+        {
+          "word": "rich?",
+          "start": 24.68,
+          "end": 25.02,
+          "is_accent": false
+        },
+        {
+          "word": "Because",
+          "start": 25.32,
+          "end": 25.5,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "Because"
+    },
+    {
+      "start": 25.5,
+      "end": 26.42,
+      "words": [
+        {
+          "word": "if",
+          "start": 25.5,
+          "end": 25.74,
+          "is_accent": false
+        },
+        {
+          "word": "everyone",
+          "start": 25.74,
+          "end": 26.16,
+          "is_accent": false
+        },
+        {
+          "word": "has",
+          "start": 26.16,
+          "end": 26.42,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "has"
+    },
+    {
+      "start": 26.42,
+      "end": 27.72,
+      "words": [
+        {
+          "word": "suddenly",
+          "start": 26.42,
+          "end": 26.78,
+          "is_accent": false
+        },
+        {
+          "word": "won",
+          "start": 26.78,
+          "end": 27.0,
+          "is_accent": false
+        },
+        {
+          "word": "in",
+          "start": 27.0,
+          "end": 27.72,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "in"
+    },
+    {
+      "start": 27.72,
+      "end": 27.98,
+      "words": [
+        {
+          "word": "bank",
+          "start": 27.72,
+          "end": 27.81,
+          "is_accent": false
+        },
+        {
+          "word": "account,",
+          "start": 27.81,
+          "end": 27.9,
+          "is_accent": false
+        },
+        {
+          "word": "then",
+          "start": 27.9,
+          "end": 27.98,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "then"
+    },
+    {
+      "start": 27.98,
+      "end": 29.06,
+      "words": [
+        {
+          "word": "seller",
+          "start": 27.98,
+          "end": 28.26,
+          "is_accent": false
+        },
+        {
+          "word": "knows",
+          "start": 28.26,
+          "end": 28.84,
+          "is_accent": false
+        },
+        {
+          "word": "that",
+          "start": 28.84,
+          "end": 29.06,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "that"
+    },
+    {
+      "start": 29.06,
+      "end": 29.48,
+      "words": [
+        {
+          "word": "people",
+          "start": 29.06,
+          "end": 29.26,
+          "is_accent": false
+        },
+        {
+          "word": "pay",
+          "start": 29.26,
+          "end": 29.42,
+          "is_accent": false
+        },
+        {
+          "word": "more.",
+          "start": 29.42,
+          "end": 29.48,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "more."
+    },
+    {
+      "start": 29.48,
+      "end": 30.779999999999998,
+      "words": [
+        {
+          "word": "Then",
+          "start": 29.48,
+          "end": 30.58,
+          "is_accent": false
+        },
+        {
+          "word": "why",
+          "start": 30.58,
+          "end": 30.74,
+          "is_accent": false
+        },
+        {
+          "word": "is",
+          "start": 30.74,
+          "end": 30.779999999999998,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "is"
+    },
+    {
+      "start": 30.779999999999998,
+      "end": 30.9,
+      "words": [
+        {
+          "word": "the",
+          "start": 30.779999999999998,
+          "end": 30.819999999999997,
+          "is_accent": false
+        },
+        {
+          "word": "price",
+          "start": 30.819999999999997,
+          "end": 30.86,
+          "is_accent": false
+        },
+        {
+          "word": "of",
+          "start": 30.86,
+          "end": 30.9,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "of"
+    },
+    {
+      "start": 30.9,
+      "end": 31.32,
+      "words": [
+        {
+          "word": "a",
+          "start": 30.9,
+          "end": 30.939999999999998,
+          "is_accent": false
+        },
+        {
+          "word": "pizza",
+          "start": 30.74,
+          "end": 30.9,
+          "is_accent": false
+        },
+        {
+          "word": "30",
+          "start": 30.9,
+          "end": 31.32,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "30"
+    },
+    {
+      "start": 31.32,
+      "end": 32.46,
+      "words": [
+        {
+          "word": "rupees?",
+          "start": 31.32,
+          "end": 31.52,
+          "is_accent": false
+        },
+        {
+          "word": "It",
+          "start": 32.2,
+          "end": 32.36,
+          "is_accent": false
+        },
+        {
+          "word": "can",
+          "start": 32.36,
+          "end": 32.46,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "can"
+    },
+    {
+      "start": 32.46,
+      "end": 32.86,
+      "words": [
+        {
+          "word": "be",
+          "start": 32.46,
+          "end": 32.52,
+          "is_accent": false
+        },
+        {
+          "word": "30",
+          "start": 32.46,
+          "end": 32.52,
+          "is_accent": false
+        },
+        {
+          "word": ",000",
+          "start": 32.52,
+          "end": 32.86,
+          "is_accent": true
+        }
+      ],
+      "accent_word": ",000"
+    },
+    {
+      "start": 32.86,
+      "end": 34.56,
+      "words": [
+        {
+          "word": "rupees.",
+          "start": 32.86,
+          "end": 33.2,
+          "is_accent": false
+        },
+        {
+          "word": "Basically,",
+          "start": 33.88,
+          "end": 34.38,
+          "is_accent": false
+        },
+        {
+          "word": "the",
+          "start": 34.52,
+          "end": 34.56,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "the"
+    },
+    {
+      "start": 34.56,
+      "end": 35.4,
+      "words": [
+        {
+          "word": "value",
+          "start": 34.56,
+          "end": 35.18,
+          "is_accent": false
+        },
+        {
+          "word": "of",
+          "start": 35.18,
+          "end": 35.32,
+          "is_accent": false
+        },
+        {
+          "word": "money",
+          "start": 35.32,
+          "end": 35.4,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "money"
+    },
+    {
+      "start": 35.4,
+      "end": 35.593333333333334,
+      "words": [
+        {
+          "word": "is",
+          "start": 35.4,
+          "end": 35.48,
+          "is_accent": false
+        },
+        {
+          "word": "not",
+          "start": 35.32,
+          "end": 35.54,
+          "is_accent": false
+        },
+        {
+          "word": "only",
+          "start": 35.54,
+          "end": 35.593333333333334,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "only"
+    },
+    {
+      "start": 35.593333333333334,
+      "end": 35.7,
+      "words": [
+        {
+          "word": "because",
+          "start": 35.593333333333334,
+          "end": 35.64666666666667,
+          "is_accent": false
+        },
+        {
+          "word": "of",
+          "start": 35.64666666666667,
+          "end": 35.7,
+          "is_accent": false
+        },
+        {
+          "word": "this,",
+          "start": 35.54,
+          "end": 35.7,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "this,"
+    },
+    {
+      "start": 36.3,
+      "end": 36.94,
+      "words": [
+        {
+          "word": "but",
+          "start": 36.3,
+          "end": 36.88,
+          "is_accent": false
+        },
+        {
+          "word": "also",
+          "start": 36.88,
+          "end": 36.9,
+          "is_accent": false
+        },
+        {
+          "word": "because",
+          "start": 36.9,
+          "end": 36.94,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "because"
+    },
+    {
+      "start": 36.9,
+      "end": 37.4,
+      "words": [
+        {
+          "word": "of",
+          "start": 36.9,
+          "end": 36.94,
+          "is_accent": false
+        },
+        {
+          "word": "your",
+          "start": 36.94,
+          "end": 37.08,
+          "is_accent": false
+        },
+        {
+          "word": "account.",
+          "start": 37.08,
+          "end": 37.4,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "account."
+    },
+    {
+      "start": 38.4,
+      "end": 39.0,
+      "words": [
+        {
+          "word": "If",
+          "start": 38.4,
+          "end": 38.7,
+          "is_accent": false
+        },
+        {
+          "word": "everyone",
+          "start": 38.7,
+          "end": 38.92,
+          "is_accent": false
+        },
+        {
+          "word": "has",
+          "start": 38.92,
+          "end": 39.0,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "has"
+    },
+    {
+      "start": 39.0,
+      "end": 39.18,
+      "words": [
+        {
+          "word": "won",
+          "start": 39.0,
+          "end": 39.08,
+          "is_accent": false
+        },
+        {
+          "word": "in",
+          "start": 38.92,
+          "end": 39.1,
+          "is_accent": false
+        },
+        {
+          "word": "one",
+          "start": 39.1,
+          "end": 39.18,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "one"
+    },
+    {
+      "start": 39.1,
+      "end": 41.06,
+      "words": [
+        {
+          "word": "crore,",
+          "start": 39.1,
+          "end": 39.28,
+          "is_accent": false
+        },
+        {
+          "word": "then",
+          "start": 39.74,
+          "end": 40.44,
+          "is_accent": false
+        },
+        {
+          "word": "the",
+          "start": 40.44,
+          "end": 41.06,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "the"
+    },
+    {
+      "start": 41.06,
+      "end": 41.92,
+      "words": [
+        {
+          "word": "purchasing",
+          "start": 41.06,
+          "end": 41.36,
+          "is_accent": false
+        },
+        {
+          "word": "power",
+          "start": 41.36,
+          "end": 41.74,
+          "is_accent": false
+        },
+        {
+          "word": "of",
+          "start": 41.74,
+          "end": 41.92,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "of"
+    },
+    {
+      "start": 41.92,
+      "end": 42.160000000000004,
+      "words": [
+        {
+          "word": "one",
+          "start": 41.92,
+          "end": 42.0,
+          "is_accent": false
+        },
+        {
+          "word": "crore",
+          "start": 42.0,
+          "end": 42.080000000000005,
+          "is_accent": false
+        },
+        {
+          "word": "will",
+          "start": 42.080000000000005,
+          "end": 42.160000000000004,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "will"
+    },
+    {
+      "start": 41.92,
+      "end": 42.84,
+      "words": [
+        {
+          "word": "change.",
+          "start": 41.92,
+          "end": 42.34,
+          "is_accent": false
+        },
+        {
+          "word": "So",
+          "start": 42.64,
+          "end": 42.74,
+          "is_accent": false
+        },
+        {
+          "word": "it's",
+          "start": 42.74,
+          "end": 42.84,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "it's"
+    },
+    {
+      "start": 42.84,
+      "end": 44.52,
+      "words": [
+        {
+          "word": "simple.",
+          "start": 42.84,
+          "end": 43.08,
+          "is_accent": false
+        },
+        {
+          "word": "Government",
+          "start": 43.7,
+          "end": 44.14,
+          "is_accent": false
+        },
+        {
+          "word": "has",
+          "start": 44.14,
+          "end": 44.52,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "has"
+    },
+    {
+      "start": 44.52,
+      "end": 46.62,
+      "words": [
+        {
+          "word": "the",
+          "start": 44.52,
+          "end": 44.9,
+          "is_accent": false
+        },
+        {
+          "word": "power",
+          "start": 44.9,
+          "end": 45.04,
+          "is_accent": false
+        },
+        {
+          "word": "to",
+          "start": 45.04,
+          "end": 46.62,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "to"
+    },
+    {
+      "start": 46.44,
+      "end": 46.62,
+      "words": [
+        {
+          "word": "print",
+          "start": 46.44,
+          "end": 46.5,
+          "is_accent": false
+        },
+        {
+          "word": "unlimited",
+          "start": 46.5,
+          "end": 46.559999999999995,
+          "is_accent": false
+        },
+        {
+          "word": "notes.",
+          "start": 46.559999999999995,
+          "end": 46.62,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "notes."
+    },
+    {
+      "start": 46.64,
+      "end": 47.239999999999995,
+      "words": [
+        {
+          "word": "But",
+          "start": 46.64,
+          "end": 46.98,
+          "is_accent": false
+        },
+        {
+          "word": "it's",
+          "start": 46.98,
+          "end": 47.16,
+          "is_accent": false
+        },
+        {
+          "word": "not",
+          "start": 47.16,
+          "end": 47.239999999999995,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "not"
+    },
+    {
+      "start": 47.239999999999995,
+      "end": 47.52,
+      "words": [
+        {
+          "word": "to",
+          "start": 47.239999999999995,
+          "end": 47.32,
+          "is_accent": false
+        },
+        {
+          "word": "create",
+          "start": 47.32,
+          "end": 47.4,
+          "is_accent": false
+        },
+        {
+          "word": "unlimited",
+          "start": 47.16,
+          "end": 47.52,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "unlimited"
+    },
+    {
+      "start": 47.52,
+      "end": 49.16,
+      "words": [
+        {
+          "word": "wealth.",
+          "start": 47.52,
+          "end": 47.9,
+          "is_accent": false
+        },
+        {
+          "word": "The",
+          "start": 48.64,
+          "end": 49.04,
+          "is_accent": false
+        },
+        {
+          "word": "real",
+          "start": 49.04,
+          "end": 49.16,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "real"
+    },
+    {
+      "start": 49.16,
+      "end": 49.88,
+      "words": [
+        {
+          "word": "wealth",
+          "start": 49.16,
+          "end": 49.52,
+          "is_accent": false
+        },
+        {
+          "word": "tab",
+          "start": 49.52,
+          "end": 49.72,
+          "is_accent": false
+        },
+        {
+          "word": "is",
+          "start": 49.72,
+          "end": 49.88,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "is"
+    },
+    {
+      "start": 49.88,
+      "end": 51.0,
+      "words": [
+        {
+          "word": "when",
+          "start": 49.88,
+          "end": 50.38,
+          "is_accent": false
+        },
+        {
+          "word": "the",
+          "start": 50.38,
+          "end": 50.56,
+          "is_accent": false
+        },
+        {
+          "word": "economy",
+          "start": 50.56,
+          "end": 51.0,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "economy"
+    },
+    {
+      "start": 51.0,
+      "end": 51.58,
+      "words": [
+        {
+          "word": "increases",
+          "start": 51.0,
+          "end": 51.16,
+          "is_accent": false
+        },
+        {
+          "word": "in",
+          "start": 51.16,
+          "end": 51.239999999999995,
+          "is_accent": false
+        },
+        {
+          "word": "actual",
+          "start": 51.16,
+          "end": 51.58,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "actual"
+    },
+    {
+      "start": 51.58,
+      "end": 52.92,
+      "words": [
+        {
+          "word": "goods,",
+          "start": 51.58,
+          "end": 51.9,
+          "is_accent": false
+        },
+        {
+          "word": "services",
+          "start": 52.2,
+          "end": 52.6,
+          "is_accent": false
+        },
+        {
+          "word": "and",
+          "start": 52.6,
+          "end": 52.92,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "and"
+    },
+    {
+      "start": 52.92,
+      "end": 54.46,
+      "words": [
+        {
+          "word": "productivity.",
+          "start": 52.92,
+          "end": 53.54,
+          "is_accent": false
+        },
+        {
+          "word": "If",
+          "start": 54.22,
+          "end": 54.34,
+          "is_accent": false
+        },
+        {
+          "word": "you",
+          "start": 54.34,
+          "end": 54.46,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "you"
+    },
+    {
+      "start": 54.46,
+      "end": 54.58,
+      "words": [
+        {
+          "word": "have",
+          "start": 54.46,
+          "end": 54.519999999999996,
+          "is_accent": false
+        },
+        {
+          "word": "such",
+          "start": 54.519999999999996,
+          "end": 54.58,
+          "is_accent": false
+        },
+        {
+          "word": "a",
+          "start": 54.46,
+          "end": 54.58,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "a"
+    },
+    {
+      "start": 54.58,
+      "end": 55.72,
+      "words": [
+        {
+          "word": "money",
+          "start": 54.58,
+          "end": 54.7,
+          "is_accent": false
+        },
+        {
+          "word": "concept,",
+          "start": 54.7,
+          "end": 55.1,
+          "is_accent": false
+        },
+        {
+          "word": "then",
+          "start": 55.28,
+          "end": 55.72,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "then"
+    },
+    {
+      "start": 55.72,
+      "end": 55.74,
+      "words": [
+        {
+          "word": "follow",
+          "start": 55.72,
+          "end": 55.74,
+          "is_accent": false
+        },
+        {
+          "word": "it.",
+          "start": 55.72,
+          "end": 55.74,
+          "is_accent": true
+        }
+      ],
+      "accent_word": "it."
+    }
+  ],
+  "sfx_tracks": [
+    {
+      "timestamp": 0.0,
+      "name": "card-slide-1.mp3",
+      "category": "paper_and_cards",
+      "volume": 0.85
+    },
+    {
+      "timestamp": 12.0,
+      "name": "switch-001.mp3",
+      "category": "switches_and_toggles",
+      "volume": 0.8
+    },
+    {
+      "timestamp": 25.02,
+      "name": "click-soft.mp3",
+      "category": "clicks",
+      "volume": 0.8
+    },
+    {
+      "timestamp": 37.4,
+      "name": "book-flip-1.mp3",
+      "category": "paper_and_cards",
+      "volume": 0.85
+    },
+    {
+      "timestamp": 53.54,
+      "name": "card-shove-1.mp3",
+      "category": "paper_and_cards",
+      "volume": 0.85
+    },
+    {
+      "timestamp": 52.74,
+      "name": "success-chime.mp3",
+      "category": "bells_and_chimes",
+      "volume": 0.9
+    }
+  ],
+  "created_at": null
+}
