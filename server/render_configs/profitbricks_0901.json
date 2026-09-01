@@ -1,0 +1,32 @@
+{
+  "timeline": [
+    { "start": 0.00, "end": 2.70, "layout": "FULL_CHAR" },
+    { "start": 2.70, "end": 7.14, "layout": "SPLIT_FLOW", "clip": "flow_0901_04_gold_paradox.mp4" },
+    { "start": 7.14, "end": 15.02, "layout": "FULL_FLOW", "clip": "flow_0901_01_dollar_surge.mp4" },
+    { "start": 15.02, "end": 22.00, "layout": "SPLIT_FLOW", "clip": "flow_0901_05_formula_engine.mp4" },
+    { "start": 22.00, "end": 30.18, "layout": "FULL_FLOW", "clip": "flow_0901_02_double_whammy.mp4" },
+    { "start": 30.18, "end": 38.02, "layout": "FULL_CHAR" },
+    { "start": 38.02, "end": 44.54, "layout": "SPLIT_FLOW", "clip": "flow_0901_06_smart_analysis.mp4" },
+    { "start": 44.54, "end": 47.51, "layout": "OUTRO_FLOW", "clip": "flow_0901_03_investor_checklist.mp4" }
+  ],
+  "captions": [
+    { "start": 0.00, "end": 2.70, "line1": { "text": "GOLD AT RS 1.5 LAKH?", "color": [255, 215, 0] }, "line2": { "text": "ALL-TIME HIGH RECORD!", "color": [255, 255, 255] } },
+    { "start": 2.70, "end": 5.10, "line1": { "text": "LEKIN KYA GOLD", "color": [255, 255, 255] }, "line2": { "text": "ACTUALLY ITNA STRONG HUA?", "color": [255, 215, 0] } },
+    { "start": 5.10, "end": 7.14, "line1": { "text": "YA PROBLEM GOLD MEIN NAHI...", "color": [255, 255, 255] }, "line2": { "text": "RUPEE MEIN HAI?", "color": [255, 215, 0] } },
+    { "start": 7.14, "end": 10.00, "line1": { "text": "MAAN LO GLOBAL GOLD PRICE", "color": [255, 255, 255] }, "line2": { "text": "BILKUL SAME HAI ($)", "color": [255, 215, 0] } },
+    { "start": 10.00, "end": 15.02, "line1": { "text": "LEKIN AGAR DOLLAR MEHENGA HO JAAYE", "color": [255, 255, 255] }, "line2": { "text": "INDIA KO ZYADA RUPEES DENE PADENGE!", "color": [255, 215, 0] } },
+    { "start": 15.02, "end": 19.30, "line1": { "text": "ACTUALLY DONO CHEEZEIN MATTER KARTI HAIN", "color": [255, 255, 255] }, "line2": { "text": "GLOBAL GOLD + USD/INR FOREX", "color": [255, 215, 0] } },
+    { "start": 19.30, "end": 23.50, "line1": { "text": "RUPEE WEAK HONE PAR BHI", "color": [255, 255, 255] }, "line2": { "text": "GOLD MEHENGA HO JAATA HAI!", "color": [255, 215, 0] } },
+    { "start": 23.50, "end": 27.20, "line1": { "text": "KABHI SIRF RUPEE WEAK HOTA HAI...", "color": [255, 215, 0] }, "line2": { "text": "AUR GOLD PRICE SAME HOTA HAI", "color": [255, 255, 255] } },
+    { "start": 27.20, "end": 30.18, "line1": { "text": "AUR JAB DONO SAATH MEIN MOVE KAREIN", "color": [255, 255, 255] }, "line2": { "text": "INDIA MEIN SUPER SPIKE AATA HAI!", "color": [255, 215, 0] } },
+    { "start": 30.18, "end": 34.00, "line1": { "text": "ISLIYE GOLD RATE DEKHTE WAQT", "color": [255, 255, 255] }, "line2": { "text": "SIRF GOLD KO MAT DEKHO!", "color": [255, 215, 0] } },
+    { "start": 34.00, "end": 38.02, "line1": { "text": "GLOBAL GOLD ($) KE SAATH", "color": [255, 255, 255] }, "line2": { "text": "USD/INR RATE BHI CHECK KARO!", "color": [255, 215, 0] } },
+    { "start": 38.02, "end": 41.90, "line1": { "text": "NEXT TIME GOLD RATE JUMP KARE", "color": [255, 255, 255] }, "line2": { "text": "CHECK: GOLD MOVED YA RUPEE WEAK?", "color": [255, 215, 0] } },
+    { "start": 41.90, "end": 44.54, "line1": { "text": "YA DONO HI HUA HAI?", "color": [255, 215, 0] }, "line2": { "text": "SMART INVESTOR ANALYSIS!", "color": [255, 255, 255] } },
+    { "start": 44.54, "end": 47.51, "line1": { "text": "MARKET CONCEPTS IN SIMPLE HINDI", "color": [255, 255, 255] }, "line2": { "text": "FOLLOW PROFIT BRICKS!", "color": [255, 215, 0] } }
+  ],
+  "outro": {
+    "title": "FOREX AUTOMATION & TRADING",
+    "subtitle": "Master Market Economics in Simple Hindi"
+  }
+}
