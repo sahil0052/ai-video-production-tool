@@ -144,6 +144,22 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--loudness-range", type=float, default=DEFAULT_LOUDNESS_RANGE)
     parser.add_argument("--true-peak", type=float, default=DEFAULT_TRUE_PEAK)
     parser.add_argument(
+        "--ambient-bed", type=Path, default=None,
+        help="Optional paper/vinyl ambience loop, mixed under dialogue at --ambient-gain-db.",
+    )
+    parser.add_argument("--ambient-gain-db", type=float, default=-26.0, help="Ambient bed gain, dBFS.")
+    parser.add_argument(
+        "--transition-sfx", type=Path, default=None,
+        help="Optional whoosh/stinger SFX, placed at every shot boundary and led --j-cut-lead-ms ahead of the cut.",
+    )
+    parser.add_argument("--transition-sfx-gain-db", type=float, default=-10.0)
+    parser.add_argument("--j-cut-lead-ms", type=int, default=150, help="How far SFX leads each visual cut, per the J-cut brief.")
+    parser.add_argument(
+        "--outro-bell", type=Path, default=None,
+        help="Optional resolution bell/chime played at the start of the OUTRO_FLOW shot.",
+    )
+    parser.add_argument("--outro-bell-gain-db", type=float, default=-6.0)
+    parser.add_argument(
         "--duration-tolerance",
         type=float,
         default=0.15,
@@ -336,22 +352,132 @@ def apply_pattern_interrupt(frame: Image.Image, progress: float, max_scale: floa
 # ---------------------------------------------------------------------------
 
 
-def render(args: argparse.Namespace, config: RenderConfig, preflight_report: dict[str, Any]) -> dict[str, Any]:
-    work_dir = args.output.parent
-    work_dir.mkdir(parents=True, exist_ok=True)
-    temp_video = work_dir / f"{args.output.stem}_video_only.mp4"
-    norm_audio = work_dir / f"{args.output.stem}_norm_audio.wav"
+def shot_boundary_times(config: RenderConfig) -> list[float]:
+    """Every internal cut point in the timeline (excludes t=0 and the final end)."""
+    return [round(shot.start, 3) for shot in config.timeline[1:]]
 
-    print(f"Normalizing audio to {args.loudness_target} LUFS (TP {args.true_peak})...")
+
+def outro_start_time(config: RenderConfig) -> float | None:
+    outro = next((s for s in config.timeline if s.layout == "OUTRO_FLOW"), None)
+    return outro.start if outro else None
+
+
+def mix_four_track_audio(
+    args: argparse.Namespace,
+    config: RenderConfig,
+    work_dir: Path,
+) -> Path:
+    """Build the 4-layer audio grammar the brief calls for:
+
+      1. Voiceover  - normalized to --loudness-target LUFS / --true-peak dBTP.
+      2. Ambient bed - looped under the voiceover at --ambient-gain-db (~-26dB).
+      3. Transition SFX - one instance per shot boundary, each led
+         --j-cut-lead-ms ahead of its cut (J-cut: audio arrives before the
+         picture changes).
+      4. Outro bell - a single resolution chime at the OUTRO_FLOW shot's
+         start time.
+
+    Every optional track is skipped cleanly (with a printed note) when its
+    file argument is not provided, so this always degrades to a valid
+    voiceover-only mix rather than failing.
+    """
+    voiceover = work_dir / f"{args.output.stem}_voiceover.wav"
+    print(f"Normalizing voiceover to {args.loudness_target} LUFS (TP {args.true_peak})...")
     subprocess.run(
         [
             FFMPEG, "-y", "-i", str(args.source),
             "-af", f"loudnorm=I={args.loudness_target}:LRA={args.loudness_range}:TP={args.true_peak}",
             "-ar", "44100", "-ac", "2",
-            str(norm_audio),
+            str(voiceover),
         ],
         check=True,
     )
+
+    total_duration = config.timeline[-1].end
+    inputs: list[str] = ["-i", str(voiceover)]
+    filter_labels: list[str] = ["[0:a]anull[a0]"]
+    next_input_index = 1
+
+    if args.ambient_bed and args.ambient_bed.is_file():
+        inputs += ["-stream_loop", "-1", "-i", str(args.ambient_bed)]
+        filter_labels.append(
+            f"[{next_input_index}:a]atrim=0:{total_duration},volume={args.ambient_gain_db}dB[a{next_input_index}]"
+        )
+        next_input_index += 1
+    else:
+        print("No --ambient-bed supplied; skipping ambient layer.")
+
+    sfx_delay_labels: list[str] = []
+    if args.transition_sfx and args.transition_sfx.is_file():
+        for boundary in shot_boundary_times(config):
+            lead_s = max(0.0, boundary - args.j_cut_lead_ms / 1000)
+            inputs += ["-i", str(args.transition_sfx)]
+            label = f"a{next_input_index}"
+            filter_labels.append(
+                f"[{next_input_index}:a]volume={args.transition_sfx_gain_db}dB,"
+                f"adelay=delays={int(lead_s * 1000)}:all=1[{label}]"
+            )
+            sfx_delay_labels.append(label)
+            next_input_index += 1
+    else:
+        print("No --transition-sfx supplied; skipping SFX layer.")
+
+    if args.outro_bell and args.outro_bell.is_file():
+        bell_start = outro_start_time(config)
+        if bell_start is not None:
+            inputs += ["-i", str(args.outro_bell)]
+            label = f"a{next_input_index}"
+            filter_labels.append(
+                f"[{next_input_index}:a]volume={args.outro_bell_gain_db}dB,"
+                f"adelay=delays={int(bell_start * 1000)}:all=1[{label}]"
+            )
+            sfx_delay_labels.append(label)
+            next_input_index += 1
+    else:
+        print("No --outro-bell supplied; skipping outro bell layer.")
+
+    mix_labels = ["a0"] + (["a1"] if args.ambient_bed and args.ambient_bed.is_file() else []) + sfx_delay_labels
+    mix_inputs = "".join(f"[{label}]" for label in mix_labels)
+    filter_complex = ";".join(filter_labels) + f";{mix_inputs}amix=inputs={len(mix_labels)}:normalize=0[mixed]"
+
+    mixed_audio = work_dir / f"{args.output.stem}_mixed_audio.wav"
+    print(f"Mixing {len(mix_labels)} audio track(s): voiceover + "
+          f"{'ambient ' if args.ambient_bed and args.ambient_bed.is_file() else ''}"
+          f"{'sfx ' if sfx_delay_labels and args.transition_sfx else ''}"
+          f"{'bell' if args.outro_bell and args.outro_bell.is_file() else ''}...")
+    subprocess.run(
+        [
+            FFMPEG, "-y", *inputs,
+            "-filter_complex", filter_complex,
+            "-map", "[mixed]",
+            "-t", str(total_duration),
+            "-ar", "44100", "-ac", "2",
+            str(mixed_audio),
+        ],
+        check=True,
+    )
+
+    # Re-normalize the *mixed* bus (not just the isolated voiceover) so
+    # adding ambient/SFX/bell layers can't silently push the final output
+    # off the loudness target that the standalone voiceover pass hit.
+    final_audio = work_dir / f"{args.output.stem}_final_audio.wav"
+    subprocess.run(
+        [
+            FFMPEG, "-y", "-i", str(mixed_audio),
+            "-af", f"loudnorm=I={args.loudness_target}:LRA={args.loudness_range}:TP={args.true_peak}",
+            "-ar", "44100", "-ac", "2",
+            str(final_audio),
+        ],
+        check=True,
+    )
+    return final_audio
+
+
+def render(args: argparse.Namespace, config: RenderConfig, preflight_report: dict[str, Any]) -> dict[str, Any]:
+    work_dir = args.output.parent
+    work_dir.mkdir(parents=True, exist_ok=True)
+    temp_video = work_dir / f"{args.output.stem}_video_only.mp4"
+    norm_audio = mix_four_track_audio(args, config, work_dir)
 
     font_sub_l1 = resolve_font(args.font_dir, 46, bold=True)
     font_sub_l2 = resolve_font(args.font_dir, 46, bold=True)
@@ -496,6 +622,37 @@ def render(args: argparse.Namespace, config: RenderConfig, preflight_report: dic
 # ---------------------------------------------------------------------------
 
 
+def measure_output_loudness(output: Path) -> dict[str, float] | None:
+    """Re-measure the FINAL muxed output's loudness with ffmpeg's loudnorm
+    single-pass analyzer, instead of trusting the pre-mux normalization
+    pass. This is what actually catches a 4-track mix that drifted off
+    target after ambient/SFX/bell layers were added.
+    """
+    proc = subprocess.run(
+        [
+            FFMPEG, "-i", str(output),
+            "-af", "loudnorm=I=-14:LRA=7:TP=-1:print_format=json",
+            "-f", "null", "-",
+        ],
+        capture_output=True,
+        text=True,
+    )
+    stderr = proc.stderr
+    json_start = stderr.rfind("{")
+    json_end = stderr.rfind("}")
+    if json_start == -1 or json_end == -1:
+        return None
+    try:
+        stats = json.loads(stderr[json_start : json_end + 1])
+        return {
+            "input_i": float(stats["input_i"]),
+            "input_tp": float(stats["input_tp"]),
+            "input_lra": float(stats["input_lra"]),
+        }
+    except (KeyError, ValueError):
+        return None
+
+
 def run_qc(args: argparse.Namespace, config: RenderConfig, render_stats: dict[str, Any]) -> dict[str, Any]:
     qc: dict[str, Any] = {"gates": {}, "render_stats": render_stats}
 
@@ -516,6 +673,15 @@ def run_qc(args: argparse.Namespace, config: RenderConfig, render_stats: dict[st
 
     max_gap = render_stats.get("max_interrupt_gap_s")
     qc["gates"]["pattern_interrupt_cadence_ok"] = max_gap is None or max_gap <= args.interrupt_interval * 1.2
+
+    loudness = measure_output_loudness(args.output)
+    if loudness is not None:
+        qc.setdefault("measured", {})["audio"] = loudness
+        qc["gates"]["loudness_within_1lu_of_target"] = abs(loudness["input_i"] - args.loudness_target) <= 1.0
+        qc["gates"]["true_peak_within_target"] = loudness["input_tp"] <= args.true_peak + 0.5
+    else:
+        qc["gates"]["loudness_within_1lu_of_target"] = False
+        qc["gates"]["true_peak_within_target"] = False
 
     args.qc_report.parent.mkdir(parents=True, exist_ok=True)
     args.qc_report.write_text(json.dumps(qc, indent=2), encoding="utf-8")

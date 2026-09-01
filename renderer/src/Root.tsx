@@ -1,6 +1,7 @@
 import "./index.css";
 import { TechStoryComposition } from "./Composition";
 import { ProductionTechStoryComposition } from "./ProductionComposition";
+import { MasterV4Composition } from "./MasterV4Composition";
 import { ReferenceFixtureCompositions } from "./ReferenceFixtures";
 import { BankRunMasterComposition } from "./BankRunMasterComposition";
 import { Vox3DMotionGraphicsTopHalfComposition } from "./Vox3DMotionGraphicsComposition";
@@ -13,6 +14,7 @@ export const RemotionRoot: React.FC = () => {
     <>
       <TechStoryComposition />
       <ProductionTechStoryComposition />
+      <MasterV4Composition />
       <ReferenceFixtureCompositions />
       <VoxDioramaTopHalfComposition />
       <Vox0826TopHalfComposition />
